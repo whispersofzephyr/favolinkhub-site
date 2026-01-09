@@ -2,6 +2,10 @@ site_name: Favo's and Maya's Referrals
 
 theme:
   name: material
+  palette:
+    - scheme: default
+      primary: blue grey
+      accent: amber
 
 nav:
   - Personal Bank Accounts: personal-bank.md
