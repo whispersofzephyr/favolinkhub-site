@@ -1,0 +1,26 @@
+/* ===== 左侧导航（金融风格增强） ===== */
+
+/* 当前页面（最重要） */
+.md-nav__link--active {
+  font-weight: 600;
+  color: #ffb300;            /* amber */
+  border-left: 3px solid #ffb300;
+  padding-left: 8px;
+}
+
+/* 一级分类标题 */
+.md-nav__title {
+  font-weight: 600;
+  font-size: 0.9rem;
+  color: #37474f;            /* blue-grey 深 */
+}
+
+/* 普通导航项 */
+.md-nav__link {
+  font-size: 0.9rem;
+}
+
+/* hover 反馈 */
+.md-nav__link:hover {
+  color: #ffb300;
+}
