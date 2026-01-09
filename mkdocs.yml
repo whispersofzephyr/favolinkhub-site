@@ -1,17 +1,17 @@
-site_name: Favo Referral Index
+site_name: Favo's and Maya's Referrals
 
 theme:
   name: material
-  features:
-    - navigation.tabs
-    - navigation.top
-    - toc.integrate
 
 nav:
-  - Home: index.md
-  - Personal Bank Bonus: personal-bank.md
+  - Personal Bank Accounts: personal-bank.md
+  - Business Bank Accounts: business-bank.md
   - Brokerage: brokerage.md
   - Crypto: crypto.md
+  - Personal Credit Cards: personal-credit-cards.md
+  - Business Credit Cards: business-credit-cards.md
+  - Shopping Portals: shopping-portals.md
+  - Money Tools: money-tools.md
 
 markdown_extensions:
   - toc:
