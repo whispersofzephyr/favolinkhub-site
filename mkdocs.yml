@@ -5,7 +5,6 @@ theme:
   features:
     - navigation.tabs
     - navigation.tabs.sticky
-    - navigation.top
 
 nav:
   - Personal Bank Accounts: personal-bank.md
