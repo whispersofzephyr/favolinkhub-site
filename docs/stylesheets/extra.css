@@ -33,6 +33,12 @@
   letter-spacing: 0.2px;
 }
 
+/* ===== 顶部 Banner 图片 ===== */
+
+.md-header {
+  background: url("/assets/banner.jpg") center / cover no-repeat;
+}
+
 .md-header::before {
   content: "";
   position: absolute;
