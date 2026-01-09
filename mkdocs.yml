@@ -2,9 +2,6 @@ site_name: Favo's and Maya's Referrals
 
 theme:
   name: material
-  features:
-    - navigation.tabs
-    - navigation.tabs.sticky
 
 nav:
   - Personal Bank Accounts: personal-bank.md
