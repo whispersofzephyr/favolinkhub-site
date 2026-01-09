@@ -1,0 +1,18 @@
+site_name: Favo Referral Index
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.top
+    - toc.integrate
+
+nav:
+  - Home: index.md
+  - Personal Bank Bonus: personal-bank.md
+  - Brokerage: brokerage.md
+  - Crypto: crypto.md
+
+markdown_extensions:
+  - toc:
+      permalink: true
