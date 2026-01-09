@@ -24,3 +24,25 @@
 .md-nav__link:hover {
   color: #ffb300;
 }
+
+/* ===== 顶部标题字体 ===== */
+
+.md-header__title {
+  font-weight: 600;        /* 加粗 */
+  font-size: 1.05rem;     /* 默认偏小，这里略微放大 */
+  letter-spacing: 0.2px;
+}
+
+.md-header::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.35); /* 暗一点，字更清楚 */
+  z-index: 0;
+}
+
+.md-header__inner {
+  position: relative;
+  z-index: 1;
+}
+
