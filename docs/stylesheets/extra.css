@@ -208,7 +208,7 @@
 
 /* 副标题（你的那段话） */
 .md-header__title::after {
-  content: "Feel free to use our referral links.Questions? Email favo.bankbonuses@gmail.com · Updated 12/31/2025";
+  content: "Feel free to use our referral links. <br> Questions? Email favo.bankbonuses@gmail.com · <br> Updated 12/31/2025";
   font-size: 0.75rem;
   font-weight: 400;
   margin-top: 4px;
@@ -255,14 +255,15 @@
   display: none;
 }
 
-/* Header 副标题下移一点，和 site title 拉开距离 */
-.md-header__title .md-header__topic + .md-header__topic {
-  margin-top: 10px;   /* 可改成 8px / 10px，看你喜好 */
+/* Header 副标题：与 site title 拉开距离 */
+.md-header__ellipsis .md-header__topic + .md-header__topic {
+  margin-top: 6px;   /* 可改成 8px / 10px */
 }
 
-/* 允许 header 副标题自动换行 */
-.md-header__title .md-header__topic {
+/* Header 副标题允许换行 */
+.md-header__ellipsis .md-header__topic {
   white-space: normal;
   line-height: 1.35;
 }
+
 
