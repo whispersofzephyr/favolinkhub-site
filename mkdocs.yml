@@ -2,7 +2,7 @@ site_name: Favo & Maya's Referrals
 
 theme:
   name: material
-  custom_dir: docs/overrides
+  custom_dir: docs/overrides/partials/
   logo: assets/avatar.png
   favicon: assets/avatar.png
   palette:
