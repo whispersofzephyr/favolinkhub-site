@@ -272,6 +272,12 @@
   border-left: 1px solid rgba(0, 0, 0, 0.06);
 }
 
+/* 修复 TOC / anchor 被固定 header 遮挡的问题 */
+.md-content h2,
+.md-content h3 {
+  scroll-margin-top: 180px; /* 根据你 banner 高度微调 */
+}
+
 
 
 
