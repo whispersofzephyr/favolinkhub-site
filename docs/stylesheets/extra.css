@@ -255,3 +255,14 @@
   display: none;
 }
 
+/* Header 副标题下移一点，和 site title 拉开距离 */
+.md-header__title .md-header__topic + .md-header__topic {
+  margin-top: 6px;   /* 可改成 8px / 10px，看你喜好 */
+}
+
+/* 允许 header 副标题自动换行 */
+.md-header__title .md-header__topic {
+  white-space: normal;
+  line-height: 1.35;
+}
+
