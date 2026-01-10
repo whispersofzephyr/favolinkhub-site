@@ -232,7 +232,7 @@
 /* Site title（Favo & Maya's Referrals） */
 .md-header__title {
   margin-top: 6px;
-  margin-bottom: 14px; /* 和下面那行拉开一点 */
+  margin-bottom: 6px; /* 和下面那行拉开一点 */
 }
 
 /* 副标题（你那段说明文字） */
@@ -240,14 +240,14 @@
 .md-header__topic p,
 .md-header__topic span {
   display: block;
-  margin-top: 12px;
+  margin-top: 4px;
   line-height: 1.35;
   opacity: 0.95;
 }
 
 /* 如果副标题是一整行文本，给它一点呼吸空间 */
 .md-header__topic {
-  margin-bottom: 8px;
+  margin-bottom: 4px;
 }
 
 /* Header 中隐藏 page name，只保留 site name + 副标题 */
@@ -255,6 +255,24 @@
   display: none;
 }
 
+/* Force spacing between site name and site description in header */
+.md-header__title .md-header__ellipsis{
+  display: flex;
+  flex-direction: column;
+  gap: 6px;              /* 这里改成 8px / 10px 都行 */
+}
 
+/* 防止内部自带的 margin 干扰 */
+.md-header__title .md-header__topic{
+  margin: 0 !important;
+  padding: 0 !important;
+  line-height: 1.15;
+}
+
+/* 可选：让副标题更小一点、透明一点 */
+.md-header__title .md-header__topic:nth-child(2){
+  font-size: 0.78rem;
+  opacity: 0.9;
+}
 
 
