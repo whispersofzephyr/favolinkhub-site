@@ -208,7 +208,7 @@
 
 /* 副标题（你的那段话） */
 .md-header__title::after {
-  content: "Feel free to use our referral links. <br> Questions? Email favo.bankbonuses@gmail.com ·<br> Updated 12/31/2025";
+  content: "Feel free to use our referral links. Questions? Email favo.bankbonuses@gmail.com · Updated 01/10/2026";
   font-size: 0.75rem;
   font-weight: 400;
   margin-top: 4px;
@@ -232,7 +232,7 @@
 /* Site title（Favo & Maya's Referrals） */
 .md-header__title {
   margin-top: 6px;
-  margin-bottom: 6px; /* 和下面那行拉开一点 */
+  margin-bottom: 10px; /* 和下面那行拉开一点 */
 }
 
 /* 副标题（你那段说明文字） */
@@ -240,7 +240,7 @@
 .md-header__topic p,
 .md-header__topic span {
   display: block;
-  margin-top: 4px;
+  margin-top: 8px;
   line-height: 1.35;
   opacity: 0.95;
 }
@@ -255,15 +255,6 @@
   display: none;
 }
 
-/* Header 副标题：与 site title 拉开距离 */
-.md-header__ellipsis .md-header__topic + .md-header__topic {
-  margin-top: 12px;   /* 可改成 8px / 10px */
-}
 
-/* Header 副标题允许换行 */
-.md-header__ellipsis .md-header__topic {
-  white-space: normal;
-  line-height: 1.35;
-}
 
 
