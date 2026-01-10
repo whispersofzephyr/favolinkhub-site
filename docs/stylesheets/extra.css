@@ -250,4 +250,8 @@
   margin-bottom: 4px;
 }
 
+/* Header 中隐藏 page name，只保留 site name + 副标题 */
+.md-header__topic + .md-header__topic {
+  display: none;
+}
 
