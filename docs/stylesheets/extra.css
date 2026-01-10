@@ -1,99 +1,41 @@
 /* =======================
-   左侧导航（高亮更明显）
+   基础排版 & 可读性
    ======================= */
 
-/* 普通导航项 */
-.md-nav__link {
-  font-size: 0.9rem;
+.md-content p,
+.md-content li {
+  line-height: 1.65;
 }
 
-/* hover 反馈 */
-.md-nav__link:hover {
-  color: #ffb300;
+/* 链接样式 */
+.md-content a {
+  color: #1e88e5;
+  font-weight: 500;
+  text-decoration: underline;
 }
-
-/* 当前页面（只保留这一套 active 样式） */
-.md-nav__link--active {
-  font-weight: 600;
-  color: #ffb300;
-  border-left: 3px solid #ffb300;
-  padding-left: 8px;
-}
-
-/* 一级分类标题 */
-.md-nav__title {
-  font-weight: 600;
-  font-size: 0.9rem;
-  color: #37474f;
-}
-
 
 /* =======================
-   顶部 Banner（图片 + 遮罩 + 标题）
+   页面标题
    ======================= */
-
-.md-header {
-  background-image: url("/assets/banner.jpg");
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  min-height: 150px;
-  position: relative; /* 让 ::before 的 absolute 有参照 */
-}
-
-/* 自己加一个稳定的遮罩（提升字可读性） */
-.md-header::before {
-  content: "";
-  position: absolute;
-  inset: 0;
-  background: rgba(0, 0, 0, 0.35);
-  z-index: 0;
-}
-
-.md-header__inner {
-  position: relative;
-  z-index: 1;
-}
-
-/* 顶部标题（合并为一处） */
-.md-header__title {
-  font-weight: 700;
-  font-size: 1.25rem;
-  letter-spacing: 0.2px;
-  text-shadow: 0 2px 6px rgba(0,0,0,0.5);
-}
-
-/* ===============================
-   一级标题（页面级）
-   =============================== */
 
 .md-content h1 {
   font-weight: 700;
   font-size: 1.8rem;
-  letter-spacing: 0.3px;
-  color: #263238; /* 深蓝灰 */
-  margin-bottom: 1.5rem;
-  border-bottom: 3px solid #ffb300; /* amber 强锚点 */
+  color: #263238;
+  margin-bottom: 1.4rem;
+  border-bottom: 3px solid #ffb300;
   padding-bottom: 0.4rem;
 }
-
-/* ===============================
-   二级标题（每个银行）
-   =============================== */
 
 .md-content h2 {
   font-weight: 700;
   font-size: 1.25rem;
-  color: #1e88e5; /* Material 蓝 */
-  margin-top: 3rem;
+  color: #1e88e5;
+  margin-top: 2.8rem;
   margin-bottom: 1rem;
   padding-left: 0.6rem;
   border-left: 5px solid #1e88e5;
 }
-
-/* ===============================
-   三级标题（如 Bonus Tiers）
-   =============================== */
 
 .md-content h3 {
   font-weight: 600;
@@ -102,18 +44,9 @@
   margin-top: 1.5rem;
 }
 
-/* ===============================
-   内容块可读性增强
-   =============================== */
-
-.md-content p,
-.md-content li {
-  line-height: 1.65;
-}
-
-/* ===============================
-   分隔线（---）增强
-   =============================== */
+/* =======================
+   分隔线
+   ======================= */
 
 .md-content hr {
   border: none;
@@ -127,152 +60,29 @@
   margin: 2.5rem 0;
 }
 
-/* ===============================
-   Table of Contents 当前项更明显
-   =============================== */
+/* =======================
+   左侧导航（只做高亮）
+   ======================= */
 
-.md-nav__link--active {
-  font-weight: 600;
+.md-nav__link {
+  font-size: 0.9rem;
+}
+
+.md-nav__link:hover {
   color: #ffb300;
 }
 
-.md-nav__link--active::before {
-  width: 4px;
-  background-color: #ffb300;
-}
-.md-content a {
-  color: #1e88e5;
-  font-weight: 500;
-  text-decoration: underline;
+/* 当前页面 */
+.md-nav__link--active {
+  font-weight: 600;
+  color: #ffb300;
+  border-left: 3px solid #ffb300;
+  padding-left: 8px;
 }
 
-.home-hero {
-  background-image: url("../assets/banner.jpg");
-  background-size: cover;
-  background-position: center;
-  border-radius: 14px;
-  overflow: hidden;
-  margin-bottom: 1.2rem;
+/* 一级导航标题 */
+.md-nav__title {
+  font-weight: 600;
+  font-size: 0.9rem;
+  color: #37474f;
 }
-
-.home-hero::before {
-  content: "";
-  display: block;
-  background: rgba(0, 0, 0, 0.45);
-  padding: 2.2rem 1.6rem;
-}
-
-.home-hero-inner {
-  margin-top: -9999px;
-  padding: 2.2rem 1.6rem;
-  color: #fff;
-}
-
-.home-hero-title {
-  font-size: 2rem;
-  font-weight: 800;
-  margin-bottom: 0.6rem;
-  text-transform: uppercase;
-}
-
-.home-hero-text {
-  font-size: 0.95rem;
-  line-height: 1.5;
-  max-width: 760px;
-}
-
-.home-hero-email {
-  color: #ffecb3;
-  font-weight: 700;
-}
-
-.home-hero-updated {
-  font-size: 0.85rem;
-  opacity: 0.9;
-  margin-top: 0.4rem;
-}
-
-/* ===== Home hero banner (final) ===== */
-.md-typeset .home-hero{
-  display: block !important;
-  visibility: visible !important;
-  opacity: 1 !important;
-
-  position: relative !important;
-  z-index: 5 !important;
-
-  height: auto !important;
-  max-height: none !important;
-  overflow: visible !important;
-
-  margin: 0 0 18px 0 !important;
-  padding: 16px 16px !important;
-
-  border-radius: 12px;
-  border: 1px solid rgba(0,0,0,0.10);
-
-  background: rgba(96, 125, 139, 0.12);   /* blue-grey 轻背景 */
-  backdrop-filter: blur(2px);
-}
-
-.md-typeset .home-hero-inner{
-  display: grid;
-  grid-template-columns: 44px 1fr;
-  gap: 12px;
-  align-items: start;
-}
-
-.md-typeset .home-hero-inner::before{
-  content: "";
-  width: 44px;
-  height: 44px;
-  border-radius: 999px;
-  background-image: url("../assets/avatar.png");
-  background-size: cover;
-  background-position: center;
-  border: 1px solid rgba(0,0,0,0.18);
-}
-
-.md-typeset .home-hero-title{
-  grid-column: 2 / 3;
-  font-weight: 700;
-  font-size: 1.05rem;
-  margin-top: 2px;
-  margin-bottom: 6px;
-}
-
-.md-typeset .home-hero-text{
-  grid-column: 2 / 3;
-  font-size: 0.88rem;
-  line-height: 1.5;
-  color: rgba(0,0,0,0.78);
-}
-
-.md-typeset .home-hero-email{
-  font-weight: 700;
-  color: #1565c0; /* 更明显一点 */
-}
-
-.md-typeset .home-hero-updated{
-  grid-column: 2 / 3;
-  margin-top: 8px;
-  font-size: 0.78rem;
-  color: rgba(0,0,0,0.55);
-}
-
-/* Dark mode 适配 */
-[data-md-color-scheme="slate"] .md-typeset .home-hero{
-  background: rgba(255,255,255,0.06);
-  border: 1px solid rgba(255,255,255,0.12);
-}
-[data-md-color-scheme="slate"] .md-typeset .home-hero-text{
-  color: rgba(255,255,255,0.78);
-}
-[data-md-color-scheme="slate"] .md-typeset .home-hero-email{
-  color: #90caf9;
-}
-[data-md-color-scheme="slate"] .md-typeset .home-hero-updated{
-  color: rgba(255,255,255,0.55);
-}
-
-
