@@ -278,7 +278,13 @@
   scroll-margin-top: 280px; /* 根据你 banner 高度微调 */
 }
 
+html {
+  scroll-padding-top: 180px !important; /* 按你的header+banner实际高度调 */
+}
 
+.md-typeset :is(h1,h2,h3,h4,h5,h6)[id] {
+  scroll-margin-top: 180px !important;
+}
 
 
 
