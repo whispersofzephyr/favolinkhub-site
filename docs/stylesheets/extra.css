@@ -33,10 +33,17 @@
   letter-spacing: 0.2px;
 }
 
-/* ===== 顶部 Banner 图片 ===== */
-
+/* 顶部 banner 使用自定义图片 */
 .md-header {
-  background: url("/assets/banner.jpg") center / cover no-repeat;
+  background-image: url("/assets/banner.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+/* 干掉 Material 默认的灰色遮罩 */
+.md-header::before {
+  background: none;
 }
 
 .md-header::before {
