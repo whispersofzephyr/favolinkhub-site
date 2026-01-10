@@ -59,7 +59,7 @@ This account is also **excellent for meeting Direct Deposit requirements** for o
 **Apply:**  
 https://accounts.chase.com/business/share/2017630585
 
-### Bonus Tiers
+**Bonus Tiers**
 
 **$300 Bonus**
 - Deposit **$2,000+** within 30 days
