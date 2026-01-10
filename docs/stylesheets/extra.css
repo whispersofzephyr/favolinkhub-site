@@ -255,28 +255,29 @@
   display: none;
 }
 
-/* === 强制 header 标题两行间距：site name vs site description === */
+/* ===== Header title + description spacing control ===== */
 
-/* 目标：包住两行文字的容器 */
-.md-header__title .md-header__ellipsis,
-.md-header__title .md-header__ellipsis .md-header__topic {
-  margin: 0 !important;
-  padding: 0 !important;
-}
-
-/* 让“放两行的那层”变成纵向 flex，并用 gap 控间距 */
-.md-header__title .md-header__ellipsis {
+/* 让两行变成“竖排 + gap 控制间距” */
+.md-header__title .md-header__ellipsis{
   display: flex !important;
   flex-direction: column !important;
-  gap: 10px !important;   /* 你想更开就调大：12/14/16 */
+  align-items: flex-start !important;
+  gap: 12px !important;              /* ← 改这里：两行之间的距离 */
 }
 
-/* 可选：把第二行（description）做得更像副标题 */
-.md-header__title .md-header__ellipsis > .md-header__topic + .md-header__topic {
-  font-size: 0.78rem !important;
-  opacity: 0.92 !important;
-  line-height: 1.25 !important;
+/* 第一行（site name） */
+.md-header__title .md-header__topic:first-child .md-ellipsis{
+  line-height: 1.1 !important;
+  padding-top: 6px !important;      /* ← 改这里：整体往下 */
 }
+
+/* 第二行（description 那行） */
+.md-header__title .md-header__topic:last-child .md-ellipsis{
+  font-size: 0.78rem !important;
+  line-height: 1.15 !important;
+  opacity: 0.92 !important;
+}
+
 
 
 
