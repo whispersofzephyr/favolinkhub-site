@@ -3,8 +3,6 @@ site_name: Favo & Maya's Referrals
 theme:
   name: material
   custom_dir: overrides
-  features:
-    - announce.dismiss
   logo: assets/avatar.png
   favicon: assets/avatar.png
   palette:
