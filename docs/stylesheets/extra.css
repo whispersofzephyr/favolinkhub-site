@@ -260,17 +260,4 @@
   color: rgba(0,0,0,0.55);
 }
 
-/* Dark mode 适配 */
-[data-md-color-scheme="slate"] .md-typeset .home-hero{
-  background: rgba(255,255,255,0.06);
-  border: 1px solid rgba(255,255,255,0.12);
-}
-[data-md-color-scheme="slate"] .md-typeset .home-hero-text{
-  color: rgba(255,255,255,0.78);
-}
-[data-md-color-scheme="slate"] .md-typeset .home-hero-email{
-  color: #90caf9;
-}
-[data-md-color-scheme="slate"] .md-typeset .home-hero-updated{
-  color: rgba(255,255,255,0.55);
-}
+
