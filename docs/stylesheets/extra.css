@@ -255,28 +255,6 @@
   display: none;
 }
 
-/* ===== Header title + description spacing control ===== */
-
-/* 让两行变成“竖排 + gap 控制间距” */
-.md-header__title .md-header__ellipsis{
-  display: flex !important;
-  flex-direction: column !important;
-  align-items: flex-start !important;
-  gap: 2px !important;              /* ← 改这里：两行之间的距离 */
-}
-
-/* 第一行（site name） */
-.md-header__title .md-header__topic:first-child .md-ellipsis{
-  line-height: 1.1 !important;
-  padding-top: 6px !important;      /* ← 改这里：整体往下 */
-}
-
-/* 第二行（description 那行） */
-.md-header__title .md-header__topic:last-child .md-ellipsis{
-  font-size: 0.78rem !important;
-  line-height: 1.15 !important;
-  opacity: 0.92 !important;
-}
 
 
 
