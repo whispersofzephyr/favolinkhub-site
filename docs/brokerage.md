@@ -53,8 +53,6 @@ Signup with my referral link:
 
 Deposit $1,000 → Claim $100 in stock or ETF → Withdraw or reinvest anytime.
 
-[🔝 Back to Top](https://sites.google.com/view/favo123/)
-
 ---
 
 ## 💸 Moomoo — up to $1,000 in NVDA stock + 8.1% APY on $20,000 for 3 months + $25–$1,000 referral gift + 3% ACAT match on $20,000 (max $600)
@@ -143,10 +141,7 @@ This is currently one of the **highest-value brokerage promos available**. All o
 
 👉 **My referral link:** [j.moomoo.com/01nsnp](https://j.moomoo.com/01nsnp)
 
-[🔝 Back to Top](https://sites.google.com/view/favo123/)
-
 ---
 
 ## 💸 Webull — details to be added
 
-[🔝 Back to Top](https://sites.google.com/view/favo123/)
