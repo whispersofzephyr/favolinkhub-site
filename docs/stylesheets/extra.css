@@ -62,3 +62,82 @@
   letter-spacing: 0.2px;
   text-shadow: 0 2px 6px rgba(0,0,0,0.5);
 }
+
+/* ===============================
+   一级标题（页面级）
+   =============================== */
+
+.md-content h1 {
+  font-weight: 700;
+  font-size: 1.8rem;
+  letter-spacing: 0.3px;
+  color: #263238; /* 深蓝灰 */
+  margin-bottom: 1.5rem;
+  border-bottom: 3px solid #ffb300; /* amber 强锚点 */
+  padding-bottom: 0.4rem;
+}
+
+/* ===============================
+   二级标题（每个银行）
+   =============================== */
+
+.md-content h2 {
+  font-weight: 700;
+  font-size: 1.25rem;
+  color: #1e88e5; /* Material 蓝 */
+  margin-top: 3rem;
+  margin-bottom: 1rem;
+  padding-left: 0.6rem;
+  border-left: 5px solid #1e88e5;
+}
+
+/* ===============================
+   三级标题（如 Bonus Tiers）
+   =============================== */
+
+.md-content h3 {
+  font-weight: 600;
+  font-size: 1.05rem;
+  color: #37474f;
+  margin-top: 1.5rem;
+}
+
+/* ===============================
+   内容块可读性增强
+   =============================== */
+
+.md-content p,
+.md-content li {
+  line-height: 1.65;
+}
+
+/* ===============================
+   分隔线（---）增强
+   =============================== */
+
+.md-content hr {
+  border: none;
+  height: 2px;
+  background: linear-gradient(
+    to right,
+    transparent,
+    #cfd8dc,
+    transparent
+  );
+  margin: 2.5rem 0;
+}
+
+/* ===============================
+   Table of Contents 当前项更明显
+   =============================== */
+
+.md-nav__link--active {
+  font-weight: 600;
+  color: #ffb300;
+}
+
+.md-nav__link--active::before {
+  width: 4px;
+  background-color: #ffb300;
+}
+
