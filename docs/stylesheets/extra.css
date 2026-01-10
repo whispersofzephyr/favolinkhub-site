@@ -1,15 +1,6 @@
-/* =======================================================
-   左侧导航（主导航）
-   ======================================================= */
-
-/* 当前页面（active） */
-.md-nav__link--active {
-  font-weight: 600;
-  color: #ffb300;                 /* amber */
-  background: rgba(255, 179, 0, 0.12);
-  border-left: 4px solid #ffb300;
-  padding-left: 8px;
-}
+/* =======================
+   左侧导航（高亮更明显）
+   ======================= */
 
 /* 普通导航项 */
 .md-nav__link {
@@ -19,10 +10,17 @@
 /* hover 反馈 */
 .md-nav__link:hover {
   color: #ffb300;
-  background: rgba(255, 179, 0, 0.06);
 }
 
-/* 分类标题 */
+/* 当前页面（只保留这一套 active 样式） */
+.md-nav__link--active {
+  font-weight: 600;
+  color: #ffb300;
+  border-left: 3px solid #ffb300;
+  padding-left: 8px;
+}
+
+/* 一级分类标题 */
 .md-nav__title {
   font-weight: 600;
   font-size: 0.9rem;
@@ -30,23 +28,9 @@
 }
 
 
-/* =======================================================
-   页面内 TOC（右侧）
-   ======================================================= */
-
-.md-nav--secondary {
-  font-size: 0.85rem;
-}
-
-.md-nav--secondary .md-nav__link--active {
-  font-weight: 500;
-  color: #ffb300;
-}
-
-
-/* =======================================================
-   顶部 Banner / Header
-   ======================================================= */
+/* =======================
+   顶部 Banner（图片 + 遮罩 + 标题）
+   ======================= */
 
 .md-header {
   background-image: url("/assets/banner.jpg");
@@ -54,10 +38,10 @@
   background-position: center;
   background-repeat: no-repeat;
   min-height: 150px;
-  position: relative;
+  position: relative; /* 让 ::before 的 absolute 有参照 */
 }
 
-/* Banner 暗层（保证文字可读） */
+/* 自己加一个稳定的遮罩（提升字可读性） */
 .md-header::before {
   content: "";
   position: absolute;
@@ -66,34 +50,15 @@
   z-index: 0;
 }
 
-/* Header 内容层 */
 .md-header__inner {
   position: relative;
   z-index: 1;
 }
 
-/* 顶部标题 */
+/* 顶部标题（合并为一处） */
 .md-header__title {
   font-weight: 700;
   font-size: 1.25rem;
   letter-spacing: 0.2px;
   text-shadow: 0 2px 6px rgba(0,0,0,0.5);
-}
-
-
-/* =======================================================
-   正文阅读优化
-   ======================================================= */
-
-.md-content {
-  font-size: 0.95rem;
-  line-height: 1.65;
-}
-
-.md-content h2 {
-  margin-top: 2rem;
-}
-
-.md-content h3 {
-  margin-top: 1.4rem;
 }
