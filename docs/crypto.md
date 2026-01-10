@@ -1,7 +1,5 @@
 # ⬇️ Crypto ⬇️
 
-[🔝 Back to Top](https://sites.google.com/view/favo123/)
-
 ## 🪙 Kraken $75 - $150 Referral + Capital One Shopping $250 or Rakuten $50–$150
 
 A very strong stack is available right now: combine **Kraken’s tiered referral bonus ($75–$150 BTC)** with either **Capital One Shopping’s targeted $250 offer** or **Rakuten’s $50–$150 offer**.
@@ -129,8 +127,6 @@ Some users will see a **Spin to Win** button in the app.
 
 ✅ **Kraken tiered referral code:** **tbpp3gdg**
 
-[🔝 Back to Top](https://sites.google.com/view/favo123/)
-
 ## 🎁 OKX: $150 Referral + $50 Gift (Limited Offer) + $250 deposit match + 5% APY
 _US users only, excluding NY, TX, AS, GU, MP, VI • Expires 12/9/25_
 
@@ -178,8 +174,6 @@ I also have a limited number of **$50 USDG gift links/codes**.
 Email: [favo.bankbonuses@gmail.com](mailto:favo.bankbonuses@gmail.com)  
 Subject: **OKX $50 Gift**
 
-[🔝 Back to Top](https://sites.google.com/view/favo123/)
-
 ## 🪙 eToro — $40 Referral Bonus
 
 Referral link: [etoro.tw/4qoJGcA](https://etoro.tw/4qoJGcA)
@@ -193,8 +187,5 @@ Referral link: [etoro.tw/4qoJGcA](https://etoro.tw/4qoJGcA)
 
 **Terms:** [PDF – eToro USA LLC Refer-a-Friend T&Cs](https://marketing.etorostatic.com/lp/raf/Terms/etoro_USA_LLC_refer_a_friend_terms_and_conditions.pdf)
 
-[🔝 Back to Top](https://sites.google.com/view/favo123/)
+## 🪙 Gemini — TBD
 
-## 🪙 gEMINI — TBD
-
-[🔝 Back to Top](https://sites.google.com/view/favo123/)
