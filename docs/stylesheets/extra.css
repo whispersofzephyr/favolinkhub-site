@@ -240,14 +240,14 @@
 .md-header__topic p,
 .md-header__topic span {
   display: block;
-  margin-top: 8px;
+  margin-top: 12px;
   line-height: 1.35;
   opacity: 0.95;
 }
 
 /* 如果副标题是一整行文本，给它一点呼吸空间 */
 .md-header__topic {
-  margin-bottom: 4px;
+  margin-bottom: 8px;
 }
 
 /* Header 中隐藏 page name，只保留 site name + 副标题 */
