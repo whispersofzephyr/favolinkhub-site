@@ -192,3 +192,26 @@
   margin-top: 0.4rem;
 }
 
+/* FORCE show Material announcement banner (debug) */
+.md-banner,
+.md-banner__inner,
+.md-banner__content {
+  display: block !important;
+  visibility: visible !important;
+  opacity: 1 !important;
+  height: auto !important;
+  max-height: none !important;
+  overflow: visible !important;
+  transform: none !important;
+}
+
+.md-banner {
+  position: relative !important;
+  z-index: 9999 !important;
+}
+
+.md-header,
+.md-header__inner {
+  transform: none !important;
+}
+
