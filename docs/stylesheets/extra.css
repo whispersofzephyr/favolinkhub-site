@@ -274,11 +274,11 @@
 
 /* 修复 TOC / anchor 被固定 header 遮挡的问题 */
 html {
-  scroll-padding-top: 90px !important; /* 按你的header+banner实际高度调 */
+  scroll-padding-top: 80px !important; /* 按你的header+banner实际高度调 */
 }
 
 .md-typeset :is(h1,h2,h3,h4,h5,h6)[id] {
-  scroll-margin-top: 90px !important;
+  scroll-margin-top: 80px !important;
 }
 
 
