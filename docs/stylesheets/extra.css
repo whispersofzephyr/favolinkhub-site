@@ -336,5 +336,29 @@ html {
   }
 }
 
+@media (max-width: 768px){
+
+  /* 抽屉顶部那条（站点名 + table of contents）强制可见 */
+  nav header, nav header * ,
+  nav [role="banner"], nav [role="banner"] * ,
+  .drawer-header, .drawer-header * ,
+  .sidebar-header, .sidebar-header * {
+    visibility: visible !important;
+    opacity: 1 !important;
+
+    /* 防止被 text-fill 之类弄成透明 */
+    color: #202124 !important;
+    -webkit-text-fill-color: #202124 !important;
+  }
+
+  /* 如果是被层级盖住：把它抬到最上 */
+  nav header,
+  nav [role="banner"],
+  .drawer-header,
+  .sidebar-header{
+    position: relative !important;
+    z-index: 9999 !important;
+  }
+}
 
 
