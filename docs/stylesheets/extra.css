@@ -220,5 +220,34 @@
   color: rgba(255, 255, 255, 0.75);
 }
 
+/* ===============================
+   Header 标题与副标题间距微调
+   =============================== */
+
+/* 整个 header 内部往下挪一点（不影响背景图） */
+.md-header__inner {
+  padding-top: 12px; /* 调大/调小都只改这一行 */
+}
+
+/* Site title（Favo & Maya's Referrals） */
+.md-header__title {
+  margin-top: 6px;
+  margin-bottom: 6px; /* 和下面那行拉开一点 */
+}
+
+/* 副标题（你那段说明文字） */
+.md-header__topic + .md-header__topic,
+.md-header__topic p,
+.md-header__topic span {
+  display: block;
+  margin-top: 4px;
+  line-height: 1.35;
+  opacity: 0.95;
+}
+
+/* 如果副标题是一整行文本，给它一点呼吸空间 */
+.md-header__topic {
+  margin-bottom: 4px;
+}
 
 
