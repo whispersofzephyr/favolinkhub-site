@@ -2,12 +2,14 @@ site_name: Favo & Maya's Referrals
 
 theme:
   name: material
+  custom_dir: overrides
   palette:
     - scheme: default
       primary: blue-grey
       accent: amber
 
 nav:
+  - Home: index.md
   - Personal Bank Accounts: personal-bank.md
   - Business Bank Accounts: business-bank.md
   - Brokerage: brokerage.md
@@ -24,7 +26,6 @@ markdown_extensions:
 extra_css:
   - stylesheets/extra.css
 
-theme:
-  name: material
-  custom_dir: overrides
+
+
 
