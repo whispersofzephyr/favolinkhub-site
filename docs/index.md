@@ -7,9 +7,10 @@ You’re welcome to use any of the referral links listed here. If you have quest
 We’re happy to help.
 
 ## How to use
-- Use the navigation on the left to browse different categories
-- Each page lists current bonuses with clear requirements
-- Details and tips are explained under each individual offer
+
+- **Left navigation**: different bonus categories (banks, brokerage, credit cards, etc.)
+- **Each page**: one category with multiple banks or offers
+- **Right-side table of contents**: jump to each bank’s bonus within the page
 
 ## Disclaimer
 Offers, terms, and availability can change at any time. Always verify the most up-to-date terms directly with the bank or service before applying.
