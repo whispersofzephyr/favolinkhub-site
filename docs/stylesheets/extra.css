@@ -275,7 +275,7 @@
 /* 修复 TOC / anchor 被固定 header 遮挡的问题 */
 .md-content h2,
 .md-content h3 {
-  scroll-margin-top: 180px; /* 根据你 banner 高度微调 */
+  scroll-margin-top: 280px; /* 根据你 banner 高度微调 */
 }
 
 
