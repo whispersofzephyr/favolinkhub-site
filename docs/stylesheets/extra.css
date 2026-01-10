@@ -192,51 +192,87 @@
   margin-top: 0.4rem;
 }
 
-/* FORCE show Material announcement banner (debug) */
-.md-banner,
-.md-banner__inner,
-.md-banner__content {
-  display: block !important;
-  visibility: visible !important;
-  opacity: 1 !important;
-  height: auto !important;
-  max-height: none !important;
-  overflow: visible !important;
-  transform: none !important;
-}
-
-.md-banner {
-  position: relative !important;
-  z-index: 9999 !important;
-}
-
-.md-header,
-.md-header__inner {
-  transform: none !important;
-}
-
-/* ===== FORCE SHOW home hero (debug) ===== */
+/* ===== Home hero banner (final) ===== */
 .md-typeset .home-hero{
   display: block !important;
   visibility: visible !important;
   opacity: 1 !important;
 
   position: relative !important;
-  z-index: 50 !important;
+  z-index: 5 !important;
 
   height: auto !important;
   max-height: none !important;
   overflow: visible !important;
 
-  margin: 0 0 16px 0 !important;
-  padding: 16px 18px !important;
+  margin: 0 0 18px 0 !important;
+  padding: 16px 16px !important;
 
-  background: #ffeb3b !important;   /* 先用纯黄，肉眼必能看到 */
-  color: #000 !important;
-  border: 2px solid #000 !important;
+  border-radius: 12px;
+  border: 1px solid rgba(0,0,0,0.10);
+
+  background: rgba(96, 125, 139, 0.12);   /* blue-grey 轻背景 */
+  backdrop-filter: blur(2px);
 }
 
-.md-typeset .home-hero *{
-  color: #000 !important;
+.md-typeset .home-hero-inner{
+  display: grid;
+  grid-template-columns: 44px 1fr;
+  gap: 12px;
+  align-items: start;
 }
+
+.md-typeset .home-hero-inner::before{
+  content: "";
+  width: 44px;
+  height: 44px;
+  border-radius: 999px;
+  background-image: url("../assets/avatar.png");
+  background-size: cover;
+  background-position: center;
+  border: 1px solid rgba(0,0,0,0.18);
+}
+
+.md-typeset .home-hero-title{
+  grid-column: 2 / 3;
+  font-weight: 700;
+  font-size: 1.05rem;
+  margin-top: 2px;
+  margin-bottom: 6px;
+}
+
+.md-typeset .home-hero-text{
+  grid-column: 2 / 3;
+  font-size: 0.88rem;
+  line-height: 1.5;
+  color: rgba(0,0,0,0.78);
+}
+
+.md-typeset .home-hero-email{
+  font-weight: 700;
+  color: #1565c0; /* 更明显一点 */
+}
+
+.md-typeset .home-hero-updated{
+  grid-column: 2 / 3;
+  margin-top: 8px;
+  font-size: 0.78rem;
+  color: rgba(0,0,0,0.55);
+}
+
+/* Dark mode 适配 */
+[data-md-color-scheme="slate"] .md-typeset .home-hero{
+  background: rgba(255,255,255,0.06);
+  border: 1px solid rgba(255,255,255,0.12);
+}
+[data-md-color-scheme="slate"] .md-typeset .home-hero-text{
+  color: rgba(255,255,255,0.78);
+}
+[data-md-color-scheme="slate"] .md-typeset .home-hero-email{
+  color: #90caf9;
+}
+[data-md-color-scheme="slate"] .md-typeset .home-hero-updated{
+  color: rgba(255,255,255,0.55);
+}
+
 
