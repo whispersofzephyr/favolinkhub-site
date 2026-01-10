@@ -1,19 +1,6 @@
-/* ===== 左侧导航（金融风格增强） ===== */
-
-/* 当前页面（最重要） */
-.md-nav__link--active {
-  font-weight: 600;
-  color: #ffb300;            /* amber */
-  border-left: 3px solid #ffb300;
-  padding-left: 8px;
-}
-
-/* 一级分类标题 */
-.md-nav__title {
-  font-weight: 600;
-  font-size: 0.9rem;
-  color: #37474f;            /* blue-grey 深 */
-}
+/* =======================
+   左侧导航（高亮更明显）
+   ======================= */
 
 /* 普通导航项 */
 .md-nav__link {
@@ -25,46 +12,41 @@
   color: #ffb300;
 }
 
-/* ===== 顶部标题字体 ===== */
-
-.md-header__title {
-  font-weight: 600;        /* 加粗 */
-  font-size: 1.05rem;     /* 默认偏小，这里略微放大 */
-  letter-spacing: 0.2px;
+/* 当前页面（只保留这一套 active 样式） */
+.md-nav__link--active {
+  font-weight: 600;
+  color: #ffb300;
+  border-left: 3px solid #ffb300;
+  padding-left: 8px;
 }
 
-/* 顶部 banner 使用自定义图片 */
+/* 一级分类标题 */
+.md-nav__title {
+  font-weight: 600;
+  font-size: 0.9rem;
+  color: #37474f;
+}
+
+
+/* =======================
+   顶部 Banner（图片 + 遮罩 + 标题）
+   ======================= */
+
 .md-header {
   background-image: url("/assets/banner.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-}
-
-/* 干掉 Material 默认的灰色遮罩 */
-.md-header::before {
-  background: none;
-}
-
-.md-header {
   min-height: 150px;
+  position: relative; /* 让 ::before 的 absolute 有参照 */
 }
 
-.md-header__title,
-.md-header__topic {
-  text-shadow: 0 2px 6px rgba(0,0,0,0.5);
-}
-
-.md-header__title {
-  font-weight: 700;
-  font-size: 1.25rem;
-}
-
+/* 自己加一个稳定的遮罩（提升字可读性） */
 .md-header::before {
   content: "";
   position: absolute;
   inset: 0;
-  background: rgba(0, 0, 0, 0.35); /* 暗一点，字更清楚 */
+  background: rgba(0, 0, 0, 0.35);
   z-index: 0;
 }
 
@@ -73,13 +55,10 @@
   z-index: 1;
 }
 
-.md-nav__item .md-nav__link--active {
-  font-weight: 600;
-  color: #1e88e5;
+/* 顶部标题（合并为一处） */
+.md-header__title {
+  font-weight: 700;
+  font-size: 1.25rem;
+  letter-spacing: 0.2px;
+  text-shadow: 0 2px 6px rgba(0,0,0,0.5);
 }
-
-.md-nav__item .md-nav__link--active::before {
-  width: 4px;
-  background-color: #1e88e5;
-}
-
