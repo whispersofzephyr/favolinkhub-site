@@ -7,7 +7,7 @@ theme:
   favicon: assets/avatar.png
   palette:
     - scheme: default
-      primary: blue grey
+      primary: blue-grey
       accent: amber
 
 nav:
