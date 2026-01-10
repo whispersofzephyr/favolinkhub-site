@@ -232,7 +232,7 @@
 /* Site title（Favo & Maya's Referrals） */
 .md-header__title {
   margin-top: 6px;
-  margin-bottom: 12px; /* 和下面那行拉开一点 */
+  margin-bottom: 6px; /* 和下面那行拉开一点 */
 }
 
 /* 副标题（你那段说明文字） */
@@ -247,7 +247,7 @@
 
 /* 如果副标题是一整行文本，给它一点呼吸空间 */
 .md-header__topic {
-  margin-bottom: 4px;
+  margin-bottom: 0px;
 }
 
 /* Header 中隐藏 page name，只保留 site name + 副标题 */
