@@ -215,3 +215,28 @@
   transform: none !important;
 }
 
+/* ===== FORCE SHOW home hero (debug) ===== */
+.md-typeset .home-hero{
+  display: block !important;
+  visibility: visible !important;
+  opacity: 1 !important;
+
+  position: relative !important;
+  z-index: 50 !important;
+
+  height: auto !important;
+  max-height: none !important;
+  overflow: visible !important;
+
+  margin: 0 0 16px 0 !important;
+  padding: 16px 18px !important;
+
+  background: #ffeb3b !important;   /* 先用纯黄，肉眼必能看到 */
+  color: #000 !important;
+  border: 2px solid #000 !important;
+}
+
+.md-typeset .home-hero *{
+  color: #000 !important;
+}
+
