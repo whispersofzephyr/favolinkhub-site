@@ -1,0 +1,12 @@
+{% extends "partials/header.html" %}
+
+{% block header_title %}
+<div style="display:flex; align-items:center; gap:12px;">
+  <img
+    src="{{ 'assets/avatar.png' | url }}"
+    alt="Avatar"
+    style="height:40px; width:40px; border-radius:50%;"
+  />
+  <span>{{ config.site_name }}</span>
+</div>
+{% endblock %}
