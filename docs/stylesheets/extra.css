@@ -259,7 +259,7 @@
 .md-header__title .md-header__ellipsis{
   display: flex;
   flex-direction: column;
-  gap: 6px;              /* 这里改成 8px / 10px 都行 */
+  gap: 12px;              /* 这里改成 8px / 10px 都行 */
 }
 
 /* 防止内部自带的 margin 干扰 */
