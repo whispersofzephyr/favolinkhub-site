@@ -255,6 +255,13 @@
   display: none;
 }
 
+@media (max-width: 600px) {
+  .md-header__title small,
+  .md-header__title .site-description {
+    display: none;
+  }
+}
+
 
 
 
