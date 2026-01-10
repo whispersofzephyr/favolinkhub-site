@@ -255,11 +255,21 @@
   display: none;
 }
 
-@media (max-width: 600px) {
-  .md-header__title small,
-  .md-header__title .site-description {
-    display: none;
-  }
+/* 固定顶部 header（banner） */
+.md-header {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+/* 左侧导航与正文分隔 */
+.md-sidebar--primary {
+  border-right: 1px solid rgba(0, 0, 0, 0.06);
+}
+
+/* 右侧 TOC 与正文分隔 */
+.md-sidebar--secondary {
+  border-left: 1px solid rgba(0, 0, 0, 0.06);
 }
 
 
