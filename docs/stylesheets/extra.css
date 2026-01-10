@@ -285,25 +285,26 @@ html {
   --header-h: 85px; /* 改这里：80/85/90 你自己定 */
 }
 
+:root{ --header-h: 85px; }
+
 @media (max-width: 768px){
 
-  /* 1) 把“抽屉面板”整体下移，避开固定header */
-  aside,
-  .drawer, .nav-drawer, .menu-drawer,
-  [role="dialog"],
-  [class*="drawer"],
-  [class*="sidebar"]{
-    top: var(--header-h) !important;
-    height: calc(100vh - var(--header-h)) !important;
+  /* 只影响“抽屉里面的可滚动内容区”，不碰外层容器 */
+  nav, .nav, .navigation, .menu, .drawer, .sidebar {
+    scroll-padding-top: var(--header-h);
   }
 
-  /* 2) 抽屉内部可滚动区域：确保能滚到最顶而不是被裁 */
-  aside *,
-  .drawer *, .nav-drawer *, .menu-drawer *,
-  [role="dialog"] *{
-    scroll-margin-top: var(--header-h);
+  /* 给抽屉里真正的列表区域留顶部空间（常见结构：nav ul / nav .content / nav .items） */
+  nav ul,
+  nav .content,
+  nav .items,
+  .drawer ul,
+  .sidebar ul{
+    padding-top: var(--header-h) !important;
+    box-sizing: border-box;
   }
 }
+
 
 
 
