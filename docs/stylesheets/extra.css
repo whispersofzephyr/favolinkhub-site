@@ -231,7 +231,7 @@
 
 /* Site title（Favo & Maya's Referrals） */
 .md-header__title {
-  margin-top: 6px;
+  margin-top: 12px;
   margin-bottom: 6px; /* 和下面那行拉开一点 */
 }
 
