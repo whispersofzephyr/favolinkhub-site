@@ -255,40 +255,7 @@
   display: none;
 }
 
-/* ===== Header: site name + site description (hide page title) ===== */
 
-/* 站名 + 描述改成竖排，并用 gap 控间距 */
-.md-header__title .md-header__ellipsis{
-  display: flex !important;
-  flex-direction: column !important;
-  align-items: flex-start !important;
-  gap: 8px !important;             /* 两行间距：改这里 */
-}
-
-/* 第一行：site name */
-.md-header__title .md-header__topic:first-child{
-  margin: 0 !important;
-}
-.md-header__title .md-header__topic:first-child .md-ellipsis{
-  line-height: 1.1 !important;
-  padding-top: 6px !important;     /* 整体往下：改这里 */
-}
-
-/* 第二行：site_description（允许换行） */
-.md-header__title .md-header__topic:last-child{
-  margin: 0 !important;
-}
-.md-header__title .md-header__topic:last-child .md-ellipsis{
-  font-size: 0.78rem !important;
-  line-height: 1.2 !important;
-  opacity: 0.92 !important;
-  white-space: pre-line !important; /* 支持 yml 里的多行 */
-}
-
-/* 隐藏“页面标题那行”（否则它会占用第二行位置） */
-.md-header__title .md-header__topic[data-md-component="header-topic"]{
-  display: none !important;
-}
 
 
 
