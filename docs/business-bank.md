@@ -16,12 +16,14 @@ Grasshopper is offering an **easy $200 bonus** when you open a new business chec
 - As of **12/2025**, referral terms **exclude sole proprietors**
 
 **Apply:**  
-https://www.grasshopper.bank/
+[https://www.grasshopper.bank/](https://www.grasshopper.bank/)
 
 **Referral Code:** `9c822d38047f`
 
 **Full terms:**  
+[Referral Program Terms & Conditions (PDF)](
 https://www.grasshopper.bank/wp-content/uploads/2025/04/Referral-Program-Terms-Conditions-.pdf
+)
 
 ---
 
@@ -46,7 +48,7 @@ https://www.grasshopper.bank/wp-content/uploads/2025/04/Referral-Program-Terms-C
 Swagbucks / MyPoints / Revenue Universe (use referral link)
 
 **Apply:**  
-https://onboarding.novo.co/signup?referral_code=ZhishanWang
+[Apply here](https://onboarding.novo.co/signup?referral_code=ZhishanWang)
 
 ---
 
@@ -57,7 +59,7 @@ New Chase business checking customers can earn up to **$500**.
 This account is also **excellent for meeting Direct Deposit requirements** for other bank bonuses.
 
 **Apply:**  
-https://accounts.chase.com/business/share/2017630585
+[Apply here](https://accounts.chase.com/business/share/2017630585)
 
 **Bonus Tiers**
 
@@ -95,4 +97,8 @@ https://accounts.chase.com/business/share/2017630585
 - Soft credit pull
 - Business email required (non-Gmail)
 - Website can be “not applicable”
-- External
+- External bank account with $25k+ balance required at application  
+  (balance may drop after approval)
+
+**Apply:**  
+[Apply here](https://ramp.com/?rc=9SKE6U&referral_location=referral_page)
