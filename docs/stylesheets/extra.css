@@ -208,7 +208,9 @@
 
 /* 副标题（你的那段话） */
 .md-header__title::after {
-  content: "Feel free to use our referral links. Questions? Email favo.bankbonuses@gmail.com · Updated 12/31/2025";
+  content: "Feel free to use our referral links. 
+Questions? Email favo.bankbonuses@gmail.com · 
+     Updated 12/31/2025";
   font-size: 0.75rem;
   font-weight: 400;
   margin-top: 4px;
@@ -247,7 +249,7 @@
 
 /* 如果副标题是一整行文本，给它一点呼吸空间 */
 .md-header__topic {
-  margin-bottom: 4px;
+  margin-bottom: 8px;
 }
 
 /* Header 中隐藏 page name，只保留 site name + 副标题 */
@@ -257,7 +259,7 @@
 
 /* Header 副标题下移一点，和 site title 拉开距离 */
 .md-header__title .md-header__topic + .md-header__topic {
-  margin-top: 6px;   /* 可改成 8px / 10px，看你喜好 */
+  margin-top: 12px;   /* 可改成 8px / 10px，看你喜好 */
 }
 
 /* 允许 header 副标题自动换行 */
