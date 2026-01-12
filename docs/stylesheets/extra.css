@@ -418,5 +418,56 @@ html {
   }
 }
 
+/* ===============================
+   HEADER: keep 2 lines (site name + subtitle)
+   Hide page name, fix mobile overlap
+   Paste at VERY BOTTOM to override
+   =============================== */
+
+/* 1) Hide page title (page name) in header */
+.md-header__topic {
+  display: none !important;
+}
+
+/* 2) Ensure site title is normal block */
+.md-header__title {
+  display: block !important;
+  line-height: 1.15 !important;
+  white-space: normal !important;
+}
+
+/* 3) Add subtitle as 2nd line (this is your old "second line") */
+.md-header__title::after {
+  content: "Feel free to use our referral links. Questions? Email contact@favolinkhub.com · Updated 01/10/2026";
+  display: block;
+  margin-top: 4px;
+  font-size: 0.75rem;
+  font-weight: 400;
+  line-height: 1.35;
+  color: rgba(255, 255, 255, 0.85);
+}
+
+[data-md-color-scheme="slate"] .md-header__title::after {
+  color: rgba(255, 255, 255, 0.75);
+}
+
+/* 4) Mobile: give it room so 2 lines never overlap */
+@media (max-width: 768px) {
+  .md-header {
+    min-height: 150px !important;
+  }
+
+  .md-header__inner {
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
+  }
+
+  .md-header__title::after {
+    font-size: 0.72rem !important;
+    margin-top: 6px !important;
+  }
+}
+
+
 }
 
