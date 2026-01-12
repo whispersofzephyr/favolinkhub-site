@@ -114,21 +114,6 @@ Maintain balance **180 days**.
 
 ---
 
-## 🏆 Patelco — $200 Referral Bonus
-**Expires:** 10/31/2025
-
-Apply: [Apply here](https://www.patelco.org/campaign/refer)  
-Referral code: **R8N4HTQL**
-
-### Requirements
-- $100: Checking + eStatements + $500 DD × 2 months
-- $50: Money Market
-- $50: RoundUp
-
-DP: Chex freeze may fail ID; thaw & retry works.
-
----
-
 ## 💳 FutureCard — $15 Bonus (No Chex / No Credit Check)
 
 Referral: [Sign up here](https://getfuturecard.com/7cf2deb8-7628-48bc-89df-3599fbf2af4e)
