@@ -27,7 +27,7 @@ Apply: [Apply here](https://us.hsbc.com/refer)
 
 ## 🎉 OnPath FCU — $150 Bonus
 
-Register first: [Register here: https://io.referlive.com/1YViHM](https://io.referlive.com/1YViHM)
+Register here first: [https://io.referlive.com/1YViHM](https://io.referlive.com/1YViHM)
 
 Requirements:
 - Open High Yield Checking (7% APY)
