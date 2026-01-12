@@ -1,6 +1,8 @@
 # Personal Bank Accounts – Geo-Restricted
 
-These accounts are limited by state, county, or region.
+These accounts are limited by state, county, or region.  
+If you are looking for accounts available nationwide, see:
+→ [Nationwide Personal Bank Accounts](../personal-bank-nationwide/)
 
 ## ⭐ CU of the Rockies — $50 / $100 Bonus (CO-only)
 
