@@ -25,39 +25,6 @@ Apply: [Apply here](https://us.hsbc.com/refer)
 
 ---
 
-## 💎 First Tech FCU — Up to $800 Bonus + $100 Referral (Stackable)
-
-Public promo info: [Promo details](https://www.firsttechfed.com/bank/first-tech-rewards)
-
-### 1) $300 direct deposit bonus
-- $5,000+/month DD
-- 1 DD/month for 3 months
-
-### 2) $300 balance growth bonus
-- $20,000+ new funds within 30 days
-- Maintain $20k+ average balance for 90 days (days 31–120)
-
-### 3) $200 debit spending bonus
-- 5% cash back, up to $200
-- $4,000 debit spend within 30 days  
-  (DPs: Cash App loads may work)
-
-### Ongoing: 3.00% APY on Rewards Savings
-- $1,000 debit/credit spend
-- $1,000 ACH to checking
-- Paperless statements
-
-### Stack with $100 referral — correct order
-Referral requirements:
-- Apply via referral link and open checking
-- $250 external deposit
-- Maintain $250 balance for 30 more days
-
-Referral link (use for checking):  
-[Apply via referral link](https://ft360.firsttechfed.com/ftfcu/servlet/SmartForm.html?formCode=checking-app&productId=74&campaignId=7198&promoCode=FT83542ZhishanW)
-
----
-
 ## 🏦 Municipal Credit Union (MCU) — Up to $350 + $25 Referral
 **Promo window:** 10/09/2025–12/31/2025
 
