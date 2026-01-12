@@ -97,3 +97,22 @@ Referral code: **R8N4HTQL**
 DP: Chex freeze may fail ID; thaw & retry works.
 
 ---
+
+# Personal Bank Accounts – Geo-Restricted
+
+These accounts are limited by state, county, or region.  
+If you are looking for accounts available nationwide, see:
+→ [Nationwide Personal Bank Accounts](../personal-bank-nationwide/)
+
+
+## 💰 Commerce Bank — Up to $700 Bonus + $200 Referral (CO-only)
+
+- Denver / Arapahoe / Jefferson Counties:  
+  [Promo page](https://www.commercebank.com/personal/2025/denverbonus)
+- Colorado targeted:  
+  [Promo page](https://www.commercebank.com/personal/2025/checkingbonus)
+
+Referral registration: [Register here](https://io.referlive.com/miDcq5)  
+(DPs: referral stacks.)
+
+---
