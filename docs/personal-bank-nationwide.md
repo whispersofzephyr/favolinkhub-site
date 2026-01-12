@@ -7,7 +7,7 @@ These accounts are available to most U.S. residents without geographic restricti
 
 Apply here: [https://us.hsbc.com/refer](https://us.hsbc.com/refer)  
 
-Referral code + referrer full name required at accout opening — email me at [contact@favolinkhub.com] (contact@favolinkhub.com)
+Referral code + referrer full name required at accout opening — email me at [contact@favolinkhub.com](contact@favolinkhub.com)
 
 ### Requirements
 
