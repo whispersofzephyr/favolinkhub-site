@@ -161,15 +161,6 @@ Money market referral; checking promos run separately at times.
 
 ---
 
-## 🟣 Chime via InboxDollars — $525 Bonus
-**Expires:** 02/28/2025
-
-1. Create InboxDollars account
-2. Find Chime $525 offer
-3. 2 × $200+ payroll DDs
-
----
-
 ## 🔷 Delta Community Credit Union — $50 Referral
 
 Apply: [Apply here](https://refer.deltacommunitycu.com/zhishanw-9)
