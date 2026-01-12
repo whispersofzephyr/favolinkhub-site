@@ -91,6 +91,20 @@ Notes: Chex used, no hard pull; $500 CC funding allowed; **privately insured**.
 
 ---
 
+## 💵 KeyPoint Credit Union — $300 Checking Bonus
+
+Apply: [Apply here](https://kpcu.com/About/Events/Refer-a-Friend) 
+
+Promo code: **RAF25**
+At account opening, provide promo code RAF25 and the name of the referring member.  
+Email me for my name: [contact@favolinkhub.com](contact@favolinkhub.com)
+
+- $1,000 monthly DD
+- 6 consecutive months
+- Pays $50 bonus/month x 6 months
+
+---
+
 ## 🎁 Ally — $100 Referral Bonus (Checking or Savings)
 **Expires:** 12/31/2026
 
@@ -141,19 +155,6 @@ Apply: [Apply here](https://www.pmcu.org/refer-a-friend/VFVJPQRVS/)
 Referral code: **VFVJPQRVS**
 
 Money market referral; checking promos run separately at times.
-
----
-
-## 💵 KeyPoint Credit Union — $300 Checking Bonus
-
-Apply: [Apply here](https://kpcu.com/About/Events/Refer-a-Friend)  
-Promo code: **RAF25**
-At account opening, provide promo code RAF25 and the name of the referring member.  
-Email me for my name:[contact@favolinkhub.com](contact@favolinkhub.com)
-
-- $1,000 monthly DD
-- 6 consecutive months
-- Pays $50 bonus/month x 6 months
 
 ---
 
