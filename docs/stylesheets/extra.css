@@ -192,25 +192,6 @@
   margin-top: 0.4rem;
 }
 
-/* ===== Header title + subtitle ===== */
-
-.md-header__title {
-  display: flex;
-  flex-direction: column;
-  line-height: 1.2;
-}
-
-/* 主标题 */
-.md-header__title span {
-  font-size: 1.25rem;
-  font-weight: 700;
-}
-
-/* 深色模式微调 */
-[data-md-color-scheme="slate"] .md-header__title::after {
-  color: rgba(255, 255, 255, 0.75);
-}
-
 /* ===============================
    Header 标题与副标题间距微调
    =============================== */
@@ -468,6 +449,56 @@ html {
   }
 }
 
+/* ===============================
+   FIX: Header two-line (site name + subtitle), hide page name
+   =============================== */
 
+/* 1) 隐藏 page name（第二个 topic） */
+.md-header__topic + .md-header__topic {
+  display: none !important;
 }
+
+/* 2) 让 site name（第一个 topic）变成两行：第二行用 ::after */
+.md-header__topic:first-child {
+  display: flex !important;
+  flex-direction: column !important;
+  line-height: 1.15 !important;
+  overflow: visible !important;
+  white-space: normal !important;
+}
+
+/* 第二行（subtitle） */
+.md-header__topic:first-child::after {
+  content: "Feel free to use our referral links. Questions? Email contact@favolinkhub.com · Updated 01/10/2026";
+  font-size: 0.75rem;
+  font-weight: 400;
+  margin-top: 4px;
+  color: rgba(255, 255, 255, 0.85);
+  opacity: 0.95;
+  white-space: normal;
+}
+
+/* 深色模式微调 */
+[data-md-color-scheme="slate"] .md-header__topic:first-child::after {
+  color: rgba(255, 255, 255, 0.75);
+}
+
+/* 3) 解决手机端重叠：给 header 足够高度 + 允许溢出显示 */
+.md-header__title,
+.md-header__ellipsis {
+  overflow: visible !important;
+}
+
+@media (max-width: 768px) {
+  .md-header {
+    min-height: 170px !important; /* 150 -> 170，不够再加 */
+  }
+  .md-header__inner {
+    padding-top: 12px !important;
+    padding-bottom: 12px !important;
+  }
+}
+
+
+
 
