@@ -12,7 +12,10 @@ theme:
 
 nav:
   - Home: index.md
-  - Personal Bank Accounts: personal-bank.md
+  - Personal Bank Accounts:
+    - Overview: personal-bank.md
+    - Nationwide: personal-bank-nationwide.md
+    - Geo-Restricted: personal-bank-geo.md
   - Business Bank Accounts: business-bank.md
   - Brokerage: brokerage.md
   - Crypto: crypto.md
