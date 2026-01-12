@@ -361,4 +361,28 @@ html {
   }
 }
 
+/* ===============================
+   FIX: Markdown 列表层级/缩进被压扁（nested list 变同级）
+   只影响正文区域，不影响侧边栏/TOC
+   =============================== */
+
+.md-content .md-typeset ul,
+.md-content .md-typeset ol {
+  padding-left: 1.25rem;
+  margin-left: 0;
+}
+
+.md-content .md-typeset ul ul,
+.md-content .md-typeset ul ol,
+.md-content .md-typeset ol ul,
+.md-content .md-typeset ol ol {
+  padding-left: 1.25rem;
+  margin-top: .25rem;
+  margin-bottom: .25rem;
+}
+
+/* 可选：让列表项里的段落更像 GitHub（避免怪异大间距） */
+.md-content .md-typeset li > p {
+  margin: 0.2em 0;
+}
 
