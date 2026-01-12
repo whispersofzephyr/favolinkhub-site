@@ -148,10 +148,11 @@ Money market referral; checking promos run separately at times.
 
 Apply: [Apply here](https://kpcu.com/About/Events/Refer-a-Friend)  
 Promo code: **RAF25**
+At account opening, provide promo code RAF25 and the name of the referring member. Email me for my name:[contact@favolinkhub.com](contact@favolinkhub.com)
 
 - $1,000 monthly DD
 - 6 consecutive months
-- Pays $50/month
+- Pays $50 bonus/month x 6 months
 
 ---
 
