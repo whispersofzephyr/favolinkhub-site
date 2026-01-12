@@ -92,11 +92,11 @@ Notes: Chex used, no hard pull; $500 CC funding allowed; **privately insured**.
 ---
 
 ## 💵 KeyPoint Credit Union — $300 Checking Bonus
-
+**Nationwide** • **Expires:** 03/31/2026
 Apply: [Apply here](https://kpcu.com/About/Events/Refer-a-Friend) 
 
-Promo code: **RAF25**
-At account opening, provide promo code RAF25 and the name of the referring member.  
+Promo code: **RAF26**
+At account opening, provide promo code RAF26 and the name of the referring member.  
 Email me for my name: [contact@favolinkhub.com](contact@favolinkhub.com)
 
 - $1,000 monthly DD
