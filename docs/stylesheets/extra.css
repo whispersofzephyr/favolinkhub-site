@@ -140,6 +140,7 @@
   width: 4px;
   background-color: #ffb300;
 }
+
 .md-content a {
   color: #1e88e5;
   font-weight: 500;
@@ -224,7 +225,6 @@
    Header 标题与副标题间距微调
    =============================== */
 
-/* 整个 header 内部往下挪一点（不影响背景图） */
 .md-header__inner {
   padding-top: 12px; /* 调大/调小都只改这一行 */
 }
@@ -287,14 +287,18 @@ html {
 
 :root{ --header-h: 85px; }
 
+
+/* ===============================
+   TEMP DISABLE — Mobile drawer hacks (3 blocks)
+   目的：先恢复 Material 默认的手机抽屉顶部（Home/站点名/返回入口）
+   ===============================
+
 @media (max-width: 768px){
 
-  /* 只影响“抽屉里面的可滚动内容区”，不碰外层容器 */
   nav, .nav, .navigation, .menu, .drawer, .sidebar {
     scroll-padding-top: var(--header-h);
   }
 
-  /* 给抽屉里真正的列表区域留顶部空间（常见结构：nav ul / nav .content / nav .items） */
   nav ul,
   nav .content,
   nav .items,
@@ -307,7 +311,6 @@ html {
 
 @media (max-width: 768px){
 
-  /* 1) 先别让抽屉顶部标题栏被压扁/隐藏 */
   .drawer-header,
   .sidebar-header,
   .menu-header,
@@ -323,7 +326,6 @@ html {
     overflow: visible !important;
   }
 
-  /* 2) 抽屉内容区继续保留你需要的下移（不要碰 header） */
   :root{ --mobile-drawer-top: 85px; }
 
   nav ul,
@@ -338,7 +340,6 @@ html {
 
 @media (max-width: 768px){
 
-  /* 抽屉顶部那条（站点名 + table of contents）强制可见 */
   nav header, nav header * ,
   nav [role="banner"], nav [role="banner"] * ,
   .drawer-header, .drawer-header * ,
@@ -346,12 +347,10 @@ html {
     visibility: visible !important;
     opacity: 1 !important;
 
-    /* 防止被 text-fill 之类弄成透明 */
     color: #202124 !important;
     -webkit-text-fill-color: #202124 !important;
   }
 
-  /* 如果是被层级盖住：把它抬到最上 */
   nav header,
   nav [role="banner"],
   .drawer-header,
@@ -360,6 +359,9 @@ html {
     z-index: 9999 !important;
   }
 }
+
+=============================== */
+
 
 /* ===============================
    FIX: Markdown 列表层级/缩进被压扁（nested list 变同级）
@@ -385,4 +387,3 @@ html {
 .md-content .md-typeset li > p {
   margin: 0.2em 0;
 }
-
