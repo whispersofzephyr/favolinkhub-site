@@ -375,3 +375,18 @@ html{
 
 }
 
+@media (max-width: 768px){
+  .md-banner{
+    position: static !important;
+    background: rgba(0,0,0,.35) !important;  /* 可删：只是让字更清楚 */
+  }
+
+  .md-header__ellipsis{
+    max-width: calc(100vw - 110px) !important;
+    white-space: normal !important;
+    line-height: 1.12 !important;
+  }
+}
+
+
+
