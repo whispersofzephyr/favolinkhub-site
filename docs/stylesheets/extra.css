@@ -330,5 +330,48 @@ html {
     content: "← ";
     opacity: .6;
   }
+
+   /* ===== Header height tuning ===== */
+:root{
+  --header-h-desktop: 90px;   /* 先沿用你现在验证有效的值 */
+  --header-h-mobile: 110px;   /* 手机端更高：你有两行文字 + 可能换行/重叠 */
+}
+
+/* ===== Fix anchor / TOC jump clipping ===== */
+html{
+  scroll-padding-top: var(--header-h-desktop) !important;
+}
+.md-typeset :is(h1,h2,h3,h4,h5,h6)[id]{
+  scroll-margin-top: var(--header-h-desktop) !important;
+}
+
+@media (max-width: 768px){
+  html{
+    scroll-padding-top: var(--header-h-mobile) !important;
+  }
+  .md-typeset :is(h1,h2,h3,h4,h5,h6)[id]{
+    scroll-margin-top: var(--header-h-mobile) !important;
+  }
+
+  /* ===== Push drawer content down under the header ===== */
+  .md-sidebar--primary .md-sidebar__scrollwrap,
+  .md-sidebar--secondary .md-sidebar__scrollwrap{
+    padding-top: var(--header-h-mobile) !important;
+  }
+}
+
+/* ===== Try to reduce header text overlap on mobile ===== */
+@media (max-width: 768px){
+  /* 这两个选择器是“尽力而为”，不同版本 Material 可能类名略有差异 */
+  .md-header__title,
+  .md-header__ellipsis{
+    line-height: 1.15 !important;
+  }
+  .md-header__topic{
+    display: block !important;
+    padding-top: 2px !important;
+  }
+}
+
 }
 
