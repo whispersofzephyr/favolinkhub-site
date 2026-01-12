@@ -46,7 +46,7 @@ Nationwide via $5 donation.
 
 ---
 
-## 💎 PSECU — $300 Bonus
+## 💎 PSECU — $300 Referral Bonus
 **Nationwide** • **Expires:** 12/31/2026
 
 Apply: [Apply here](https://refer.psecu.com/Zhishan)  
@@ -93,7 +93,7 @@ Notes: Chex used, no hard pull; $500 CC funding allowed; **privately insured**.
 
 ---
 
-## 💵 KeyPoint Credit Union — $300 Checking Bonus
+## 💵 KeyPoint Credit Union — $300 Referral Bonus
 **Nationwide** • **Expires:** 03/31/2026
 
 Apply: [Apply here](https://kpcu.com/About/Events/Refer-a-Friend) 
