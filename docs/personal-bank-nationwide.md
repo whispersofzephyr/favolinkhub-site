@@ -3,7 +3,7 @@
 These accounts are available to most U.S. residents without geographic restrictions.
 
 ## 🔔 HSBC Premier Checking — $1,500 or $2,500 Referral Bonus
-**Expires:** 06/30/2026 • **Nationwide**
+**Nationwide** • **Expires:** 06/30/2026 
 
 Apply: [Apply here](https://us.hsbc.com/refer)  
 (Referral code + referrer full name required — email me.)
@@ -28,7 +28,7 @@ Apply: [Apply here](https://us.hsbc.com/refer)
 
 ---
 
-## 🎉 OnPath FCU — $150 Bonus
+## 🎉 OnPath FCU — $150 Referral Bonus
 **Nationwide** • **No Expiration Date** 
 
 **Steps**
@@ -62,6 +62,7 @@ Bonus after ~100–145 days.
 ---
 
 ## ⭐ Varo Money — $100 Referral Bonus
+**Nationwide** • **No Expiration Date** 
 
 Referral: [Sign up here](https://varomoney.com/r1/?r=Zhishan)
 
@@ -108,7 +109,7 @@ Email me for my name: [contact@favolinkhub.com](contact@favolinkhub.com)
 ---
 
 ## 🎁 Ally — $100 Referral Bonus (Checking or Savings)
-**Expires:** 12/31/2026
+**Nationwide** • **Expires:** 12/31/2026
 
 Referral: [Apply via referral link](https://ally.com/referral?code=4T6Q5X5B4M&CP=WebAppReferFriend)
 
