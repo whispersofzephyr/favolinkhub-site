@@ -5,8 +5,9 @@ These accounts are available to most U.S. residents without geographic restricti
 ## 🔔 HSBC Premier Checking — $1,500 or $2,500 Referral Bonus
 **Nationwide** • **Expires:** 06/30/2026 
 
-Apply: [Apply here](https://us.hsbc.com/refer)  
-(Referral code + referrer full name required — email me.)
+Apply here: [https://us.hsbc.com/refer](https://us.hsbc.com/refer)  
+
+Referral code + referrer full name required at accout opening — email me at [contact@favolinkhub.com] (contact@favolinkhub.com)
 
 ### Requirements
 
