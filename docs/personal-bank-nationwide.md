@@ -27,9 +27,13 @@ Apply: [Apply here](https://us.hsbc.com/refer)
 
 ## 🎉 OnPath FCU — $150 Bonus
 
-Register here first: [https://io.referlive.com/1YViHM](https://io.referlive.com/1YViHM)
-Then apply here: [https://www.beonpath.org/spend-save/checking-accounts/personal](https://www.beonpath.org/spend-save/checking-accounts/personal)
-Requirements:
+**Steps**
+1. Register first:  
+   [https://io.referlive.com/1YViHM](https://io.referlive.com/1YViHM)
+2. Then apply here:  
+   [https://www.beonpath.org/spend-save/checking-accounts/personal](https://www.beonpath.org/spend-save/checking-accounts/personal)
+
+**Requirements**
 - Open High Yield Checking (7% APY)
 - 15 debit purchases ($10+)
 - $250+ DD
