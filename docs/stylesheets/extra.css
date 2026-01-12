@@ -265,3 +265,27 @@
   white-space: normal;
   line-height: 1.35;
 }
+
+/* ===============================
+   FIX: 禁止 header 滚动时自动隐藏（mobile/desktop）
+   =============================== */
+
+/* 1) 保证 header 贴顶 */
+.md-header {
+  position: sticky !important;
+  top: 0 !important;
+  z-index: 200 !important;
+}
+
+/* 2) Material 会在滚动时把 header “藏起来”（translateY）
+      这里强制把它拉回来 */
+.md-header[data-md-state="hidden"],
+.md-header--shadow[data-md-state="hidden"] {
+  transform: translateY(0) !important;
+}
+
+/* 3) 有些版本用的是 class 切换，也一起兜底 */
+.md-header--hidden {
+  transform: translateY(0) !important;
+}
+
