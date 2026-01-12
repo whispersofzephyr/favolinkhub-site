@@ -28,9 +28,9 @@ Apply: [Apply here](https://us.hsbc.com/refer)
 ## 🎉 OnPath FCU — $150 Bonus
 
 **Steps**
-1. Register first:  
+- Register first:  
    [https://io.referlive.com/1YViHM](https://io.referlive.com/1YViHM)
-2. Then apply here:  
+- Then apply here:  
    [https://www.beonpath.org/spend-save/checking-accounts/personal](https://www.beonpath.org/spend-save/checking-accounts/personal)
 
 **Requirements**
