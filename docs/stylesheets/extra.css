@@ -302,7 +302,7 @@ html {
 @media (max-width: 768px){
 
   /* 1) 给 header 一个“真实高度变量”，你可以只改这一行 */
-  :root{ --mobile-header-h: 120px; }  /* 120~160 之间调 */
+  :root{ --mobile-header-h: 100px; }  /* 120~160 之间调 */
 
   /* 2) 抽屉(左侧导航)整体往下挪，避免顶栏被盖 */
   .md-sidebar--primary{
