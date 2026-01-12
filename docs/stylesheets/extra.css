@@ -273,15 +273,23 @@
 }
 
 /* 修复 TOC / anchor 被固定 header 遮挡的问题 */
-.md-content h2,
-.md-content h3 {
-  scroll-margin-top: 180px; /* 根据你 banner 高度微调 */
-}
-
 html {
-  scroll-padding-top: 90px !important; /* 按你的header+banner实际高度调 */
+  scroll-padding-top: 85px !important; /* 按你的header+banner实际高度调 */
 }
 
 .md-typeset :is(h1,h2,h3,h4,h5,h6)[id] {
-  scroll-margin-top: 90px !important;
+  scroll-margin-top: 85px !important;
+}
+
+@media (max-width: 768px){
+  /* 1) 让抽屉/侧栏内容从“header下面”开始显示 */
+  nav, aside, .sidebar, .drawer, .navigation, .menu {
+    padding-top: 60px !important;   /* 先用 56，后面按实际再调 */
+    box-sizing: border-box;
+  }
+
+  /* 2) 抽屉内部滚动时，顶部也别被 header 压住 */
+  nav a, aside a, .sidebar a, .drawer a, .navigation a, .menu a {
+    scroll-margin-top: 60px;
+  }
 }
