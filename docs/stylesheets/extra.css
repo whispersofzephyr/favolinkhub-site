@@ -140,7 +140,6 @@
   width: 4px;
   background-color: #ffb300;
 }
-
 .md-content a {
   color: #1e88e5;
   font-weight: 500;
@@ -209,7 +208,7 @@
 
 /* 副标题（你的那段话） */
 .md-header__title::after {
-  content: "Feel free to use our referral links. Questions? Email contact@favolinkhub.com · Updated 01/10/2026";
+  content: "Feel free to use our referral links. Questions? Email favo.bankbonuses@gmail.com · Updated 01/10/2026";
   font-size: 0.75rem;
   font-weight: 400;
   margin-top: 4px;
@@ -225,6 +224,7 @@
    Header 标题与副标题间距微调
    =============================== */
 
+/* 整个 header 内部往下挪一点（不影响背景图） */
 .md-header__inner {
   padding-top: 12px; /* 调大/调小都只改这一行 */
 }
@@ -247,7 +247,7 @@
 
 /* 如果副标题是一整行文本，给它一点呼吸空间 */
 .md-header__topic {
-  margin-bottom: 0px;
+  margin-bottom: 4px;
 }
 
 /* Header 中隐藏 page name，只保留 site name + 副标题 */
@@ -255,135 +255,13 @@
   display: none;
 }
 
-/* 固定顶部 header（banner） */
-.md-header {
-  position: sticky;
-  top: 0;
-  z-index: 100;
+/* Header 副标题：与 site title 拉开距离 */
+.md-header__ellipsis .md-header__topic + .md-header__topic {
+  margin-top: 12px;   /* 可改成 8px / 10px */
 }
 
-/* 左侧导航与正文分隔 */
-.md-sidebar--primary {
-  border-right: 1px solid rgba(0, 0, 0, 0.06);
-}
-
-/* 右侧 TOC 与正文分隔 */
-.md-sidebar--secondary {
-  border-left: 1px solid rgba(0, 0, 0, 0.06);
-}
-
-/* 修复 TOC / anchor 被固定 header 遮挡的问题 */
-html {
-  scroll-padding-top: 85px !important; /* 按你的header+banner实际高度调 */
-}
-
-.md-typeset :is(h1,h2,h3,h4,h5,h6)[id] {
-  scroll-margin-top: 85px !important;
-}
-
-:root{
-  --header-h: 85px; /* 改这里：80/85/90 你自己定 */
-}
-
-:root{ --header-h: 85px; }
-
-
-/* ===============================
-   TEMP DISABLE — Mobile drawer hacks (3 blocks)
-   目的：先恢复 Material 默认的手机抽屉顶部（Home/站点名/返回入口）
-   ===============================
-
-@media (max-width: 768px){
-
-  nav, .nav, .navigation, .menu, .drawer, .sidebar {
-    scroll-padding-top: var(--header-h);
-  }
-
-  nav ul,
-  nav .content,
-  nav .items,
-  .drawer ul,
-  .sidebar ul{
-    padding-top: var(--header-h) !important;
-    box-sizing: border-box;
-  }
-}
-
-@media (max-width: 768px){
-
-  .drawer-header,
-  .sidebar-header,
-  .menu-header,
-  nav header,
-  nav .header,
-  nav .title,
-  nav .toolbar{
-    display: block !important;
-    height: auto !important;
-    min-height: 44px !important;
-    padding-top: 12px !important;
-    padding-bottom: 12px !important;
-    overflow: visible !important;
-  }
-
-  :root{ --mobile-drawer-top: 85px; }
-
-  nav ul,
-  nav .content,
-  nav .items,
-  .drawer ul,
-  .sidebar ul{
-    padding-top: var(--mobile-drawer-top) !important;
-    box-sizing: border-box;
-  }
-}
-
-@media (max-width: 768px){
-
-  nav header, nav header * ,
-  nav [role="banner"], nav [role="banner"] * ,
-  .drawer-header, .drawer-header * ,
-  .sidebar-header, .sidebar-header * {
-    visibility: visible !important;
-    opacity: 1 !important;
-
-    color: #202124 !important;
-    -webkit-text-fill-color: #202124 !important;
-  }
-
-  nav header,
-  nav [role="banner"],
-  .drawer-header,
-  .sidebar-header{
-    position: relative !important;
-    z-index: 9999 !important;
-  }
-}
-
-=============================== */
-
-
-/* ===============================
-   FIX: Markdown 列表层级/缩进被压扁（nested list 变同级）
-   只影响正文区域，不影响侧边栏/TOC
-   =============================== */
-
-.md-content .md-typeset ul,
-.md-content .md-typeset ol {
-  padding-left: 1.25rem;
-  margin-left: 0;
-}
-
-.md-content .md-typeset ul ul,
-.md-content .md-typeset ul ol,
-.md-content .md-typeset ol ul,
-.md-content .md-typeset ol ol {
-  padding-left: 1.25rem;
-  margin-top: .25rem;
-  margin-bottom: .25rem;
-}
-
-/* 可选：让列表项里的段落更像 GitHub（避免怪异大间距） */
-.md-content .md-typeset li > p {
-  margin: 0.2em 0;
+/* Header 副标题允许换行 */
+.md-header__ellipsis .md-header__topic {
+  white-space: normal;
+  line-height: 1.35;
 }
