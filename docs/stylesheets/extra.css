@@ -499,6 +499,64 @@ html {
   }
 }
 
+   /* ===============================
+   FINAL HEADER OVERRIDE (2 lines only)
+   Line 1: site_name
+   Line 2: subtitle (hard-coded)
+   Hide ALL .md-header__topic (page name etc.)
+   =============================== */
+
+/* 永久隐藏 header 里的 page title/topic（你不需要它） */
+.md-header__topic {
+  display: none !important;
+}
+
+/* Site name 强制正常显示 + 可换行 */
+.md-header__title {
+  display: block !important;
+  white-space: normal !important;
+  overflow: visible !important;
+  line-height: 1.15 !important;
+}
+
+/* 第二行（subtitle）从这里来 */
+.md-header__title::after {
+  content: "Feel free to use our referral links. Questions? Email contact@favolinkhub.com · Updated 01/10/2026";
+  display: block;
+  margin-top: 4px;
+  font-size: 0.75rem;
+  font-weight: 400;
+  line-height: 1.35;
+  color: rgba(255, 255, 255, 0.85);
+  white-space: normal;
+  opacity: 0.95;
+}
+
+[data-md-color-scheme="slate"] .md-header__title::after {
+  color: rgba(255, 255, 255, 0.75);
+}
+
+/* 手机端：给足空间，避免重叠/被裁剪 */
+@media (max-width: 768px) {
+  .md-header {
+    min-height: 170px !important;
+  }
+
+  .md-header__inner {
+    padding-top: 12px !important;
+    padding-bottom: 12px !important;
+  }
+
+  .md-header__ellipsis {
+    overflow: visible !important;
+  }
+
+  .md-header__title::after {
+    margin-top: 6px !important;
+    font-size: 0.72rem !important;
+  }
+}
+
 
 
 
