@@ -135,15 +135,6 @@ Steps:
 
 ---
 
-## 🧧 On Tap Credit Union — $150 Bonus
-
-Referral: [Apply via referral](https://ontapcu.ourreferralengine.com/l/ZHISHANWAN13/)
-
-Terms changing; details to be updated.  
-Older terms: $500 DD + 10 debit tx + 6 months maintenance.
-
----
-
 ## ✨ Premier Member Credit Union — $50 Referral
 
 Apply: [Apply here](https://www.pmcu.org/refer-a-friend/VFVJPQRVS/)  
