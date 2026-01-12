@@ -47,7 +47,7 @@ Notes: Chex used, no hard pull; $500 CC funding allowed; **privately insured**.
 ---
 
 ## 🎁 Ally — $100 Referral Bonus (Checking or Savings)
-**Expires:** 12/31/2025
+**Expires:** 12/31/2026
 
 Referral: [Apply via referral link](https://ally.com/referral?code=4T6Q5X5B4M&CP=WebAppReferFriend)
 
