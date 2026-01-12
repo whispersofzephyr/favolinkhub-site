@@ -61,3 +61,24 @@ Referral link (use for checking):
 [Apply via referral link](https://ft360.firsttechfed.com/ftfcu/servlet/SmartForm.html?formCode=checking-app&productId=74&campaignId=7198&promoCode=FT83542ZhishanW)
 
 ---
+
+## 🏦 Municipal Credit Union (MCU) — Up to $350 + $25 Referral
+**Promo window:** 10/09/2025–12/31/2025
+
+### $150–$350 checking bonus
+Deposit and maintain for 60 days:
+
+| Balance | Bonus |
+|---:|---:|
+| $1,500 | $150 |
+| $2,500 | $250 |
+| $5,000 | $350 |
+
+No DD or debit required. Soft pull Experian; Chex pulled.
+
+### $25 referral bonus
+Register before opening (some DPs: within ~1 day may still work).  
+Referral: [Referral link](https://share.nymcu.org/billssophiewang!8bfa5b6aa6!a)  
+Public page: [Promo page](https://www.nymcu.org/checkingbonus)
+
+---
