@@ -60,6 +60,16 @@ Bonus after ~100–145 days.
 
 ---
 
+## ⭐ Varo Money — $100 Referral Bonus
+
+Referral: [Sign up here](https://varomoney.com/r1/?r=Zhishan)
+
+Requirement:
+- $500+ DD within 45 days  
+Both sides get $100.
+
+---
+
 ## ⭐ Christian Community Credit Union (CCCU) — $200 Bonus + $50 Referral
 **Nationwide** • **Expires:** 02/28/2026
 
@@ -122,16 +132,6 @@ Steps:
 1. Sign up (mobile)
 2. Load $50 and spend $50
 3. $15 posts
-
----
-
-## ⭐ Varo Money — $100 Referral Bonus
-
-Referral: [Sign up here](https://varomoney.com/r1/?r=Zhishan)
-
-Requirement:
-- $500+ DD within 45 days  
-Both sides get $100.
 
 ---
 
