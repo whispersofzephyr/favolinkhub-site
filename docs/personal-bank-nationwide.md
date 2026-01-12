@@ -9,10 +9,13 @@ Apply: [Apply here](https://us.hsbc.com/refer)
 (Referral code + referrer full name required — email me.)
 
 ### Requirements
+
 1. Bring **New Money** within **30 days**:
-   - **$1,500 bonus:** $100,000–$249,999.99
-   - **$2,500 bonus:** $250,000+
-2. Maintain qualifying balance for **3 full calendar months**
+
+    - **$1,500 bonus:** $100,000–$249,999.99  
+    - **$2,500 bonus:** $250,000+  
+
+2. Maintain qualifying balance for **3 full calendar months**.
 
 **Not eligible** if you’ve ever had an HSBC US account.
 
@@ -28,12 +31,12 @@ Apply: [Apply here](https://us.hsbc.com/refer)
 ## 🎉 OnPath FCU — $150 Bonus
 
 **Steps**
-- Register first:  
-   [https://io.referlive.com/1YViHM](https://io.referlive.com/1YViHM)
-- Then apply here:  
-   [https://www.beonpath.org/spend-save/checking-accounts/personal](https://www.beonpath.org/spend-save/checking-accounts/personal)
+
+- Register first: [https://io.referlive.com/1YViHM](https://io.referlive.com/1YViHM)
+- Then apply here: [https://www.beonpath.org/spend-save/checking-accounts/personal](https://www.beonpath.org/spend-save/checking-accounts/personal)
 
 **Requirements**
+
 - Open High Yield Checking (7% APY)
 - 15 debit purchases ($10+)
 - $250+ DD
