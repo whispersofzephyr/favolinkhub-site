@@ -208,7 +208,7 @@
 
 /* 副标题（你的那段话） */
 .md-header__title::after {
-  content: "Feel free to use our referral links. Questions? Email favo.bankbonuses@gmail.com · Updated 01/10/2026";
+  content: "Feel free to use our referral links. Questions? Email favolinkhub@gmail.com · Updated 01/10/2026";
   font-size: 0.75rem;
   font-weight: 400;
   margin-top: 4px;
@@ -247,7 +247,7 @@
 
 /* 如果副标题是一整行文本，给它一点呼吸空间 */
 .md-header__topic {
-  margin-bottom: 4px;
+  margin-bottom: 0px;
 }
 
 /* Header 中隐藏 page name，只保留 site name + 副标题 */
@@ -255,37 +255,33 @@
   display: none;
 }
 
-/* Header 副标题：与 site title 拉开距离 */
-.md-header__ellipsis .md-header__topic + .md-header__topic {
-  margin-top: 12px;   /* 可改成 8px / 10px */
-}
-
-/* Header 副标题允许换行 */
-.md-header__ellipsis .md-header__topic {
-  white-space: normal;
-  line-height: 1.35;
-}
-
-/* ===============================
-   FIX: 禁止 header 滚动时自动隐藏（mobile/desktop）
-   =============================== */
-
-/* 1) 保证 header 贴顶 */
+/* 固定顶部 header（banner） */
 .md-header {
-  position: sticky !important;
-  top: 0 !important;
-  z-index: 200 !important;
+  position: sticky;
+  top: 0;
+  z-index: 100;
 }
 
-/* 2) Material 会在滚动时把 header “藏起来”（translateY）
-      这里强制把它拉回来 */
-.md-header[data-md-state="hidden"],
-.md-header--shadow[data-md-state="hidden"] {
-  transform: translateY(0) !important;
+/* 左侧导航与正文分隔 */
+.md-sidebar--primary {
+  border-right: 1px solid rgba(0, 0, 0, 0.06);
 }
 
-/* 3) 有些版本用的是 class 切换，也一起兜底 */
-.md-header--hidden {
-  transform: translateY(0) !important;
+/* 右侧 TOC 与正文分隔 */
+.md-sidebar--secondary {
+  border-left: 1px solid rgba(0, 0, 0, 0.06);
 }
 
+/* 修复 TOC / anchor 被固定 header 遮挡的问题 */
+.md-content h2,
+.md-content h3 {
+  scroll-margin-top: 180px; /* 根据你 banner 高度微调 */
+}
+
+html {
+  scroll-padding-top: 90px !important; /* 按你的header+banner实际高度调 */
+}
+
+.md-typeset :is(h1,h2,h3,h4,h5,h6)[id] {
+  scroll-margin-top: 90px !important;
+}
