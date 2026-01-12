@@ -25,6 +25,33 @@ Apply: [Apply here](https://us.hsbc.com/refer)
 
 ---
 
+## 🎉 OnPath FCU — $150 Bonus
+
+Register first: [Register here](https://bit.ly/3Sknwrw)
+
+Requirements:
+- Open High Yield Checking (7% APY)
+- 15 debit purchases ($10+)
+- $250+ DD
+
+Nationwide via $5 donation.
+
+---
+
+## 💎 PSECU — $300 Bonus
+**Nationwide** • **Expires:** 12/31/2026
+
+Apply: [Apply here](https://refer.psecu.com/Zhishan)  
+Promo code: **300REFER**
+
+- Open savings + checking + debit
+- Enroll digital banking
+- 2 × $500 DDs
+
+Bonus after ~100–145 days.
+
+---
+
 ## ⭐ Christian Community Credit Union (CCCU) — $200 Bonus + $50 Referral
 **Nationwide** • **Expires:** 02/28/2026
 
@@ -112,33 +139,6 @@ Referral: [Sign up here](https://varomoney.com/r1/?r=Zhishan)
 Requirement:
 - $500+ DD within 45 days  
 Both sides get $100.
-
----
-
-## 🎉 OnPath FCU — $150 Bonus
-
-Register first: [Register here](https://bit.ly/3Sknwrw)
-
-Requirements:
-- Open High Yield Checking (7% APY)
-- 15 debit purchases ($10+)
-- $250+ DD
-
-Nationwide via $5 donation.
-
----
-
-## 💎 PSECU — $300 Bonus
-**Promo:** 01/01/2025–12/31/2025
-
-Apply: [Apply here](https://refer.psecu.com/Zhishan)  
-Promo code: **300REFER**
-
-- Open savings + checking + debit
-- Enroll digital banking
-- 2 × $500 DDs
-
-Bonus after ~100–145 days.
 
 ---
 
