@@ -1,25 +1,22 @@
-# Personal Accounts (Geo-Restricted)
+# Personal Bank Accounts
 
-## ⭐ CU of the Rockies — $50 / $100 Bonus (CO-only)
+Choose the category that applies to you:
 
-Referral by email.  
-Includes Giddy-up Money Market (reported **52.8% APY** on $500).
+## Nationwide Accounts
+Available to most U.S. residents.  
+Includes banks and credit unions with no geographic restrictions.
 
----
-
-## 💰 Commerce Bank — Up to $700 Bonus + $200 Referral
-
-- Denver / Arapahoe / Jefferson Counties:  
-  [Promo page](https://www.commercebank.com/personal/2025/denverbonus)
-- Nationwide targeted:  
-  [Promo page](https://www.commercebank.com/personal/2025/checkingbonus)
-
-Referral registration: [Register here](https://io.referlive.com/miDcq5)  
-(DPs: referral stacks.)
+→ [View Nationwide Personal Bank Accounts](personal-bank-nationwide.md)
 
 ---
 
-## 🏆 Central Bank — $300 Bonus (OK, IL, KS, MO, CO)
+## Geo-Restricted Accounts
+Limited to specific states, counties, or regions.  
+Often includes strong local credit union offers.
 
-- $50 opening deposit
-- 2 × $250 DDs within 90 days
+→ [View Geo-Restricted Personal Bank Accounts](personal-bank-geo.md)
+
+---
+
+**Not sure which to choose?**  
+Start with Nationwide accounts.
