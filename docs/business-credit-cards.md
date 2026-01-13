@@ -1,4 +1,4 @@
-# ⬇️ Business Credit Cards ⬇️
+# Business Credit Cards 
 
 ---
 
