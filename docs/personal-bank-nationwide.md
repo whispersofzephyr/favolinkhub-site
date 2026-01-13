@@ -52,7 +52,7 @@ Nationwide via $5 donation.
 
 Apply: [Apply here](https://refer.psecu.com/Zhishan)  
 
-Promo code: **300REFER**
+Promo code: **2026REFER**
 
 - Open savings + checking + debit
 - Enroll digital banking
