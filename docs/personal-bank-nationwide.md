@@ -100,7 +100,9 @@ Notes: Chex used, no hard pull; $500 CC funding allowed; **privately insured**.
 Apply: [Apply here](https://kpcu.com/About/Events/Refer-a-Friend) 
 
 Promo code: **RAF26**
+
 At account opening, provide promo code RAF26 and the name of the referring member.  
+
 Email me for my name: [contact@favolinkhub.com](contact@favolinkhub.com)
 
 - $1,000 monthly DD
@@ -171,6 +173,11 @@ Apply: [Apply here](https://refer.deltacommunitycu.com/zhishanw-9)
 ---
 
 ## 💰 OnePay
+TBD
+
+---
+
+## 💰 Current
 TBD
 
 ---
