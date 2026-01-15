@@ -1,6 +1,7 @@
 # Business Bank Accounts (Nationwide)
 
 ## 💸 Grasshopper Bank Business Checking — $200 Referral Bonus
+**Nationwide · Exclude Sole Proprietors · No Expiration Date**
 
 Grasshopper is offering an **easy $200 bonus** when you open a new business checking account with my referral code.
 
@@ -16,7 +17,7 @@ Grasshopper is offering an **easy $200 bonus** when you open a new business chec
 **Apply:**  
 [https://www.grasshopper.bank/](https://www.grasshopper.bank/)
 
-**Referral Code:** `9c822d38047f`
+**Referral Code:** 9c822d38047f
 
 **Full terms:**  
 [Referral Program Terms & Conditions (PDF)](
