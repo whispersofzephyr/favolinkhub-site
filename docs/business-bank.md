@@ -18,7 +18,7 @@ Grasshopper Bank is offering an **easy $200 referral bonus** when you open a new
 - LLCs, corporations, and other eligible business entities qualify
 
 ### 📄 Full Terms
-[Referral Program Terms & Conditions (PDF)](https://www.grasshopper.bank/wp-content/uploads/2025/04/Referral-Program-Terms-Conditions-.pdf)
+[Referral Program Terms & Conditions (PDF)](https://www.grasshopper.bank/wp-content/uploads/2025/09/Referral-Program-Terms-Conditions-2.pdf)
 
 ---
 
