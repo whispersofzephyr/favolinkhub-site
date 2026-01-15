@@ -1,4 +1,4 @@
-# ⬇️ Crypto ⬇️
+# Crypto 
 
 ## 🪙 Kraken $75 - $150 Referral + Capital One Shopping $250 or Rakuten $50–$150 or TopCashBack $202
 
