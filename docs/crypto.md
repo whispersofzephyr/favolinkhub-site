@@ -55,7 +55,7 @@ If you start your application through a shopping portal (Rakuten or Capital One 
 
 **Option 1: 3-Tiered Referral Bonus (up to $75 total):**
 - **$75 Referral code:** **738j3gdg**  
-- **Referral link (FYI):** [https://invite.kraken.com/JDNW/dpob653u](https://invite.kraken.com/JDNW/tudnuh5s)  
+- **Referral link (FYI):** [https://invite.kraken.com/JDNW/tudnuh5s](https://invite.kraken.com/JDNW/tudnuh5s)  
 - **Bonus tiers:**  
   - Trade $100 → get $15  
   - Trade $300 → get $20 (=$35 total)  
