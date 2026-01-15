@@ -1,6 +1,9 @@
 # ⬇️ Crypto ⬇️
 
-## 🪙 Kraken $75 - $150 Referral + Capital One Shopping $250 or Rakuten $50–$150
+## 🪙 Kraken $75 - $150 Referral + Capital One Shopping $250 or Rakuten $50–$150 or TopCashBack $202
+
+**Referral availability: Nationwide (excluding ME, WA, NY) · No Expiration Date**    
+**Portal cashback: likely still works in excluded states (referral bonus may not)**  
 
 A very strong stack is available right now: combine **Kraken’s tiered referral bonus ($75–$150 BTC)** with either **Capital One Shopping’s targeted $250 offer** or **Rakuten’s $50–$150 offer**.
 
@@ -8,7 +11,7 @@ By signing up and completing **cumulative crypto trades totaling $500–$5,000**
 
 ### 💰 Stack Summary
 
-**Capital One Shopping:** $250 cashback (targeted, YMMV) **or** **Rakuten:** $50–$150 cashback (varies by promotion)  
+**Capital One Shopping:** $250 cashback (targeted, YMMV) **or** **Rakuten:** $50–$150 cashback (varies by promotion) **or** **TopCashBack:** $202 cashback
 **+ Kraken referral:** $75–$150 in BTC
 
 ➡️ **Total: $125–$325** for the **$500 trade tier**, or **$200–$400** for the **$5,000 trade tier**
