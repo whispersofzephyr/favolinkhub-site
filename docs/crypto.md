@@ -123,8 +123,8 @@ Some users will see a **Spin to Win** button in the app.
 
 ### 🧾 In Short
 
-1. Activate the **$250 Capital One Shopping** or **Rakuten $100–$150** Kraken offer.
-2. Sign up for Kraken with referral code **tbpp3gdg** (tiered up to $150).
+1. Activate the **$250 Capital One Shopping** or **Rakuten $100–$150**  or **TopCashBack $202** Kraken offer.
+2. Sign up for Kraken with referral code **738j3gdg** (3-tiered up to $75) or **tbpp3gdg** (4-tiered up to $150).
 3. Deposit at least **$100 via ACH** and trade **$100–$5,000 cumulative** non-stablecoin in the **Kraken app**.
 4. Earn **$125–$400 total** + optional Spin to Win rewards.
 
@@ -136,10 +136,10 @@ Some users will see a **Spin to Win** button in the app.
 ✅ **Rakuten Referral ($50 signup bonus if new):**  
 [rakuten.com/r/FAVONI8](http://www.rakuten.com/r/FAVONI8?eeid=28187)
 
-✅ **Kraken tiered referral code:** **tbpp3gdg**
+✅ **Kraken 3 tiered $75 referral code:** **738j3gdg** or **Kraken 4 tiered $150 referral code:** **tbpp3gdg**
 
 ## 🎁 OKX: $150 Referral + $50 Gift (Limited Offer) + $250 deposit match + 5% APY
-_US users only, excluding NY, TX, AS, GU, MP, VI • Expires 12/9/25_
+**US users only, excluding NY, TX, AS, GU, MP, VI • Expires 12/9/25**
 
 OKX is running three overlapping promos for U.S. users, while providing 5% APY on USDG balance. New users can stack them for **up to $512.5 total**:
 
