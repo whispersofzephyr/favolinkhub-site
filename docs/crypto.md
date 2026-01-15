@@ -53,14 +53,22 @@ If you start your application through a shopping portal (Rakuten or Capital One 
 
 ⚠️ **Important Note:** The crypto market is moving rapidly recently. Make sure to scroll down this post to see the tips on how to avoid the trading fee and avoid market slippage, especially for the **$5,000 → $150 tier**.
 
-**Tiered Referral Bonus (up to $150 total):**
-- **P2 (Maya)'s $150 Referral code:** **tbpp3gdg**
-- **Referral link (FYI):** [invite.kraken.com/JDNW/dpob653u](https://invite.kraken.com/JDNW/dpob653u)
-- **Bonus tiers:**
-  - Trade $100 → get $15
-  - Trade $300 → get $20 (=$35 total)
-  - Trade $500 → get $40 (=$75 total)
-  - Trade $5,000 → get $75 (=$150 total)
+**Option 1: 3-Tiered Referral Bonus (up to $75 total):**
+- **$75 Referral code:** **738j3gdg**  
+- **Referral link (FYI):** [https://invite.kraken.com/JDNW/dpob653u](https://invite.kraken.com/JDNW/tudnuh5s)  
+- **Bonus tiers:**  
+  - Trade $100 → get $15  
+  - Trade $300 → get $20 (=$35 total)  
+  - Trade $500 → get $40 (=$75 total)  
+
+**Option 2: 4-Tiered Referral Bonus (up to $150 total):**  
+- **$150 Referral code:** **tbpp3gdg**  
+- **Referral link (FYI):** [invite.kraken.com/JDNW/dpob653u](https://invite.kraken.com/JDNW/dpob653u)  
+- **Bonus tiers:**  
+  - Trade $100 → get $15  
+  - Trade $300 → get $20 (=$35 total)  
+  - Trade $500 → get $40 (=$75 total)  
+  - Trade $5,000 → get $75 (=$150 total)  
 
 **Trade volume is cumulative**, and buy/sell counts double:
 - A $250 buy + $250 sell = **$500 volume**
