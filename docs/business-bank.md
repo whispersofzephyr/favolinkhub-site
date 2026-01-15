@@ -1,28 +1,33 @@
 # Business Bank Accounts (Nationwide)
 
-## 💸 Grasshopper Bank Business Checking — $200 Referral Bonus
-**Nationwide · Exclude Sole Proprietors · No Expiration Date**
+## 💸 Grasshopper Bank Business Checking — $200 Referral Bonus  
+**Nationwide · Excludes Sole Proprietors · No Expiration Date**
 
-Grasshopper is offering an **easy $200 bonus** when you open a new business checking account with my referral code.
+Grasshopper Bank is offering an **easy $200 referral bonus** when you open a new business checking account using my referral code.
 
-**Bonus:** $200  
+### 🎁 Bonus
+- **$200 cash bonus**
 
-**Requirements:**
-- Keep at least **$2,000 in the account on Day 90** after opening  
-- **No average balance requirement** — only the Day 90 balance matters  
+### ✅ Requirements
+- Open a **new Grasshopper Business Checking** account  
+- Maintain at least **$2,000 balance on Day 90** after account opening  
+- **No average daily balance requirement** — only the **Day 90 snapshot** matters
 
-**Notes:**
-- As of **12/2025**, referral terms **exclude sole proprietors**
+### 📝 Notes
+- As of **December 2025**, referral eligibility **excludes sole proprietors**
+- LLCs, corporations, and other eligible business entities qualify
 
-**Apply here:** (On the final page of the application enter the referral code) 
+### 🔗 How to Apply
+Apply through Grasshopper’s website. On the **final page of the application**, enter the referral code below:
+
+**Apply here:**  
 [https://www.grasshopper.bank/](https://www.grasshopper.bank/)
 
-**Referral Code:** 9c822d38047f
+**Referral Code:**  
+`9c822d38047f`
 
-**Full terms:**  
-[Referral Program Terms & Conditions (PDF)](
-https://www.grasshopper.bank/wp-content/uploads/2025/04/Referral-Program-Terms-Conditions-.pdf
-)
+### 📄 Full Terms
+[Referral Program Terms & Conditions (PDF)](https://www.grasshopper.bank/wp-content/uploads/2025/04/Referral-Program-Terms-Conditions-.pdf)
 
 ---
 
