@@ -204,5 +204,48 @@ New users may earn **up to $530 total**:
 
 ---
 
-## 🪙 Gemini — TBD
+## 🟦 Gemini — $50 Referral Bonus (Trade $100 in Crypto)
+
+**Nationwide · No Expiration Date** · Available in the **United States**, Australia, New Zealand, Hong Kong, and most of Europe
+
+**Referral link:**  
+[https://exchange.gemini.com/register?referral=vzlg6avt8&type=referral](https://exchange.gemini.com/register?referral=vzlg6avt8&type=referral)
+
+### **How to get the $50 referral bonus (Step-by-Step)**
+
+- New user signs up via referral link  
+  *(Offer limited to **one per verified customer**)*
+- Complete **full identity verification (KYC)**
+- Deposit funds via ACH
+- **Trade at least $100 in eligible crypto within the first 30 days**  
+  e.g. **Buy $100+ of BTC or ETH** (you may sell immediately — round-trip trade is fine)
+- Rewards are paid in the crypto you select in the **Rewards Hub**
+
+**Tip:** Trade **$105** instead of exactly $100 to account for fees.
+
+## ⚠️ IMPORTANT: What Counts as a “Qualifying Trade”
+
+Gemini has updated the rules — **this is where many people mess up.**
+
+### ✔️ Trades that **DO** count
+- Buying or selling **BTC, ETH, or other major cryptocurrencies**
+- Trades made via:
+  - Instant Buy/Sell
+  - ActiveTrader (advanced trading)
+  - Market or limit orders
+
+### ❌ Trades that may **NOT** trigger the bonus
+- **Fiat → stablecoin only** (e.g. USD → GUSD)
+- **Stablecoin → stablecoin**
+- Deposits or withdrawals (crypto or fiat)
+
+## ⏱️ When the Bonus Pays
+- Trade must be completed **within 30 days of signup**
+- Referral status updates in **1–3 days**
+- Bonus is processed **after day 32**
+- Payout usually appears **around day 34–35**
+
+## 💸 Fees
+- Standard trading fees apply
+- Using **ActiveTrader mode** significantly lowers fees (recommended)
 
