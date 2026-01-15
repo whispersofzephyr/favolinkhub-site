@@ -18,13 +18,9 @@ Grasshopper Bank is offering an **easy $200 referral bonus** when you open a new
 - LLCs, corporations, and other eligible business entities qualify
 
 ### 🔗 How to Apply
-Apply through Grasshopper’s website. On the **final page of the application**, enter the referral code below:
-
-**Apply here:**  
-[https://www.grasshopper.bank/](https://www.grasshopper.bank/)
-
-**Referral Code:**  
-`9c822d38047f`
+- Apply through Grasshopper’s website. On the **final page of the application**, enter the referral code below:
+- **Apply here:** [https://www.grasshopper.bank/](https://www.grasshopper.bank/)
+- **Referral Code:** 9c822d38047f 
 
 ### 📄 Full Terms
 [Referral Program Terms & Conditions (PDF)](https://www.grasshopper.bank/wp-content/uploads/2025/04/Referral-Program-Terms-Conditions-.pdf)
