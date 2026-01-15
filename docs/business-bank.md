@@ -14,7 +14,7 @@ Grasshopper is offering an **easy $200 bonus** when you open a new business chec
 **Notes:**
 - As of **12/2025**, referral terms **exclude sole proprietors**
 
-**Apply:**  
+**Apply here:**  
 [https://www.grasshopper.bank/](https://www.grasshopper.bank/)
 
 **Referral Code:** 9c822d38047f
