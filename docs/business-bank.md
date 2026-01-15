@@ -6,7 +6,7 @@
 Grasshopper Bank is offering an **easy $200 referral bonus** when you open a new business checking account using my referral code.
 
 ### ✅ How to get the $200 referral bonus (step-by-step)
-- **Apply here:** [https://www.grasshopper.bank/](https://www.grasshopper.bank/）to open a **new Grasshopper Business Checking** account  
+- **Apply here:** [https://www.grasshopper.bank/](https://www.grasshopper.bank/) to open a **new Grasshopper Business Checking** account  
 - On the **final page of the application**, enter **Referral Code:** `9c822d38047f`
 - Maintain at least **$2,000 balance on Day 90** after account opening  
   *(Tip: deposit $2,000 a few days before Day 90 and make sure the balance on Day 90 is at least $2,000)*  
