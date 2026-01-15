@@ -151,7 +151,7 @@ Some users will see a **Spin to Win** button in the app.
 - Complete **advanced identity verification (KYC)**.
 - **Deposit $200 or more** in cash or crypto.
 - **Buy $200 or more** worth of crypto within the required timeframe.
-- maintain a **daily average portfolio balance of $200 for any 30 days within a 90-day period** to unlock $200 rewards
+- To unlock $200 rewards, maintain a **daily average portfolio balance of $200 for any 30 days within a 90-day period**.
 
 ---
 
