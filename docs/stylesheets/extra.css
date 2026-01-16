@@ -208,7 +208,7 @@
 
 /* 副标题（你的那段话） */
 .md-header__title::after {
-  content: "Feel free to use our referral links. Questions? Email favo.bankbonuses@gmail.com · Updated 01/15/2026";
+  content: "Feel free to use our referral links. Questions? Email [favo.bankbonuses@gmail.com](mail to:favo.bankbonuses@gmail.com) · Updated 01/15/2026";
   font-size: 0.75rem;
   font-weight: 400;
   margin-top: 4px;
