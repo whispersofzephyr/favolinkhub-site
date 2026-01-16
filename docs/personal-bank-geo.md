@@ -18,11 +18,13 @@ Includes Giddy-up Money Market (reported **52.8% APY** on $500).
 1. Register via **ReferLive link**: [https://io.referlive.com/miDcq5)](https://io.referlive.com/miDcq5)  
 2. Open a new **personal checking account** at [https://www.commercebank.com/personal](https://www.commercebank.com/personal)
 3. **Within 60 days**, complete **all** of the following:
-   - Receive **at least one $300+ direct deposit**  
+
+     - Receive **at least one $300+ direct deposit**  
      *(payroll or government benefits; Zelle / P2P transfers do NOT qualify)*
-   - Enroll in **Online Banking**
-   - Enroll in **paperless statements**
-4. Receive a **$200 Visa® Reward Card** by mail
+     - Enroll in **Online Banking**
+     - Enroll in **paperless statements**
+       
+5. Receive a **$200 Visa® Reward Card** by mail
 
 ### 📌 Important Notes
 - Available to **new customers only**
