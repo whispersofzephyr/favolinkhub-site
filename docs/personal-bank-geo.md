@@ -12,7 +12,7 @@ Includes Giddy-up Money Market (reported **52.8% APY** on $500).
 ---
 
 ## 💰 Commerce Bank — $200 Referral Bonus （MO, KS, IL, OK, CO)
-**No expiration date**
+**Available in MO, KS, IL, OK & CO · No expiration date**
 
 ### ✅ How to get the $200 bonus
 1. Register via **ReferLive link**: [https://io.referlive.com/miDcq5)](https://io.referlive.com/miDcq5)  
