@@ -34,16 +34,16 @@ Referral code + referrer full name required at account opening — email me at [
 
 ### **How to get the $100 bonus (Step-by-Step)**
 
-1. Open a new **Varo Bank Account** using this referral link:  
+- Open a new **Varo Bank Account** using this referral link:  
    👉 [Sign up here](https://varomoney.com/r1/?r=Zhishan)
 
-2. Receive **$500 in qualifying direct deposits** within **45 days**
+- Receive **$500 in qualifying direct deposits** within **45 days**
 
    > **Qualifying direct deposit** = payroll / pension / government benefits  
    > ❌ Venmo, Zelle, P2P transfers do **not** qualify  
    > 💡 DP suggests **Chase Business Payment** works
 
-3. **Get a $100 cash bonus**  
+- **Get a $100 cash bonus**  
    *(Usually deposited within ~2 days after the qualifying direct deposit is received)*
 
 ---
