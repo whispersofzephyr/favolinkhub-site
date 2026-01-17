@@ -8,7 +8,7 @@ These accounts are available to most U.S. residents without geographic restricti
 **Apply here:** [https://us.hsbc.com/refer](https://us.hsbc.com/refer)  
 
 **Referral code + referrer full name** are required at account opening.  
-Email me at **contact@favolinkhub.com** for my full name and referral code.
+Email me at **[contact@favolinkhub.com](mailto: contact@favolinkhub.com)** for my full name and referral code.
 
 ### 💰 Requirements
 
@@ -70,13 +70,14 @@ Balances may be combined across:
 ### 💡 Editor’s Notes
 
 - **Premier Relationship Savings — Intro Relationship APY (important):**
+
   When you open a **Premier Relationship Savings** account and link it to an open **Premier Checking** account, you automatically receive the **Relationship APY (~3.30% APY, current rate as of 1/17/2026, subject to change)** for:
   
       - The remainder of the current month, **plus**
       - The **following 3 full months**
       - 👉 Effectively, you get **up to 4 months** of the Relationship APY **with no qualification required**.
 
-    - **After the introductory period:**  
+   **After the introductory period:**  
   To continue earning the Relationship APY, you must meet **at least ONE** of the following **in the previous month** to earn the Relationship APY in the next month:
       
       - Spend **$500+** using HSBC debit cards  
@@ -106,9 +107,12 @@ Balances may be combined across:
 
     - Waived with **$100,000+ combined balance**, or  
     - Waived with **$5,000 monthly direct deposit**
-    - During the promo, the fee is automatically waived since the **minimum promo balance is $100k**.  
-    - After completing the bonus and moving funds out, simply push **$5k ACH per month** from an external bank to avoid the fee.
-    - *If you forget one month and are charged the fee, contacting customer service usually results in a **one-time courtesy refund**.*
+
+During the promo, the fee is automatically waived since the **minimum promo balance is $100k**.  
+
+After completing the bonus and moving funds out, simply push **$5k ACH per month** from an external bank to avoid the fee.
+
+*If you forget one month and are charged the fee, contacting customer service usually results in a **one-time courtesy refund**.*
 
 - **Funds may move during the maintenance period**  
   As long as the **combined balance** does not drop below the required tier.
