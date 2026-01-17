@@ -119,7 +119,7 @@ Email me for my name: [contact@favolinkhub.com](contact@favolinkhub.com)
 
 ---
 
-## 💰 OnePay Cash — $50 Cash Back 
+## 💰 OnePay Cash — $50 Cash Bonus 
 **Nationwide · Expires 02/15/2026**
 
 Open a **OnePay Cash** account using the referral link below and **earn $50 cash back (paid as points)** after unlocking **Cash+** within **45 days**.
