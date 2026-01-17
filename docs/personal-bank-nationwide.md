@@ -156,21 +156,66 @@ Balances may be combined across:
 
 ---
 
-## 🎉 OnPath FCU — $150 Referral Bonus
+## 🎉 OnPath Federal Credit Union — $150 Referral Bonus + 6% APY or $8/mo Cash Back
 **Nationwide** • **No Expiration Date** 
 
-**Steps**
+> **Quick Summary**
+> - **$150 Visa® Reward Card** after qualifying  
+> - **6.00% APY on up to $10,000** *or* **5% cash back up to $8/month**  
+> - **Nationwide** via **$5 donation** to OnPath Foundation  
+> - **No monthly fee • No minimum balance**  
+> - **Register first, then apply**
 
-- Register first: [https://io.referlive.com/1YViHM](https://io.referlive.com/1YViHM)
-- Then apply here: [https://www.beonpath.org/spend-save/checking-accounts/personal](https://www.beonpath.org/spend-save/checking-accounts/personal)
+### How to get the $150 bonus
+**Important: registration must be completed *before* applying.**
 
-**Requirements**
+**Step 1 — Register**  
+[https://io.referlive.com/1YViHM](https://io.referlive.com/1YViHM)
 
-- Open High Yield Checking (7% APY)
-- 15 debit purchases ($10+)
-- $250+ DD
+**Step 2 — Open a new OnPath checking account**  
+[https://www.beonpath.org/spend-save/checking-accounts/personal](https://www.beonpath.org/spend-save/checking-accounts/personal)
 
-Nationwide via $5 donation.
+Nationwide membership is available via a **$5 donation** to the OnPath Foundation (select during application).
+
+**Recommended account options (choose one):**
+- **Rewards High Yield Checking** — **6.00% APY** on average daily balances up to **$10,000** (0.50% APY above $10,000)  
+- **Rewards Cash Back Checking** — **5% cash back** on debit purchases, **up to $8/month** (5% of $160 max)  
+*(Both have no monthly fee and no minimum balance.)*
+
+**Step 3 — Within 60 days, complete BOTH**
+- Make **15 debit card purchases of $10 or more each** (non-ATM)  
+- Receive **$250+ total direct deposit(s)**
+
+🎁 You’ll receive a **$150 Visa® Reward Card** (typically **4–6 weeks** after requirements are met).
+
+### Why this account is worth keeping (ongoing rewards)
+
+**Rewards High Yield Checking**
+- **6.00% APY** on balances up to **$10,000**  
+- **0.50% APY** on balances above $10,000
+
+**Rewards Cash Back Checking**
+- **5% cash back** on debit purchases  
+- **Up to $8 per month** (5% of $160 max)
+
+### Monthly requirements (to earn ongoing rewards)
+**During each monthly qualification cycle:**
+- Log in to online or mobile banking **at least once**  
+- Be enrolled in and receive **e-statements**  
+- **15 debit card purchases** must **post and settle**
+
+**Notes**
+- The **$10 minimum per debit** applies **only** to the initial **$150 referral bonus**  
+- For ongoing monthly rewards, there is **no minimum amount per debit transaction**
+- DPs reported Cash App, Paypal, and Venmo load count towards the debit transactions.  
+- For Cash Back Checking, **$160 total debit spend** earns the full **$8/month**  
+- Miss a cycle? You can qualify again the next month.
+
+### Additional notes
+- ChexSystems inquiry only (no hard credit pull)  
+- Debit transactions must **post and settle** within the qualification cycle  
+- Rates and terms may change  
+- Credit card funding has been reported; limits vary, current is $1000 — verify with customer service
 
 ---
 
