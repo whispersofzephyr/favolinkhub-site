@@ -1,4 +1,4 @@
-# Personal Bank Accounts – Nationwide - Expired
+# Personal Bank Accounts – Nationwide - Expired or 备用文案版本
 ## 💵 Wings Credit Union — $300 Checking Bonus + $100 Referral (Stacks)
 **Promo window:** 10/27/2025–12/31/2025 • **Nationwide** (via $5 donation) • **Posts by:** 03/13/2026
 
@@ -126,3 +126,28 @@ Referral registration: [Register here](https://io.referlive.com/miDcq5)
 3. 2 × $200+ payroll DDs
 
 ---
+
+## 🔔 HSBC Premier Checking — $1,500 or $2,500 Referral Bonus
+**Nationwide** • **Expires:** 06/30/2026 
+
+Apply here: [https://us.hsbc.com/refer](https://us.hsbc.com/refer)  
+
+Referral code + referrer full name required at account opening — email me at [contact@favolinkhub.com](contact@favolinkhub.com)
+
+### Requirements
+
+1. Bring **New Money** within **30 days**:
+
+    - **$1,500 bonus:** $100,000–$249,999.99  
+    - **$2,500 bonus:** $250,000+  
+
+2. Maintain qualifying balance for **3 full calendar months**.
+
+**Not eligible** if you’ve ever had an HSBC US account.
+
+### Editor’s notes
+- Checking, savings, brokerage (ACAT ok), CDs all qualify
+- Open checking first, then add savings/brokerage/CDs
+- Premier Savings rate: **3.30% APY** with $5k DD or $500 debit spend (DPs: $5k ACH may work)
+- Brokerage sweep options: **HGDXX / HTDXX** (state tax advantages)
+- Keep some balance in checking to avoid closure issues
