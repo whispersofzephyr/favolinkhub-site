@@ -111,6 +111,31 @@ Email me for my name: [contact@favolinkhub.com](contact@favolinkhub.com)
 
 ---
 
+## 💵 OnePay Cash — $50 Cash Back 
+**Nationwide · Expires 02/15/2026**
+
+Open a **OnePay Cash** account using the referral link below and **earn $50 cash back (paid as points)** after unlocking **Cash+** within **45 days**.
+
+**Referral link:**  
+[https://web.onepay.com/wlink/refer-a-friend?product=one_banking&referral_code=SSorpAQYj](https://web.onepay.com/wlink/refer-a-friend?product=one_banking&referral_code=SSorpAQYj)
+
+### How to qualify
+1. Open a **new OnePay Cash** account using the referral link.
+2. **Unlock Cash+ within 45 days** by meeting **one** of the following:
+   - Receive **$500+ in direct deposits** in a calendar month, **or**
+   - End a calendar month with **$5,000+ total balance**.
+3. Get **5,000 OnePay Points** (redeemable for **$50 cash back**).
+
+### Important notes
+- Cash back is issued **as OnePay Points**.
+- Direct deposits must be **payroll / government / ACH or OCT**.  
+  *Venmo, PayPal, Cash App, transfers, cash deposits, mobile checks, and wires do **not** qualify.*
+- Must be a **new OnePay user**.
+- Account must be **open and in good standing** when points are awarded.
+- Points typically post **within 5 days** after all requirements are met.
+
+---
+
 ## 🎁 Ally — $100 Referral Bonus (Checking or Savings)
 **Nationwide** • **Expires:** 12/31/2026
 
@@ -169,11 +194,6 @@ Money market referral; checking promos run separately at times.
 Apply: [Apply here](https://refer.deltacommunitycu.com/zhishanw-9)
 - Fund $50
 - 10 debit tx in 60 days
-
----
-
-## 💰 OnePay
-TBD
 
 ---
 
