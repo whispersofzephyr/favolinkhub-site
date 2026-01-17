@@ -202,7 +202,7 @@ Bonus after ~100–145 days.
 >
 > Simple bonus, clear rules, no direct deposit required.
 
-### 🔗 How to Apply (Order Matters)
+### 🔗 How to Apply (Step-by-step)
 
 - **Step 1 — Register through the referral link:**  
   [Register here](https://share.mycccu.com/billssophiewang)
@@ -215,104 +215,47 @@ Bonus after ~100–145 days.
   Harvest High-Yield Checking  
   Harvest High-Yield Savings
 
-### 💰 $200 Account Bonus — What to Do
+### 💰 $200 Account Bonus — Requirements
 
-**Checking ($100 bonus)**
+**Harvest High-Yield Checking ($100 bonus)**
 
-- Enroll in online banking
-- Enroll in eStatements
+- Enroll in online banking  
+- Enroll in eStatements  
 - Keep the account open **at least 60 days**
 
-**Savings ($100 bonus)**
+**Harvest High-Yield Savings ($100 bonus)**
 
-- Have **$5,000 in savings on Day 30**
+- Have **$5,000 in savings on Day 30**  
 - Keep the account open until the bonus posts
 
-### 🎁 $50 Referral Bonus (For You)
+### 🎁 $50 Referral Bonus — Requirements
 
-- Use the referral link **before applying**
-- Open any CCCU account
+- Register at the referral link **before applying**
 - Keep the account open **60 days**
-- Receive a **$50 Visa® eGift Card**
+- Receive a **$50 Visa® eGift Card** by email
 
-### ⏱️ Simple Timeline
-
-- Open accounts
-- Make sure savings shows **$5,000 on Day 30**
-- Wait **60 days** for bonuses to post
-- Don’t close the account early
-
-### 📌 Good to Know
-
-- Nationwide membership via *Christian Alliance for Orphans (CAFO)* — no donation required
-- Checking has no monthly fee
-- Savings has a $5 fee only if balance drops below $100
-- CCCU is privately insured (not NCUA)
-
-
-
-## ⭐ Christian Community Credit Union (CCCU) — $200 Bonus + $50 Referral  
-**Nationwide** • **Expires: 02/28/2026**
-
-> 🔺 **Quick Summary**
->
-> - **Total Bonus:** $250 ($200 account bonus + $50 referral)
-> - **APY:** 5.00% (on first $5,000 in savings)
-> - **Direct Deposit Required:** Yes — $500/month for first 2 months
-> - **Funds Locked:** $5,000 in savings (temporarily until bonus posts)
-> - **Credit Check:** ChexSystems only (no hard pull)
-> - **Insurance:** Privately insured (not NCUA)
->
-> If you’re OK with locking $5K short-term and doing small ACH/DD activity, this is a solid, rule-based bonus.
-
-### 🔗 How to get the $200 Bonus + $50 Referral (Step-by-step)
-
-1. **Register at referral link first:** [Register here](https://share.mycccu.com/billssophiewang)
-
-2. **Apply for accounts at:** [https://www.mycccu.com/bee-b/](https://www.mycccu.com/bee-b/)  
-
-     - Enter **Promo code:** `Bee` in the application
-     - You must open **both** Harvest Checking and Harvest High-Yield Savings
-    
-3. Meet **all** the following requirements:
-   
-    - **Harvest Checking**
-
-        - Enroll in **Online Banking**
-        - Enroll in **eStatements**
-        - **Activate debit card**
-        - Receive **$500 total deposits per calendar month**  
-          (for the first 60 days after account opening)
-
-    - **Harvest High-Yield Savings**
-
-        - Maintain **$5,000 balance**
-        - Typically required by **Day 30**
-        - Must be maintained until bonus posts
-        - Earn **5.00% APY on the first $5,000 only**
-
-📌 Note: eStatements enrollment uses a **separate system** and may require a **different login** — don’t skip this step. 
-
-### 🎁 $50 Referral Bonus
-
-- Referral registration must be completed **before applying**
-- Account must remain open **at least 60 days**
-- Bonus is paid as a **$50 Visa® eGift Card**
-
-
-### 📌 Additional Notes / DPs
+### 📌 Editor’s Notes
 
 - **Nationwide eligibility:**  
-  Join via *Christian Alliance for Orphans (CAFO)* — free, no membership fee
-- **ID verification:** Driver’s license + selfie
+  Join via *Christian Alliance for Orphans (CAFO)* — no donation or membership fee required.  
+  Just select this option during the application; CCCU will handle the rest.
+- **Savings APY:**  
+  Earn **5.00% APY on the first $5,000** in savings. Balances above $5,000 earn a lower rate.
+- **Fees:**  
+  Checking has no monthly fee.  
+  Savings has a $5 monthly fee only if balance drops below $100.
+- **ID verification:**  
+  Driver’s license + selfie required.
 - **Credit system:**  
-  ChexSystems used, **no hard pull**
+  ChexSystems used, **no hard pull**.
 - **Funding:**  
-  Up to **$500 credit card funding allowed**  
-  DP: Citi Double Cash coded as purchase
+  Up to **$500 credit card funding allowed**.  
+  DP: Citi Double Cash coded as purchase.
 - **Insurance:**  
-  CCCU is **privately insured**, **not NCUA**
-
+  CCCU is privately insured (not NCUA).
+- **eStatements:**  
+  Enrollment uses a **separate system** and may require a **different login** — don’t skip this step.
+  
 ---
 
 ## 💵 KeyPoint Credit Union — $300 Referral Bonus
