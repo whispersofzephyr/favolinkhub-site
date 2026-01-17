@@ -231,7 +231,7 @@ Balances may be combined across:
      
       - If you place no trades, funds in Self-Directed Brokerage automatically sweep into:
         
-        - **HGDXX** — HSBC Investor U.S. Government Money Market Fund
+        - **HGDXX** — HSBC Investor U.S. Government Money Market Fund  
           *(7-day yield ~3.39% as of 01/01/2026)*  
         - **HTDXX** — HSBC U.S. Treasury Money Market Fund  
           *(7-day yield ~3.37% as of 01/01/2026)*
