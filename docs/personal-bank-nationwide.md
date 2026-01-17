@@ -224,8 +224,6 @@ Notes: Chex used, no hard pull; $500 CC funding allowed; **privately insured**.
 >
 > If you’re OK with locking $5K short-term and doing small ACH/DD activity, this is a solid, rule-based bonus.
 
----
-
 ### 🔗 How to get the $200 Bonus + $50 Referral (Step-by-step)
 
 1. **Register at referral link first:** [Register here](https://share.mycccu.com/billssophiewang)
