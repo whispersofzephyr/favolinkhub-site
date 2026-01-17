@@ -32,14 +32,16 @@ New users may earn **up to $530 total**:
 
 ### Bonus Timing 
 **$500 Crypto Bonus**
-- Often credited **very quickly** after the qualifying deposit (many reports show **within minutes**).
-- Per T&C, eToro has **up to 7 days** to credit the bonus, so short delays can still be normal.
-- No manual claim required; the bonus is **auto-credited** once eligible.
+
+ - Often credited **very quickly** after the qualifying deposit (many reports show **within minutes**).
+ - Per T&C, eToro has **up to 7 days** to credit the bonus, so short delays can still be normal.
+ - No manual claim required; the bonus is **auto-credited** once eligible.
 
 **$30 Referral Bonus**
-- **Not instant.**
-- Typically posts **within ~14 days** after the referred user completes the qualifying deposit.
-- Once credited, eToro sends an email like **“You just received $30!”**, and it appears in the **cash balance**.
+
+ - **Not instant.**
+ - Typically posts **within ~14 days** after the referred user completes the qualifying deposit.
+ - Once credited, eToro sends an email like **“You just received $30!”**, and it appears in the **cash balance**.
 
 ### How to Get the Full $500 Cypto + $30 Referral Bonus (Simple Steps)
 1. Sign up using referral link [https://etoro.tw/4qoJGcA](https://etoro.tw/4qoJGcA)
