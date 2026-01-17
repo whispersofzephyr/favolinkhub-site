@@ -12,6 +12,11 @@ Email me at **[contact@favolinkhub.com](mailto: contact@favolinkhub.com)** for m
 
 ### 💰 Requirements
 
+| Bonus | New Money (within 30 days) | Holding Period |
+|------|----------------------------|----------------|
+| **$1,500** | $100,000 – $249,999.99 | 3 full calendar months |
+| **$2,500** | $250,000+ | 3 full calendar months |
+
 - **Bring New Money within 30 days of account opening:**
   
    - **$1,500 bonus:** $100,000 – $249,999.99  
