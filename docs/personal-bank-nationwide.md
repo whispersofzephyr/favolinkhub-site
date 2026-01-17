@@ -210,7 +210,7 @@ Notes: Chex used, no hard pull; $500 CC funding allowed; **privately insured**.
 
 ---
 
-## ⭐ Christian Community Credit Union (CCCU) — $200 Bonus + $50 Referral**  
+## ⭐ Christian Community Credit Union (CCCU) — $200 Bonus + $50 Referral  
 **Nationwide** • **Expires: 02/28/2026**
 
 > 🔺 **Quick Summary**
@@ -218,7 +218,7 @@ Notes: Chex used, no hard pull; $500 CC funding allowed; **privately insured**.
 > - **Total Bonus:** $250 ($200 account bonus + $50 referral)
 > - **APY:** 5.00% (on first $5,000 in savings)
 > - **Direct Deposit Required:** Yes — $500/month for first 2 months
-> - **Funds Locked:** $5,000 in savings (temporarily)
+> - **Funds Locked:** $5,000 in savings (temporarily until bonus posts)
 > - **Credit Check:** ChexSystems only (no hard pull)
 > - **Insurance:** Privately insured (not NCUA)
 >
@@ -231,7 +231,7 @@ Notes: Chex used, no hard pull; $500 CC funding allowed; **privately insured**.
 2. **Apply for accounts:** [https://www.mycccu.com/bee-b/](https://www.mycccu.com/bee-b/)  
 
      - Enter **Promo code:** `Bee` in the application
-     - You must open **both** Harvest Checking and Harvest High-Yield Savings accounts in the application
+     - You must open **both** Harvest Checking and Harvest High-Yield Savings
     
 3. Meet all the following requirements:
    
@@ -250,7 +250,7 @@ Notes: Chex used, no hard pull; $500 CC funding allowed; **privately insured**.
         - Must be maintained until bonus posts
         - Earn **5.00% APY on the first $5,000 only**
 
-📌 Note: eStatements enrollment uses a **separate system** and may require a **different login** — don’t skip this step. eStatements setup requires a separate enrollment — different username & password.
+📌 Note: eStatements enrollment uses a **separate system** and may require a **different login** — don’t skip this step. 
 
 ---
 
