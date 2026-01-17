@@ -14,8 +14,8 @@ Email me at **[contact@favolinkhub.com](mailto: contact@favolinkhub.com)** for m
 
 - **Bring New Money within 30 days of account opening:**
   
-  - **$1,500 bonus:** $100,000 – $249,999.99  
-  - **$2,500 bonus:** $250,000+
+   - **$1,500 bonus:** $100,000 – $249,999.99  
+   - **$2,500 bonus:** $250,000+
 
 - And: **Maintain the qualifying balance for 3 full calendar months** after account opening  
 
