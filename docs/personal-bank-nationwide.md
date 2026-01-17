@@ -126,12 +126,21 @@ Balances may be combined across:
 ---
 
 ## 🔔 HSBC Premier Checking — $1,500 or $2,500 Referral Bonus  
-**Nationwide • New HSBC Customer only · Expires: 06/30/2026**
+**Nationwide • New HSBC customers only • Expires: 06/30/2026**
+
+> 💡 **Quick Summary**
+>
+> - Earn **$1,500 or $2,500** by opening an **HSBC Premier Checking** account via referral  
+> - Deposit **$100k–$249,999.99** (for $1,500) or **$250k+** (for $2,500) within **30 days**  
+> - **Hold for 3 full calendar months** — funds can earn interest during the holding period  
+> - Eligible balances include **Checking, Savings, Brokerage (ACAT OK), and CDs**  
+> - **New HSBC U.S. customers only** — prior HSBC accounts are not eligible  
+> - Bonus is typically paid **within 1–2 months after** the holding period ends
 
 **Apply here:** [https://us.hsbc.com/refer](https://us.hsbc.com/refer)  
 
 **Referral code + referrer full name** are required at account opening.  
-Email me at **[contact@favolinkhub.com](mailto: contact@favolinkhub.com)** for my full name and referral code.
+Email me at **[contact@favolinkhub.com](mailto:contact@favolinkhub.com)**
 
 ### 💰 Requirements
 
@@ -140,14 +149,11 @@ Email me at **[contact@favolinkhub.com](mailto: contact@favolinkhub.com)** for m
 | **$1,500** | $100,000 – $249,999.99 | 3 full calendar months |
 | **$2,500** | $250,000+ | 3 full calendar months |
 
-- **Bring New Money within 30 days of account opening:**
-  
-    - **$1,500 bonus:** $100,000 – $249,999.99  
-    - **$2,500 bonus:** $250,000+
+- **Bring New Money within 30 days of account opening**
+- **Maintain the qualifying balance for 3 full calendar months** after account opening
 
-- And: **Maintain the qualifying balance for 3 full calendar months** after account opening  
-
-**Example on timeline:** If you open the account on **01/20/2026**
+**Example on timeline:** 
+If you open the account on **01/20/2026**
 
   - You must fund to your desired tier by **02/19/2026**.  
   - Your 3 full calendar month maintenance period will be **February, March, and April 2026**.  
@@ -174,7 +180,7 @@ Balances may be combined across:
     - **Premier Relationship Savings**  
     so you can earn competitive interest during the 3-month holding period
 
-  (See Editor’s Notes below for details.)
+  *(See Editor’s Notes below for details.)*
 
 ### 🧭 How to Get Your $1,500 or $2,500 Bonus (Step-by-Step)
 
@@ -216,15 +222,19 @@ Balances may be combined across:
      
       - If you place no trades, funds in Self-Directed Brokerage automatically sweep into:
         
-        - **HGDXX** (HSBC Investor U.S. Government Money Market Fund, 7-day yield of 3.39% as of 1/1/2026 ), or  
-        - **HTDXX** (HSBC U.S. Treasury Money Market Fund, 7-day yield of 3.37% as of 1/1/2026 ) 
+        - **HGDXX** — HSBC Investor U.S. Government Money Market Fund
+          *(7-day yield ~3.39% as of 01/01/2026)*  
+        - **HTDXX** — HSBC U.S. Treasury Money Market Fund  
+          *(7-day yield ~3.37% as of 01/01/2026)*
+        - You can choose between the two sweep options.
   
       - These typically yield **on par with or higher than Relationship Savings**, and:
 
         - Require **no DD or debit spend**
         - Offer **state tax advantages** due to Treasury exposure
-        - 2024 exempt rates: **52.55% (HGDXX)**, **100% (HTDXX)**
-        - This often makes Brokerage the preferred option for high-tax state residents.
+
+            - 2024 exempt rates: **52.55% (HGDXX)**, **100% (HTDXX)**
+            - This often makes Brokerage the preferred option for high-tax state residents.
 
 - **Trading fee:**
   
@@ -236,7 +246,9 @@ Balances may be combined across:
     - Waived with **$100,000+ combined balance**, or  
     - Waived with **$5,000 monthly direct deposit**
     - During the promo, the fee is automatically waived since the **minimum promo balance is $100k**.  
+
       After completing the bonus and moving funds out, simply push **$5k ACH per month** from an external bank to avoid the fee.
+
       *If you forget one month and are charged the fee, contacting customer service usually results in a **one-time courtesy refund**.*
 
 - **Funds may move during the maintenance period**  
