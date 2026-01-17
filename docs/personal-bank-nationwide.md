@@ -195,9 +195,9 @@ Bonus after ~100–145 days.
 > 🔺 **Quick Summary**
 >
 > - **Total Bonus:** $250 ($100 checking + $100 savings + $50 referral)
-> - **Savings APY:** 5.00% (on first $5,000)
+> - **Savings APY:** 5.00% (on the first $5,000)
 > - **Checking APY:** Up to 4.00% (qualification required)
-> - **Direct Deposit:** Not required for bonus  
+> - **Direct Deposit:** Not required for bonus
 > - **Funds Required:** $5,000 parked in savings (temporarily)
 > - **Credit Check:** ChexSystems only (no hard pull)
 > - **Insurance:** Privately insured (ASI, not NCUA)
@@ -207,15 +207,15 @@ Bonus after ~100–145 days.
 ### 🔗 How to Apply (Order Matters)
 
 - **Step 1 — Register referral first (required):**  
-  https://share.mycccu.com/billssophiewang
+  [Register here](https://share.mycccu.com/billssophiewang)
 
 - **Step 2 — Apply for accounts:**  
-  https://www.mycccu.com/bee-b/  
-  **Promo code:** `Bee`
+  [Apply here](https://www.mycccu.com/bee-b/)  
+  Promo code: **Bee**
 
 - **Step 3 — Open BOTH accounts in the same application:**  
-  - Harvest High-Yield Checking  
-  - Harvest High-Yield Savings  
+  Harvest High-Yield Checking  
+  Harvest High-Yield Savings
 
 ⚠️ Applying before referral registration will void the $50 referral bonus.
 
@@ -223,61 +223,49 @@ Bonus after ~100–145 days.
 
 **Harvest High-Yield Checking ($100 Bonus)**
 
-| Requirement | Details |
-| --- | --- |
-| Eligibility | New CCCU members only |
-| Digital banking | Must be enrolled |
-| eStatements | Must be enrolled |
-| Bonus posting | After **60 days** |
+- New CCCU members only
+- Must enroll in Online Banking
+- Must enroll in eStatements
+- $100 bonus posts **after 60 days**
 
 📌 **APY note:**  
 The **$500 accumulated deposits per month** requirement applies to earning the **high APY**, not strictly to the $100 checking bonus itself.
 
-** Harvest High-Yield Savings ($100 Bonus)**
+**Harvest High-Yield Savings ($100 Bonus)**
 
-| Requirement | Details |
-| --- | --- |
-| Balance requirement | **$5,000+ on Day 30 snapshot** |
-| Minimum to open | $100 |
-| Monthly fee | $5 if balance drops below $100 |
-| Bonus posting | After **Day 30** |
+- Must maintain **$5,000+ balance on the Day 30 snapshot**
+- $100 minimum to open
+- $5 monthly fee applies only if balance drops below $100
+- $100 bonus posts **after Day 30**
 
-**⏱️ Bonus Timeline (Official Terms)**
+### ⏱️ Bonus Timeline (Official Terms)
 
-| Event | Timing |
-| --- | --- |
-| Account opening | Day 0 |
-| Savings balance snapshot | **Day 30 ($5,000+)** |
-| Savings bonus posts | After Day 30 |
-| Checking bonus eligibility | 60 days |
-| Checking bonus posts | After Day 60 |
-| Referral minimum account age | 60 days |
-| Early closure risk | **Closing within 6 months forfeits bonus** |
+- **Day 0:** Accounts opened
+- **Day 30:** Savings balance snapshot ($5,000+ required)
+- **After Day 30:** $100 savings bonus posts
+- **Day 60:** Checking bonus eligibility completed
+- **After Day 60:** $100 checking bonus posts
+- **60 days:** Referral minimum account age
+- **6 months:** Closing the account before this forfeits bonuses
 
----
-
-**🎁 $50 Referral Bonus — Updated Program**
+### 🎁 $50 Referral Bonus — Updated Program
 
 > 🔔 **Important:** CCCU has upgraded its referral system.  
 > Existing members must **re-register** to continue referring.
 
-### Referral Details
+**Referral Details**
 
-| Item | Details |
-| --- | --- |
-| Reward | **$50 for you + $50 for your friend** |
-| Annual cap | $550 per calendar year |
-| Payout method | Electronic Visa® eGift Card |
-| Processing | Begins after referred account is open 60 days |
+- $50 for you + $50 for your friend
+- Annual cap: $550 per calendar year
+- Rewards are issued as **electronic Visa® eGift Cards**
+- Reward processing begins after the referred account is open **60 days**
 
-### Referred Friend Requirements
+**Referred Friend Requirements**
 
-| Requirement | Details |
-| --- | --- |
-| Referral registration | Must use referral link |
-| Membership | New CCCU membership |
-| Account opened | Deposit, loan, or credit card |
-| Account age | **60 days** |
+- Must register using the referral link
+- Must establish a **new CCCU membership**
+- Must open a **deposit account, loan, or credit card**
+- Account must remain open **at least 60 days**
 
 ### 📌 Additional Notes / DPs
 
@@ -288,14 +276,13 @@ The **$500 accumulated deposits per month** requirement applies to earning the *
 - **Credit systems:**  
   ChexSystems inquiry only; no hard pull.
 - **Funding:**  
-  Up to **$500 credit card funding** allowed for checking  
+  Up to **$500 credit card funding** allowed for checking.  
   DP: Citi Double Cash coded as purchase.
 - **Insurance:**  
   CCCU is privately insured through **ASI**, not government-backed NCUA.
 - **Fees:**  
   Checking has no monthly fee. Savings fee applies only if balance drops below $100.
 
----
 
 ## ⭐ Christian Community Credit Union (CCCU) — $200 Bonus + $50 Referral  
 **Nationwide** • **Expires: 02/28/2026**
