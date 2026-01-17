@@ -76,7 +76,7 @@ Balances may be combined across:
    (any combination is allowed)
 
 5. **Maintain the qualifying balance for 3 full calendar months** after account opening
-6. Receive **$1,500 or $2,500**, typically deposited into Checking **in two months** after the holding period ends
+6. Receive **$1,500 or $2,500**, typically deposited into Checking **in 1-2 months** after the holding period ends
 
 ### 💡 Editor’s Notes
 
