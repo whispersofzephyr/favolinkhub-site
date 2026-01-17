@@ -196,92 +196,59 @@ Bonus after ~100–145 days.
 >
 > - **Total Bonus:** $250 ($100 checking + $100 savings + $50 referral)
 > - **Savings APY:** 5.00% (on the first $5,000)
-> - **Checking APY:** Up to 4.00% (qualification required)
-> - **Direct Deposit:** Not required for bonus
-> - **Funds Required:** $5,000 parked in savings (temporarily)
+> - **Direct Deposit:** Not required
+> - **Funds Required:** $5,000 in savings (short term)
 > - **Credit Check:** ChexSystems only (no hard pull)
-> - **Insurance:** Privately insured (ASI, not NCUA)
 >
-> If you’re comfortable parking $5K short-term and following clearly defined rules, this is a straightforward, low-drama bonus.
+> Simple bonus, clear rules, no direct deposit required.
 
 ### 🔗 How to Apply (Order Matters)
 
-- **Step 1 — Register referral first (required):**  
+- **Step 1 — Register through the referral link:**  
   [Register here](https://share.mycccu.com/billssophiewang)
 
 - **Step 2 — Apply for accounts:**  
   [Apply here](https://www.mycccu.com/bee-b/)  
   Promo code: **Bee**
 
-- **Step 3 — Open BOTH accounts in the same application:**  
+- **Step 3 — Open both accounts:**  
   Harvest High-Yield Checking  
   Harvest High-Yield Savings
 
-⚠️ Applying before referral registration will void the $50 referral bonus.
+### 💰 $200 Account Bonus — What to Do
 
-### 💰 $200 Account Bonus — Requirements
+**Checking ($100 bonus)**
 
-**Harvest High-Yield Checking ($100 Bonus)**
+- Enroll in online banking
+- Enroll in eStatements
+- Keep the account open **at least 60 days**
 
-- New CCCU members only
-- Must enroll in Online Banking
-- Must enroll in eStatements
-- $100 bonus posts **after 60 days**
+**Savings ($100 bonus)**
 
-📌 **APY note:**  
-The **$500 accumulated deposits per month** requirement applies to earning the **high APY**, not strictly to the $100 checking bonus itself.
+- Have **$5,000 in savings on Day 30**
+- Keep the account open until the bonus posts
 
-**Harvest High-Yield Savings ($100 Bonus)**
+### 🎁 $50 Referral Bonus (For You)
 
-- Must maintain **$5,000+ balance on the Day 30 snapshot**
-- $100 minimum to open
-- $5 monthly fee applies only if balance drops below $100
-- $100 bonus posts **after Day 30**
+- Use the referral link **before applying**
+- Open any CCCU account
+- Keep the account open **60 days**
+- Receive a **$50 Visa® eGift Card**
 
-### ⏱️ Bonus Timeline (Official Terms)
+### ⏱️ Simple Timeline
 
-- **Day 0:** Accounts opened
-- **Day 30:** Savings balance snapshot ($5,000+ required)
-- **After Day 30:** $100 savings bonus posts
-- **Day 60:** Checking bonus eligibility completed
-- **After Day 60:** $100 checking bonus posts
-- **60 days:** Referral minimum account age
-- **6 months:** Closing the account before this forfeits bonuses
+- Open accounts
+- Make sure savings shows **$5,000 on Day 30**
+- Wait **60 days** for bonuses to post
+- Don’t close the account early
 
-### 🎁 $50 Referral Bonus — Updated Program
+### 📌 Good to Know
 
-> 🔔 **Important:** CCCU has upgraded its referral system.  
-> Existing members must **re-register** to continue referring.
+- Nationwide membership via *Christian Alliance for Orphans (CAFO)* — no donation required
+- Checking has no monthly fee
+- Savings has a $5 fee only if balance drops below $100
+- CCCU is privately insured (not NCUA)
 
-**Referral Details**
-
-- $50 for you + $50 for your friend
-- Annual cap: $550 per calendar year
-- Rewards are issued as **electronic Visa® eGift Cards**
-- Reward processing begins after the referred account is open **60 days**
-
-**Referred Friend Requirements**
-
-- Must register using the referral link
-- Must establish a **new CCCU membership**
-- Must open a **deposit account, loan, or credit card**
-- Account must remain open **at least 60 days**
-
-### 📌 Additional Notes / DPs
-
-- **Nationwide eligibility:**  
-  Join via *Christian Alliance for Orphans (CAFO)* — no donation or membership fee required.
-- **ID verification:**  
-  Driver’s license + selfie required.
-- **Credit systems:**  
-  ChexSystems inquiry only; no hard pull.
-- **Funding:**  
-  Up to **$500 credit card funding** allowed for checking.  
-  DP: Citi Double Cash coded as purchase.
-- **Insurance:**  
-  CCCU is privately insured through **ASI**, not government-backed NCUA.
-- **Fees:**  
-  Checking has no monthly fee. Savings fee applies only if balance drops below $100.
 
 
 ## ⭐ Christian Community Credit Union (CCCU) — $200 Bonus + $50 Referral  
