@@ -18,11 +18,12 @@ Email me at **contact@favolinkhub.com** for my full name and referral code.
   - **$2,500 bonus:** $250,000+
 
 - And: **Maintain the qualifying balance for 3 full calendar months** after account opening  
-(**Example:**  If you open the account on **01/20/2026**, you must fund to your desired tier by **02/19/2026**.  
-Your 3 full calendar month maintenance period will be **February, March, and April 2026**.  
-Funds can be moved out **starting in early May 2026**.)
 
-❌ **Not eligible** if you have **ever had an HSBC U.S. account**.
+**Example on timeline:**  If you open the account on **01/20/2026**, you must fund to your desired tier by **02/19/2026**.  
+Your 3 full calendar month maintenance period will be **February, March, and April 2026**.  
+Funds can be moved out **starting in early May 2026**.
+
+❌ **Not eligible** for the referral bonus if you have **ever had an HSBC U.S. account**.
 
 ### 🏦 Qualifying Accounts
 
@@ -38,9 +39,10 @@ Balances may be combined across:
 
 - Self-Directed Brokerage is **best if you ACAT assets**  
 - For **cash deposits**, most users keep funds in:
-  - **Self-Directed Brokerage sweep**, or  
-  - **Premier Relationship Savings**  
-  so you can earn competitive interest during the 3-month holding period
+  
+    - **Self-Directed Brokerage sweep**, or  
+    - **Premier Relationship Savings**  
+    so you can earn competitive interest during the 3-month holding period
 
 (See Editor’s Notes below for details.)
 
@@ -60,35 +62,41 @@ Balances may be combined across:
      - CDs  
    (any combination is allowed)
 
-5. **Maintain the qualifying balance for 3 full calendar months**
-6. Receive **$1,500 or $2,500**, typically deposited into Checking **1–2 months after** the holding period ends
+5. **Maintain the qualifying balance for 3 full calendar months** after account opening
+6. Receive **$1,500 or $2,500**, typically deposited into Checking **in two months** after the holding period ends
 
 ### 💡 Editor’s Notes
 
-- **Premier Relationship Savings — Intro Relationship APY (important):**  
-  When you open a **Premier Relationship Savings** account and link it to an open **Premier Checking** account, you automatically receive the **Relationship APY (~3.30% APY, current rate, subject to change)** for:
-  - The remainder of the current month, **plus**
-  - The **following 3 full months**  
+- **Premier Relationship Savings — Intro Relationship APY (important):**
+  
+    - When you open a **Premier Relationship Savings** account and link it to an open **Premier Checking** account, you automatically receive the **Relationship APY (~3.30% APY, current rate, subject to change)** for:
+  
+      - The remainder of the current month, **plus**
+      - The **following 3 full months**
+      
   👉 Effectively, you get **up to 4 months** of the Relationship APY **with no qualification required**.
 
-- **After the introductory period:**  
+   - **After the introductory period:**  
   To continue earning the Relationship APY, you must meet **at least ONE** of the following **in the previous month** to earn the Relationship APY in the next month:
-  - Spend **$500+** using HSBC debit cards  
-  - Pay **$500+** to HSBC credit cards from your Premier Checking  
-  - Receive **$5,000+** in qualifying third-party direct deposits to Premier Checking  
+      
+      - Spend **$500+** using HSBC debit cards  
+      - Pay **$500+** to HSBC credit cards from your Premier Checking  
+      - Receive **$5,000+** in qualifying third-party direct deposits to Premier Checking    *DPs suggest a $5k external ACH often works as DD; YMMV.*
 
-  *DPs suggest a $5k external ACH often works as DD; YMMV.*
-
-- **Brokerage option (no trading required):**  
-  If you place no trades, funds in Self-Directed Brokerage automatically sweep into:
-  - **HGDXX** (HSBC Investor U.S. Government Money Market Fund), or  
-  - **HTDXX** (HSBC U.S. Treasury Money Market Fund)
-
-  These typically yield **on par with or higher than Relationship Savings**, and:
-  - Require **no DD or debit spend**
-  - Offer **state tax advantages** due to Treasury exposure  
-    - 2024 exempt rates: **52.55% (HGDXX)**, **100% (HTDXX)**  
-  This often makes Brokerage the preferred option for high-tax state residents.
+   - **Brokerage option (no trading required):**
+     
+      - If you place no trades, funds in Self-Directed Brokerage automatically sweep into:
+        
+        - **HGDXX** (HSBC Investor U.S. Government Money Market Fund), or  
+        - **HTDXX** (HSBC U.S. Treasury Money Market Fund) 
+  
+      - These typically yield **on par with or higher than Relationship Savings**, and:
+      - Require **no DD or debit spend**
+      - Offer **state tax advantages** due to Treasury exposure
+        
+         - 2024 exempt rates: **52.55% (HGDXX)**, **100% (HTDXX)**
+           
+      - his often makes Brokerage the preferred option for high-tax state residents.
 
 - **Trading (optional):**
   - Stocks / ETFs / mutual funds: **$10.99 per online trade**
