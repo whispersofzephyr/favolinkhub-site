@@ -1,5 +1,68 @@
 # Crypto 
 
+## 🪙 eToro — Up to $530 Bonus ($500 Crypto Bonus + $30 Referral)
+**Nationwide excluding NY, NV, and HI · One account per person/household · Expires 01/31/2026**
+
+**Referral link:** [https://etoro.tw/4qoJGcA](https://etoro.tw/4qoJGcA)
+
+### Bonus Overview (New Users)
+New users may earn **up to $530 total**:
+- **$500 crypto bonus** for depositing **$5,000+**
+- **$30 referral bonus** for making a **first-time deposit of at least $100 within 30 days** of account opening  
+  *(If you deposit $5,000 for the $500 crypto bonus, this **automatically satisfies** the referral requirement.)*
+
+**Important:** the **$5,000 deposit must be one single transaction**. Splitting deposits has produced **lower-tier payouts** in multiple user reports.
+
+### Deposit Tiers (Crypto Bonus)
+| Deposit Amount | Crypto Bonus |
+|---:|---:|
+| $200–$499 | $10 |
+| $500–$2,499 | $30 |
+| $2,500–$4,999 | $200 |
+| $5,000+ | $500 |
+
+- Deposit deadline: **January 31, 2026**
+- Deposit must remain in the account for **90 days**
+
+### $500 Crypto Bonus Details
+- You choose which crypto you want as the bonus when prompted.
+- Options reported by users include: **BTC, ETH, XRP, ADA, DOGE, XLM** (may vary).
+- You can typically **sell the bonus crypto immediately** once received and hold cash, as long as the original deposit stays for 90 days.
+- Some users park funds in low-risk ETFs (e.g., **BIL**, **SHV**) during the 90-day hold period.
+
+### Bonus Timing 
+**$500 Crypto Bonus**
+- Often credited **very quickly** after the qualifying deposit (many reports show **within minutes**).
+- Per T&C, eToro has **up to 7 days** to credit the bonus, so short delays can still be normal.
+- No manual claim required; the bonus is **auto-credited** once eligible.
+
+**$30 Referral Bonus**
+- **Not instant.**
+- Typically posts **within ~14 days** after the referred user completes the qualifying deposit.
+- Once credited, eToro sends an email like **“You just received $30!”**, and it appears in the **cash balance**.
+
+### How to Get the Full $500 Cypto + $30 Referral Bonus (Simple Steps)
+1. Sign up using referral link [https://etoro.tw/4qoJGcA](https://etoro.tw/4qoJGcA)
+2. Complete identity verification.
+3. Make **one single deposit of $5,000 or more** during the promo window.
+4. Select your crypto for the bonus when prompted.
+5. Keep the $5000 deposited funds in the account for **90 days**.
+
+### Notes / Gotchas
+- **First deposit only counts** for tier determination (multiple deposits are not combined).
+- Bank linking (Plaid) can be inconsistent for some banks.
+- PayPal, debit card, or ACH may work depending on the account.
+- No trading requirement for the $500 crypto bonus.
+
+### Existing Users
+- Existing eToro users may qualify for the **$500 deposit bonus only** if they received a **targeted email** (e.g., subject like *“Get up to $500 in crypto”*).
+- The **$30 referral bonus applies to new users only**, not existing accounts.
+
+### Referral Terms (Official PDF)
+- [https://marketing.etorostatic.com/lp/raf/Terms/etoro_USA_LLC_refer_a_friend_terms_and_conditions.pdf](https://marketing.etorostatic.com/lp/raf/Terms/etoro_USA_LLC_refer_a_friend_terms_and_conditions.pdf)
+
+---
+
 ## 🪙 Kraken $75 - $150 Referral + Capital One Shopping $250 or Rakuten $50–$150 or TopCashBack $202
 
 **Referral availability: Nationwide (excluding ME, WA, NY) · No Expiration Date**    
@@ -152,55 +215,6 @@ Some users will see a **Spin to Win** button in the app.
 - **Deposit $200 or more** in cash or crypto.
 - **Buy $200 or more** worth of crypto within the required timeframe.
 - To unlock $200 rewards, maintain a **daily average portfolio balance of $200 for any 30 days within a 90-day period**.
-
----
-
-## 🪙 eToro — Up to $530 Bonus ($500 Crypto Bonus + $30 Referral)
-**Nationwide excluding NY, NV, and HI · one account per person/household · Expires 01/31/2026**
-
-**Referral link:** [https://etoro.tw/4qoJGcA](https://etoro.tw/4qoJGcA)
-
-### Bonus Overview (New Users)
-New users may earn **up to $530 total**:
-- **$500 crypto bonus** for depositing **$5,000+**
-- **$30 referral bonus** (eToro referral)
-
-**Important:** deposit should be **one single transaction**. Splitting deposits has produced **lower-tier payouts** in user reports.
-
-### Deposit Tiers (Crypto Bonus)
-| Deposit Amount | Crypto Bonus |
-|---:|---:|
-| $200–$499 | $10 |
-| $500–$2,499 | $30 |
-| $2,500–$4,999 | $200 |
-| $5,000+ | $500 |
-
-- Deposit deadline: **January 31, 2026**
-- Deposit must remain in the account for **90 days**
-
-### Crypto Bonus Details
-- You pick which crypto you want as the bonus when prompted.
-- Options reported by users include: **BTC, ETH, XRP, ADA, DOGE, XLM** (may vary).
-- Bonus is often credited quickly after the deposit settles.
-- You can typically **sell the bonus crypto immediately** and hold cash, as long as the original deposit stays for 90 days.
-
-### How to Get the Full $500 Cypto + $30 Referral Bonus (Simple Steps)
-1. Sign up using referral link [https://etoro.tw/4qoJGcA](https://etoro.tw/4qoJGcA)
-2. Complete identity verification.
-3. Make **one single deposit of $5,000 or more** during the promo window.
-4. Select your crypto for the bonus when prompted.
-5. Keep the deposited funds in the account for **90 days**.
-
-### Notes / Gotchas
-- Bank linking (Plaid) can be inconsistent for some banks; debit card may work but depends on card limits.
-- No trading requirement for the $500 Crypto bonus.
-
-### Existing Users
-- Existing eToro users may qualify for the **$500 deposit bonus** only if they received a **targeted email** (e.g., subject like “Get up to $500 in crypto”).
-- The **referral bonus does not apply** to existing users.
-
-### Referral Terms (Official PDF)
-- [https://marketing.etorostatic.com/lp/raf/Terms/etoro_USA_LLC_refer_a_friend_terms_and_conditions.pdf](https://marketing.etorostatic.com/lp/raf/Terms/etoro_USA_LLC_refer_a_friend_terms_and_conditions.pdf)
 
 ---
 
