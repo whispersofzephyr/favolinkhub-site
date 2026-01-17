@@ -189,27 +189,6 @@ Bonus after ~100–145 days.
 
 ---
 
-## ⭐ Christian Community Credit Union (CCCU) — $200 Bonus + $50 Referral
-**Nationwide** • **Expires:** 02/28/2026
-
-- Register referral first: [Referral registration](https://share.mycccu.com/billssophiewang)
-- Apply: [Apply here](https://www.mycccu.com/bee-b/)
-- Promo code: **Bee**
-
-### $200 bonus + 5.00% APY (up to $5k)
-- Open Harvest Checking + Savings
-- Online banking + eStatements
-- Debit card activation
-- $500/month deposits into checking (first 60 days)
-- Maintain $5,000 in savings
-
-### $50 referral
-Account open 60+ days → $50 Visa eGift Card.
-
-Notes: Chex used, no hard pull; $500 CC funding allowed; **privately insured**.
-
----
-
 ## ⭐ Christian Community Credit Union (CCCU) — $200 Bonus + $50 Referral  
 **Nationwide** • **Expires: 02/28/2026**
 
@@ -228,14 +207,14 @@ Notes: Chex used, no hard pull; $500 CC funding allowed; **privately insured**.
 
 1. **Register at referral link first:** [Register here](https://share.mycccu.com/billssophiewang)
 
-2. **Apply for accounts:** [https://www.mycccu.com/bee-b/](https://www.mycccu.com/bee-b/)  
+2. **Apply for accounts at:** [https://www.mycccu.com/bee-b/](https://www.mycccu.com/bee-b/)  
 
      - Enter **Promo code:** `Bee` in the application
      - You must open **both** Harvest Checking and Harvest High-Yield Savings
     
-3. Meet all the following requirements:
+3. Meet **all** the following requirements:
    
-    - Harvest Checking
+    - **Harvest Checking**
 
         - Enroll in **Online Banking**
         - Enroll in **eStatements**
@@ -243,7 +222,7 @@ Notes: Chex used, no hard pull; $500 CC funding allowed; **privately insured**.
         - Receive **$500 total deposits per calendar month**  
           (for the first 60 days after account opening)
 
-    - Harvest High-Yield Savings
+    - **Harvest High-Yield Savings**
 
         - Maintain **$5,000 balance**
         - Typically required by **Day 30**
