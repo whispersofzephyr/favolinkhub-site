@@ -183,7 +183,7 @@ Nationwide membership is available via a **$5 donation** to the OnPath Foundatio
   - **Rewards Cash Back Checking** — **5% cash back** on debit purchases, **up to $8/month** (5% of $160 max)  
     *(Both have no monthly fee and no minimum balance.)*
 
-**Step 3 — Within 60 days, complete BOTH**
+**Step 3 — Within 60 days, complete BOTH requirements**
 
   - Make **15 debit card purchases of $10 or more each** (non-ATM)  
   - Receive **$250+ total direct deposit(s)**
