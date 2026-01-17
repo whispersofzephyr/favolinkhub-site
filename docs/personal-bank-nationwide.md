@@ -3,25 +3,22 @@
 These accounts are available to most U.S. residents without geographic restrictions.
 
 ## 🔔 HSBC Premier Checking — $1,500 or $2,500 Referral Bonus  
-**Nationwide • Expires: 06/30/2026**
+**Nationwide • New HSBC Customer only · Expires: 06/30/2026**
 
-**Apply here:**  
-👉 https://us.hsbc.com/refer
+**Apply here:** [https://us.hsbc.com/refer](https://us.hsbc.com/refer)  
 
 **Referral code + referrer full name** are required at account opening.  
 Email me at **contact@favolinkhub.com** for my full name and referral code.
 
 ### 💰 Requirements
 
-**Bring New Money within 30 days of account opening:**
-- **$1,500 bonus:** $100,000 – $249,999.99  
-- **$2,500 bonus:** $250,000+
+- **Bring New Money within 30 days of account opening:**
+  - **$1,500 bonus:** $100,000 – $249,999.99  
+  - **$2,500 bonus:** $250,000+
 
-And:
-- **Maintain the qualifying balance for 3 full calendar months** after account opening
-
-**Example:**  
-If you open the account on **01/20/2026**, you must fund to your desired tier by **02/19/2026**.  
+- And: **Maintain the qualifying balance for 3 full calendar months** after account opening
+  
+**Example:**  If you open the account on **01/20/2026**, you must fund to your desired tier by **02/19/2026**.  
 Your 3 full calendar month maintenance period will be **February, March, and April 2026**.  
 Funds can be moved out **starting in early May 2026**.
 
@@ -30,6 +27,7 @@ Funds can be moved out **starting in early May 2026**.
 ### 🏦 Qualifying Accounts
 
 Balances may be combined across:
+
 - Premier Checking  
 - Savings  
 - Premier Relationship Savings  
@@ -37,6 +35,7 @@ Balances may be combined across:
 - CDs (6 / 12 / 24 months)
 
 **Account strategy (important):**  
+
 - Self-Directed Brokerage is **best if you ACAT assets**  
 - For **cash deposits**, most users keep funds in:
   - **Self-Directed Brokerage sweep**, or  
@@ -47,16 +46,20 @@ Balances may be combined across:
 
 ### 🧭 How to Get Your $1,500 or $2,500 Bonus (Step-by-Step)
 
-1. Open **Premier Checking** using the referral link  
+1. Open **Premier Checking** using the referral link
+     
    - You may select Premier Relationship Savings during application, but it can also be added later  
    - Brokerage must be applied for **after** Checking is open
+     
 2. Add Savings / Brokerage / CDs as needed
 3. Deposit **a few dollars into Checking** to prevent account closure
 4. Deposit or ACAT **$100k or $250k+** into:
+   
    - Premier Relationship Savings, and/or  
    - Self-Directed Brokerage, and/or  
    - CDs  
    (any combination is allowed)
+
 5. **Maintain the qualifying balance for 3 full calendar months**
 6. Receive **$1,500 or $2,500**, typically deposited into Checking **1–2 months after** the holding period ends
 
