@@ -2,30 +2,110 @@
 
 These accounts are available to most U.S. residents without geographic restrictions.
 
-## 🔔 HSBC Premier Checking — $1,500 or $2,500 Referral Bonus
-**Nationwide** • **Expires:** 06/30/2026 
+## 🔔 HSBC Premier Checking — $1,500 or $2,500 Referral Bonus  
+**Nationwide • Expires: 06/30/2026**
 
-Apply here: [https://us.hsbc.com/refer](https://us.hsbc.com/refer)  
+**Apply here:**  
+👉 https://us.hsbc.com/refer
 
-Referral code + referrer full name required at account opening — email me at [contact@favolinkhub.com](contact@favolinkhub.com)
+**Referral code + referrer full name** are required at account opening.  
+Email me at **contact@favolinkhub.com** for my full name and referral code.
 
-### Requirements
+### 💰 Requirements
 
-1. Bring **New Money** within **30 days**:
+**Bring New Money within 30 days of account opening:**
+- **$1,500 bonus:** $100,000 – $249,999.99  
+- **$2,500 bonus:** $250,000+
 
-    - **$1,500 bonus:** $100,000–$249,999.99  
-    - **$2,500 bonus:** $250,000+  
+And:
+- **Maintain the qualifying balance for 3 full calendar months** after account opening
 
-2. Maintain qualifying balance for **3 full calendar months**.
+**Example:**  
+If you open the account on **01/20/2026**, you must fund to your desired tier by **02/19/2026**.  
+Your 3 full calendar month maintenance period will be **February, March, and April 2026**.  
+Funds can be moved out **starting in early May 2026**.
 
-**Not eligible** if you’ve ever had an HSBC US account.
+❌ **Not eligible** if you have **ever had an HSBC U.S. account**.
 
-### Editor’s notes
-- Checking, savings, brokerage (ACAT ok), CDs all qualify
-- Open checking first, then add savings/brokerage/CDs
-- Premier Savings rate: **3.30% APY** with $5k DD or $500 debit spend (DPs: $5k ACH may work)
-- Brokerage sweep options: **HGDXX / HTDXX** (state tax advantages)
-- Keep some balance in checking to avoid closure issues
+### 🏦 Qualifying Accounts
+
+Balances may be combined across:
+- Premier Checking  
+- Savings  
+- Premier Relationship Savings  
+- Self-Directed Brokerage (**ACAT OK**)  
+- CDs (6 / 12 / 24 months)
+
+**Account strategy (important):**  
+- Self-Directed Brokerage is **best if you ACAT assets**  
+- For **cash deposits**, most users keep funds in:
+  - **Self-Directed Brokerage sweep**, or  
+  - **Premier Relationship Savings**  
+  so you can earn competitive interest during the 3-month holding period
+
+(See Editor’s Notes below for details.)
+
+### 🧭 How to Get Your $1,500 or $2,500 Bonus (Step-by-Step)
+
+1. Open **Premier Checking** using the referral link  
+   - You may select Premier Relationship Savings during application, but it can also be added later  
+   - Brokerage must be applied for **after** Checking is open
+2. Add Savings / Brokerage / CDs as needed
+3. Deposit **a few dollars into Checking** to prevent account closure
+4. Deposit or ACAT **$100k or $250k+** into:
+   - Premier Relationship Savings, and/or  
+   - Self-Directed Brokerage, and/or  
+   - CDs  
+   (any combination is allowed)
+5. **Maintain the qualifying balance for 3 full calendar months**
+6. Receive **$1,500 or $2,500**, typically deposited into Checking **1–2 months after** the holding period ends
+
+### 💡 Editor’s Notes
+
+- **Premier Relationship Savings — Intro Relationship APY (important):**  
+  When you open a **Premier Relationship Savings** account and link it to an open **Premier Checking** account, you automatically receive the **Relationship APY (~3.30% APY, current rate, subject to change)** for:
+  - The remainder of the current month, **plus**
+  - The **following 3 full months**  
+  👉 Effectively, you get **up to 4 months** of the Relationship APY **with no qualification required**.
+
+- **After the introductory period:**  
+  To continue earning the Relationship APY, you must meet **at least ONE** of the following **in the previous month** to earn the Relationship APY in the next month:
+  - Spend **$500+** using HSBC debit cards  
+  - Pay **$500+** to HSBC credit cards from your Premier Checking  
+  - Receive **$5,000+** in qualifying third-party direct deposits to Premier Checking  
+
+  *DPs suggest a $5k external ACH often works as DD; YMMV.*
+
+- **Brokerage option (no trading required):**  
+  If you place no trades, funds in Self-Directed Brokerage automatically sweep into:
+  - **HGDXX** (HSBC Investor U.S. Government Money Market Fund), or  
+  - **HTDXX** (HSBC U.S. Treasury Money Market Fund)
+
+  These typically yield **on par with or higher than Relationship Savings**, and:
+  - Require **no DD or debit spend**
+  - Offer **state tax advantages** due to Treasury exposure  
+    - 2024 exempt rates: **52.55% (HGDXX)**, **100% (HTDXX)**  
+  This often makes Brokerage the preferred option for high-tax state residents.
+
+- **Trading (optional):**
+  - Stocks / ETFs / mutual funds: **$10.99 per online trade**
+  - Bonds / T-Bills: phone order with CUSIP, **$35 per order**
+
+- **$50/month Premier fee (how it works):**
+  - Waived with **$100,000+ combined balance**, or  
+  - Waived with **$5,000 monthly direct deposit**
+
+  During the promo, the fee is automatically waived since the **minimum promo balance is $100k**.  
+  After completing the bonus and moving funds out, simply push **$5k ACH per month** from an external bank to avoid the fee.
+
+  *If you forget one month and are charged the fee, contacting customer service usually results in a **one-time courtesy refund**.*
+
+- **Funds may move during the maintenance period**  
+  As long as the **combined balance** does not drop below the required tier.
+
+- **Do NOT zero out Checking**  
+  Some DPs report bonus failures when Premier Checking is closed due to a $0 balance.  
+  Always keep a small balance in Checking.
 
 ---
 
