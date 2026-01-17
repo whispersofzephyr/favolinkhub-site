@@ -29,6 +29,25 @@ Referral code + referrer full name required at account opening — email me at [
 
 ---
 
+## ⭐ Varo Money — $100 Referral Bonus
+**Nationwide** • **No Expiration Date**
+
+### **How to get the $100 bonus (Step-by-Step)**
+
+1. Open a new **Varo Bank Account** using this referral link:  
+   👉 [Sign up here](https://varomoney.com/r1/?r=Zhishan)
+
+2. Receive **$500 in qualifying direct deposits** within **45 days**
+
+   > **Qualifying direct deposit** = payroll / pension / government benefits  
+   > ❌ Venmo, Zelle, P2P transfers do **not** qualify  
+   > 💡 DP suggests **Chase Business Payment** works
+
+3. **Get a $100 cash bonus**  
+   *(Usually deposited within ~2 days after the qualifying direct deposit is received)*
+
+---
+
 ## 🎉 OnPath FCU — $150 Referral Bonus
 **Nationwide** • **No Expiration Date** 
 
@@ -59,17 +78,6 @@ Promo code: **2026REFER**
 - 2 × $500 DDs
 
 Bonus after ~100–145 days.
-
----
-
-## ⭐ Varo Money — $100 Referral Bonus
-**Nationwide** • **No Expiration Date** 
-
-Referral: [Sign up here](https://varomoney.com/r1/?r=Zhishan)
-
-Requirement:
-- $500+ DD within 45 days  
-Both sides get $100.
 
 ---
 
@@ -111,7 +119,7 @@ Email me for my name: [contact@favolinkhub.com](contact@favolinkhub.com)
 
 ---
 
-## 💵 OnePay Cash — $50 Cash Back 
+## 💰 OnePay Cash — $50 Cash Back 
 **Nationwide · Expires 02/15/2026**
 
 Open a **OnePay Cash** account using the referral link below and **earn $50 cash back (paid as points)** after unlocking **Cash+** within **45 days**.
