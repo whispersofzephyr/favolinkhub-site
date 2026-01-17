@@ -210,10 +210,8 @@ Notes: Chex used, no hard pull; $500 CC funding allowed; **privately insured**.
 
 ---
 
-⭐ **Christian Community Credit Union (CCCU) — $200 Bonus + $50 Referral**  
-Nationwide • **Expires: 02/28/2026**
-
----
+## ⭐ Christian Community Credit Union (CCCU) — $200 Bonus + $50 Referral**  
+**Nationwide** • **Expires: 02/28/2026**
 
 > 🔺 **Quick Summary**
 >
@@ -228,37 +226,40 @@ Nationwide • **Expires: 02/28/2026**
 
 ---
 
-## 🔗 Important — Follow This Order
+## 🔗 How to get the $200 Bonus + $50 Referral (Step-by-step)
 
-1. **Register referral first (required):**  
-   👉 https://share.mycccu.com/billssophiewang
+1. **Register at referral link first:** [Register here](https://share.mycccu.com/billssophiewang)
 
-2. **Apply for accounts:**  
-   👉 https://www.mycccu.com/bee-b/  
-   **Promo code:** `Bee`
+2. **Apply for accounts:** [https://www.mycccu.com/bee-b/](https://www.mycccu.com/bee-b/)  
 
-⚠️ Applying before referral registration will void the $50 referral bonus.
+   - Enter **Promo code:** `Bee` in the application
+   - You must open **both** Harvest Checking and Harvest High-Yield Savings accounts in the application
+    
+3. Meet all the following requirements:
+   
+  - Harvest Checking
+
+    - Enroll in **Online Banking**
+    - Enroll in **eStatements**
+    - **Activate debit card**
+    - Receive **$500 total deposits per calendar month**  
+      (for the first 60 days after account opening)
+
+  - Harvest High-Yield Savings
+
+    - Maintain **$5,000 balance**
+    - Typically required by **Day 30**
+    - Must be maintained until bonus posts
+    - Earn **5.00% APY on the first $5,000 only**
+
+📌 Note: eStatements enrollment uses a **separate system** and may require a **different login** — don’t skip this step. eStatements setup requires a separate enrollment — different username & password.
 
 ---
 
 ## 💰 $200 Account Bonus + 5.00% APY (Full Requirements)
 
-You must open **both** accounts and meet **all** conditions below.
 
-### Harvest Checking
-- Enroll in **Online Banking**
-- Enroll in **eStatements**
-- **Activate debit card**
-- Receive **$500 total deposits per calendar month**  
-  (for the first 60 days after account opening)
 
-### Harvest High-Yield Savings
-- Maintain **$5,000 balance**
-  - Typically required by **Day 30**
-  - Must be maintained until bonus posts
-- Earn **5.00% APY on the first $5,000 only**
-
-📌 Note: eStatements enrollment uses a **separate system** and may require a **different login** — don’t skip this step.
 
 ---
 
