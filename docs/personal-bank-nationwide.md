@@ -210,6 +210,95 @@ Notes: Chex used, no hard pull; $500 CC funding allowed; **privately insured**.
 
 ---
 
+⭐ **Christian Community Credit Union (CCCU) — $200 Bonus + $50 Referral**  
+Nationwide • **Expires: 02/28/2026**
+
+---
+
+> 🔺 **Quick Summary**
+>
+> - **Total Bonus:** $250 ($200 account bonus + $50 referral)
+> - **APY:** 5.00% (on first $5,000 in savings)
+> - **Direct Deposit Required:** Yes — $500/month for first 2 months
+> - **Funds Locked:** $5,000 in savings (temporarily)
+> - **Credit Check:** ChexSystems only (no hard pull)
+> - **Insurance:** Privately insured (not NCUA)
+>
+> If you’re OK with locking $5K short-term and doing small ACH/DD activity, this is a solid, rule-based bonus.
+
+---
+
+## 🔗 Important — Follow This Order
+
+1. **Register referral first (required):**  
+   👉 https://share.mycccu.com/billssophiewang
+
+2. **Apply for accounts:**  
+   👉 https://www.mycccu.com/bee-b/  
+   **Promo code:** `Bee`
+
+⚠️ Applying before referral registration will void the $50 referral bonus.
+
+---
+
+## 💰 $200 Account Bonus + 5.00% APY (Full Requirements)
+
+You must open **both** accounts and meet **all** conditions below.
+
+### Harvest Checking
+- Enroll in **Online Banking**
+- Enroll in **eStatements**
+- **Activate debit card**
+- Receive **$500 total deposits per calendar month**  
+  (for the first 60 days after account opening)
+
+### Harvest High-Yield Savings
+- Maintain **$5,000 balance**
+  - Typically required by **Day 30**
+  - Must be maintained until bonus posts
+- Earn **5.00% APY on the first $5,000 only**
+
+📌 Note: eStatements enrollment uses a **separate system** and may require a **different login** — don’t skip this step.
+
+---
+
+## 🎁 $50 Referral Bonus
+
+- Referral registration must be completed **before applying**
+- Account must remain open **at least 60 days**
+- Bonus is paid as a **$50 Visa® eGift Card**
+
+---
+
+## 📌 Additional Notes / DPs
+
+- **Nationwide eligibility:**  
+  Join via *Christian Alliance for Orphans (CAFO)* — free, no membership fee
+- **ID verification:** Driver’s license + selfie
+- **Credit system:**  
+  ChexSystems used, **no hard pull**
+- **Funding:**  
+  Up to **$500 credit card funding allowed**  
+  DP: Citi Double Cash coded as purchase
+- **Insurance:**  
+  CCCU is **privately insured**, **not NCUA**
+
+---
+
+## 📝 Who This Is / Isn’t For
+
+**Good fit if you:**
+- Are comfortable parking $5K short-term
+- Don’t mind small ACH/DD activity
+- Prefer clear, rule-based bonuses
+
+**Not ideal if you:**
+- Avoid privately insured institutions
+- Don’t want to deal with eStatements or debit requirements
+- Want zero-maintenance bonuses
+
+---
+
 ## 💵 KeyPoint Credit Union — $300 Referral Bonus
 **Nationwide** • **Expires:** 03/31/2026
 
