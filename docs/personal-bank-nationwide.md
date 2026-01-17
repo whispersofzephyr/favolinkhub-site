@@ -13,14 +13,14 @@ Email me at **contact@favolinkhub.com** for my full name and referral code.
 ### 💰 Requirements
 
 - **Bring New Money within 30 days of account opening:**
+  
   - **$1,500 bonus:** $100,000 – $249,999.99  
   - **$2,500 bonus:** $250,000+
 
-- And: **Maintain the qualifying balance for 3 full calendar months** after account opening
-  
-**Example:**  If you open the account on **01/20/2026**, you must fund to your desired tier by **02/19/2026**.  
+- And: **Maintain the qualifying balance for 3 full calendar months** after account opening  
+(**Example:**  If you open the account on **01/20/2026**, you must fund to your desired tier by **02/19/2026**.  
 Your 3 full calendar month maintenance period will be **February, March, and April 2026**.  
-Funds can be moved out **starting in early May 2026**.
+Funds can be moved out **starting in early May 2026**.)
 
 ❌ **Not eligible** if you have **ever had an HSBC U.S. account**.
 
@@ -48,16 +48,16 @@ Balances may be combined across:
 
 1. Open **Premier Checking** using the referral link
      
-   - You may select Premier Relationship Savings during application, but it can also be added later  
-   - Brokerage must be applied for **after** Checking is open
+     - You may select Premier Relationship Savings during application, but it can also be added later  
+     - Brokerage must be applied for **after** Checking is open
      
 2. Add Savings / Brokerage / CDs as needed
 3. Deposit **a few dollars into Checking** to prevent account closure
 4. Deposit or ACAT **$100k or $250k+** into:
    
-   - Premier Relationship Savings, and/or  
-   - Self-Directed Brokerage, and/or  
-   - CDs  
+     - Premier Relationship Savings, and/or  
+     - Self-Directed Brokerage, and/or  
+     - CDs  
    (any combination is allowed)
 
 5. **Maintain the qualifying balance for 3 full calendar months**
