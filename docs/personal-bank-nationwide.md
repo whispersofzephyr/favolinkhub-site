@@ -412,7 +412,7 @@ You have to have a portal account so that the portal cashback is credited to you
 **Current portal offers (as of 1/18/26):**
 
 - **TopCashBack:** $200  
-  [https://www.topcashback.com/raisin/](https://www.topcashback.com/raisin/) 
+  [https://www.topcashback.com/raisin/](https://www.topcashback.com/raisin/)   
   *Requires $10,000 deposit, 21-day hold*
 
 - **Rakuten:** $100  
