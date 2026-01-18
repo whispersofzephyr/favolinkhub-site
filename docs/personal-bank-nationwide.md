@@ -378,7 +378,7 @@ New customers only. No stacking with portals.
 > - **Hold period:** 90 days  
 > - **Minimum deposit:** $10,000  
 > - **Eligibility:** New Raisin customers only  
-> - **Portal cashback:** Optional / YMMV  
+> - **Stack with Portal cashback:** Optional / YMMV  
 > - **Cannot combine** with Raisin promo codes (**GIFT**, **SAVE2026**)
 
 
@@ -406,16 +406,17 @@ Bonus is based on how much you deposit **within 14 days** and **maintain for 90 
 
 Some users have successfully stacked referral + portal cashback, but **not guaranteed**.
 
-Portal cashback is **paid by the portal, not Raisin**.
+Portal cashback is **paid by the portal, not Raisin**. 
+You have to have a portal account so that the portal cashback is credited to your account.
 
 **Current portal offers (as of 1/18/26):**
 
 - **TopCashBack:** $200  
-  https://www.topcashback.com/raisin/  
+  [https://www.topcashback.com/raisin/](https://www.topcashback.com/raisin/) 
   *Requires $10,000 deposit, 21-day hold*
 
 - **Rakuten:** $100  
-  https://www.rakuten.com/shop/raisin  
+  [https://www.rakuten.com/shop/raisin](https://www.rakuten.com/shop/raisin)  
   *Requires $100 deposit, 14-day hold*
 
 Using a referral code is **not officially supported** by portals.  
@@ -435,7 +436,7 @@ If it tracks, great. If not, portal bonus may be denied.
 
 **Option B — Referral only (safe path):**
 
-1. Apply directly at https://www.raisin.com/  
+1. Apply directly at [https://www.raisin.com/](https://www.raisin.com/)  
 2. Enter referral code: **zhishanw062956**  
 3. Deposit **$10,000+ within 14 days**  
 4. Maintain balance for **90 days**  
@@ -452,7 +453,7 @@ Per official terms:
 **In short:**
 - Referral + GIFT — **not allowed**
 - Referral + SAVE2026 — **not allowed**
-- Choose **one** Raisin bonus path + Portal (Optional)
+- Choose **one** Raisin bonus path + one Portal offer (Optional)
 
 ### Why choose the referral bonus?
 
