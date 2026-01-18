@@ -388,26 +388,8 @@ html {
   }
 }
 
-@media screen and (min-width: 960px) {
-  .md-sidebar--primary {
-    border-right: 1px solid rgba(0, 0, 0, 0.05);
-  }
 
-  .md-sidebar--secondary {
-    border-left: 1px solid rgba(0, 0, 0, 0.05);
-  }
-}
 
-/* === Desktop only: sidebar borders for structure === */
-@media screen and (min-width: 960px) {
-  .md-sidebar--primary {
-    border-right: 2px solid #c6d0e1;
-  }
-
-  .md-sidebar--secondary {
-    border-left: 2px solid #c6d0e1;
-  }
-}
 
 
 
