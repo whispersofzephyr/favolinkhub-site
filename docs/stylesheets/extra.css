@@ -406,13 +406,13 @@ html {
   /* Material 有时会在侧栏内部再铺一层背景 */
   .md-sidebar__scrollwrap,
   .md-sidebar__inner {
-    background: transparent;
+    background: #f5f9ff;
   }
 
   /* 有些版本 TOC/导航区域自身也有白底 */
   .md-sidebar--primary .md-nav,
   .md-sidebar--secondary .md-nav {
-    background: transparent;
+    background: #f5f9ff;
   }
 
   /* 继续保证侧栏容器本身是淡底色 */
