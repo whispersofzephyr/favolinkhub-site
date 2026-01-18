@@ -409,26 +409,6 @@ html {
   }
 }
 
-/* Desktop only: full-height separators between sidebars and content */
-@media (min-width: 60em) {
-
-  /* left sidebar separator */
-  .md-sidebar--primary .md-sidebar__scrollwrap {
-    border-right: 1px solid rgba(0, 0, 0, 0.10);
-  }
-
-  /* right sidebar (toc) separator */
-  .md-sidebar--secondary .md-sidebar__scrollwrap {
-    border-left: 1px solid rgba(0, 0, 0, 0.10);
-  }
-
-  /* in case something is layering over it */
-  .md-sidebar--primary,
-  .md-sidebar--secondary {
-    position: relative;
-    z-index: 2;
-  }
-}
 
 
 
