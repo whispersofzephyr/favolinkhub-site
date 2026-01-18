@@ -226,21 +226,6 @@ Nationwide membership is available via a **$5 donation** to the OnPath Foundatio
 
 ---
 
-## 💎 PSECU — $300 Referral Bonus
-**Nationwide** • **Expires:** 12/31/2026
-
-Apply: [Apply here](https://refer.psecu.com/Zhishan)  
-
-Promo code: **2026REFER**
-
-- Open savings + checking + debit
-- Enroll digital banking
-- 2 × $500 DDs
-
-Bonus after ~100–145 days.
-
----
-
 ## ⭐ Christian Community Credit Union (CCCU) — $200 Bonus + $50 Referral  
 **Nationwide** • **Expires: 02/28/2026**
 
@@ -349,6 +334,21 @@ Open a **OnePay Cash** account using the referral link below and **earn $50 cash
 - Must be a **new OnePay user**.
 - Account must be **open and in good standing** when points are awarded.
 - Points typically post **within 5 days** after all requirements are met.
+
+---
+
+## 💎 PSECU — $300 Referral Bonus
+**Nationwide** • **Expires:** 12/31/2026
+
+Apply: [Apply here](https://refer.psecu.com/Zhishan)  
+
+Promo code: **2026REFER**
+
+- Open savings + checking + debit
+- Enroll digital banking
+- 2 × $500 DDs
+
+Bonus after ~100–145 days.
 
 ---
 
