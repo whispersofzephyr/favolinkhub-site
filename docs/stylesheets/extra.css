@@ -398,6 +398,16 @@ html {
   }
 }
 
+/* === Desktop only: sidebar borders for structure === */
+@media screen and (min-width: 960px) {
+  .md-sidebar--primary {
+    border-right: 2px solid #c6d0e1;
+  }
+
+  .md-sidebar--secondary {
+    border-left: 2px solid #c6d0e1;
+  }
+}
 
 
 
