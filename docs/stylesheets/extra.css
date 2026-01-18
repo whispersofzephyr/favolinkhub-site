@@ -388,36 +388,5 @@ html {
   }
 }
 
-/* 只在桌面端给左右侧边栏加一个很浅的背景色 */
-@media screen and (min-width: 960px) {
-  /* 左侧主导航栏区域背景 */
-  .md-sidebar--primary {
-    background-color: #eaf3ff;  /* 很淡的蓝色，可改 */
-  }
 
-  /* 右侧 TOC 区域背景 */
-  .md-sidebar--secondary {
-    background-color: #eaf3ff;  /* 同样的很淡蓝色 */
-  }
-}
 
-/* 桌面端：让侧栏“内容层”的背景不要盖住侧栏底色 */
-@media screen and (min-width: 960px) {
-  /* Material 有时会在侧栏内部再铺一层背景 */
-  .md-sidebar__scrollwrap,
-  .md-sidebar__inner {
-    background: #eaf3ff;
-  }
-
-  /* 有些版本 TOC/导航区域自身也有白底 */
-  .md-sidebar--primary .md-nav,
-  .md-sidebar--secondary .md-nav {
-    background: #eaf3ff;
-  }
-
-  /* 继续保证侧栏容器本身是淡底色 */
-  .md-sidebar--primary,
-  .md-sidebar--secondary {
-    background-color: #eaf3ff;
-  }
-}
