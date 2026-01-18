@@ -392,12 +392,12 @@ html {
 @media screen and (min-width: 960px) {
   /* 左侧主导航栏区域背景 */
   .md-sidebar--primary {
-    background-color: #f5f9ff;  /* 很淡的蓝色，可改 */
+    background-color: #eaf3ff;  /* 很淡的蓝色，可改 */
   }
 
   /* 右侧 TOC 区域背景 */
   .md-sidebar--secondary {
-    background-color: #f5f9ff;  /* 同样的很淡蓝色 */
+    background-color: #eaf3ff;  /* 同样的很淡蓝色 */
   }
 }
 
@@ -406,18 +406,18 @@ html {
   /* Material 有时会在侧栏内部再铺一层背景 */
   .md-sidebar__scrollwrap,
   .md-sidebar__inner {
-    background: #f5f9ff;
+    background: #eaf3ff;
   }
 
   /* 有些版本 TOC/导航区域自身也有白底 */
   .md-sidebar--primary .md-nav,
   .md-sidebar--secondary .md-nav {
-    background: #f5f9ff;
+    background: #eaf3ff;
   }
 
   /* 继续保证侧栏容器本身是淡底色 */
   .md-sidebar--primary,
   .md-sidebar--secondary {
-    background-color: #f5f9ff;
+    background-color: #eaf3ff;
   }
 }
