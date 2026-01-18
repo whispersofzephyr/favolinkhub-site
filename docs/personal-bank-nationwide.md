@@ -369,19 +369,96 @@ New customers only. No stacking with portals.
 
 ---
 
-## 💸 Raisin — Tiered Bonus Up to $1,000
+## 💸 Raisin — Tiered Referral Bonus (Up to $1,500) + Optional $100–$200 Portal Cashback  
+**Nationwide** • **New Users Only** • **Referral offer ends: 02/01/2026**
 
-Apply: [Raisin](https://www.raisin.com/)  
-Referral code: **zhishanw062956**
+> **Quick Summary**
+>
+> - **Referral bonus:** $70 – $1,500 (guaranteed by Raisin)  
+> - **Hold period:** 90 days  
+> - **Minimum deposit:** $10,000  
+> - **Eligibility:** New Raisin customers only  
+> - **Portal cashback:** Optional / YMMV  
+> - **Cannot combine** with Raisin promo codes (**GIFT**, **SAVE2026**)
 
-| Deposit | Bonus |
-|---:|---:|
-| $10k–$24,999 | $75 |
-| $25k–$49,999 | $250 |
-| $50k–$99,999 | $500 |
-| $100k+ | $1,000 |
 
-Maintain balance **180 days**.
+### How the Raisin Referral Bonus Works
+
+When you open your **first** Raisin account using a referral code and meet the requirements, you earn a **one-time cash bonus**.
+
+Bonus is based on how much you deposit **within 14 days** and **maintain for 90 days**:
+
+| Deposit Amount | Cash Bonus |
+|---------------|------------|
+| $10,000 – $24,999 | $70 |
+| $25,000 – $49,999 | $175 |
+| $50,000 – $99,999 | $350 |
+| $100,000 – $199,999 | $750 |
+| $200,000+ | **$1,500** |
+
+**Notes**
+- Bonus is paid after the 90-day hold  
+- If balance drops, bonus is reduced to the **lowest tier reached**  
+- Bonus is typically deposited to the **external bank account you link to Raisin**  
+- Savings interest (≈4% APY as of 1/18/26) is **separate** from the bonus  
+
+### Optional: Portal Cashback (TopCashBack / Rakuten) — YMMV
+
+Some users have successfully stacked referral + portal cashback, but **not guaranteed**.
+
+Portal cashback is **paid by the portal, not Raisin**.
+
+**Current portal offers (as of 1/18/26):**
+
+- **TopCashBack:** $200  
+  https://www.topcashback.com/raisin/  
+  *Requires $10,000 deposit, 21-day hold*
+
+- **Rakuten:** $100  
+  https://www.rakuten.com/shop/raisin  
+  *Requires $100 deposit, 14-day hold*
+
+Using a referral code is **not officially supported** by portals.  
+If it tracks, great. If not, portal bonus may be denied.
+
+### Step-by-Step
+
+**Option A — Try stacking with portal (YMMV):**
+
+1. Start from the **portal link** (TopCashBack or Rakuten)  
+2. During application, enter referral code: **zhishanw062956**  
+3. Deposit **$10,000+ within 14 days**  
+4. Maintain balance for **90 days**  
+5. Receive:
+   - Raisin referral bonus (guaranteed)  
+   - Portal cashback (if tracked)
+
+**Option B — Referral only (safe path):**
+
+1. Apply directly at https://www.raisin.com/  
+2. Enter referral code: **zhishanw062956**  
+3. Deposit **$10,000+ within 14 days**  
+4. Maintain balance for **90 days**  
+5. Receive Raisin referral bonus
+
+### Referral vs. Other Raisin Bonuses
+
+Raisin also offers promo codes like **GIFT** and **SAVE2026**.
+
+Per official terms:
+
+> *Referral bonuses may not be combined with any other Raisin bonus offers.*
+
+**In short:**
+- Referral + GIFT — **not allowed**
+- Referral + SAVE2026 — **not allowed**
+- Choose **one** Raisin bonus path + Portal (Optional)
+
+### Why choose the referral bonus?
+
+- Higher upside for **$25k–$200k+ deposits**
+- Only **90-day hold**
+- Clear, contract-backed terms
 
 ---
 
