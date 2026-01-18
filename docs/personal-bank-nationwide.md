@@ -444,7 +444,7 @@ If it tracks, great. If not, portal bonus may be denied.
 
 ### Referral vs. Other Raisin Bonuses
 
-Raisin also offers promo codes like **GIFT** and **SAVE2026**.
+Raisin also offers promo codes like **GIFT**, **HEARTSTART** and **SAVE2026**.
 
 Per official terms:
 
@@ -453,6 +453,7 @@ Per official terms:
 **In short:**
 - Referral + GIFT — **not allowed**
 - Referral + SAVE2026 — **not allowed**
+- Referral + HEARTSTART — **not allowed**
 - Choose **one** Raisin bonus path + one Portal offer (Optional)
 
 ### Why choose the referral bonus?
