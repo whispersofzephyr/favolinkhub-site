@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# Personal Bank – Expired Offers
+# Crypto – Expired Offers
 
 ## 🎁 OKX: $150 Referral + $50 Gift (Limited Offer) + $250 deposit match + 5% APY
 **US users only, excluding NY, TX, AS, GU, MP, VI • Expires 12/9/25**
