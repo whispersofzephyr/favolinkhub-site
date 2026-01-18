@@ -1,4 +1,12 @@
+---
+search:
+  exclude: true
+---
+
+# Personal Bank – Expired Offers
+
 # Personal Bank Accounts – Nationwide - Expired or 备用文案版本
+
 ## 💵 Wings Credit Union — $300 Checking Bonus + $100 Referral (Stacks)
 **Promo window:** 10/27/2025–12/31/2025 • **Nationwide** (via $5 donation) • **Posts by:** 03/13/2026
 
