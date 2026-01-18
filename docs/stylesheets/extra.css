@@ -354,5 +354,13 @@ html {
   border-radius: 4px;
 }
 
+/* 右侧 Table of contents 当前条目的高亮样式 */
+.md-nav--secondary .md-nav__item--active > .md-nav__link,
+.md-nav--secondary .md-nav__link--active {
+  background-color: rgba(240, 180, 40, 0.15);  /* 很浅的一点金色底 */
+  border-left: 2px solid #f0b429;              /* 和你标题一样的金色竖线 */
+  padding-left: 0.4rem;                        /* 文字往里缩一点，配合竖线 */
+  border-radius: 4px;
+}
 
 
