@@ -334,6 +334,34 @@ html {
   
 }
 
+/* ① 右侧 TOC 当前激活项高亮 */
+.md-nav__item--active > .md-nav__link {
+  background-color: rgba(255, 215, 0, 0.12);
+  border-left: 3px solid #f4b400;
+  padding-left: 10px;
+  font-weight: 600;
+  border-radius: 4px;
+}
+
+/* ② 右侧 TOC 整体加极浅背景 */
+.md-sidebar--secondary {
+  background-color: rgba(0, 0, 0, 0.015);
+}
+
+/* ③ hover 状态（可选，但建议） */
+.md-nav__link:hover {
+  background-color: rgba(0, 0, 0, 0.04);
+  border-radius: 4px;
+}
+
+/* 右侧 Table of contents 当前条目的高亮样式 */
+.md-nav--secondary .md-nav__item--active > .md-nav__link,
+.md-nav--secondary .md-nav__link--active {
+  background-color: rgba(240, 180, 40, 0.15);  /* 很浅的一点金色底 */
+  border-left: 2px solid #f0b429;              /* 和你标题一样的金色竖线 */
+  padding-left: 0.4rem;                        /* 文字往里缩一点，配合竖线 */
+  border-radius: 4px;
+}
 
 
 
