@@ -3,7 +3,7 @@
 ## 🪙 eToro — Up to $530 Bonus ($500 Crypto Bonus + $30 Referral)
 **Nationwide excluding NY, NV, and HI · One account per person/household · Expires 01/31/2026**
 
-**Referral link:** [https://etoro.tw/4qoJGcA](https://etoro.tw/4qoJGcA)
+**Referral link:** [https://etoro.tw/4bKaOxA](https://etoro.tw/4bKaOxA)
 
 ### Bonus Overview (New Users)
 New users may earn **up to $530 total**:
