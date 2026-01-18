@@ -363,5 +363,29 @@ html {
   border-radius: 4px;
 }
 
+/* --- TOC(二级导航) 选中项高亮背景：桌面+手机都生效 --- */
+.md-nav--secondary .md-nav__link--active,
+.md-nav--secondary .md-nav__link--active:hover {
+  background: rgba(255, 215, 0, 0.18);
+  border-radius: 8px;
+  padding: 0.25em 0.5em;
+}
+
+/* --- 手机端：给标题增加 scroll-margin-top（避免被顶部 banner/header 挡住，也尽量修正“错一级”） --- */
+@media (max-width: 960px) {
+  .md-content h1,
+  .md-content h2,
+  .md-content h3,
+  .md-content h4,
+  .md-content h5,
+  .md-content h6 {
+    scroll-margin-top: 6rem; /* 你用的顶部banner比较高，先用6rem；后面可以微调 5~8rem */
+  }
+
+  /* 同时加一份 scroll-padding-top（对某些浏览器/滚动行为也有帮助） */
+  html {
+    scroll-padding-top: 6rem;
+  }
+}
 
 
