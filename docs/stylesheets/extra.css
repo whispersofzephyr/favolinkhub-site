@@ -401,3 +401,23 @@ html {
   }
 }
 
+/* 桌面端：让侧栏“内容层”的背景不要盖住侧栏底色 */
+@media screen and (min-width: 960px) {
+  /* Material 有时会在侧栏内部再铺一层背景 */
+  .md-sidebar__scrollwrap,
+  .md-sidebar__inner {
+    background: transparent;
+  }
+
+  /* 有些版本 TOC/导航区域自身也有白底 */
+  .md-sidebar--primary .md-nav,
+  .md-sidebar--secondary .md-nav {
+    background: transparent;
+  }
+
+  /* 继续保证侧栏容器本身是淡底色 */
+  .md-sidebar--primary,
+  .md-sidebar--secondary {
+    background-color: #f5f9ff;
+  }
+}
