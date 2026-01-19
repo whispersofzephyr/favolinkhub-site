@@ -295,23 +295,6 @@ Nationwide membership is available via a **$5 donation** to the OnPath Foundatio
   
 ---
 
-## 💵 KeyPoint Credit Union — $300 Referral Bonus
-**Nationwide** • **Expires:** 03/31/2026
-
-Apply: [Apply here](https://kpcu.com/About/Events/Refer-a-Friend) 
-
-Promo code: **RAF26**
-
-At account opening, provide promo code RAF26 and the name of the referring member.  
-
-Email me for my name: [contact@favolinkhub.com](contact@favolinkhub.com)
-
-- $1,000 monthly DD
-- 6 consecutive months
-- Pays $50 bonus/month x 6 months
-
----
-
 ## 💵 KeyPoint Credit Union — $300 Checking Referral Bonus  
 **Nationwide • Expires 03/31/2026**
 
