@@ -317,23 +317,27 @@ At account opening, provide:
 - **Referring member’s name**  
   Email me for my name: [contact@favolinkhub.com](contact@favolinkhub.com)
 
-## ✅ Bonus Requirements
+### ✅ Bonus Requirements
 
 To receive the $300 checking bonus, you must:
 
 1. **Be new to KeyPoint**
-   - No KeyPoint account or loan in the **past 2 years**
+
+     - No KeyPoint account or loan in the **past 2 years**
 
 2. **Open a KeyPoint Checking account**
-   - Minimum opening deposit: **$10**
+
+     - Minimum opening deposit: **$10**
 
 3. **Set up qualifying direct deposit**
-   - **$1,000+ per month**
-   - Must be **recurring direct deposit**  
+
+     - **$1,000+ per month**
+     - Must be **recurring direct deposit**  
  
 4. **Meet timing rules**
-   - First qualifying DD must post **within 60 days** of account opening
-   - DD must continue for **6 consecutive months**
+   
+     - First qualifying DD must post **within 60 days** of account opening
+     - DD must continue for **6 consecutive months**
 
 ### 💰 Bonus Payout Details
 
@@ -341,7 +345,7 @@ To receive the $300 checking bonus, you must:
 - Maximum total bonus: **$300**
 - **Any interruption** in direct deposit during the first 6 months will **forfeit remaining payments**
 
-### 📝 Important Notes
+### 📝 Editor's Notes
 
 - **Nationwide membership:**  
   If you’re outside KeyPoint’s local area, you can join via an eligible association, eg. Financial Fitness Association. KeyPoint pays the membership fee as well
