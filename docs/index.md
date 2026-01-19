@@ -15,10 +15,10 @@ We’re happy to help.
 
 - 🔍 **Know the bank or keyword? Use Search**  
   Click the **search icon 🔍** in the upper right corner and type the bank name or keyword  
-  (e.g. *HSBC*, *Varo*, *PSECU*, *$300*, *APY*).
+  (e.g. *HSBC*, *eToro*, *Varo*, *PSECU*, *$300*, *APY*).
 
 - 📂 **Browsing by category? Use the left menu**  
-  Personal Banks, Business Banks, Brokerage, Crypto, Credit Cards, Shopping Portals, etc.
+  Personal Bank Accounts, Business Bank Accounts, Brokerage, Crypto, Credit Cards, Shopping Portals, etc.
 
 - 📑 **Looking for a specific offer on a page? Use the table of contents**  
   On desktop: right side  
@@ -53,9 +53,10 @@ Search works across all **active offer pages** and shows a preview of matched co
 
 - Each category page contains a **collection of offers** under that category
 
-- Use the **right navigation panel (Table of contents)** to jump directly to a specific offer on the current page  
-  - As you scroll the page, the corresponding offer title will be highlighted
-  - You can also scroll inside the table of contents if the list is long
+- Use the **right navigation panel (Table of contents)** to jump directly to a specific offer on the current page
+  
+    - As you scroll the page, the corresponding offer title will be highlighted
+    - You can also scroll inside the table of contents if the list is long
 
 - Scroll the **main content area** to read full offer details
 
@@ -64,13 +65,15 @@ Search works across all **active offer pages** and shows a preview of matched co
 - Tap the **☰ menu icon** in the upper left corner of any page to open the main navigation panel
 
 - From the main navigation panel:
-  - Select a bonus category (Personal Bank Accounts, Business Bank Accounts, Brokerage, Crypto, Credit Cards, Shopping Portals, etc.)
-  - The currently selected category will be highlighted
+  
+    - Select a bonus category (Personal Bank Accounts, Business Bank Accounts, Brokerage, Crypto, Credit Cards, Shopping Portals, etc.)
+    - The currently selected category will be highlighted
 
 - If the selected category page contains sub-navigation (offer list):
-  - Tap the **☰ icon** next to the highlighted category to open the **offer list (table of contents)**
-  - Scroll to see the full list if it exceeds screen height
-  - Tap an offer name to jump directly to its details
+  
+    - Tap the **☰ icon** next to the highlighted category to open the **offer list (table of contents)**
+    - Scroll to see the full list if it exceeds screen height
+    - Tap an offer name to jump directly to its details
 
 - Use the **back arrow (←)** at the top of the navigation panel to return to the previous level
 
@@ -86,3 +89,5 @@ We do our best to keep everything up to date, but changes may occur.
 Always verify the most current terms directly with the bank or service before applying.  
 If you’re unsure about an offer or want us to double-check something for you, feel free to email us at  
 [**contact@favolinkhub.com**](mailto:contact@favolinkhub.com).
+
+We are happy to help.
