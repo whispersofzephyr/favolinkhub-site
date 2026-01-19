@@ -313,9 +313,10 @@ Nationwide membership is available via a **$5 donation** to the OnPath Foundatio
 [https://kpcu.com/About/Events/Refer-a-Friend](https://kpcu.com/About/Events/Refer-a-Friend) 
 
 At account opening, provide:
-- **Promo code:** `RAF26`
-- **Referring member’s name**  
-  Email me for my name: [contact@favolinkhub.com](contact@favolinkhub.com)
+
+  - **Promo code:** `RAF26`
+  - **Referring member’s name**  
+    Email me for my name: [contact@favolinkhub.com](contact@favolinkhub.com)
 
 ### ✅ Bonus Requirements
 
