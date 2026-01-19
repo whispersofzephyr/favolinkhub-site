@@ -3,8 +3,10 @@
 ## Welcome to our site!
 This site is a curated collection of referral links and bonus explanations that we personally track and use.
 
-You’re welcome to use any of the referral links listed here.  
-If you have questions about a specific offer, need clarification on the requirements, or would like to let us know that you used one of our links, feel free to email us at [**contact@favolinkhub.com**](mailto:contact@favolinkhub.com).
+You’re welcome to use any of the referral links listed here. 
+
+If you have questions about a specific offer, need clarification on the requirements, or would like to let us know that you used one of our links, feel free to email us at  
+[**contact@favolinkhub.com**](mailto:contact@favolinkhub.com).
 
 We’re happy to help.
 
