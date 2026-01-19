@@ -42,8 +42,6 @@ Examples of what you can search:
 
 Search works across all **active offer pages** and shows a preview of matched content to help you quickly identify the right offer.
 
----
-
 ### ☰ Navigation
 
 #### On desktop browser
