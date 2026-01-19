@@ -1,31 +1,71 @@
 # Welcome
 
-Welcome to our site! This site is a curated collection of referral links and bonus explanations that we personally track and use.
+## Welcome to our site!  
+This site is a curated collection of referral links and bonus explanations that we personally track and use.
 
-You’re welcome to use any of the referral links listed here. If you have questions about a specific offer, need clarification on the requirements, or would like to let us know that you used one of our links, feel free to email us at [**contact@favolinkhub.com**](mailto:contact@favolinkhub.com).  
+You’re welcome to use any of the referral links listed here.  
+If you have questions about a specific offer, need clarification on the requirements, or would like to let us know that you used one of our links, feel free to email us at  
+[**contact@favolinkhub.com**](mailto:contact@favolinkhub.com).
 
 We’re happy to help.
 
+---
+
 ## How to use
 
-### **Search (recommended)** (Apply to both desktop browser and mobile device): 
-if you already know the bank or platform name (e.g. HSBC, eToro, PSECU, Varo), use the search icon 🔍 on the upper right corner of any page to jump directly to the offer
+### 🔍 Search (recommended)  
+*Applies to both desktop and mobile devices*
+
+If you already know the **bank, platform, or a keyword**  
+(e.g. *HSBC*, *Varo*, *PSECU*, *$300*, *APY*),  
+use the **search icon 🔍** in the upper right corner of any page to quickly jump to relevant offers.
+
+Search works across all active offer pages and shows a preview of matched content to help you find what you’re looking for faster.
+
+---
 
 ### Navigation
 
-**On desktop browser**
+#### On desktop browser
 
-  - Use **Left navigation panel** to navigate between different bonus categories page (Personal Bank Accounts, Business Bank Accounts, Brokerage, Crypto, Credit cards, Shopping portals, etc), each page has a collection of offers of that category
-  - Use **Right navigation panel (Table of contents)** to jump to specific offer within this page (when you scroll up and down the main content of the offers, the offer title in the table of content will be highlighted too)
-  - Scroll up and down in the main content area to see all offer details on the page
-  - Scroll up and down in the right navigation panel area to see full offer list (table of content) of that page
+- Use the **left navigation panel** to switch between different bonus categories  
+  (Personal Bank Accounts, Business Bank Accounts, Brokerage, Crypto, Credit Cards, Shopping Portals, etc.)
 
-**On mobile device**
+- Each category page contains a **collection of offers** under that category
 
-  - Click on the three short lines symbol (chatgpt, is there an emoji for it?) on the left upper corner of any page to open up the side navigation panel to navigate between different bonus categories pages (Personal Bank Accounts, Business Bank Accounts, Brokerage, Crypto, Credit cards, Shopping portals, etc), the selected page would be highlighted. If sub-navigation list is available, three short line symbol shows up on the highlighted tab.
-  - Click on the three short line symbol on the highlighted tab inside the side navigation panel to unfold the sub-navigation panel showing the table of contents of the offers on that page of that category, scroll down to see the full list if the list is longer than screen, click on the offer name in this panel to jump to the offer details  
-  - On the navigation panel, click on the top tab (with back arrow) to go back to the upper level
-  - Scroll up and down to see all the offer detailss on a specific category page
+- Use the **right navigation panel (Table of contents)** to jump directly to a specific offer on the current page  
+
+    - As you scroll through the page, the corresponding offer title in the table of contents will be highlighted
+    - You can also scroll within the table of contents itself if the list is long
+
+- Scroll the **main content area** to read full details of each offer
+
+#### On mobile device
+
+- Tap the **☰ menu icon** on the upper left corner of any page to open the main navigation panel
+
+- From the main navigation panel:
+  
+    - Select a bonus category (Personal Bank Accounts, Business Bank Accounts, Brokerage, Crypto, Credit Cards, Shopping Portals, etc.)
+    - The currently selected category will be highlighted
+
+- If a category page contains sub-navigation (offer list):
+  
+    - Tap the **☰ icon** next to the highlighted category to open the **offer list (table of contents)** for that page
+    - Scroll to see the full list if it exceeds screen height
+    - Tap an offer name to jump directly to its details
+
+- Use the **<-- back arrow**  at the top of the navigation panel to return to the previous level
+
+- Scroll the page normally to read offer details
+
+---
 
 ## Disclaimer
-Offers, terms, and availability can change at any time. We try our best to keep them up to date but can miss. Always verify the most up-to-date terms directly with the bank or service before applying, or in doubt, send us an email and we are happy to double check for you.
+
+Offers, terms, and availability can change at any time.  
+We do our best to keep everything up to date, but changes may occur.
+
+Always verify the most current terms directly with the bank or service before applying.  
+If you’re unsure about an offer or want us to double-check something for you, feel free to email us at [**contact@favolinkhub.com**](mailto:contact@favolinkhub.com). We’re happy to help.
+
