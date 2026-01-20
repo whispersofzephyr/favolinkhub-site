@@ -22,28 +22,36 @@ Grasshopper Bank is offering an **easy $200 referral bonus** when you open a new
 
 ---
 
-## 💰 Novo Business Checking — $40 Bonus (No Expiration)
+## 💰 Novo Business Checking — $40 Referral Bonus  
+**Nationwide** • **No Expiration Date**
 
-**Bonus:** $40  
+👉 **[Apply here]**(https://onboarding.novo.co/signup?referral_code=ZhishanWang)
 
-**Requirements:**
-- Open an account
-- Fund with **$100 within 30 days**
-- Maintain **$100+ for another 30 days**
+### ✅ How to earn the $40 bonus
+- Open a new Novo Business Checking account using the referral link above
+- Within **30 days of account opening**, receive **$100+ in external deposits**  
+- After first reaching $100, maintain an **average balance of $100 or more for the next 30 days**
 
-**Details:**
-- Nationwide
-- No Chex / No EWS / No hard pull
-- No credit card funding
-- Accepts sole proprietors using SSN as EIN
-- Short business description required
-- No document upload besides ID
+### 📌 Key details
+- **No ChexSystems / EWS / hard pull**
+- **No credit card funding**
+- **External deposit required** (internal transfers do not qualify)
+- **Referral bonus stacks** with portals like **Swagbucks / MyPoints (Revenue Universe)**
+- Simple application; brief business description required:
 
-**Stackable:**  
-Swagbucks / MyPoints / Revenue Universe (use referral link)
+    - What the business does  
+    - Who the customers are  
+    - How the business makes money
+      
+- **Sole proprietors accepted**
 
-**Apply:**  
-[Apply here](https://onboarding.novo.co/signup?referral_code=ZhishanWang)
+    - SSN can be used as EIN  
+    - Business name can be your **first & last name**
+      
+- No document uploads required other than **ID**
+- Includes a **free payment feature**, useful for triggering direct deposit requirements at other banks
+- **Referrer limit:** You can refer others as well. Bonuses paid on up to **10 qualified referrals per calendar year**
+- Bonus typically paid **within 30 days after all requirements are met**
 
 ---
 
