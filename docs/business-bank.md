@@ -53,12 +53,12 @@ Grasshopper Bank is offering an **easy $200 referral bonus** when you open a new
 - Bonus typically paid **within 30 days after all requirements are met**
 
 ---
-## 💰 Chase Business Complete Checking® — $300 or $500 Bonus
+## 💰 Chase Business Complete Checking® - $300 or $500 Bonus
 **Nationwide · Expiration: 04/30/2026**
 
 > **Quick Summary**
 > 
-> - **Bonus:** **$300** or **$500** tier 
+> - **Bonus:** **$300** or **$500**   
 > - **Account:** Chase Business Complete Checking®  
 > - **Deposit Requirement:** $2,000+ or $10,000+ new money  
 > - **Holding Period:** 60 days  
@@ -80,7 +80,7 @@ Grasshopper Bank is offering an **easy $200 referral bonus** when you open a new
          - Click **“Send my code”** to receive an offer code  
          - Bring the code to a Chase branch to open the account
 
-3. Deposit the required **new money** within **30 days** of offer enrollment
+3. Deposit the required **new money** within **30 days** of offer enrollment (see bonus tiers below)
 
      **🎁 Bonus Tiers**
 
@@ -101,7 +101,7 @@ Grasshopper Bank is offering an **easy $200 referral bonus** when you open a new
 - Wires (credits or debits)  
 - Chase Online℠ Bill Pay  
 - Chase QuickAccept®  
-  QuickAccept card payments are combined into one qualifying transaction per day
+  - QuickAccept card payments are combined into **one qualifying transaction per day**
 
 ---
 
