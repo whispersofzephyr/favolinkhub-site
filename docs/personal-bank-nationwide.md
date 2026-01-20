@@ -436,7 +436,7 @@ You are **NOT eligible** if **any** of the following apply:
 
 ---
 
-## 🔷 Current — $100 referral bonus
+## 🔔 Current — $100 referral bonus
 **Nationwide** • **New User Only** • **No Expiration Date**
 
 Open a **new Current account** and get **$100** when you receive a **$200+ qualifying direct deposit** within **45 days**.
