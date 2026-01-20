@@ -452,8 +452,8 @@ Open a **new Current account** and get **$100** when you receive a **$200+ quali
 
 ---
 
-## 🎁 Ally Bank — $100 Referral Bonus 
-**Nationwide** • **Checking or Savings** Expires:** 12/31/2026
+## 🎁 Ally Bank — $100 Referral Bonus  
+**Nationwide** • **Checking or Savings** • **Expires: 12/31/2026**
 
 > **Important:** You are eligible for **one** welcome bonus only. Choose **either Savings or Spending**, not both.
 
@@ -465,34 +465,33 @@ Referral link: [Enroll here](https://ally.com/referral?code=4T6Q5X5B4M&CP=WebApp
 - **No minimum deposit**
 
 #### Steps to earn $100
-1. **Enroll** in the Ally referral program at the referral link above  
-    The email you use to enroll must match the email address on the Ally account you open.
-3. **Open a new Ally Savings Account** within **30 days** of enrollment
-4. Within **30 days of account opening**, set up **ONE** of the following:
+1. **Enroll** in the Ally referral program  
+   (Email used to enroll must match the email on the Ally account)
+2. **Open a new Ally Savings Account** within **30 days** of enrollment
+3. Within **30 days of account opening**, set up **ONE** of the following:
+   
+   - A **qualifying monthly automated recurring transfer**, **or**
+   - A **qualifying direct deposit (QDD)**
      
-     - A **qualifying monthly automated recurring transfer**, **or**
-     - A **qualifying direct deposit (QDD)**
-       
 5. Complete the transfer or QDD **once per month for 3 consecutive months**
 6. The **$100 bonus** will be deposited within **30 days after the 3rd transfer or QDD**
 
 ### ✅ Option 2: Ally Spending Account (Checking)
 
 #### Steps to earn $100
-1. **Enroll** in the Ally referral program at the referral link above
-   The email you use to enroll must match the email address on the Ally account you open.
-3. **Open a new Ally Spending Account** within **30 days** of enrollment
-4. Set up and receive a **qualifying direct deposit (QDD)**
-5. Complete **at least 3 consecutive monthly QDDs**
-6. The **$100 bonus** will be deposited within **30 days after the 3rd QDD**
-   
+1. **Enroll** in the Ally referral program  
+   (Email used to enroll must match the email on the Ally account)
+2. **Open a new Ally Spending Account** within **30 days** of enrollment
+3. **Fund the account** within **30 days of opening**
+4. **Set up and receive ONE qualifying direct deposit** within **60 days** of account opening
+5. The **$100 bonus** will be deposited within **30 days after the qualifying direct deposit posts**
+
 ### 📌 Key Notes
 - **New Ally customers only**
 - **Only one welcome bonus total** (Savings *or* Spending)
-- **Automated recurring transfers only** (manual transfers do not qualify)
+- **Automated recurring transfers only** qualify for Savings
 - **QDD must be real payroll or government benefits**
 - APY is **variable** and accurate as of **01/19/2026**
-- No minimum balance required; 
 
 ---
 
