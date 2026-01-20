@@ -25,10 +25,9 @@ Grasshopper Bank is offering an **easy $200 referral bonus** when you open a new
 ## 💰 Novo Business Checking — $40 Referral Bonus  
 **Nationwide** • **No Expiration Date**
 
-👉 **[Apply here](https://onboarding.novo.co/signup?referral_code=ZhishanWang)**
-
 ### ✅ How to earn the $40 bonus
-- Open a new Novo Business Checking account using the referral link above
+- Open a new Novo Business Checking account using the referral link  
+  👉 **[Apply here](https://onboarding.novo.co/signup?referral_code=ZhishanWang)**
 - Within **30 days of account opening**, receive **$100+ in external deposits**  
 - After first reaching $100, maintain an **average balance of $100 or more for the next 30 days**
 
