@@ -1,4 +1,4 @@
-# ⬇️ Personal Bank Accounts – Nationwide ⬇️
+#⬇️Personal Bank Accounts – Nationwide⬇️
 
 These accounts are available to most U.S. residents without geographic restrictions.
 
