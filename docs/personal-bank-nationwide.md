@@ -464,22 +464,22 @@ Referral link: [Enroll here](https://ally.com/referral?code=4T6Q5X5B4M&CP=WebApp
 - **APY:** 3.30% (variable, all balance tiers)  
 - **No minimum deposit**
 
-#### Steps to earn $100
-1. **Enroll** in the Ally referral program  
+#### Steps to earn $100 with Ally Savings
+1. **Enroll** in the Ally referral program at the link above
    (Email used to enroll must match the email on the Ally account)
 2. **Open a new Ally Savings Account** within **30 days** of enrollment
 3. Within **30 days of account opening**, set up **ONE** of the following:
    
-   - A **qualifying monthly automated recurring transfer**, **or**
-   - A **qualifying direct deposit (QDD)**
+     - A **qualifying monthly automated recurring transfer**, **or**
+     - A **qualifying direct deposit (QDD)**
      
 5. Complete the transfer or QDD **once per month for 3 consecutive months**
 6. The **$100 bonus** will be deposited within **30 days after the 3rd transfer or QDD**
 
 ### ✅ Option 2: Ally Spending Account (Checking)
 
-#### Steps to earn $100
-1. **Enroll** in the Ally referral program  
+#### Steps to earn $100 with Ally Spending Account
+1. **Enroll** in the Ally referral program at the link above
    (Email used to enroll must match the email on the Ally account)
 2. **Open a new Ally Spending Account** within **30 days** of enrollment
 3. **Fund the account** within **30 days of opening**
