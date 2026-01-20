@@ -396,9 +396,8 @@ Open a **OnePay Cash** account using the referral link below and **earn $50 cash
 
 ### ✅ How to Earn the $300 Bonus (Step by Step)
 
-1. **Apply for PSECU membership**:
-
-   [Apply here](https://refer.psecu.com/Zhishan)  
+1. **Apply for PSECU membership**:  
+     👉 [Apply here](https://refer.psecu.com/Zhishan)  
 
      - Use promo code **`2026REFER`**  
      - Open **both** a PSECU savings account **and** checking account  
