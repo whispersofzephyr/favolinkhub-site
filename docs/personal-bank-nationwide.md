@@ -457,7 +457,7 @@ Open a **new Current account** and get **$100** when you receive a **$200+ quali
 
 > **Important:** You are eligible for **one** welcome bonus only. Choose **either Savings or Spending**, not both.
 
-Referral: [Apply via referral link](https://ally.com/referral?code=4T6Q5X5B4M&CP=WebAppReferFriend)
+Referral link: [Enroll here](https://ally.com/referral?code=4T6Q5X5B4M&CP=WebAppReferFriend)
 
 ### ✅ Option 1: Ally Savings Account
 
@@ -465,12 +465,14 @@ Referral: [Apply via referral link](https://ally.com/referral?code=4T6Q5X5B4M&CP
 - **No minimum deposit**
 
 #### Steps to earn $100
-1. **Enroll** in the Ally referral program at the referral link above
+1. **Enroll** in the Ally referral program at the referral link above  
     The email you use to enroll must match the email address on the Ally account you open.
 3. **Open a new Ally Savings Account** within **30 days** of enrollment
 4. Within **30 days of account opening**, set up **ONE** of the following:
-   - A **qualifying monthly automated recurring transfer**, **or**
-   - A **qualifying direct deposit (QDD)**
+     
+     - A **qualifying monthly automated recurring transfer**, **or**
+     - A **qualifying direct deposit (QDD)**
+       
 5. Complete the transfer or QDD **once per month for 3 consecutive months**
 6. The **$100 bonus** will be deposited within **30 days after the 3rd transfer or QDD**
 
@@ -478,10 +480,11 @@ Referral: [Apply via referral link](https://ally.com/referral?code=4T6Q5X5B4M&CP
 
 #### Steps to earn $100
 1. **Enroll** in the Ally referral program at the referral link above
-2. **Open a new Ally Spending Account** within **30 days** of enrollment
-3. Set up and receive a **qualifying direct deposit (QDD)**
-4. Complete **at least 3 consecutive monthly QDDs**
-5. The **$100 bonus** will be deposited within **30 days after the 3rd QDD**
+   The email you use to enroll must match the email address on the Ally account you open.
+3. **Open a new Ally Spending Account** within **30 days** of enrollment
+4. Set up and receive a **qualifying direct deposit (QDD)**
+5. Complete **at least 3 consecutive monthly QDDs**
+6. The **$100 bonus** will be deposited within **30 days after the 3rd QDD**
    
 ### 📌 Key Notes
 - **New Ally customers only**
