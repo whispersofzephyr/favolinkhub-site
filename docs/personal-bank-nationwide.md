@@ -381,7 +381,7 @@ Open a **OnePay Cash** account using the referral link below and **earn $50 cash
 
 ---
 
-## 💎 PSECU — $300 Referral Bonus
+## 💎 PSECU — $300 Referral Bonus  
 **Nationwide** • **Expires 12/31/2026**
 
 > **Quick Summary**
@@ -391,40 +391,45 @@ Open a **OnePay Cash** account using the referral link below and **earn $50 cash
 > - **Direct Deposit:** 2 × $500+ qualifying direct deposits  
 > - **Accounts Required:** Savings + Checking  
 > - **Deadline:** Complete requirements within 100 days  
-> - **Payout:** Bonus after ~100–145 days from account opening  
-> - **Key Restriction:** Lifetime limit — if you ever received a PSECU new-member bonus before, you are NOT eligible
+> - **Payout:** ~100–145 days from account opening  
+> - **Key Restriction:** Lifetime limit — if you ever received a PSECU new-member bonus before, you are **NOT** eligible
 
 ### ✅ How to Earn the $300 Bonus (Step by Step)
 
-All steps must be completed **within 100 calendar days** of establishing membership.
-
-1. **Apply for PSECU membership**: [Apply here](https://refer.psecu.com/Zhishan)  
+1. **Apply for PSECU membership**:
+    [Apply here](https://refer.psecu.com/Zhishan)  
 
      - Use promo code **`2026REFER`**  
-     - Open both PSECU savings account and checking account 
-    
-2. Set up and receive two (2) qualifying direct deposits, each of $500 or more
-   
-     - Deposits may post to **checking or savings**
-     - Must be completed within 100 days of establishing membership
-       
-3. Your $300 bonus will be paid within 145 days of establishing membership
+     - Open **both** a PSECU savings account **and** checking account  
 
-### 🚫 Eligibility  
+2. **Set up and receive qualifying direct deposits**
+     
+     - **Two (2) deposits of $500 or more each**
+     - Deposits may post to **checking or savings**
+     - Must be completed **within 100 days** of establishing membership
+
+3. **Receive your $300 bonus**
+     
+     - Eligibility reviewed after 100 days  
+     - Bonus paid within **up to 45 additional days**  
+     - **Maximum: 145 days from account opening**
+
+### 🚫 Eligibility — Read Carefully
+
 You are **NOT eligible** if **any** of the following apply:
 
-  - You are a **current PSECU member**
-  - You closed a PSECU account in the **past 12 months**
-  - You have **ever received** a PSECU new-member bonus in the past  
-    → **Lifetime restriction (no exceptions)**
-  - Must be **18+** and a **U.S. resident or permanent resident**
+- You are a **current PSECU member**
+- You closed a PSECU account in the **past 12 months**
+- You have **ever received** a PSECU new-member bonus in the past  
+  → **Lifetime restriction (no exceptions)**
+- Must be **18+** and a **U.S. resident or permanent resident**
 
 ### 💵 Account & Fee Notes
 
-  - A **$5 minimum share deposit** is required  
-    PSECU makes this deposit on your behalf
-  - Account must remain open **at least 1 year**, or the $5 may be forfeited
-  - **No monthly fees** on basic checking
+- A **$5 minimum share deposit** is required  
+  PSECU makes this deposit on your behalf
+- Account must remain open **at least 1 year**, or the $5 may be forfeited  
+- **No monthly fees** on basic checking  
 
 ### 🔎 Official Terms
 [https://www.psecu.com/promo/refer](https://www.psecu.com/promo/refer)
