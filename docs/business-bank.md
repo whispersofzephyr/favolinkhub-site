@@ -59,48 +59,39 @@ Grasshopper Bank is offering an **easy $200 referral bonus** when you open a new
 > **Quick Summary**
 > - **Bonus:** Up to **$500**
 > - **Account:** Chase Business Complete Checking®
-> - **Deposit Requirement:** $2,000–$10,000+ new money
+> - **Deposit Requirement:** $2,000+ or $10,000+ new money
 > - **Holding Period:** 60 days
 > - **Transactions Required:** 5 qualifying transactions
 > - **Monthly Fee:** $15 (can be waived)
 > - **Eligibility:** New Chase business checking customers only
 
-Earn up to **$500** when you open a new **Chase Business Complete Checking®** account and complete qualifying activities.
-
-- **For new Chase business checking customers only**
-- **Monthly Service Fee:** $15, **waivable to $0** with qualifying activity
-
----
-
-## 🎁 Bonus Tiers
+### 🎁 Bonus Tiers
 
 | Bonus Amount | New Money Deposit Required |
 |-------------|----------------------------|
 | **$500**    | **$10,000+**               |
 | **$300**    | **$2,000–$9,999**          |
 
----
-
-## 🪜 How to Earn the Bonus
+## 🪜 How to Earn the $300 or $500 Bonus (step-by-step)
 
 1. Open the referral offer landing page:  
-   👉 https://accounts.chase.com/business/share/2017630585
+   👉 [https://accounts.chase.com/business/share/2017630585](https://accounts.chase.com/business/share/2017630585)
 
-2. Open a new **Chase Business Complete Checking®** account  
+2. Open a new **Chase Business Complete Checking®** account
+   
    - **Online:** Click **“Open Account Online”** on the landing page  
    - **In branch:**  
-     - Enter your email on the landing page  
-     - Click **“Send my code”** to receive an offer code  
-     - Bring the code to a Chase branch to open the account
 
-3. Deposit the required **new money** within **30 days** of offer enrollment  
-4. **Maintain the balance for 60 days** from offer enrollment  
-5. Complete **5 qualifying transactions** within **90 days** of offer enrollment  
-6. Bonus will be deposited **within 15 days** after all requirements are met
+       - Enter your email on the landing page  
+       - Click **“Send my code”** to receive an offer code  
+       - Bring the code to a Chase branch to open the account
 
----
+4. Deposit the required **new money** within **30 days** of offer enrollment  
+5. **Maintain the balance for 60 days** from offer enrollment  
+6. Complete **5 qualifying transactions** within **90 days** of offer enrollment  
+7. Bonus will be deposited **within 15 days** after all requirements are met
 
-## ✅ Qualifying Transactions
+### ✅ Qualifying Transactions
 
 - Debit card purchases  
 - **Chase QuickDeposit℠**  
@@ -108,7 +99,7 @@ Earn up to **$500** when you open a new **Chase Business Complete Checking®** a
 - Wires (credits or debits)  
 - **Chase Online℠ Bill Pay**  
 - **Chase QuickAccept®**  
-  - QuickAccept card payments are combined into **one qualifying transaction per day**
+  QuickAccept card payments are combined into **one qualifying transaction per day**
 
 ---
 
