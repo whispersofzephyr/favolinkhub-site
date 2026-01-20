@@ -439,7 +439,7 @@ You are **NOT eligible** if **any** of the following apply:
 ## 🎁 Current — $100 referral bonus
 **Nationwide** • **New User Only** • **No Expiration Date**
 
-Open a **new Current account** and get **$100** when you receive a **$200+ qualifying payroll direct deposit** within **45 days**.
+Open a **new Current account** and get **$100** when you receive a **$200+ qualifying direct deposit** within **45 days**.
 
 ### How to get the $100 bonus
 
@@ -448,7 +448,7 @@ Open a **new Current account** and get **$100** when you receive a **$200+ quali
 
 2. Receive **$200+ qualifying direct deposits** within **45 days**
 
-3. Bonus is typically paid within **10 business days** after qualification  
+3. $100 bonus is typically paid within **10 business days** after qualification  
 
 ---
 
