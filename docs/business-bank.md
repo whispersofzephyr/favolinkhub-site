@@ -53,7 +53,7 @@ Grasshopper Bank is offering an **easy $200 referral bonus** when you open a new
 - Bonus typically paid **within 30 days after all requirements are met**
 
 ---
-## 💰 Chase Business Complete Checking® — Up to $500 Bonus
+## 💰 Chase Business Complete Checking® — $300 or $500 Bonus
 **Nationwide · Expiration: 04/30/2026**
 
 > **Quick Summary**
