@@ -436,6 +436,22 @@ You are **NOT eligible** if **any** of the following apply:
 
 ---
 
+## 🎁 Current — $100 referral bonus
+**Nationwide** • **New User Only** • **No Expiration Date**
+
+Open a **new Current account** and get **$100** when you receive a **$200+ qualifying payroll direct deposit** within **45 days**.
+
+### How to get the $100 bonus
+
+1. **Sign up for a current account:**  
+[Apply here](https://current.com/get-started/?creator_code=ZHISHANW863)
+
+2. Receive **$200+ qualifying direct deposits** within **45 days**
+
+3. Bonus is typically paid within **10 business days** after qualification  
+
+---
+
 ## 🎁 Ally — $100 Referral Bonus (Checking or Savings)
 **Nationwide** • **Expires:** 12/31/2026
 
@@ -576,7 +592,5 @@ Apply: [Apply here](https://refer.deltacommunitycu.com/zhishanw-9)
 
 ---
 
-## 💰 Current
-TBD
 
 ---
