@@ -57,20 +57,14 @@ Grasshopper Bank is offering an **easy $200 referral bonus** when you open a new
 **Nationwide · Expiration: 04/30/2026**
 
 > **Quick Summary**
-> - **Bonus:** Up to **$500**
-> - **Account:** Chase Business Complete Checking®
-> - **Deposit Requirement:** $2,000+ or $10,000+ new money
-> - **Holding Period:** 60 days
-> - **Transactions Required:** 5 qualifying transactions
-> - **Monthly Fee:** $15 (can be waived)
-> - **Eligibility:** New Chase business checking customers only
-
-### 🎁 Bonus Tiers
-
-| Bonus Amount | New Money Deposit Required |
-|-------------|----------------------------|
-| **$500**    | **$10,000+**               |
-| **$300**    | **$2,000–$9,999**          |
+> 
+> - **Bonus:** Up to **$500**  
+> - **Account:** Chase Business Complete Checking®  
+> - **Deposit Requirement:** $2,000+ or $10,000+ new money  
+> - **Holding Period:** 60 days  
+> - **Transactions Required:** 5 qualifying transactions  
+> - **Monthly Fee:** $15 (can be waived)  
+> - **Eligibility:** New Chase business checking customers only  
 
 ## 🪜 How to Earn the $300 or $500 Bonus (step-by-step)
 
@@ -86,10 +80,18 @@ Grasshopper Bank is offering an **easy $200 referral bonus** when you open a new
        - Click **“Send my code”** to receive an offer code  
        - Bring the code to a Chase branch to open the account
 
-4. Deposit the required **new money** within **30 days** of offer enrollment  
-5. **Maintain the balance for 60 days** from offer enrollment  
-6. Complete **5 qualifying transactions** within **90 days** of offer enrollment  
-7. Bonus will be deposited **within 15 days** after all requirements are met
+4. Deposit the required **new money** within **30 days** of offer enrollment
+
+   **🎁 Bonus Tiers**
+
+| Bonus Amount | New Money Deposit Required |
+|-------------|----------------------------|
+| **$500**    | **$10,000+**               |
+| **$300**    | **$2,000–$9,999**          |
+
+6. **Maintain the balance for 60 days** from offer enrollment  
+7. Complete **5 qualifying transactions** within **90 days** of offer enrollment  
+8. Bonus will be deposited **within 15 days** after all requirements are met
 
 ### ✅ Qualifying Transactions
 
