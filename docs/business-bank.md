@@ -100,7 +100,7 @@ Grasshopper Bank is offering an **easy $200 referral bonus** when you open a new
 - ACH credits  
 - Wires (credits or debits)  
 - Chase Online℠ Bill Pay  
-- Chase QuickAccept® - QuickAccept card payments are combined into one qualifying transaction per day
+- Chase QuickAccept® (QuickAccept card payments are combined into one qualifying transaction per day)
 
 ---
 
