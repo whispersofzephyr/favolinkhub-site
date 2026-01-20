@@ -58,7 +58,7 @@ Grasshopper Bank is offering an **easy $200 referral bonus** when you open a new
 
 > **Quick Summary**
 > 
-> - **Bonus:** Up to **$500**  
+> - **Bonus:** **$300** or **$500** tier 
 > - **Account:** Chase Business Complete Checking®  
 > - **Deposit Requirement:** $2,000+ or $10,000+ new money  
 > - **Holding Period:** 60 days  
