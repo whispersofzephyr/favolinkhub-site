@@ -80,18 +80,18 @@ Grasshopper Bank is offering an **easy $200 referral bonus** when you open a new
        - Click **“Send my code”** to receive an offer code  
        - Bring the code to a Chase branch to open the account
 
-4. Deposit the required **new money** within **30 days** of offer enrollment
+3. Deposit the required **new money** within **30 days** of offer enrollment
 
-   **🎁 Bonus Tiers**
+     **🎁 Bonus Tiers**
 
-| Bonus Amount | New Money Deposit Required |
-|-------------|----------------------------|
-| **$500**    | **$10,000+**               |
-| **$300**    | **$2,000–$9,999**          |
+     | Bonus Amount | New Money Deposit Required |
+     |-------------|----------------------------|
+     | **$500**    | **$10,000+**               |
+     | **$300**    | **$2,000–$9,999**          |
 
-6. **Maintain the balance for 60 days** from offer enrollment  
-7. Complete **5 qualifying transactions** within **90 days** of offer enrollment  
-8. Bonus will be deposited **within 15 days** after all requirements are met
+4. **Maintain the balance for 60 days** from offer enrollment  
+5. Complete **5 qualifying transactions** within **90 days** of offer enrollment  
+6. Bonus will be deposited **within 15 days** after all requirements are met
 
 ### ✅ Qualifying Transactions
 
