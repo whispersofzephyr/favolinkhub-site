@@ -73,12 +73,12 @@ Grasshopper Bank is offering an **easy $200 referral bonus** when you open a new
 
 2. Open a new **Chase Business Complete Checking®** account
    
-   - **Online:** Click **“Open Account Online”** on the landing page  
-   - **In branch:**  
+     - **Online:** Click **“Open Account Online”** on the landing page  
+     - **In branch:**  
 
-       - Enter your email on the landing page  
-       - Click **“Send my code”** to receive an offer code  
-       - Bring the code to a Chase branch to open the account
+         - Enter your email on the landing page  
+         - Click **“Send my code”** to receive an offer code  
+         - Bring the code to a Chase branch to open the account
 
 3. Deposit the required **new money** within **30 days** of offer enrollment
 
