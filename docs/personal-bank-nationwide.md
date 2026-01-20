@@ -1,7 +1,6 @@
 # Personal Bank Accounts – Nationwide
 
-These offers are available to most U.S. residents with no state-level restrictions.
-
+These offers are available to most U.S. residents with no state-level restrictions.  
 For offers that are limited to specific states (e.g. Colorado), see:
 → [Geo-Restricted Personal Bank Accounts](../personal-bank-geo/)
 
