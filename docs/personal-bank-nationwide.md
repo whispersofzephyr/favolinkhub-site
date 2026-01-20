@@ -3,7 +3,7 @@
 These offers are available to most U.S. residents with no state-level restrictions.
 
 For offers that are limited to specific states (e.g. Colorado), see:
-→ [Personal Bank Accounts - Geo-Restricted](../personal-bank-geo/)
+→ [Geo-Restricted Personal Bank Accounts](../personal-bank-geo/)
 
 ## 🔔 HSBC Premier Checking — $1,500 or $2,500 Referral Bonus  
 **Nationwide • New HSBC customers only • Expires: 06/30/2026**
