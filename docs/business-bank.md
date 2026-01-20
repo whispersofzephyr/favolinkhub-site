@@ -66,7 +66,7 @@ Grasshopper Bank is offering an **easy $200 referral bonus** when you open a new
 > - **Monthly Fee:** $15 (can be waived)  
 > - **Eligibility:** New Chase business checking customers only  
 
-## 🪜 How to Earn the $300 or $500 Bonus (step-by-step)
+### 🪜 How to Earn the $300 or $500 Bonus (step-by-step)
 
 1. Open the referral offer landing page:  
    👉 [https://accounts.chase.com/business/share/2017630585](https://accounts.chase.com/business/share/2017630585)
