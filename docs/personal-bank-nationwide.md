@@ -564,74 +564,36 @@ Per official terms:
 
 ---
 
-## 💳 FutureCard — $15 Bonus (No Chex / No Credit Check)
-
-Referral: [Sign up here](https://getfuturecard.com/7cf2deb8-7628-48bc-89df-3599fbf2af4e)
-
-Steps:
-1. Sign up (mobile)
-2. Load $50 and spend $50
-3. $15 posts
-
-## 🌱 FutureCard — $15 Signup Bonus (Spend $50)
+## 🌱 FutureCard — $15 Signup Bonus 
+**Nationwide** • **No Chex / No Credit Check** • **No Expiration Date**
 
 > **Quick Summary**
 >
 > - **Bonus:** $15
-> - **Requirement:** Spend $50 on the card
+> - **Requirement:** Load $50 and spend $50 on the card
 > - **Who’s eligible:** New users only
-> - **Bonus type:** Points (1 point = $0.01)
-> - **Both sides earn:** You get $15, I get $15
+> - **Bonus type:** Points (1 point = $0.01), can be redeemed as **cashback**
 
 ### 🔗 Referral Link
-Sign up using this link:  
-👉 https://getfuturecard.com/7cf2deb8-7628-48bc-89df-3599fbf2af4e
+👉 [Sign up here](https://getfuturecard.com/7cf2deb8-7628-48bc-89df-3599fbf2af4e)
 
 ### ✅ How to Get the $15 Bonus
 1. Click the referral link **on your phone**
-2. Download the **Future app**
+2. Download the **Future app** when prompted
 3. Apply for and get approved for a **Future checking account**
-4. Make **$50+ in purchases** with the FutureCard (transactions must settle)
-
-Once the $50 spend settles, **$15 (1,500 points)** will be credited to your account.  
-Points can be redeemed as **cashback**.
+4. Make **$50+ in purchases** with the FutureCard
+5. Once the $50 spend settles, **$15 (1,500 points)** will be credited to your account.  
+   Points can be redeemed as **cashback**.
 
 ### 📌 Important Notes
+
 - Money orders do **not** count as qualifying purchases  
 - Purchases must **settle** (usually 1–2 business days)
 - Rewards are issued as points (redeemable for cash)
 - Rewards **do not expire** unless the account is closed due to inactivity or issues
 
 ### 📄 Official Terms
-Future Rewards Program Terms & Conditions (updated Jan 13, 2026):  
-:contentReference[oaicite:0]{index=0}
-
-## 🌱 FutureCard — $15 Signup Bonus
-
-> **Summary**
->
-> - **Bonus:** $15  
-> - **Spend:** $50  
-> - **New users only**  
-> - **Points = cash** (1 point = $0.01)
-
-### 🔗 Referral Link
-👉 https://getfuturecard.com/7cf2deb8-7628-48bc-89df-3599fbf2af4e
-
-### ✅ How to Earn
-1. Open link **on phone**
-2. Download Future app
-3. Get approved for Future checking
-4. Spend **$50+** (must settle)
-
-### ⚠️ Notes
-- Money orders don’t count  
-- Purchases settle in ~1–2 business days  
-- Bonus posts after settlement  
-- Both referrer and referee get **$15**
-
-### 📄 Terms
-:contentReference[oaicite:0]{index=0}
+[https://www.futurecard.co/legal/rewards](https://www.futurecard.co/legal/rewards)
 
 ---
 
