@@ -397,18 +397,19 @@ Open a **OnePay Cash** account using the referral link below and **earn $50 cash
 ### ✅ How to Earn the $300 Bonus (Step by Step)
 
 1. **Apply for PSECU membership**:
-    [Apply here](https://refer.psecu.com/Zhishan)  
+
+   [Apply here](https://refer.psecu.com/Zhishan)  
 
      - Use promo code **`2026REFER`**  
      - Open **both** a PSECU savings account **and** checking account  
 
-2. **Set up and receive qualifying direct deposits**
+3. **Set up and receive qualifying direct deposits**
      
      - **Two (2) deposits of $500 or more each**
      - Deposits may post to **checking or savings**
      - Must be completed **within 100 days** of establishing membership
 
-3. **Receive your $300 bonus**
+4. **Receive your $300 bonus**
      
      - Eligibility reviewed after 100 days  
      - Bonus paid within **up to 45 additional days**  
