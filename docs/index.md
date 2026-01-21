@@ -2,7 +2,7 @@
 
 ## Welcome to Favo Bonus Hub
 
-This site is maintained by Favo and Maya, known on Doctor of Credit.  
+This site is maintained by **Favo** and **Maya**, known on Doctor of Credit.  
 
 Here you’ll find a curated collection of referral links and bonus explanations, along with notes and clarifications based on our tracking and experience.
 
