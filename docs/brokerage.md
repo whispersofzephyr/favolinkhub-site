@@ -18,7 +18,7 @@ Historically, the standard referral bonus has often been **$20**, and some parts
 ### 🔑 How to Earn the $100 Bonus
 
 **1. Sign up using a referral link**  
-👉 [Apply here](https://public.com/user-referral?referrer=Zhishan98059)
+👉 [https://public.com/user-referral?referrer=Zhishan98059](https://public.com/user-referral?referrer=Zhishan98059)
 
 **2. Make a single initial deposit of $1,000 or more**
 
