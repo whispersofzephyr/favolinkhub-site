@@ -108,7 +108,7 @@ Referral promos run independently and are **stackable** with all public offers.
 **How to Earn the $25 Referral Bonus**
 
 1. Sign up via referral link: [https://j.moomoo.com/01nsnp](https://j.moomoo.com/01nsnp)  
-2. **Manually claim** the referral reward in the app  
+2. **Manually claim** the referral reward in the app before making deposit 
 3. Make a qualifying deposit (e.g. $100)  
 4. Place a qualifying **buy trade**  
 5. Reward unlocks as **cash** after settlement  
@@ -205,6 +205,38 @@ Always follow the **current instructions shown in-app** under **My Rewards**.
 - Coupons usable **in-app only**
 - Apply to qualifying buy trades → convert to real cash
 - Each installment expires **6 months after unlock**
+
+### 🧾 Final Summary — How This Offer Actually Works
+
+This is a **multi-layer, stackable brokerage promotion**, but only if you follow the correct order and eligibility rules.
+
+- **New / never-funded accounts only.**  
+  If you ever deposited or ACATed before **01/01/2026**, the public promos do not apply.
+
+- **Four independent components, fully stackable:**
+  1) **$25 referral bonus** (optional, referral link required, must be claimed first)  
+  2) **Cash deposit → NVDA stock bonus** (ACH / Wire only, up to $1,000, long holds at higher tiers)  
+  3) **8.1% APY booster** on first $20,000 for 60 days (manual activation required)  
+  4) **3% ACAT transfer match** on first $20,000 (max $600, paid quarterly over 12 months)
+
+- **Cash deposit and ACAT are separate tracks.**  
+  Cash deposits earn **NVDA + APY**.  
+  ACAT transfers earn **3% match**.  
+  One does **not** replace the other.
+
+- **Timing matters.**
+  - Referral reward must be **claimed before depositing**
+  - APY booster only starts after **manual activation**
+  - ACAT bonus pays out **slowly (Day 90 → Day 360)** and requires patience
+
+- **Capital lock-up reality check:**
+  - NVDA bonus: up to **180 days** at the $100k tier
+  - ACAT bonus: effectively **12 months** if you want the full $600
+  - APY booster: **only 60 days**, capped at $20k
+
+**Bottom line:**  
+This is best treated as a **high-value, short-term cash parking + medium-term brokerage bonus**, not a quick churn.  
+If you understand the order and holding rules, the total return can be substantial; if you don’t, it’s easy to miss or void parts of the reward.
 
 ---
 
