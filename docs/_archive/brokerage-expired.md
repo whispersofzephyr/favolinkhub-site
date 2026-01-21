@@ -190,7 +190,6 @@ Best suited for **new users with $20k–$100k+** who can tolerate holding period
 
 ---
 
-
 ## 💸 Moomoo — up to $1,000 NVDA + 8.1% APY (60 days) + 3% ACAT match (max $600) + $25 Referral
 **Nationwide · Referral (09/26/2025 - 01/31/2026) · Public offers (01/01/2026 - 03/12/2026)**
 
