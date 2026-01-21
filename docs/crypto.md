@@ -206,7 +206,7 @@ Some users will see a **Spin to Win** button in the app.
 ---
 
 ## 🎁 OKX: $200 Referral/ Welcome Rewards 
-**US users only, excluding NY, TX, AS, GU, MP, VI • Expires 01/20/2026 (9:00 PM local time)**
+**US users only, excluding NY, TX, AS, GU, MP, VI • Expires 02/03/2026 (9:00 PM local time)**
 
 **Referral link:**  
 [https://app.okx.com/en-us/join/78051150](https://app.okx.com/en-us/join/78051150)
