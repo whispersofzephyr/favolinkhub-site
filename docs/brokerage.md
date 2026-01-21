@@ -85,20 +85,24 @@ To keep activity clean, one option is to **buy Treasury bills**, hold them for ~
 
 👉 **Referral link:** [https://j.moomoo.com/01nsnp](https://j.moomoo.com/01nsnp)
 
-### 👤 Eligibility (read first)
+### Eligibility — Who Qualifies
 
-You qualify only if **one** of the following is true:
+You qualify **only if** one of the following is true:
 
-- You **never opened** a Moomoo brokerage account before **01/01/2026**, or  
-- You opened one before but **never made any deposit or ACAT transfer**, and  
-  your **first deposit or ACAT settles by 03/12/2026**
+- You **did not open** a Moomoo brokerage account before **01/01/2026 00:00 ET**, **or**
+- You opened an account earlier but **never deposited nor ACATed**, and your **first deposit or first ACAT** settles by **03/12/2026 23:59 ET**
 
-❌ Any account with **prior deposits before 01/01/2026** is **not eligible**.
+Notes:
+
+- If you **ever funded** the account before **01/01/2026**, these promos **do not apply**
+- An unfunded, previously opened account **can still qualify**
 
 ### ✅ 1) Welcome Bonus — **Up to $1,000 in NVDA stock** with cash deposit of 5 tiers
 
-**Eligible funding:** ACH / Wire / Instant / Debit  
-❌ **ACAT does NOT qualify**
+**Eligible funding methods:** ACH / Wire / Instant / Debit  
+❌ **ACAT does NOT qualify** for this bonus, but next one
+
+### Deposit Tiers
 
 | Net Cash Deposit | NVDA Bonus | Hold Requirement |
 |------------------|------------|------------------|
@@ -110,62 +114,74 @@ You qualify only if **one** of the following is true:
 
 **Notes**  
 
-- Issued as **fractional NVDA**
-- Unlocks after hold → tradable in ~**5 business days**
+- **Net deposit** = deposits − withdrawals
+- **Average assets** = daily average of cash + securities
+- NVDA is issued as **fractional shares**
+- Shares unlock after hold period and are tradable ~5 business days later
 - Sale proceeds are **withdrawable**
 
 ### ✅ 2) 8.1% APY Cash Sweep Booster on first **$20,000** for **60 days**  (Manual Activation)
+
+Rate structure (as of 12/10/2025):
 
 - **Base APY:** 3.35%  
 - **Booster:** +4.75%  
 - **Total:** **8.1% APY**
 - **Cap:** first **$20,000**
 - **Duration:** **60 days from activation**
+  
+**Requirements:**
 
-**Required steps**  
-1. Enroll in **Cash Sweep**
-2. Deposit cash and wait for cash to arrive in sweep
-3. **Manually activate** booster in *My Rewards*
+- Enroll in **Cash Sweep Program**
+- **Manually activate** the APY Booster in-app
+- 60-day timer starts at activation
+- Base rate may change; booster adds on top of current base
 
-❗ Not activated = base rate only.
+**How it works:**
+
+1. Deposit lands as brokerage cash  
+2. Cash is swept daily (~2pm ET) after enrollment  
+3. Activate booster in **My Rewards**  
+4. First $20k earns boosted APY for 60 days  
+5. Excess cash earns base APY only
 
 ### ✅ 3) Transfer-In Promotion — **3% ACAT transfer match** on first **$20,000** (max **$600**, paid quarterly)  
 
-**Eligible assets:** stocks, ETFs, options (non-expiring), cash
+**Eligibility:** No prior deposits or ACATs before **01/01/2026**, First eligible ACAT settles by **03/12/2026**
 
-| First ACAT Amount | Match | Max |
-|-------------------|-------|-----|
-| $1 – $20,000      | 3%    | $600 |
+**Eligible assets:** US stocks, ADRs, ETFs, cash, Options (not expiring within 7 days)
 
-**How it pays**  
+**Not eligible:** Mutual funds, bonds, OTC/pink sheets
 
-- Issued as **Cash Coupon**
-- Paid in **4 quarterly installments** (Day 90 / 180 / 270 / 360)
-- Each installment = **25%**
-- To unlock each:
-  - Keep **$20k transferred assets** for **90 days**
-  - Trading allowed, **withdrawals break unlock**
-- Coupons expire **6 months after unlock**
+**Match Structure:** **3% match** on first **$20,000** transferred, Maximum reward: **$600**
 
-### 🎁 4) Referral Bonus 
+**Payout & Unlocking:** Issued as **Cash Coupon** within ~5 business days after settlement
 
-For **brand-new users only**:
+  - Paid in **4 quarterly installments** (25% each): Day 90, Day 180, Day 270, Day 360
+  - **Unlock rules:**
 
-- **$25 referral bonus** as of 1/21/2026
-- Requires **claim → small deposit → trade**
-- Check *Invite Friends* / *My Rewards* in-app
+      - Maintain transferred assets for **90 days**
+      - Trading allowed; withdrawals that drop balance can void unlock
+      - If >$20k transferred, only first $20k must be maintained
+  - **How to use Cash Coupon:**
+    
+      - Coupons usable only in the moomoo app
+      - Applied to qualifying buy trades, then convert to real cash
+      - Each installment expires **6 months** after unlock
 
-👉 Referral link: [https://j.moomoo.com/01nsnp](https://j.moomoo.com/01nsnp)
+### 4) Referral Bonus (Separate Promo)
 
-### 🧾 Final Verdict
+Referral promos run independently and may vary, stackable with public offers.
 
-Still one of the **highest-value stackable brokerage promos**:
+Typical flow:
 
-- NVDA bonus = high face value, medium hold  
-- APY booster = easy return on idle cash  
-- ACAT match = slow but real **3% extra**
+1. Sign up via **Referral link:** [https://j.moomoo.com/01nsnp](https://j.moomoo.com/01nsnp)
+2. **Manually claim** referral reward in-app  
+3. Make a small qualifying deposit (e.g. $100)  
+4. Place a qualifying buy trade  
+5. Reward unlocks as cash after settlement
 
-Best suited for **new users with $20k–$100k+** who can tolerate holding periods.
+Always follow the **current in-app instructions** under **My Rewards**.
 
 ---
 
