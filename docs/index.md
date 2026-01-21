@@ -1,14 +1,15 @@
 # Welcome
 
-## Welcome to our site!
-This site is a curated collection of referral links and bonus explanations that we personally track and use.
+## Welcome to Favo Bonus Hub
 
-You’re welcome to use any of the referral links listed here. 
+This site is maintained by Favo and Maya, known on Doctor of Credit.  
 
-If you have questions about a specific offer, need clarification on the requirements, or would like to let us know that you used one of our links, feel free to email us at  
+Here you’ll find a curated collection of referral links and bonus explanations, along with notes and clarifications based on our tracking and experience.
+
+You’re welcome to use any of the referral links listed on this site.
+
+If you have questions about a specific offer or need clarification on the requirements, you can reach us at  
 [**contact@favolinkhub.com**](mailto:contact@favolinkhub.com).
-
-We’re happy to help.
 
 ---
 
@@ -16,7 +17,7 @@ We’re happy to help.
 
 - 🔍 **Know the bank or keyword? Use Search**  
   Click the **search icon 🔍** in the upper right corner and type the bank name or keyword  
-  (e.g. *Public Brokerage**, *HSBC*, *eToro*, *Varo*, *PSECU*, *$300*, *APY*).
+  (e.g. *Public Brokerage*, *HSBC*, *eToro*, *Varo*, *PSECU*, *$300*, *APY*).
 
 - 📂 **Browsing by category? Use the left menu**  
   Personal Bank Accounts, Business Bank Accounts, Brokerage, Crypto, Credit Cards, Shopping Portals, etc.
@@ -87,6 +88,5 @@ Offers, terms, and availability can change at any time.
 We do our best to keep everything up to date, but changes may occur.
 
 Always verify the most current terms directly with the bank or service before applying.  
-If you’re unsure about an offer or want us to double-check something for you, feel free to email us at [**contact@favolinkhub.com**](mailto:contact@favolinkhub.com).
+If you’re unsure about an offer or would like clarification, feel free to email us at [**contact@favolinkhub.com**](mailto:contact@favolinkhub.com).
 
-We are happy to help.
