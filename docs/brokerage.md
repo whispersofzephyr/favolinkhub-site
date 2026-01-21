@@ -97,7 +97,22 @@ Notes:
 - If you **ever funded** the account before **01/01/2026**, these promos **do not apply**
 - An unfunded, previously opened account **can still qualify**
 
-### ✅ 1) Welcome Bonus — **Up to $1,000 in NVDA stock** with cash deposit of 5 tiers
+### 🎁 1) $25 Referral Bonus 
+
+Referral promos run independently and may vary, stackable with public offers.  
+The public offers do not need promo code or link tracking, all users meet the eligibility requirements in the promo window are eligible. So if you want to stack with the referral, sign up via a referral link, then meet the requirements of the public offers you choose to do (Welcome bonus NVDA, 8.1% APY booster, and 3% ACAT match).
+
+**How to get the $25 referral bonus**
+
+1. Sign up via **Referral link:** [https://j.moomoo.com/01nsnp](https://j.moomoo.com/01nsnp)
+2. **Manually claim** referral reward in-app  
+3. Make a small qualifying deposit (e.g. $100)  
+4. Place a qualifying buy trade  
+5. Reward unlocks as cash after settlement
+
+Always follow the **current in-app instructions** under **My Rewards**.
+
+### ✅ 2) Welcome Bonus — **Up to $1,000 in NVDA stock** with cash deposit of 5 tiers
 
 **Eligible funding methods:** ACH / Wire / Instant / Debit  
 ❌ **ACAT does NOT qualify** for this bonus, but next one
@@ -120,7 +135,7 @@ Notes:
 - Shares unlock after hold period and are tradable ~5 business days later
 - Sale proceeds are **withdrawable**
 
-### ✅ 2) 8.1% APY Cash Sweep Booster on first **$20,000** for **60 days**  (Manual Activation)
+### ✅ 3) 8.1% APY Cash Sweep Booster on first **$20,000** for **60 days**  (Manual Activation)
 
 Rate structure (as of 12/10/2025):
 
@@ -145,7 +160,7 @@ Rate structure (as of 12/10/2025):
 4. First $20k earns boosted APY for 60 days  
 5. Excess cash earns base APY only
 
-### ✅ 3) Transfer-In Promotion — **3% ACAT transfer match** on first **$20,000** (max **$600**, paid quarterly)  
+### ✅ 4) Transfer-In Promotion — **3% ACAT transfer match** on first **$20,000** (max **$600**, paid quarterly)  
 
 **Eligibility:** No prior deposits or ACATs before **01/01/2026**, First eligible ACAT settles by **03/12/2026**
 
@@ -170,19 +185,7 @@ Rate structure (as of 12/10/2025):
       - Applied to qualifying buy trades, then convert to real cash
       - Each installment expires **6 months** after unlock
 
-### 4) Referral Bonus (Separate Promo)
-
-Referral promos run independently and may vary, stackable with public offers.
-
-Typical flow:
-
-1. Sign up via **Referral link:** [https://j.moomoo.com/01nsnp](https://j.moomoo.com/01nsnp)
-2. **Manually claim** referral reward in-app  
-3. Make a small qualifying deposit (e.g. $100)  
-4. Place a qualifying buy trade  
-5. Reward unlocks as cash after settlement
-
-Always follow the **current in-app instructions** under **My Rewards**.
+25+200+600+8.1
 
 ---
 
