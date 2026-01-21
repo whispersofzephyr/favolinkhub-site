@@ -163,6 +163,7 @@ Rate structure (as of 12/10/2025):
       - Maintain transferred assets for **90 days**
       - Trading allowed; withdrawals that drop balance can void unlock
       - If >$20k transferred, only first $20k must be maintained
+        
   - **How to use Cash Coupon:**
     
       - Coupons usable only in the moomoo app
