@@ -16,7 +16,7 @@ We’re happy to help.
 
 - 🔍 **Know the bank or keyword? Use Search**  
   Click the **search icon 🔍** in the upper right corner and type the bank name or keyword  
-  (e.g. *HSBC*, *eToro*, *Varo*, *PSECU*, *$300*, *APY*).
+  (e.g. *Public Brokerage**, *HSBC*, *eToro*, *Varo*, *PSECU*, *$300*, *APY*).
 
 - 📂 **Browsing by category? Use the left menu**  
   Personal Bank Accounts, Business Bank Accounts, Brokerage, Crypto, Credit Cards, Shopping Portals, etc.
