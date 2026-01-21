@@ -4,11 +4,12 @@
 **Nationwide · Effective 01/20/2026**
 
 > **Quick Summary**
-> - **Bonus:** $100 in stock or ETF of your choice (fractional share)
-> - **Deposit Required:** $1,000 initial one-time deposit
-> - **Claim Window:** 30 days after the reward appears in the **Rewards** tab
-> - **Lock Period:** 12 months on the $100 reward  
->   *(No lock period on your original $1,000 deposit)*
+> 
+> - **Bonus:** $100 in stock or ETF of your choice (fractional share)  
+> - **Deposit Required:** $1,000 initial one-time deposit  
+> - **Claim Window:** 30 days after the reward appears in the **Rewards** tab  
+> - **Lock Period:** 12 months on the $100 reward    
+>   *(No lock period on your original $1,000 deposit)*  
 
 Public currently offers a **$100 referral bonus** in stocks or ETFs when signing up with a referral link and depositing $1,000.  
 
@@ -66,66 +67,6 @@ Public can also be useful for **draining prepaid cards** via deposits (lifetime 
 
 - **Blackhawk-issued** prepaid cards usually do not work
 - Many other prepaid cards work until the cap is reached
-
-To keep activity clean, one option is to **buy Treasury bills**, hold them for ~3 months, then ACH the proceeds back — optional, not required.
-
----
-
-## 🎁 Public Brokerage — $100 Referral Bonus in Stocks (was $20 previously)
-**Nationwide · Effective 01/20/2026**
-
-> **Quick Summary**
-> - **Bonus:** $100 in stock or ETF of your choice (fractional share)
-> - **Deposit Required:** $1,000 initial one-time deposit
-> - **Claim Window:** 30 days after rewards showing up in the "Rewards" Tab
-> - **Lock Period:** 12 months on the $100 reward but no lock period on the $1000 initial deposit 
-
-Public currently offers a **$100 referral bonus** in stocks or ETFs when signing up with a referral link and depositing $1,000.  
-Historically, the standard referral bonus has often been **$20**, and some parts of the app may still display that older amount. The **Rewards tab** and the **official Terms and Conditions** reflect the current $100 bonus.
-
-### 🔑 How to the the $100 bonus
-
-**1. Sign up using a referral link**  
-     👉[Apply here](https://public.com/user-referral?referrer=Zhishan98059)
-
-**2. Make a single initial deposit of $1,000 or more**  
-
-  - The deposit can be made **during application or after approval**  
-  - It must be your **first one-time initial deposit**
-
-**3. Receive $100 in stock or ETF**  
-
-  - **Once the deposit posts successfully**, both you and your referrer receive **$100 worth of fractional stock or an ETF of your choice.**
-  - You’ll have **30 days** to claim your reward inside the **Rewards** tab before it expires.
-  - The $100 will appear as a **fractional share** of your chosen stock or ETF.
-  - Current available options include **TSLA, AAPL, MSFT, GOOG, AMZN, VOO, QQQ, NVDA, META**.
-
-### ⚖️ Requirements & Rules
-
-- **Hold Requirement:**  
-  The $100 reward (or its cash value) must remain in your Public account for **12 months**.  
-  Withdrawing it early could trigger an **early-withdrawal fee of up to $100**.
-
-- **Your Own $1,000 Deposit:**  
-  You can **withdraw or reinvest it anytime** after receiving the bonus.
-
-- **Referral Cap:**  
-  You can receive your own referral link after signing up to refer others
-  Each user can earn up to **$500 total** in referral bonuses (five successful referrals).  
-  After reaching the cap, referrers no longer earn bonuses, but referees remain eligible
-
-### 📝 Application Notes
-
-- Super quick signup — took me **around 5 minutes**. Required **ID upload** but no selfie.
-- During signup, the app asks how much to fund and which stock to choose for your bonus; you can either complete it then or skip and do it after approval.
-- The stock selection screen may still shows a banner saying “Get $20 stock on us when you deposit $1,000.” That’s **outdated** — the new **5× bonus ($100)** started **01/20/2026** and is confirmed in both the **Rewards tab** and the official Terms and Conditions:  
-  [public.com/disclosures/referral-terms](https://public.com/disclosures/referral-terms)
-  
-### 🪙 Extra Tip
-
-Public can also be useful for **draining prepaid cards** via deposits (lifetime cap ~$4,000, YMMV).  
-- **Blackhawk-issued** prepaid cards usually do not work  
-- Many other prepaid cards do, until the cap is reached
 
 To keep activity clean, one option is to **buy Treasury bills**, hold them for ~3 months, then ACH the proceeds back — optional, not required.
 
