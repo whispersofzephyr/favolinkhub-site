@@ -214,6 +214,7 @@ This is a **multi-layer, stackable brokerage promotion**, but only if you follow
   If you ever deposited or ACATed before **01/01/2026**, the public promos do not apply.
 
 - **Four independent components, fully stackable:**
+  
   1) **$25 referral bonus** (optional, referral link required, must be claimed first)  
   2) **Cash deposit → NVDA stock bonus** (ACH / Wire only, up to $1,000, long holds at higher tiers)  
   3) **8.1% APY booster** on first $20,000 for 60 days (manual activation required)  
@@ -225,14 +226,16 @@ This is a **multi-layer, stackable brokerage promotion**, but only if you follow
   One does **not** replace the other.
 
 - **Timing matters.**
-  - Referral reward must be **claimed before depositing**
-  - APY booster only starts after **manual activation**
-  - ACAT bonus pays out **slowly (Day 90 → Day 360)** and requires patience
+  
+    - Referral reward must be **claimed before depositing**
+    - APY booster only starts after **manual activation**
+    - ACAT bonus pays out **slowly (Day 90 → Day 360)** and requires patience
 
 - **Capital lock-up reality check:**
-  - NVDA bonus: up to **180 days** at the $100k tier
-  - ACAT bonus: effectively **12 months** if you want the full $600
-  - APY booster: **only 60 days**, capped at $20k
+  
+    - NVDA bonus: up to **180 days** at the $100k tier
+    - ACAT bonus: effectively **12 months** if you want the full $600
+    - APY booster: **only 60 days**, capped at $20k
 
 **Bottom line:**  
 This is best treated as a **high-value, short-term cash parking + medium-term brokerage bonus**, not a quick churn.  
