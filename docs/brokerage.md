@@ -15,10 +15,22 @@ Public currently offers a **$100 referral bonus** in stocks or ETFs when signing
 
 Historically, the standard referral bonus has often been **$20**, and some parts of the app may still display that older amount. The **Rewards** tab and the **official Terms and Conditions** reflect the current $100 bonus.
 
+**Eligibility**: New users are eligible. Also DPs suggest prior users whose accounts were closed before could sign up via referral with a different email and be eligible for the referral bonus. 
+
 ### 🔑 How to Earn the $100 Bonus
 
 **1. Sign up using a referral link**  
 👉 [https://public.com/user-referral?referrer=Zhishan98059](https://public.com/user-referral?referrer=Zhishan98059)
+
+(Some DPs suggest that if the referral link did not track during signup, or the account was not originally opened via a referral, the referral bonus may still be recoverable after approval. Enter the referral code into the **"Have a promo code? Enter it here"** box inside the **Rewards** Tab and click "**Submit**", which then prompts stock selection. This appears to be a fallback mechanism and may be YMMV.)
+
+Referral code: **Zhishan98059**
+
+(Some DPs suggest that if a referral link did not track during signup, the referral bonus may still be recoverable after approval.
+In some cases, users were able to enter the referral code into the "Have a promo code? Enter it here" box inside the Rewards tab and click "Submit", which then prompted stock selection.
+This appears to be a fallback mechanism and may be YMMV.)
+
+Referral code: **Zhishan98059**
 
 **2. Make a single initial deposit of $1,000 or more**
 
