@@ -159,3 +159,19 @@ Referral code + referrer full name required at account opening — email me at [
 - Premier Savings rate: **3.30% APY** with $5k DD or $500 debit spend (DPs: $5k ACH may work)
 - Brokerage sweep options: **HGDXX / HTDXX** (state tax advantages)
 - Keep some balance in checking to avoid closure issues
+
+---
+
+## 🔔 Current — $100 referral bonus
+**Nationwide** • **New User Only** • **No stated expiration date (subject to change)**
+
+Open a **new Current account** and get **$100** when you receive a **$200+ qualifying direct deposit** within **45 days**.
+
+### How to get the $100 bonus
+
+1. **Sign up for a current account:**  
+[Apply here](https://current.com/get-started/?creator_code=ZHISHANW863)
+
+2. Receive **$200+ qualifying direct deposits** within **45 days**
+
+3. $100 bonus is typically paid within **10 business days** after qualification  
