@@ -4,7 +4,7 @@
 
 **Public**, the investing app known for its clean design and community-driven investing tools, is running a **limited-time referral promotion** where you can earn **$100 in stock or ETFs of your choice** when signing up with a referral link — normally this bonus is **$20**.
 
-📅 **Started:** October 13, 2025  
+📅 **Started:** 01/20/2026  
 ⏳ **Duration:** Limited time — Public may end or modify the offer without notice.
 
 ### 🔑 How It Works
@@ -37,7 +37,7 @@
 
 - Super quick signup — took me **around 5 minutes**. Required **ID upload** but no selfie.
 - During signup, the app asks how much to fund and which stock to choose for your bonus; you can either complete it then or skip and do it after approval.
-- The stock selection screen still shows a banner saying “Get $20 stock on us when you deposit $1,000.” That’s **outdated** — the new **5× bonus ($100)** started **10/13/25** and is confirmed in both the **Rewards tab** and the official Terms and Conditions:  
+- The stock selection screen still shows a banner saying “Get $20 stock on us when you deposit $1,000.” That’s **outdated** — the new **5× bonus ($100)** started **01/20/2026** and is confirmed in both the **Rewards tab** and the official Terms and Conditions:  
   [public.com/disclosures/referral-terms](https://public.com/disclosures/referral-terms)
 
 ### 🪙 Extra Tip
