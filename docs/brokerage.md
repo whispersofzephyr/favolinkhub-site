@@ -1,24 +1,33 @@
 # Brokerage 
 
-## 🎁 Public Brokerage $100 bonus in stocks — Limited-Time 5× Referral Offer
+## 🎁 Public Brokerage — $100 Referral Bonus in Stocks (was $20 previously)
+**Nationwide · Effective 01/20/2026**
 
-**Public**, the investing app known for its clean design and community-driven investing tools, is running a **limited-time referral promotion** where you can earn **$100 in stock or ETFs of your choice** when signing up with a referral link — normally this bonus is **$20**.
+> **Quick Summary**
+> - **Bonus:** $100 in stock or ETF of your choice (fractional share)
+> - **Deposit Required:** $1,000 initial one-time deposit
+> - **Claim Window:** 30 days after rewards showing up in the "Rewards" Tab
+> - **Lock Period:** 12 months on the $100 reward but no lock period on the $1000 initial deposit 
 
-📅 **Started:** 01/20/2026  
-⏳ **Duration:** Limited time — Public may end or modify the offer without notice.
+Public currently offers a **$100 referral bonus** in stocks or ETFs when signing up with a referral link and depositing $1,000.  
+Historically, the standard referral bonus has often been **$20**, and some parts of the app may still display that older amount. The **Rewards tab** and the **official Terms and Conditions** reflect the current $100 bonus.
 
-### 🔑 How It Works
+### 🔑 How to the the $100 bonus
 
-1. **Sign up** using a referral link:  
-   👉 [public.com/user-referral?referrer=Zhishan98059](https://public.com/user-referral?referrer=Zhishan98059)
+**1. Sign up using a referral link**  
+     👉[https://public.com/user-referral?referrer=Zhishan98059](https://public.com/user-referral?referrer=Zhishan98059)
 
-2. **Make a single deposit of $1,000 or more.**
-   - The deposit can be made **during application or later**; it just needs to be your **first one-time initial deposit**.
+**2. Make a single initial deposit of $1,000 or more**  
 
-3. **Once the deposit posts successfully**, both you and your referrer receive **$100 worth of fractional stock or an ETF of your choice.**
-   - You’ll have **30 days** to claim your reward inside the **Rewards** tab before it expires.
-   - The $100 will appear as a **fractional share** of your chosen stock or ETF.
-   - Current available options include **TSLA, AAPL, MSFT, GOOG, AMZN, VOO, QQQ, NVDA, META**.
+  - The deposit can be made **during application or after approval**  
+  - It must be your **first one-time initial deposit**
+
+**3. Receive $100 in stock or ETF**  
+
+  - **Once the deposit posts successfully**, both you and your referrer receive **$100 worth of fractional stock or an ETF of your choice.**
+  - You’ll have **30 days** to claim your reward inside the **Rewards** tab before it expires.
+  - The $100 will appear as a **fractional share** of your chosen stock or ETF.
+  - Current available options include **TSLA, AAPL, MSFT, GOOG, AMZN, VOO, QQQ, NVDA, META**.
 
 ### ⚖️ Requirements & Rules
 
@@ -30,21 +39,24 @@
   You can **withdraw or reinvest it anytime** after receiving the bonus.
 
 - **Referral Cap:**  
+  You can receive your own referral link after signing up to refer others
   Each user can earn up to **$500 total** in referral bonuses (five successful referrals).  
-  After that, referrers won’t get additional bonuses — but referees remain eligible.
+  After reaching the cap, referrers no longer earn bonuses, but referees remain eligible
 
 ### 📝 Application Notes
 
 - Super quick signup — took me **around 5 minutes**. Required **ID upload** but no selfie.
 - During signup, the app asks how much to fund and which stock to choose for your bonus; you can either complete it then or skip and do it after approval.
-- The stock selection screen still shows a banner saying “Get $20 stock on us when you deposit $1,000.” That’s **outdated** — the new **5× bonus ($100)** started **01/20/2026** and is confirmed in both the **Rewards tab** and the official Terms and Conditions:  
+- The stock selection screen may still shows a banner saying “Get $20 stock on us when you deposit $1,000.” That’s **outdated** — the new **5× bonus ($100)** started **01/20/2026** and is confirmed in both the **Rewards tab** and the official Terms and Conditions:  
   [public.com/disclosures/referral-terms](https://public.com/disclosures/referral-terms)
-
+  
 ### 🪙 Extra Tip
 
-A practical use of this account beyond the bonus: You can **drain prepaid cards** by depositing them into Public (lifetime cap $4,000). **Blackhawk-issued** prepaid cards typically don’t work, but many others do until you hit the $4K cap.
+Public can also be useful for **draining prepaid cards** via deposits (lifetime cap ~$4,000, YMMV).  
+- **Blackhawk-issued** prepaid cards usually do not work  
+- Many other prepaid cards do, until the cap is reached
 
-To avoid scrutiny, you *can* use the funds to **buy Treasury bills**, hold them for 3 months, and then ACH the proceeds back to your bank — but you don’t have to do it this way.
+To keep activity clean, one option is to **buy Treasury bills**, hold them for ~3 months, then ACH the proceeds back — optional, not required.
 
 ---
 
