@@ -1,4 +1,4 @@
-# ⬇️ Brokerage ⬇️
+# Brokerage 
 
 ## 🎁 Public Brokerage $100 bonus in stocks — Limited-Time 5× Referral Offer
 
