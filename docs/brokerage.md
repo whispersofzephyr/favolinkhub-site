@@ -155,7 +155,7 @@ For **brand-new users only**:
 - Requires **claim → small deposit → trade**
 - Check *Invite Friends* / *My Rewards* in-app
 
-👉 Referral link: [https://j.moomoo.com/01nsnp]9https://j.moomoo.com/01nsnp)
+👉 Referral link: [https://j.moomoo.com/01nsnp](https://j.moomoo.com/01nsnp)
 
 ### 🧾 Final Verdict
 
