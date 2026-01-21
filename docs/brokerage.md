@@ -24,7 +24,7 @@ Historically, the standard referral bonus has often been **$20**, and some parts
 
 (Some DPs suggest that if the referral link did not track during signup, or the account was not originally opened via a referral, the referral bonus may still be recoverable after approval. Enter the referral code into the **"Have a promo code? Enter it here"** box inside the **Rewards** Tab and click "**Submit**", which then prompts stock selection. This appears to be a fallback mechanism and may be YMMV.)
 
-Referral code: **Zhishan98059**
+**Referral code:** `Zhishan98059`
 
 **2. Make a single initial deposit of $1,000 or more**
 
