@@ -215,15 +215,16 @@ This is a **multi-layer, stackable brokerage promotion**, but only if you follow
 
 - **Four independent components, fully stackable:**
   
-  1) **$25 referral bonus** (optional, referral link required, must be claimed first)  
-  2) **Cash deposit → NVDA stock bonus** (ACH / Wire only, up to $1,000, long holds at higher tiers)  
-  3) **8.1% APY booster** on first $20,000 for 60 days (manual activation required)  
-  4) **3% ACAT transfer match** on first $20,000 (max $600, paid quarterly over 12 months)
+    - 1) **$25 referral bonus** (optional, referral link required, must be claimed first)  
+    - 2) **Cash deposit → NVDA stock bonus** (ACH / Wire only, up to $1,000, long holds at higher tiers)  
+    - 3) **8.1% APY booster** on first $20,000 for 60 days (manual activation required)  
+    - 4) **3% ACAT transfer match** on first $20,000 (max $600, paid quarterly over 12 months)
 
-- **Cash deposit and ACAT are separate tracks.**  
-  Cash deposits earn **NVDA + APY**.  
-  ACAT transfers earn **3% match**.  
-  One does **not** replace the other.
+- **Cash deposit and ACAT are separate tracks.**
+  
+    - Cash deposits earn **NVDA + APY**.  
+    - ACAT transfers earn **3% match**.  
+    - One does **not** replace the other.
 
 - **Timing matters.**
   
