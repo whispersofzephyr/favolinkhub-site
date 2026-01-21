@@ -46,13 +46,6 @@ A practical use of this account beyond the bonus: You can **drain prepaid cards*
 
 To avoid scrutiny, you *can* use the funds to **buy Treasury bills**, hold them for 3 months, and then ACH the proceeds back to your bank — but you don’t have to do it this way.
 
-### 💰 Ready to start?
-
-Signup with my referral link:  
-👉 [public.com/user-referral?referrer=Zhishan98059](https://public.com/user-referral?referrer=Zhishan98059)
-
-Deposit $1,000 → Claim $100 in stock or ETF → Withdraw or reinvest anytime.
-
 ---
 
 ## 💸 Moomoo — up to $1,000 in NVDA stock + 8.1% APY on $20,000 for 3 months + $25–$1,000 referral gift + 3% ACAT match on $20,000 (max $600)
