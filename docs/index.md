@@ -1,4 +1,4 @@
-# Welcome
+# Home
 
 ## Welcome to Favo Bonus Hub
 
