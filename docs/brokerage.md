@@ -147,7 +147,7 @@ You qualify only if **one** of the following is true:
   - Trading allowed, **withdrawals break unlock**
 - Coupons expire **6 months after unlock**
 
-## 🎁 4) Referral Bonus 
+### 🎁 4) Referral Bonus 
 
 For **brand-new users only**:
 
