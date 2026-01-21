@@ -92,3 +92,98 @@ This is currently one of the **highest-value brokerage promos available**. All o
 👉 **My referral link:** [j.moomoo.com/01nsnp](https://j.moomoo.com/01nsnp)
 
 ---
+
+## 💸 Moomoo — up to $1,000 NVDA + 8.1% APY (60 days) + 3% ACAT match (max $600) + $25 Referral
+**Nationwide · Offer Valid 01/01/2026 – 03/12/2026**
+
+> **Quick Summary**
+> 
+> - 💰 **Up to $1,000 in NVDA stock** with cash deposit of 5 tiers  
+> - 📈 **8.1% APY** on first **$20,000** for **60 days** (manual activation)  
+> - 🔁 **3% ACAT transfer match** on first **$20,000** (max **$600**, paid quarterly)  
+> - 🎁 **$25 referral bonus** for brand-new users  
+> - ✅ All offers **stackable** for **new / never-funded** Moomoo accounts
+
+👉 **Referral link:** [https://j.moomoo.com/01nsnp](https://j.moomoo.com/01nsnp)
+
+### 👤 Eligibility (read first)
+
+You qualify only if **one** of the following is true:
+
+- You **never opened** a Moomoo brokerage account before **01/01/2026**, or  
+- You opened one before but **never made any deposit or ACAT transfer**, and  
+  your **first deposit or ACAT settles by 03/12/2026**
+
+❌ Any account with **prior deposits before 01/01/2026** is **not eligible**.
+
+### ✅ 1) Welcome Bonus — **Up to $1,000 in NVDA stock** with cash deposit of 5 tiers
+
+**Eligible funding:** ACH / Wire / Instant / Debit  
+❌ **ACAT does NOT qualify**
+
+| Net Cash Deposit | NVDA Bonus | Hold Requirement |
+|------------------|------------|------------------|
+| ≥ $500           | $30        | $500 avg assets · 60 days |
+| ≥ $2,000         | $100       | $2,000 avg assets · 60 days |
+| ≥ $10,000        | $200       | $10,000 avg assets · 60 days |
+| ≥ $50,000        | $400       | $50,000 avg assets · 120 days |
+| ≥ $100,000       | $1,000     | $10k (60d) → $50k (120d) → $100k (180d) |
+
+**Notes**  
+
+- Issued as **fractional NVDA**
+- Unlocks after hold → tradable in ~**5 business days**
+- Sale proceeds are **withdrawable**
+
+### ✅ 2) 8.1% APY Cash Sweep Booster on first **$20,000** for **60 days**  (Manual Activation)
+
+- **Base APY:** 3.35%  
+- **Booster:** +4.75%  
+- **Total:** **8.1% APY**
+- **Cap:** first **$20,000**
+- **Duration:** **60 days from activation**
+
+**Required steps**  
+1. Enroll in **Cash Sweep**
+2. Deposit cash and wait for cash to arrive in sweep
+3. **Manually activate** booster in *My Rewards*
+
+❗ Not activated = base rate only.
+
+### ✅ 3) Transfer-In Promotion — **3% ACAT transfer match** on first **$20,000** (max **$600**, paid quarterly)  
+
+**Eligible assets:** stocks, ETFs, options (non-expiring), cash
+
+| First ACAT Amount | Match | Max |
+|-------------------|-------|-----|
+| $1 – $20,000      | 3%    | $600 |
+
+**How it pays**  
+
+- Issued as **Cash Coupon**
+- Paid in **4 quarterly installments** (Day 90 / 180 / 270 / 360)
+- Each installment = **25%**
+- To unlock each:
+  - Keep **$20k transferred assets** for **90 days**
+  - Trading allowed, **withdrawals break unlock**
+- Coupons expire **6 months after unlock**
+
+### 🎁 4) Referral Bonus 
+
+For **brand-new users only**:
+
+- **$25 referral bonus** as of 1/21/2026
+- Requires **claim → small deposit → trade**
+- Check *Invite Friends* / *My Rewards* in-app
+
+👉 Referral link: [https://j.moomoo.com/01nsnp](https://j.moomoo.com/01nsnp)
+
+### 🧾 Final Verdict
+
+Still one of the **highest-value stackable brokerage promos**:
+
+- NVDA bonus = high face value, medium hold  
+- APY booster = easy return on idle cash  
+- ACAT match = slow but real **3% extra**
+
+Best suited for **new users with $20k–$100k+** who can tolerate holding periods.
