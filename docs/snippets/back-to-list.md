@@ -1,1 +1,1 @@
-[← Back to Master Offer List](../offers-index.md)
+[← Back to Master Offer List](/offers-index/)
