@@ -46,7 +46,7 @@ Earn a **$50 Cash Back bonus** after a qualifying purchase.
 ---
 
 ## 💰 TopCashback — $40 Bonus  
-**Expires: 12/08/2025**
+**Nationwide · Expires: 12/08/2025**
 
 👉[Join here](https://www.topcashback.com/ref/favonianzs)
 
@@ -61,7 +61,8 @@ Withdraw via PayPal, bank transfer, or gift cards.
 
 ---
 
-## 💰 Swagbucks
+## 💰 Swagbucks - $10 Bonus
+**Nationwide · No Expiration Date**
 
 Get a **$10 signup bonus**.
 
