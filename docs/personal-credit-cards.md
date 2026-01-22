@@ -1,8 +1,6 @@
-# ⬇️ Personal Credit Cards ⬇️
+# Personal Credit Cards 
 
 *Under construction*
-
----
 
 ## 💸 Chase Credit Cards
 
