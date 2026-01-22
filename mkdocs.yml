@@ -21,8 +21,8 @@ nav:
   - Crypto: crypto.md
   - Personal Credit Cards: personal-credit-cards.md
   - Business Credit Cards: business-credit-cards.md
-  - Cashback Shopping Portals: shopping-portals.md
-  - Money Tools: money-tools.md
+  - Cashback Portals: shopping-portals.md
+  - Fintech Apps: money-tools.md
 
 markdown_extensions:
   - toc:
