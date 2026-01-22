@@ -1,6 +1,4 @@
-# ⬇️ Shopping Cashback Portals ⬇️
-
----
+# Shopping Cashback Portals 
 
 ## 💰 Capital One Shopping — $80 Bonus (Limited Time)
 **Nationwide · No Stated Expiration Date · Last Checked on 01/22/2026**
