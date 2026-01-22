@@ -29,7 +29,8 @@ markdown_extensions:
   - toc:
       permalink: true
       toc_depth: 2
-  - pymdownx.snippets
+  - pymdownx.snippets:
+      base_path: docs
 
 extra_css:
   - stylesheets/extra.css
