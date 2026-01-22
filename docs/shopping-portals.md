@@ -61,7 +61,7 @@ Withdraw via PayPal, bank transfer, or gift cards.
 
 ---
 
-## 💰 Swagbucks - $10 Bonus
+## 🎁 Swagbucks - $10 Bonus
 **Nationwide · No Expiration Date**
 
 Get a **$10 signup bonus**.
@@ -80,17 +80,15 @@ Get a **$10 signup bonus**.
 
 Get a **$5 bonus**.
 
-[Join here](https://www.inboxdollars.com/?rb=206791146)
+👉[Join here](https://www.inboxdollars.com/?rb=206791146)
 
 ---
 
 ## 💵 BeFrugal
 
-[Join here](https://www.befrugal.com/rs/NOHOQKN/)
+👉[Join here](https://www.befrugal.com/rs/NOHOQKN/)
 
 Join BeFrugal and earn $10 or more in Cash Back (not including bonuses and earnings from non-purchase activity) within 365 days of account creation.
 
----
 
-## 💰 InboxDollars
 
