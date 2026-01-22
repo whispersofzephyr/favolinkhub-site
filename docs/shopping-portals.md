@@ -5,7 +5,7 @@
 
 Sign up using my referral link and earn **$80 in rewards** after meeting all requirements.
 
-[Join here](https://capitaloneshopping.com/r/9456ade4-5111-436e-bc35-a4643ace36d0)
+👉[Join here](https://capitaloneshopping.com/r/9456ade4-5111-436e-bc35-a4643ace36d0)
 
 ### Requirements
 
@@ -28,7 +28,7 @@ Issued within **30 days after the 90-day period** completes.
 
 Earn a **$50 Cash Back bonus** after a qualifying purchase.
 
-[Sign up here](http://www.rakuten.com/r/FAVONI8?eeid=28187)
+👉[Sign up here](http://www.rakuten.com/r/FAVONI8?eeid=28187)
 
 ### How to qualify
 
@@ -48,7 +48,7 @@ Earn a **$50 Cash Back bonus** after a qualifying purchase.
 ## 💰 TopCashback — $40 Referral Bonus  
 **Expires: 12/08/2025**
 
-[Join here](https://www.topcashback.com/ref/favonianzs)
+👉[Join here](https://www.topcashback.com/ref/favonianzs)
 
 ### How it works
 
@@ -65,13 +65,13 @@ Withdraw via PayPal, bank transfer, or gift cards.
 
 Get a **$10 signup bonus**.
 
-[Join here](https://www.swagbucks.com/profile/r_149460213?rp=1)
+👉[Join here](https://www.swagbucks.com/profile/r_149460213?rp=1)
 
 ---
 
 ## 💵 MyPoints
 
-[Join here](https://www.mypoints.com/?rb=201770842)
+👉[Join here](https://www.mypoints.com/?rb=201770842)
 
 ---
 
