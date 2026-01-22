@@ -7,6 +7,10 @@
 - **Chase United MileagePlus® Credit Card**  
   [Apply here](https://www.referyourchasecard.com/215o/CKBNUY20BU)
 
+---
+
+## 💸 Capital One Credit Cards
+
 - **Capital One Quicksilver Cash Rewards Credit Card**  
   Earn **$200 cash bonus** once you spend **$500 within 3 months** from account opening.  
   **1.5% cash back**, **no annual fee**.  
