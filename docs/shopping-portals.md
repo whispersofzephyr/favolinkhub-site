@@ -1,7 +1,5 @@
 # Cashback Shopping Portals 
-
 --8<-- "snippets/back-to-list.md"
-
 ## 💰 Capital One Shopping — $80 Bonus 
 **Nationwide · No Stated Expiration Date · Last Checked on 01/22/2026**
 
@@ -23,12 +21,8 @@ Sign up using my referral link and earn **$80 in rewards** after meeting all req
 **Bonus timing:**  
 Issued within **30 days after the 90-day period** completes.
 
---8<-- "snippets/back-to-list.md"
-
 ---
-
 --8<-- "snippets/back-to-list.md"
-
 ## 💵 Rakuten — $50 Bonus 
 **Nationwide · No Stated Expiration Date · Last Checked on 01/22/2026**
 
