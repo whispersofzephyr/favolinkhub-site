@@ -3,6 +3,7 @@
 ---
 
 ## 💰 Capital One Shopping — $80 Bonus (Limited Time)
+**Nationwide · No Stated Expiration Date · Last Checked on 01/22/2026**
 
 Sign up using my referral link and earn **$80 in rewards** after meeting all requirements.
 
@@ -25,6 +26,7 @@ Issued within **30 days after the 90-day period** completes.
 ---
 
 ## 💵 Rakuten — $50 Bonus (Limited Time)
+**Nationwide · No Stated Expiration Date · Last Checked on 01/22/2026**
 
 Earn a **$50 Cash Back bonus** after a qualifying purchase.
 
