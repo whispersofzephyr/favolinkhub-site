@@ -13,11 +13,7 @@ Questions or clarifications:
 
   → **🔍 Use Search**
   
-  → 🎯 <a href="offers-index.md"><strong>View the full Offers Index →</strong></a>
-
-[🎯 **View the full Offers Index →**](offers-index.md)
-
-→ 🎯 <a href="/offers-index/"><strong>View the full Offers Index →</strong></a>
+  → [🎯 **View the full Offers Index →**](offers-index.md)
 
 ---
 
