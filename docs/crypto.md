@@ -1,6 +1,8 @@
 # Crypto 
 
 --8<-- "snippets/back-to-list.md"
+
+<a id="cr-etoro"></a>
 ## 🔔 eToro — Up to $500 Crypto Bonus + $30 Referral 🔥🔥🔥
 **Nationwide excluding NY, NV, and HI · One account per person/household · Expires 01/31/2026**
 
@@ -68,6 +70,7 @@ New users may earn **up to $530 total**:
 
 ---
 
+<a id="cr-kraken"></a>
 ## 🪙 Kraken $75-$150 Referral + Capital One Shopping $250 or Rakuten $50–$150 or TopCashBack $202 
 
 **Referral availability: Nationwide (excluding ME, WA, NY) · No Expiration Date**    
@@ -210,6 +213,7 @@ Some users will see a **Spin to Win** button in the app.
 
 ---
 
+<a id="cr-okx"></a>
 ## 🎁 OKX - $200 Referral
 **US users only, excluding NY, TX, AS, GU, MP, VI • Expires 02/03/2026 (9:00 PM local time)**
 
@@ -227,7 +231,8 @@ Some users will see a **Spin to Win** button in the app.
 
 ---
 
-## 🟦 Gemini — $50 Referral 
+<a id="cr-gemini"></a>
+## 🟦 Gemini — $50 Referral
 
 **Nationwide · No Expiration Date** · Available in the **United States**, Australia, New Zealand, Hong Kong, and most of Europe
 
