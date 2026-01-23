@@ -4,7 +4,7 @@ These offers are available to most U.S. residents with no state-level restrictio
 For offers that are limited to specific states (e.g. Colorado), see:
 → [Geo-Restricted Personal Bank Accounts](../personal-bank-geo/)
 
-## 🔔 HSBC Premier Checking — $1,500 or $2,500 Referral 🔥🔥🔥  
+## 🔔 HSBC Premier Checking — $1,500 / $2,500 Referral 🔥🔥🔥  
 **Nationwide • New HSBC customers only • Expires: 06/30/2026**
 
 > 💡 **Quick Summary**
