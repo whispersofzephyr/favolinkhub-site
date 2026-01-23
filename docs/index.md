@@ -15,17 +15,7 @@ For questions about specific offers or requirement details, contact:
 
 👉 Looking for a specific offer (HSBC, Public, eToro)?
 
-→ **Use Search 🔍**  
-or  
-→ 🎯 <a href="offers-index.md"><strong>View the full Offers Index →</strong></a>
-
-
-→ Use Search 🔍 or 🎯 
-<a href="offers-index.md">
-  <span style="font-weight:600; font-size:1.05em;">
-    View the full Offers Index →
-  </span>
-</a>
+→ **🔍 Use Search** or 🎯 <a href="offers-index.md"><strong>View the full Offers Index →</strong></a>
 
 ---
 
