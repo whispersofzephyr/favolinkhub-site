@@ -4,8 +4,10 @@ title: Offers Index
 
 # Offers Index
 
-All current offers, organized by category.
+All current offers, organized by category:   
+[Personal](#personal-bank-nationwide),[Business](#"business-bank),[Brokerage](#brokerage),[Crypto](#crypto) 
 
+<a id="personal-bank-nationwide"></a>
 ## Personal Bank Accounts - Nationwide
 
 [🔔HSBC Premier Checking — $1,500 / $2,500 Referral](personal-bank-nationwide.md#hsbc-premier-checking) 🔥🔥🔥  
@@ -29,6 +31,7 @@ All current offers, organized by category.
 [🏆 Central Bank — $300 Referral (OK, IL, KS, MO, CO)](personal-bank-geo.md#central-bank)  
 [🧧 On Tap Credit Union — $50 Referral (CO-only)](personal-bank-geo.md#on-tap-credit-union)  
 
+<a id="business-bank"></a>
 ## Business Bank Accounts
 
 [💸 Grasshopper Bank Business Checking — $200 Referral](business-bank.md#biz-grasshopper) 🔥🔥  
@@ -36,12 +39,14 @@ All current offers, organized by category.
 [💰 Chase Business Complete Checking® — $300 or $500 Referral](business-bank.md#biz-chase-business)  
 [🎁 RAMP — $250 Referral](business-bank.md#biz-ramp)  
 
+<a id="brokerage"></a>
 ## Brokerage
 
 [🎁 Public Brokerage — $100 Referral](brokerage.md#br-public) 🔥🔥🔥    
 [💸 Moomoo — up to $1,000 NVDA + 8.1% APY (60 days) + 3% ACAT match (max $600) + $25 Referral](brokerage.md#br-moomoo) 🔥🔥  
 [🔷 Webull - tbd](brokerage.md#br-webull)      
 
+<a id="crypto"></a>
 ## Crypto
 
 [🔔 eToro — Up to $500 Crypto Bonus + $30 Referral](crypto.md#cr-etoro) 🔥🔥🔥   
