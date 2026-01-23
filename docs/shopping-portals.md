@@ -90,7 +90,7 @@ Get a **$5 bonus**.
 
 ---
 
-## 💵 BeFrugal
+## 💵 BeFrugal - $10 Bonus
 
 👉[Join here](https://www.befrugal.com/rs/NOHOQKN/)
 
