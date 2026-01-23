@@ -54,7 +54,7 @@ Earn a **$50 Cash Back bonus** after a qualifying purchase.
 ---
 
 <a id="sp-topcashback"></a>
-## 💰 TopCashback — $40 Bonus
+## 🎁 TopCashback — $40 Bonus
 **Nationwide · Expires: 12/08/2025**
 
 👉[Join here](https://www.topcashback.com/ref/favonianzs)
@@ -73,7 +73,7 @@ Withdraw via PayPal, bank transfer, or gift cards.
 ---
 
 <a id="sp-swagbucks"></a>
-## 🎁 Swagbucks - $10 Bonus
+## 🎯 Swagbucks - $10 Bonus
 **Nationwide · No Expiration Date**
 
 Get a **$10 signup bonus**.
@@ -85,14 +85,14 @@ Get a **$10 signup bonus**.
 ---
 
 <a id="sp-mypoints"></a>
-## 💵 MyPoints
+## 📌 MyPoints
 
 👉[Join here](https://www.mypoints.com/?rb=201770842)
 
 ---
 
 <a id="sp-inboxdollars"></a>
-## 💰 InboxDollars
+## 💵 InboxDollars
 
 Get a **$5 bonus**.
 
@@ -103,7 +103,7 @@ Get a **$5 bonus**.
 ---
 
 <a id="sp-befrugal"></a>
-## 💵 BeFrugal - $10 Bonus
+## 🧺 BeFrugal - $10 Bonus
 
 👉[Join here](https://www.befrugal.com/rs/NOHOQKN/)
 
