@@ -11,8 +11,8 @@ theme:
       accent: amber
      
 nav:
-  - 🏠 Home: index.md
-  - ⭐ Offers Index: offers-index.md
+  - Home 🏠: index.md
+  - Offers Index ⭐: offers-index.md
   - Personal Bank Accounts:
     - Overview: personal-bank.md
     - Nationwide: personal-bank-nationwide.md
@@ -24,7 +24,7 @@ nav:
   - Business Credit Cards: business-credit-cards.md
   - Cashback Portals: shopping-portals.md
   - Fintech Apps: money-tools.md
-  - 🧭 How to Use This Site: help.md
+  - How to Use This Site🧭: help.md
 
 markdown_extensions:
   - toc:
