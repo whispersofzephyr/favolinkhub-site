@@ -17,17 +17,15 @@ For questions about specific offers or requirement details, contact:
 
 → **Use Search 🔍**  
 or  
-→ 🔗 <a href="offers-index.md"><strong>View the full Offers Index →</strong></a>
+→ 🎯 <a href="offers-index.md"><strong>View the full Offers Index →</strong></a>
 
 
-→ Use Search 🔍 or 🔗 
+→ Use Search 🔍 or 🎯 
 <a href="offers-index.md">
   <span style="font-weight:600; font-size:1.05em;">
     View the full Offers Index →
   </span>
 </a>
-
-→ Use Search 🔍 or 🔗 <strong><a href="offers-index.md">View the full Offers Index →</a></strong>
 
 ---
 
