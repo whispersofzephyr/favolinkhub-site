@@ -1,6 +1,7 @@
 # Crypto 
 
-## 🪙 eToro — Up to $530 Bonus ($500 Crypto Bonus + $30 Referral)
+--8<-- "snippets/back-to-list.md"
+## 🔔 eToro — Up to $500 Crypto Bonus + $30 Referral 🔥🔥🔥
 **Nationwide excluding NY, NV, and HI · One account per person/household · Expires 01/31/2026**
 
 **Referral link:** [https://etoro.tw/4bKaOxA](https://etoro.tw/4bKaOxA)
@@ -63,9 +64,11 @@ New users may earn **up to $530 total**:
 ### Referral Terms (Official PDF)
 - [https://marketing.etorostatic.com/lp/raf/Terms/etoro_USA_LLC_refer_a_friend_terms_and_conditions.pdf](https://marketing.etorostatic.com/lp/raf/Terms/etoro_USA_LLC_refer_a_friend_terms_and_conditions.pdf)
 
+--8<-- "snippets/back-to-list.md"
+
 ---
 
-## 🪙 Kraken $75 - $150 Referral + Capital One Shopping $250 or Rakuten $50–$150 or TopCashBack $202
+## 🪙 Kraken $75-$150 Referral + Capital One Shopping $250 or Rakuten $50–$150 or TopCashBack $202 
 
 **Referral availability: Nationwide (excluding ME, WA, NY) · No Expiration Date**    
 **Portal cashback: likely still works in excluded states (referral bonus may not)**  
@@ -203,9 +206,11 @@ Some users will see a **Spin to Win** button in the app.
 
 ✅ **Kraken 3 tiered $75 referral code:** **738j3gdg** or **Kraken 4 tiered $150 referral code:** **tbpp3gdg**
 
+--8<-- "snippets/back-to-list.md"
+
 ---
 
-## 🎁 OKX: $200 Referral/ Welcome Rewards 
+## 🎁 OKX - $200 Referral
 **US users only, excluding NY, TX, AS, GU, MP, VI • Expires 02/03/2026 (9:00 PM local time)**
 
 **Referral link:**  
@@ -218,9 +223,11 @@ Some users will see a **Spin to Win** button in the app.
 - **Buy $200 or more** worth of crypto within the required timeframe.
 - To unlock $200 rewards, maintain a **daily average portfolio balance of $200 for any 30 days within a 90-day period**.
 
+--8<-- "snippets/back-to-list.md"
+
 ---
 
-## 🟦 Gemini — $50 Referral Bonus (Trade $100 in Crypto)
+## 🟦 Gemini — $50 Referral 
 
 **Nationwide · No Expiration Date** · Available in the **United States**, Australia, New Zealand, Hong Kong, and most of Europe
 
@@ -265,3 +272,4 @@ Gemini has updated the rules — **this is where many people mess up.**
 - Standard trading fees apply
 - Using **ActiveTrader mode** significantly lowers fees (recommended)
 
+--8<-- "snippets/back-to-list.md"
