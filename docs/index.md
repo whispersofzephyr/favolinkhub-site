@@ -2,7 +2,7 @@
 
 Maintained by **Favo** and **Maya** (Doctor of Credit).
 
-A curated collection of referral links with notes based on ongoing tracking.
+Curated referral links with notes based on ongoing tracking.
 
 Questions or clarifications:   
 [**contact@favolinkhub.com**](mailto:contact@favolinkhub.com)
