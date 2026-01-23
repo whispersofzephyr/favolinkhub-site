@@ -5,7 +5,7 @@ title: Offers Index
 # Offers Index
 
 All current offers, organized by category:   
-[Personal Bank Accounts](#personal-bank-nationwide) · [Business Bank Accounts](#"business-bank) · [Brokerage](#brokerage) · [Crypto](#crypto) · [Credit Cards](#personal-credit-cards) · [Cashback Portals](#cashback-portals) · [Fintech Apps](#fintech-apps)
+[Personal Bank Accounts - Nationwide](#personal-bank-nationwide) · [Personal Bank Accounts - Geo-restricted](#personal-bank-geo) · [Business Bank Accounts](#"business-bank) · [Brokerage](#brokerage) · [Crypto](#crypto) · [Personal Credit Cards](#personal-credit-cards) · [Business Credit Cards](#business-credit-cards) · [Cashback Portals](#cashback-portals) · [Fintech Apps](#fintech-apps)
 
 <a id="personal-bank-nationwide"></a>
 ## Personal Bank Accounts - Nationwide
@@ -24,6 +24,8 @@ All current offers, organized by category:
 [✨ Premier Member Credit Union — $50 Referral](personal-bank-nationwide.md#premier-member-cu)  
 [🔷 Delta Community Credit Union — $50 Referral](personal-bank-nationwide.md#delta-community-cu)  
 
+[↑ Back to top](#top)
+
 <a id="personal-bank-geo"></a>
 ## Personal Bank Accounts - Geo-Restricted
 
@@ -31,6 +33,8 @@ All current offers, organized by category:
 [💰 Commerce Bank — $200 Referral (MO, KS, IL, OK, CO)](personal-bank-geo.md#commerce-bank)  
 [🏆 Central Bank — $300 Referral (OK, IL, KS, MO, CO)](personal-bank-geo.md#central-bank)  
 [🧧 On Tap Credit Union — $50 Referral (CO-only)](personal-bank-geo.md#on-tap-credit-union)  
+
+[↑ Back to top](#top)
 
 <a id="business-bank"></a>
 ## Business Bank Accounts
@@ -40,12 +44,16 @@ All current offers, organized by category:
 [💰 Chase Business Complete Checking® — $300 or $500 Referral](business-bank.md#biz-chase-business)  
 [🎁 RAMP — $250 Referral](business-bank.md#biz-ramp)  
 
+[↑ Back to top](#top)
+
 <a id="brokerage"></a>
 ## Brokerage
 
 [🎁 Public Brokerage — $100 Referral](brokerage.md#br-public) 🔥🔥🔥    
 [💸 Moomoo — up to $1,000 NVDA + 8.1% APY (60 days) + 3% ACAT match (max $600) + $25 Referral](brokerage.md#br-moomoo) 🔥🔥  
 [🔷 Webull - tbd](brokerage.md#br-webull)      
+
+[↑ Back to top](#top)
 
 <a id="crypto"></a>
 ## Crypto
@@ -55,14 +63,22 @@ All current offers, organized by category:
 [🎁 OKX - $200 Referral](crypto.md#cr-okx)  
 [🟦 Gemini — $50 Referral](crypto.md#cr-gemini)  
 
+[↑ Back to top](#top)
+
 <a id="personal-credit-cards"></a>
 ## Personal Credit Cards
+
+[↑ Back to top](#top)
 
 <a id="business-credit-cards"></a>
 ## Business Credit Cards
 
+[↑ Back to top](#top)
+
 <a id="cashback-portals"></a>
 ## Cashback Shopping Portals
+
+[↑ Back to top](#top)
 
 [💰 Capital One Shopping — $80 Bonus](shopping-portals.md#sp-capital-one-shopping) 🔥🔥🔥  
 [🧧 Rakuten — $50 Bonus](shopping-portals.md#sp-rakuten) 🔥🔥🔥  
@@ -72,5 +88,9 @@ All current offers, organized by category:
 [💵 InboxDollars — $5 Bonus](shopping-portals.md#sp-inboxdollars)  
 [🧺 BeFrugal - $10 Bonus](shopping-portals.md#sp-befrugal)  
 
+[↑ Back to top](#top)
+
 <a id="fintech-apps"></a>
 ## Fintech Apps
+
+[↑ Back to top](#top)
