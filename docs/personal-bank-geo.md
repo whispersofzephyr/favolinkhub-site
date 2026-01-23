@@ -1,5 +1,7 @@
 # Personal Bank Accounts – Geo-Restricted
 
+--8<-- "snippets/back-to-list.md"
+
 These accounts are limited by state, county, or region.  
 If you are looking for accounts available nationwide, see:
 → [Nationwide Personal Bank Accounts](../personal-bank-nationwide/)
