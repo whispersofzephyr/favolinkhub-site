@@ -1,6 +1,9 @@
 # Business Bank Accounts (Nationwide)
 
-## 💸 Grasshopper Bank Business Checking — $200 Referral Bonus  
+--8<-- "snippets/back-to-list.md"
+
+<a id="biz-grasshopper"></a>
+## 💸 Grasshopper Bank Business Checking — $200 Referral   
 **Nationwide · Excludes Sole Proprietors · No Expiration Date**
 
 Grasshopper Bank is offering an **easy $200 referral bonus** when you open a new business checking account using my referral code.
@@ -20,9 +23,12 @@ Grasshopper Bank is offering an **easy $200 referral bonus** when you open a new
 ### 📄 Full Terms
 [Referral Program Terms & Conditions (PDF)](https://www.grasshopper.bank/wp-content/uploads/2025/09/Referral-Program-Terms-Conditions-2.pdf)
 
+--8<-- "snippets/back-to-list.md"
+
 ---
 
-## 💰 Novo Business Checking — $40 Referral Bonus  
+<a id="biz-novo"></a>
+## 💰 Novo Business Checking — $40 Referral  
 **Nationwide** • **No Expiration Date**
 
 ### ✅ How to earn the $40 bonus
@@ -52,8 +58,12 @@ Grasshopper Bank is offering an **easy $200 referral bonus** when you open a new
 - **Referrer limit:** You can refer others as well. Bonuses paid on up to **10 qualified referrals per calendar year**
 - Bonus typically paid **within 30 days after all requirements are met**
 
+--8<-- "snippets/back-to-list.md"
+
 ---
-## 💰 Chase Business Complete Checking® - $300 or $500 Bonus
+
+<a id="biz-chase-business"></a>
+## 💰 Chase Business Complete Checking® - $300 or $500 Referral
 **Nationwide · Expiration: 04/30/2026**
 
 > **Quick Summary**
@@ -102,9 +112,12 @@ Grasshopper Bank is offering an **easy $200 referral bonus** when you open a new
 - Chase Online℠ Bill Pay  
 - Chase QuickAccept® (QuickAccept card payments are combined into one qualifying transaction per day)
 
+--8<-- "snippets/back-to-list.md"
+
 ---
 
-## 💰 RAMP — $250 Bonus
+<a id="biz-ramp"></a>
+## 💰 RAMP — $250 Referral
 
 **Bonus:** $250  
 
@@ -121,3 +134,5 @@ Grasshopper Bank is offering an **easy $200 referral bonus** when you open a new
 
 **Apply:**  
 [Apply here](https://ramp.com/?rc=9SKE6U&referral_location=referral_page)
+
+--8<-- "snippets/back-to-list.md"
