@@ -24,10 +24,10 @@ All current offers, organized by category.
 
 ## Personal Bank Accounts - Geo-Restricted
 
-[⭐ CU of the Rockies — $50 / $100 Referral (CO-only)](personal-bank-geo.md#cu-of-the-rockies)  
-[💰 Commerce Bank — $200 Referral (MO, KS, IL, OK, CO)](personal-bank-geo.md#commerce-bank)
-[🏆 Central Bank — $300 Referral (OK, IL, KS, MO, CO)](personal-bank-geo.md#central-bank)
-[🧧 On Tap Credit Union — $50 Referral (CO-only)](personal-bank-geo.md#on-tap-credit-union)
+[⭐ CU of the Rockies — $50 / $100 Referral (CO-only)](personal-bank-geo.md#cu-of-the-rockies)    
+[💰 Commerce Bank — $200 Referral (MO, KS, IL, OK, CO)](personal-bank-geo.md#commerce-bank)  
+[🏆 Central Bank — $300 Referral (OK, IL, KS, MO, CO)](personal-bank-geo.md#central-bank)  
+[🧧 On Tap Credit Union — $50 Referral (CO-only)](personal-bank-geo.md#on-tap-credit-union)  
 
 ## Brokerage
 
