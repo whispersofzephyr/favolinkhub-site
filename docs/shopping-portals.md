@@ -3,7 +3,7 @@
 --8<-- "snippets/back-to-list.md"
 
 <a id="sp-capital-one-shopping"></a>
-## 💰 Capital One Shopping — $80 Bonus 🔥🔥🔥
+## 💰 Capital One Shopping — $80 Bonus 🔥🔥
 **Nationwide · No Stated Expiration Date · Last Checked on 01/22/2026**
 
 Sign up using my referral link and earn **$80 in rewards** after meeting all requirements.
@@ -29,7 +29,7 @@ Issued within **30 days after the 90-day period** completes.
 ---
 
 <a id="sp-rakuten"></a>
-## 🧧 Rakuten — $50 Bonus 🔥🔥🔥
+## 🧧 Rakuten — $50 Bonus 🔥
 **Nationwide · No Stated Expiration Date · Last Checked on 01/22/2026**
 
 Earn a **$50 Cash Back bonus** after a qualifying purchase.
