@@ -29,7 +29,7 @@ Issued within **30 days after the 90-day period** completes.
 ---
 
 <a id="sp-rakuten"></a>
-## 💵 Rakuten — $50 Bonus 🔥🔥🔥
+## 🧧 Rakuten — $50 Bonus 🔥🔥🔥
 **Nationwide · No Stated Expiration Date · Last Checked on 01/22/2026**
 
 Earn a **$50 Cash Back bonus** after a qualifying purchase.
