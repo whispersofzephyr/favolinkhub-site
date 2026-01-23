@@ -4,5 +4,5 @@ title: Offers Index
 
 # Offers Index（Under Construction）
 
-<!-- material/tags -->
+All current offers, organized by category.
 
