@@ -11,8 +11,8 @@ theme:
       accent: amber
      
 nav:
-  - Home: index.md
-  - 🗺️ Offers Index: offers-index.md
+  - 🏠 Home: index.md
+  - ⭐ Offers Index: offers-index.md
   - Personal Bank Accounts:
     - Overview: personal-bank.md
     - Nationwide: personal-bank-nationwide.md
