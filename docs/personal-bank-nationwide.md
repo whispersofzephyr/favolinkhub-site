@@ -1,5 +1,7 @@
 # Personal Bank Accounts – Nationwide
 
+--8<-- "snippets/back-to-list.md"
+
 These offers are available to most U.S. residents with no state-level restrictions.  
 For offers that are limited to specific states (e.g. Colorado), see:
 → [Geo-Restricted Personal Bank Accounts](../personal-bank-geo/)
@@ -137,6 +139,8 @@ Balances may be combined across:
   Some DPs report bonus failures when Premier Checking is closed due to a $0 balance.  
   Always keep a small balance in Checking.
 
+--8<-- "snippets/back-to-list.md"
+
 ---
 
 ## 💵 Varo Money — $100 Referral 
@@ -155,6 +159,8 @@ Balances may be combined across:
 
 - **Get a $100 cash bonus**  
    *(Usually deposited within ~2 days after the qualifying direct deposit is received)*
+
+--8<-- "snippets/back-to-list.md"
 
 ---
 
@@ -226,6 +232,8 @@ Nationwide membership is available via a **$5 donation** to the OnPath Foundatio
   - Rates and terms may change  
   - Credit card funding has been reported; limits vary, current is $1000 — verify with customer service
 
+--8<-- "snippets/back-to-list.md"
+
 ---
 
 ## ⭐ Christian Community Credit Union (CCCU) — $200 Bonus + $50 Referral  
@@ -294,6 +302,8 @@ Nationwide membership is available via a **$5 donation** to the OnPath Foundatio
   CCCU is privately insured (not NCUA).
 - **eStatements:**  
   Enrollment uses a **separate system** and may require a **different login** — don’t skip this step.
+
+--8<-- "snippets/back-to-list.md"
   
 ---
 
@@ -356,6 +366,8 @@ To receive the $300 checking bonus, you must:
 - **ChexSystems:**  
   KeyPoint is known to be **Chex-sensitive**, so this may not be ideal if you’ve opened many accounts recently.
 
+--8<-- "snippets/back-to-list.md"
+
 ---
 
 ## 💰 OnePay Cash — $50 Cash Bonus 
@@ -380,6 +392,8 @@ Open a **OnePay Cash** account using the referral link below and **earn $50 cash
 - Must be a **new OnePay user**.
 - Account must be **open and in good standing** when points are awarded.
 - Points typically post **within 5 days** after all requirements are met.
+
+--8<-- "snippets/back-to-list.md"
 
 ---
 
@@ -436,6 +450,8 @@ You are **NOT eligible** if **any** of the following apply:
 ### 🔎 Official Terms
 [https://www.psecu.com/promo/refer](https://www.psecu.com/promo/refer)
 
+--8<-- "snippets/back-to-list.md"
+
 ---
 
 ## 🔔 Current — $100 referral
@@ -451,6 +467,8 @@ Open a **new Current account** and get **$100** when you receive a **$200+ quali
 2. Receive **$200+ qualifying direct deposits** within **45 days**
 
 3. $100 bonus is typically paid within **10 business days** after qualification  
+
+--8<-- "snippets/back-to-list.md"
 
 ---
 
@@ -494,6 +512,8 @@ Referral link: [Enroll here](https://ally.com/referral?code=4T6Q5X5B4M&CP=WebApp
 - **Automated recurring transfers only** qualify for Savings
 - **QDD must be real payroll or government benefits**
 - APY is **variable** and accurate as of **01/19/2026**
+
+--8<-- "snippets/back-to-list.md"
 
 ---
 
@@ -590,6 +610,8 @@ Per official terms:
 - Only **90-day hold**
 - Clear, contract-backed terms
 
+--8<-- "snippets/back-to-list.md"
+
 ---
 
 ## 🌱 FutureCard — $15 Referral
@@ -623,6 +645,8 @@ Per official terms:
 ### 📄 Official Terms
 [https://www.futurecard.co/legal/rewards](https://www.futurecard.co/legal/rewards)
 
+--8<-- "snippets/back-to-list.md"
+
 ---
 
 ## ✨ Premier Member Credit Union — $50 Referral
@@ -632,6 +656,8 @@ Referral code: **VFVJPQRVS**
 
 Money market referral; checking promos run separately at times.
 
+--8<-- "snippets/back-to-list.md"
+
 ---
 
 ## 🔷 Delta Community Credit Union — $50 Referral
@@ -640,7 +666,7 @@ Apply: [Apply here](https://refer.deltacommunitycu.com/zhishanw-9)
 - Fund $50
 - 10 debit tx in 60 days
 
----
+--8<-- "snippets/back-to-list.md"
 
 
 ---
