@@ -5,7 +5,7 @@ title: Offers Index
 # Offers Index
 
 All current offers, organized by category:   
-[Personal](#personal-bank-nationwide),[Business](#"business-bank),[Brokerage](#brokerage),[Crypto](#crypto) 
+[Personal](#personal-bank-nationwide) · [Business](#"business-bank) · [Brokerage](#brokerage) · [Crypto](#crypto) · [Credit Cards](#) · [Cashback Portals](#cashback-portals) · [Fintech Apps](#)
 
 <a id="personal-bank-nationwide"></a>
 ## Personal Bank Accounts - Nationwide
@@ -54,6 +54,7 @@ All current offers, organized by category:
 [🎁 OKX - $200 Referral](crypto.md#cr-okx)  
 [🟦 Gemini — $50 Referral](crypto.md#cr-gemini)  
 
+<a id="cashback-portals"></a>
 ## Cashback Shopping Portals
 
 [💰 Capital One Shopping — $80 Bonus](shopping-portals.md#sp-capital-one-shopping) 🔥🔥🔥  
