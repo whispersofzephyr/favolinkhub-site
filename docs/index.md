@@ -19,7 +19,7 @@ For questions about specific offers or requirement details, contact:
 
 ---
 
-## Disclaimer
+Disclaimer:
 
 Offers, terms, and availability can change at any time.  
 We do our best to keep everything up to date, but changes may occur.
