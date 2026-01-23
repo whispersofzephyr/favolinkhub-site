@@ -167,7 +167,7 @@ Balances may be combined across:
 ---
 
 <a id="onpath-fcu"></a>
-## 🎉 OnPath Federal Credit Union — $150 Referral + 6% APY or $8/mo Cash Back
+## 🎉 OnPath Federal Credit Union — $150 Referral + 6% APY or $8/mo Cash Back 🔥  
 **Nationwide** • **No Expiration Date** 
 
 > **Quick Summary**
@@ -312,7 +312,7 @@ Nationwide membership is available via a **$5 donation** to the OnPath Foundatio
 ---
 
 <a id="keypoint-cu"></a>
-## 💵 KeyPoint Credit Union — $300 Checking Referral 
+## 💵 KeyPoint Credit Union — $300 Checking Referral 🔥  
 **Nationwide • Expires 03/31/2026**
 
 > **Quick Summary**
