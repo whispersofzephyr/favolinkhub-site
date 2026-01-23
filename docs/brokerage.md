@@ -1,6 +1,6 @@
 # Brokerage 
 
-## 🎁 Public Brokerage — $100 Referral Bonus in Stocks (was $20 previously)
+## 🎁 Public Brokerage — $100 Referral (was $20 previously)🔥
 **Nationwide · Effective 01/20/2026**
 
 > **Quick Summary**
