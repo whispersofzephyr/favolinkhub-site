@@ -19,5 +19,5 @@ For questions about specific offers or requirement details, contact:
 
 ---
 
-Disclaimer: Offers, terms, and availability can change at any time. We do our best to keep everything up to date, but changes may occur. Always verify the most current terms directly with the bank or service before applying. If you’re unsure about an offer or would like clarification, feel free to email us at [**contact@favolinkhub.com**](mailto:contact@favolinkhub.com).
+**Disclaimer:** Offers, terms, and availability can change at any time. We do our best to keep everything up to date, but changes may occur. Always verify the most current terms directly with the bank or service before applying. If you’re unsure about an offer or would like clarification, feel free to email us at [**contact@favolinkhub.com**](mailto:contact@favolinkhub.com).
 
