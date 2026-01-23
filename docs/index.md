@@ -1,6 +1,14 @@
 # Home
 
-## Welcome to Favo Bonus Hub
+## 🚀 Start Here (Recommended)
+
+👉 Looking for a specific offer (HSBC, Public, eToro)?
+
+  → **🔍 Use Search**
+  
+  → 🎯 <a href="offers-index.md"><strong>View the full Offers Index →</strong></a>
+
+---
 
 Maintained by **Favo** and **Maya** (Doctor of Credit).
 
@@ -10,14 +18,6 @@ Feel free to use any of the referral links listed on this site.
 
 For questions about specific offers or requirement details, contact:  
 [**contact@favolinkhub.com**](mailto:contact@favolinkhub.com).
-
-## 🚀 Start Here (Recommended)
-
-👉 Looking for a specific offer (HSBC, Public, eToro)?
-
-  → **🔍 Use Search**
-  
-  → 🎯 <a href="offers-index.md"><strong>View the full Offers Index →</strong></a>
 
 ---
 
