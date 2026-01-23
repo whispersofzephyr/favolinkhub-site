@@ -2,12 +2,10 @@
 
 Maintained by **Favo** and **Maya** (Doctor of Credit).
 
-This site contains a curated collection of referral links and bonus explanations, along with notes and clarifications based on ongoing tracking and experience.
+A curated collection of referral links with notes based on ongoing tracking.
 
-Feel free to use any of the referral links listed on this site.
-
-For questions about specific offers or requirement details, contact:  
-[**contact@favolinkhub.com**](mailto:contact@favolinkhub.com).
+Questions or clarifications:  
+[**contact@favolinkhub.com**](mailto:contact@favolinkhub.com)
 
 ## 🚀 Start Here (Recommended)
 
