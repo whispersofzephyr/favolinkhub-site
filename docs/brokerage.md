@@ -259,6 +259,6 @@ If you understand the order and holding rules, the total return can be substanti
 ---
 
 <a id="br-webull"></a>
-## 💸 Webull — details to be added
+## 🔷 Webull — details to be added
 
 --8<-- "snippets/back-to-list.md"
