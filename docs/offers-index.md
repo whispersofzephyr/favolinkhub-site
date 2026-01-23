@@ -10,11 +10,11 @@ All current offers, organized by category.
 
 🔔 [HSBC Premier Checking — $1,500 / $2,500 Referral](personal-bank-nationwide.md#hsbc-premier-checking) 🔥🔥🔥  
 💵 [Varo Money — $100 Referral](personal-bank-nationwide.md#varo-money)  
-🎉 [OnPath Federal Credit Union — $150 Referral + 6% APY or $8/mo Cash Back](personal-bank-nationwide.md#onpath-fcu)  
+🎉 [OnPath Federal Credit Union — $150 Referral + 6% APY or $8/mo Cash Back](personal-bank-nationwide.md#onpath-fcu) 🔥   
 ⭐ [Christian Community Credit Union (CCCU) — $200 Bonus + $50 Referral](personal-bank-nationwide.md#cccu)  
-💵 [KeyPoint Credit Union — $300 Checking Referral](personal-bank-nationwide.md#keypoint-cu)  
+💵 [KeyPoint Credit Union — $300 Checking Referral](personal-bank-nationwide.md#keypoint-cu) 🔥   
 💰 [OnePay Cash — $50 Cash Bonus](personal-bank-nationwide.md#onepay-cash)  
-💎 [PSECU — $300 Referral](personal-bank-nationwide.md#psecu)  
+💎 [PSECU — $300 Referral](personal-bank-nationwide.md#psecu) 🔥  
 🔔 [Current — $100 Referral](personal-bank-nationwide.md#current)  
 🎁 [Ally Bank — $100 Referral](personal-bank-nationwide.md#ally-bank)  
 💸 [Raisin — Tiered Referral (Up to $1,500) + Optional $100–$200 Portal Cashback](personal-bank-nationwide.md#raisin) 🔥🔥🔥  
@@ -28,7 +28,7 @@ All current offers, organized by category.
 ## Brokerage
 
 [🎁 Public Brokerage — $100 Referral](brokerage.md#br-public) 🔥🔥🔥    
-[💸 Moomoo — up to $1,000 NVDA + 8.1% APY (60 days) + 3% ACAT match (max $600) + $25 Referral](brokerage.md#br-moomoo) 🔥🔥🔥 
+[💸 Moomoo — up to $1,000 NVDA + 8.1% APY (60 days) + 3% ACAT match (max $600) + $25 Referral](brokerage.md#br-moomoo) 🔥🔥 
 [🔷 Webull - tbd](brokerage.md#br-webull)      
 
 ## Crypto
