@@ -9,10 +9,7 @@ theme:
     - scheme: default
       primary: blue-grey
       accent: amber
-  language:
-    en:
-      toc: "Page Table of Contents"
-      
+     
 nav:
   - 🏠 Home: index.md
   - ⭐ Offers Index: offers-index.md
@@ -32,6 +29,7 @@ markdown_extensions:
   - toc:
       permalink: true
       toc_depth: 2
+      title: "Page Table of Contents"
   - pymdownx.snippets:
       base_path: docs
 
