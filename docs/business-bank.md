@@ -28,7 +28,7 @@ Grasshopper Bank is offering an **easy $200 referral bonus** when you open a new
 ---
 
 <a id="biz-novo"></a>
-## 💰 Novo Business Checking — $40 Referral  
+## 🔷 Novo Business Checking — $40 Referral  
 **Nationwide** • **No Expiration Date**
 
 ### ✅ How to earn the $40 bonus
@@ -117,7 +117,7 @@ Grasshopper Bank is offering an **easy $200 referral bonus** when you open a new
 ---
 
 <a id="biz-ramp"></a>
-## 💰 RAMP — $250 Referral
+## 🎁 RAMP — $250 Referral
 
 **Bonus:** $250  
 
