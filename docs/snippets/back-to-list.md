@@ -1,1 +1,1 @@
-[← Back to Master Offer List](/offers-index/)
+[← Back to Offers Index](/offers-index/)
