@@ -1,5 +1,8 @@
 # Brokerage 
 
+--8<-- "snippets/back-to-list.md"
+
+<a id="br-public"></a>
 ## 🎁 Public Brokerage — $100 Referral🔥🔥🔥
 **Nationwide · Effective 01/20/2026**
 
@@ -76,9 +79,12 @@ Public can also be useful for **draining prepaid cards** via deposits (lifetime 
 
 To keep activity clean, one option is to **buy Treasury bills**, hold them for ~3 months, then ACH the proceeds back — optional, not required.
 
+--8<-- "snippets/back-to-list.md"
+
 ---
 
-## 💸 Moomoo — up to $1,000 NVDA + 8.1% APY (60 days) + 3% ACAT match (max $600) + $25 Referral
+<a id="br-moomoo"></a>
+## 💸 Moomoo — up to $1,000 NVDA + 8.1% APY (60 days) + 3% ACAT match (max $600) + $25 Referral 🔥🔥🔥
 **Nationwide · Referral (09/26/2025 – 01/31/2026) · Public Offers (01/01/2026 – 03/12/2026)**
 
 > **Quick Summary**
@@ -248,7 +254,11 @@ This is a **multi-layer, stackable brokerage promotion**, but only if you follow
 This is best treated as a **high-value, short-term cash parking + medium-term brokerage bonus**, not a quick churn.  
 If you understand the order and holding rules, the total return can be substantial; if you don’t, it’s easy to miss or void parts of the reward.
 
+--8<-- "snippets/back-to-list.md"
+
 ---
 
+<a id="br-webull"></a>
 ## 💸 Webull — details to be added
 
+--8<-- "snippets/back-to-list.md"
