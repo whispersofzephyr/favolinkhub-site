@@ -9,6 +9,9 @@ theme:
     - scheme: default
       primary: blue-grey
       accent: amber
+  language:
+    en:
+      toc: "Page Table of Contents"
 
 nav:
   - Home: index.md
