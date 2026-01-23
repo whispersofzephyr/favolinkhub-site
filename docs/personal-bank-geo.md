@@ -5,7 +5,7 @@ If you are looking for accounts available nationwide, see:
 → [Nationwide Personal Bank Accounts](../personal-bank-nationwide/)
 
 <a id="cu-of-the-rockies"></a>
-## ⭐ CU of the Rockies — $50 / $100 Bonus (CO-only)
+## ⭐ CU of the Rockies — $50 / $100 Referral (CO-only)
 
 Referral by email.  
 Includes Giddy-up Money Market (reported **52.8% APY** on $500).
@@ -15,7 +15,7 @@ Includes Giddy-up Money Market (reported **52.8% APY** on $500).
 ---
 
 <a id="commerce-bank"></a>
-## 💰 Commerce Bank — $200 Referral Bonus （MO, KS, IL, OK, CO)
+## 💰 Commerce Bank — $200 Referral (MO, KS, IL, OK, CO)
 **Available in MO, KS, IL, OK & CO · No expiration date**
 
 ### ✅ How to get the $200 bonus
@@ -47,7 +47,7 @@ Make sure you **register through ReferLive first** before opening the account �
 ---
 
 <a id="central-bank"></a>
-## 🏆 Central Bank — $300 Bonus (OK, IL, KS, MO, CO)
+## 🏆 Central Bank — $300 Referral (OK, IL, KS, MO, CO)
 
 - $50 opening deposit
 - 2 × $250 DDs within 90 days
@@ -57,7 +57,7 @@ Make sure you **register through ReferLive first** before opening the account �
 ---
 
 <a id="on-tap-credit-union"></a>
-## 🧧 On Tap Credit Union — $50 Bonus (CO-only)
+## 🧧 On Tap Credit Union — $50 Referral (CO-only)
 
 Referral: [Apply via referral](https://ontapcu.ourreferralengine.com/l/ZHISHANWAN13/)
 
