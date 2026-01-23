@@ -14,4 +14,4 @@ All current offers, organized by category.
 - [Swagbucks — $10 Bonus](shopping-portals.md#swagbucks---10-bonus)
 - [MyPoints](shopping-portals.md#mypoints)
 - [InboxDollars — $5 Bonus](shopping-portals.md#inboxdollars)
-- [BeFrugal](shopping-portals.md#befrugal)
+- [BeFrugal - $10 Bonus](shopping-portals.md#befrugal)
