@@ -11,16 +11,12 @@ Feel free to use any of the referral links listed on this site.
 For questions about specific offers or requirement details, contact:  
 [**contact@favolinkhub.com**](mailto:contact@favolinkhub.com).
 
-## 🚀 Start Here
+## 🚀 Start Here (Recommended)
 
-👉 **Browse all current offers**  
-→ [Offers Index](offers-index.md)
+👉 Looking for a specific offer (HSBC, Public, eToro)?
+→ **Use Search 🔍** or **open the Offers Index**
 
-## ⭐ Offers Index (Recommended)
-
-Looking for the best current offers across all categories?
-
-👉 **View the full Offers Index**
+🔗 **[View the full Offers Index →]**(offers-index.md)
 
 ---
 
