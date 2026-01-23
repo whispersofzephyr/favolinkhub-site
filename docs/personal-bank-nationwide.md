@@ -4,7 +4,7 @@ These offers are available to most U.S. residents with no state-level restrictio
 For offers that are limited to specific states (e.g. Colorado), see:
 → [Geo-Restricted Personal Bank Accounts](../personal-bank-geo/)
 
-## 🔔 HSBC Premier Checking — $1,500 or $2,500 Referral Bonus  
+## 🔔 HSBC Premier Checking — $1,500 or $2,500 Referral Bonus 🔥🔥🔥  
 **Nationwide • New HSBC customers only • Expires: 06/30/2026**
 
 > 💡 **Quick Summary**
@@ -497,7 +497,7 @@ Referral link: [Enroll here](https://ally.com/referral?code=4T6Q5X5B4M&CP=WebApp
 
 ---
 
-## 💸 Raisin — Tiered Referral Bonus (Up to $1,500) + Optional $100–$200 Portal Cashback  
+## 💸 Raisin — Tiered Referral Bonus (Up to $1,500) + Optional $100–$200 Portal Cashback🔥🔥🔥  
 **Nationwide** • **New Users Only** • **Referral offer ends: 02/01/2026**
 
 > **Quick Summary**
