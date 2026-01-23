@@ -6,6 +6,7 @@ These offers are available to most U.S. residents with no state-level restrictio
 For offers that are limited to specific states (e.g. Colorado), see:
 → [Geo-Restricted Personal Bank Accounts](../personal-bank-geo/)
 
+<a id="hsbc-premier-checking"></a>
 ## 🔔 HSBC Premier Checking — $1,500 / $2,500 Referral 🔥🔥🔥  
 **Nationwide • New HSBC customers only • Expires: 06/30/2026**
 
@@ -143,6 +144,7 @@ Balances may be combined across:
 
 ---
 
+<a id="varo-money"></a>
 ## 💵 Varo Money — $100 Referral 
 **Nationwide** • **No Expiration Date**
 
@@ -164,6 +166,7 @@ Balances may be combined across:
 
 ---
 
+<a id="onpath-fcu"></a>
 ## 🎉 OnPath Federal Credit Union — $150 Referral + 6% APY or $8/mo Cash Back
 **Nationwide** • **No Expiration Date** 
 
@@ -236,6 +239,7 @@ Nationwide membership is available via a **$5 donation** to the OnPath Foundatio
 
 ---
 
+<a id="cccu"></a>
 ## ⭐ Christian Community Credit Union (CCCU) — $200 Bonus + $50 Referral  
 **Nationwide** • **Expires: 02/28/2026**
 
@@ -307,6 +311,7 @@ Nationwide membership is available via a **$5 donation** to the OnPath Foundatio
   
 ---
 
+<a id="keypoint-cu"></a>
 ## 💵 KeyPoint Credit Union — $300 Checking Referral 
 **Nationwide • Expires 03/31/2026**
 
@@ -370,6 +375,7 @@ To receive the $300 checking bonus, you must:
 
 ---
 
+<a id="onepay-cash"></a>
 ## 💰 OnePay Cash — $50 Cash Bonus 
 **Nationwide · Expires 02/15/2026**
 
@@ -397,6 +403,7 @@ Open a **OnePay Cash** account using the referral link below and **earn $50 cash
 
 ---
 
+<a id="psecu"></a>
 ## 💎 PSECU — $300 Referral  
 **Nationwide** • **Expires 12/31/2026**
 
@@ -454,6 +461,7 @@ You are **NOT eligible** if **any** of the following apply:
 
 ---
 
+<a id="current"></a>
 ## 🔔 Current — $100 referral
 **Nationwide** • **New User Only** • **No stated expiration date (subject to change)**
 
@@ -472,6 +480,7 @@ Open a **new Current account** and get **$100** when you receive a **$200+ quali
 
 ---
 
+<a id="ally-bank"></a>
 ## 🎁 Ally Bank — $100 Referral   
 **Nationwide** • **Checking or Savings** • **Expires: 12/31/2026**
 
@@ -517,6 +526,7 @@ Referral link: [Enroll here](https://ally.com/referral?code=4T6Q5X5B4M&CP=WebApp
 
 ---
 
+<a id="raisin"></a>
 ## 💸 Raisin — Tiered Referral (Up to $1,500) + Optional $100–$200 Portal Cashback🔥🔥🔥  
 **Nationwide** • **New Users Only** • **Referral offer ends: 02/01/2026**
 
@@ -614,6 +624,7 @@ Per official terms:
 
 ---
 
+<a id="futurecard"></a>
 ## 🌱 FutureCard — $15 Referral
 **Nationwide** • **No Chex / No Credit Check** • **No Expiration Date**
 
@@ -649,6 +660,7 @@ Per official terms:
 
 ---
 
+<a id="premier-member-cu"></a>
 ## ✨ Premier Member Credit Union — $50 Referral
 
 Apply: [Apply here](https://www.pmcu.org/refer-a-friend/VFVJPQRVS/)  
@@ -660,6 +672,7 @@ Money market referral; checking promos run separately at times.
 
 ---
 
+<a id="delta-community-cu"></a>
 ## 🔷 Delta Community Credit Union — $50 Referral
 
 Apply: [Apply here](https://refer.deltacommunitycu.com/zhishanw-9)
