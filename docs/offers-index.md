@@ -5,7 +5,7 @@ title: Offers Index
 # Offers Index
 
 All current offers, organized by category:   
-[Personal Bank Accounts - Nationwide](#personal-bank-nationwide) · [Personal Bank Accounts - Geo-restricted](#personal-bank-geo) · [Business Bank Accounts](#"business-bank) · [Brokerage](#brokerage) · [Crypto](#crypto) · [Personal Credit Cards](#personal-credit-cards) · [Business Credit Cards](#business-credit-cards) · [Cashback Portals](#cashback-portals) · [Fintech Apps](#fintech-apps)
+[Personal Bank Accounts - Nationwide](#personal-bank-nationwide) · [Personal Bank Accounts - Geo-restricted](#personal-bank-geo) · [Business Bank Accounts](#business-bank) · [Brokerage](#brokerage) · [Crypto](#crypto) · [Personal Credit Cards](#personal-credit-cards) · [Business Credit Cards](#business-credit-cards) · [Cashback Portals](#cashback-portals) · [Fintech Apps](#fintech-apps)
 
 <a id="personal-bank-nationwide"></a>
 ## Personal Bank Accounts - Nationwide
