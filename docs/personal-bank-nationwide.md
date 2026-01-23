@@ -4,7 +4,7 @@ These offers are available to most U.S. residents with no state-level restrictio
 For offers that are limited to specific states (e.g. Colorado), see:
 → [Geo-Restricted Personal Bank Accounts](../personal-bank-geo/)
 
-## 🔔 HSBC Premier Checking — $1,500 or $2,500 Referral Bonus 🔥🔥🔥  
+## 🔔 HSBC Premier Checking — $1,500 or $2,500 Referral 🔥🔥🔥  
 **Nationwide • New HSBC customers only • Expires: 06/30/2026**
 
 > 💡 **Quick Summary**
@@ -139,7 +139,7 @@ Balances may be combined across:
 
 ---
 
-## 💵 Varo Money — $100 Referral Bonus
+## 💵 Varo Money — $100 Referral 
 **Nationwide** • **No Expiration Date**
 
 ### **How to get the $100 bonus (Step-by-Step)**
@@ -297,7 +297,7 @@ Nationwide membership is available via a **$5 donation** to the OnPath Foundatio
   
 ---
 
-## 💵 KeyPoint Credit Union — $300 Checking Referral Bonus  
+## 💵 KeyPoint Credit Union — $300 Checking Referral 
 **Nationwide • Expires 03/31/2026**
 
 > **Quick Summary**
