@@ -6,6 +6,10 @@ title: Offers Index
 
 All current offers, organized by category.
 
+## Brokerage
+
+## Crypto
+
 ## Cashback Shopping Portals
 
 - [Capital One Shopping — $80 Bonus](shopping-portals.md#sp-capital-one-shopping)🔥🔥🔥 
