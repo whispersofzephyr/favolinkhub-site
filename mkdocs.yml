@@ -12,7 +12,7 @@ theme:
   language:
     en:
       toc: "Page Table of Contents"
-
+      
 nav:
   - 🏠 Home: index.md
   - ⭐ Offers Index: offers-index.md
