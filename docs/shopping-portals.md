@@ -53,6 +53,7 @@ Earn a **$50 Cash Back bonus** after a qualifying purchase.
 
 ---
 
+<a id="sp-topcashback"></a>
 ## 💰 TopCashback — $40 Bonus - test  
 **Nationwide · Expires: 12/08/2025**
 
@@ -67,8 +68,11 @@ Earn a **$50 Cash Back bonus** after a qualifying purchase.
 
 Withdraw via PayPal, bank transfer, or gift cards.
 
+--8<-- "snippets/back-to-list.md"
+
 ---
 
+<a id="sp-swagbucks"></a>
 ## 🎁 Swagbucks - $10 Bonus - test 3
 **Nationwide · No Expiration Date**
 
@@ -76,27 +80,35 @@ Get a **$10 signup bonus**.
 
 👉[Join here](https://www.swagbucks.com/profile/r_149460213?rp=1)
 
+--8<-- "snippets/back-to-list.md"
+
 ---
 
+<a id="sp-mypoints"></a>
 ## 💵 MyPoints
 
 👉[Join here](https://www.mypoints.com/?rb=201770842)
 
 ---
 
+<a id="sp-inboxdollars"></a>
 ## 💰 InboxDollars
 
 Get a **$5 bonus**.
 
 👉[Join here](https://www.inboxdollars.com/?rb=206791146)
 
+--8<-- "snippets/back-to-list.md"
+
 ---
 
+<a id="sp-befrugal"></a>
 ## 💵 BeFrugal - $10 Bonus
 
 👉[Join here](https://www.befrugal.com/rs/NOHOQKN/)
 
 Join BeFrugal and earn $10 or more in Cash Back (not including bonuses and earnings from non-purchase activity) within 365 days of account creation.
 
+--8<-- "snippets/back-to-list.md"
 
 
