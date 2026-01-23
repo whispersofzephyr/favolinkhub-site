@@ -158,7 +158,7 @@ Balances may be combined across:
 
 ---
 
-## 🎉 OnPath Federal Credit Union — $150 Referral Bonus + 6% APY or $8/mo Cash Back
+## 🎉 OnPath Federal Credit Union — $150 Referral + 6% APY or $8/mo Cash Back
 **Nationwide** • **No Expiration Date** 
 
 > **Quick Summary**
@@ -383,7 +383,7 @@ Open a **OnePay Cash** account using the referral link below and **earn $50 cash
 
 ---
 
-## 💎 PSECU — $300 Referral Bonus  
+## 💎 PSECU — $300 Referral  
 **Nationwide** • **Expires 12/31/2026**
 
 > **Quick Summary**
@@ -438,7 +438,7 @@ You are **NOT eligible** if **any** of the following apply:
 
 ---
 
-## 🔔 Current — $100 referral bonus
+## 🔔 Current — $100 referral
 **Nationwide** • **New User Only** • **No stated expiration date (subject to change)**
 
 Open a **new Current account** and get **$100** when you receive a **$200+ qualifying direct deposit** within **45 days**.
@@ -454,7 +454,7 @@ Open a **new Current account** and get **$100** when you receive a **$200+ quali
 
 ---
 
-## 🎁 Ally Bank — $100 Referral Bonus  
+## 🎁 Ally Bank — $100 Referral   
 **Nationwide** • **Checking or Savings** • **Expires: 12/31/2026**
 
 > **Important:** You are eligible for **one** welcome bonus only. Choose **either Savings or Spending**, not both.
@@ -497,7 +497,7 @@ Referral link: [Enroll here](https://ally.com/referral?code=4T6Q5X5B4M&CP=WebApp
 
 ---
 
-## 💸 Raisin — Tiered Referral Bonus (Up to $1,500) + Optional $100–$200 Portal Cashback🔥🔥🔥  
+## 💸 Raisin — Tiered Referral (Up to $1,500) + Optional $100–$200 Portal Cashback🔥🔥🔥  
 **Nationwide** • **New Users Only** • **Referral offer ends: 02/01/2026**
 
 > **Quick Summary**
@@ -592,7 +592,7 @@ Per official terms:
 
 ---
 
-## 🌱 FutureCard — $15 Signup Bonus 
+## 🌱 FutureCard — $15 Referral
 **Nationwide** • **No Chex / No Credit Check** • **No Expiration Date**
 
 > **Quick Summary**
