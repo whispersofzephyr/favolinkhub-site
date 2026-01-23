@@ -5,7 +5,7 @@ title: Offers Index
 # Offers Index
 
 All current offers, organized by category:   
-[Personal](#personal-bank-nationwide) · [Business](#"business-bank) · [Brokerage](#brokerage) · [Crypto](#crypto) · [Credit Cards](#) · [Cashback Portals](#cashback-portals) · [Fintech Apps](#)
+[Personal Bank Accounts](#personal-bank-nationwide) · [Business Bank Accounts](#"business-bank) · [Brokerage](#brokerage) · [Crypto](#crypto) · [Credit Cards](#personal-credit-cards) · [Cashback Portals](#cashback-portals) · [Fintech Apps](#fintech-apps)
 
 <a id="personal-bank-nationwide"></a>
 ## Personal Bank Accounts - Nationwide
@@ -24,6 +24,7 @@ All current offers, organized by category:
 [✨ Premier Member Credit Union — $50 Referral](personal-bank-nationwide.md#premier-member-cu)  
 [🔷 Delta Community Credit Union — $50 Referral](personal-bank-nationwide.md#delta-community-cu)  
 
+<a id="personal-bank-geo"></a>
 ## Personal Bank Accounts - Geo-Restricted
 
 [⭐ CU of the Rockies — $50 / $100 Referral (CO-only)](personal-bank-geo.md#cu-of-the-rockies)    
@@ -54,6 +55,12 @@ All current offers, organized by category:
 [🎁 OKX - $200 Referral](crypto.md#cr-okx)  
 [🟦 Gemini — $50 Referral](crypto.md#cr-gemini)  
 
+<a id="personal-credit-cards"></a>
+## Personal Credit Cards
+
+<a id="business-credit-cards"></a>
+## Business Credit Cards
+
 <a id="cashback-portals"></a>
 ## Cashback Shopping Portals
 
@@ -65,3 +72,5 @@ All current offers, organized by category:
 [💵 InboxDollars — $5 Bonus](shopping-portals.md#sp-inboxdollars)  
 [🧺 BeFrugal - $10 Bonus](shopping-portals.md#sp-befrugal)  
 
+<a id="fintech-apps"></a>
+## Fintech Apps
