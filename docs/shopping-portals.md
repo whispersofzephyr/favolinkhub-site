@@ -27,8 +27,6 @@ Issued within **30 days after the 90-day period** completes.
 
 ---
 
---8<-- "snippets/back-to-list.md"
-
 ## 💵 Rakuten — $50 Bonus 
 **Nationwide · No Stated Expiration Date · Last Checked on 01/22/2026**
 
@@ -48,6 +46,8 @@ Earn a **$50 Cash Back bonus** after a qualifying purchase.
 - New Rakuten users only
 - U.S., DC, or Canada residents
 - Amazon purchases do **not** qualify (except Amazon Music)
+
+--8<-- "snippets/back-to-list.md"
 
 ---
 
