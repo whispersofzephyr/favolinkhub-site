@@ -31,10 +31,10 @@ All current offers, organized by category.
 
 ## Business Bank Accounts
 
-[💸 Grasshopper Bank Business Checking — $200 Referral](business-bank.md#biz-grasshopper)
-[🔷 Novo Business Checking — $40 Referral](business-bank.md#biz-novo)
-[💰 Chase Business Complete Checking® — $300 or $500 Referral](business-bank.md#biz-chase-business)
-[🎁 RAMP — $250 Referral](business-bank.md#biz-ramp)
+[💸 Grasshopper Bank Business Checking — $200 Referral](business-bank.md#biz-grasshopper) 🔥🔥  
+[🔷 Novo Business Checking — $40 Referral](business-bank.md#biz-novo)  
+[💰 Chase Business Complete Checking® — $300 or $500 Referral](business-bank.md#biz-chase-business)  
+[🎁 RAMP — $250 Referral](business-bank.md#biz-ramp)  
 
 ## Brokerage
 
