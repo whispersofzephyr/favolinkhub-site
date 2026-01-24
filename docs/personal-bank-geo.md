@@ -27,11 +27,11 @@ I’ll submit your info through the **CUR referral form**.
 > ⚠️ This is **not** a referral link. The referral must be submitted manually.
 
 #### 📞 Step 2 — CUR Calls You
-A CUR representative will call you **within 1 business day** to:
+    A CUR representative will call you **within 1 business day** to:
 
-- Confirm eligibility  
-- Handle membership qualification (if needed)  
-- Submit the **application over the phone** (≈ **5-minute call**)
+    - Confirm eligibility  
+    - Handle membership qualification (if needed)  
+    - Submit the **application over the phone** (≈ **5-minute call**)
 
 **Colorado eligibility**
 
