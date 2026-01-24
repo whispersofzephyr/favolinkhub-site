@@ -7,7 +7,7 @@ If you are looking for accounts available nationwide, see:
 → [Nationwide Personal Bank Accounts](../personal-bank-nationwide/)
 
 <a id="cu-of-the-rockies"></a>
-## ⭐ Credit Union of the Rockies — $50 / $100 Referral (CO-only)
+## ⭐ Credit Union of the Rockies — $50 / $100 Referral + ~$216 Interest/Year (CO-only)
 **Colorado-only · No expiration date**
 
 > **Quick Summary**
