@@ -115,9 +115,73 @@ Make sure you **register through ReferLive first** before opening the account �
 
 <a id="central-bank"></a>
 ## 🏆 Central Bank — $300 Referral (OK, IL, KS, MO, CO)
+**Available in OK, IL, KS, MO and CO · Expiration: 12/31/2026**   
 
-- $50 opening deposit
-- 2 × $250 DDs within 90 days
+> **Quick Summary**
+>
+> - 💰 **$300 checking bonus**
+> - 🏦 Open an **eligible checking account** (excluding Free Checking)
+> - 💸 **2+ qualifying direct deposits totaling $800**
+> - ⏳ Must be completed within **90 days**
+> - 🔐 Account must remain open **90 days**
+> - ⚠️ **Promo code must be entered correctly during application**
+
+### ✅ How to Get the $300 Bonus (Step-by-step)
+
+1. **Start your application using the referral link**
+
+   - [Apply here](https://secure.centralbank.net/refer-a-friend/RAF30045597113849)
+   - The promo code should **auto-populate** during the application, if not, manually input it in the correct field
+   - **Confirm the promo code is entered correctly**
+
+       - **Promo Code:** `RAF30045597113849`
+       - This code **must be entered in the _PROMO CODE_ field**
+       - **Do NOT enter it in the “Referral Code” field**
+
+   > ℹ️ *Important:*  
+   > Although some pages mention a “Referral Code” format, in practice the referral **works through the Promo Code field**.  
+   > This method has been **tested for years and confirmed by Central Bank customer service**.
+
+2. **Open a new eligible checking account**
+
+   - Free Checking is **not eligible**
+   - Deposit **$50 or more at account opening**
+
+3. Make **two or more qualifying direct deposits**
+
+       - **$800 cumulative total**
+       - Must post within **90 days** of account opening
+ 
+ 4. Keep at least **$50 balance** on day 90
+
+ 5. $300 Bonus is paid within **15 business days** after:
+     
+     - All requirements are met **and**
+     - Account has been open for **90 days**
+
+### 📌 Eligibility
+
+- Available to **new-to-bank checking customers only**
+- **One bonus per household**
+- You may receive **one checking bonus every two years**, measured from the **date the last bonus was paid**
+- Not eligible if you had a Central Bank account closed with a **negative balance in the last 2 years**
+- Account must be **open and in good standing** when bonus is paid
+- Bank reserves the right to deny or close accounts outside its **market area**
+
+### 📝 Notes & Data Points
+
+- **Promo code placement matters:**  
+  The referral bonus is triggered by entering the code in the **PROMO CODE** field — **not** the “Referral Code” field.  
+  The Promo Code should auto-fill when using the referral link; if it does not, enter it manually.
+- **Market-area restriction:** Applicants typically must live within ~50 miles of a Central Bank branch. Accounts opened outside the bank’s market area may be approved initially but later **closed by the bank**.
+- **Monthly fee (MyChoice Checking):** $5/month, waived with **$500 direct deposit per statement cycle** or **20 debit card transactions**.
+- **Direct deposit:** Real payroll DD appears to be the **safest option**. Some Ally ACH push/pull transactions have reportedly worked, but results are inconsistent.
+- **ChexSystems:** Bank **does pull ChexSystems**, but does not appear overly Chex-sensitive based on reported data points.
+- **Early account closure fee:** $25 if the account is closed within **90 days** (generally irrelevant since the bonus itself requires a 90-day hold).
+- **Advanced tip:** Some users keep a **savings account open ($50 minimum to avoid fees)** after closing checking to maintain an existing relationship and easier future approvals.
+
+### Terms and conditions 
+[https://www.centralbank.net/personal/refer/](Terms: https://www.centralbank.net/personal/refer/)
 
 --8<-- "snippets/back-to-list.md"
 
