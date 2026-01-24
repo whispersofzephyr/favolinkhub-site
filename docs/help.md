@@ -6,7 +6,7 @@
 
 **Use the [**Offers Index**](offers-index.md) as your main hub.**
  
-The [**Offers Index**](/offers-index.md)** is the central directory for **all current offers on this site**, organized by category.
+The [**Offers Index**](/offers-index.md) is the central directory for **all current offers on this site**, organized by category.
 
 From the [Offers Index](offers-index.md), you can:
 
