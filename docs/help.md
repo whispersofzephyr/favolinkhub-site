@@ -44,9 +44,9 @@ The Offers Index is designed to replace heavy navigation menus.
 
 ## 📖 Full Guide
 
-### 📑 Offers Index (Main Hub)
+### 📑 [Offers Index](docs/offers-index.md) (Main Hub)
 
-The **Offers Index** acts as the homepage for all offers on this site.
+The **[Offers Index](docs/offers-index.md)** acts as the homepage for all offers on this site.
 
 - Each category links to its corresponding section
 - Each offer title links directly to detailed terms
