@@ -130,13 +130,13 @@ Make sure you **register through ReferLive first** before opening the account �
 
 1. **Start your application using the referral link**
 
-   - [Apply here](https://secure.centralbank.net/refer-a-friend/RAF30045597113849)
-   - The promo code should **auto-populate** during the application, if not, manually input it in the correct field
-   - **Confirm the promo code is entered correctly**
+     - [Apply here](https://secure.centralbank.net/refer-a-friend/RAF30045597113849)
+     - The promo code should **auto-populate** during the application, if not, manually input it in the correct field
+     - **Confirm the promo code is entered correctly**
 
-       - **Promo Code:** `RAF30045597113849`
-       - This code **must be entered in the _PROMO CODE_ field**
-       - **Do NOT enter it in the “Referral Code” field**
+           - **Promo Code:** `RAF30045597113849`
+           - This code **must be entered in the _PROMO CODE_ field**
+           - **Do NOT enter it in the “Referral Code” field**
 
    > ℹ️ *Important:*  
    > Although some pages mention a “Referral Code” format, in practice the referral **works through the Promo Code field**.  
@@ -144,20 +144,20 @@ Make sure you **register through ReferLive first** before opening the account �
 
 2. **Open a new eligible checking account**
 
-   - Free Checking is **not eligible**
-   - Deposit **$50 or more at account opening**
+     - Free Checking is **not eligible**
+     - Deposit **$50 or more at account opening**
 
 3. Make **two or more qualifying direct deposits**
 
-       - **$800 cumulative total**
-       - Must post within **90 days** of account opening
+    - **$800 cumulative total**
+    - Must post within **90 days** of account opening
  
  4. Keep at least **$50 balance** on day 90
 
  5. $300 Bonus is paid within **15 business days** after:
      
-     - All requirements are met **and**
-     - Account has been open for **90 days**
+    - All requirements are met **and**
+    - Account has been open for **90 days**
 
 ### 📌 Eligibility
 
