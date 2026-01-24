@@ -29,9 +29,9 @@ I’ll submit your info through the **CUR referral form**.
 #### 📞 Step 2 — CUR Calls You
     A CUR representative will call you **within 1 business day** to:
 
-    - Confirm eligibility  
-    - Handle membership qualification (if needed)  
-    - Submit the **application over the phone** (≈ **5-minute call**)
+ - Confirm eligibility  
+ - Handle membership qualification (if needed)  
+ - Submit the **application over the phone** (≈ **5-minute call**)
 
 **Colorado eligibility**
 
@@ -43,20 +43,20 @@ I’ll submit your info through the **CUR referral form**.
 
 #### 💰 Step 3 — Choose How You Earn the Bonus
 
-**Option A — $50 Bonus (Checking Path)**  
+- **Option A — $50 Bonus (Checking Path)**  
 
-- Open **new savings + checking**  
-- Get a **debit card**  
-- Complete **15 debit card transactions within 90 days**  
-- Keep accounts open **90 days**
+    - Open **new savings + checking**  
+    - Get a **debit card**  
+    - Complete **15 debit card transactions within 90 days**  
+    - Keep accounts open **90 days**
 
-**Option B — $50 Bonus (CD Path)** 
+- **Option B — $50 Bonus (CD Path)** 
 
-- Open **new savings**  
-- Deposit **$5,000+ new money into a CD**  
-- Keep account open **90 days**
+    - Open **new savings**  
+    - Deposit **$5,000+ new money into a CD**  
+    - Keep account open **90 days**
 
-⭐ **Complete BOTH Option A + B → $100 total bonus**
+- ⭐ **Complete BOTH Option A + B → $100 total bonus**
 
 #### 🚜 Giddy-Up Savings (Why This Is Actually Good)
 Optional add-on when opening checking.
@@ -66,16 +66,16 @@ Optional add-on when opening checking.
   → **~$216/year** on $500
 - Still earns **52.8% APY** while accumulating toward $500
 
-**Requirements**
+- **Requirements**
 
-- **5 debit card purchases/month**  
-- **$300+ monthly direct deposit**  
-- **eStatements**
+    - **5 debit card purchases/month**  
+    - **$300+ monthly direct deposit**  
+    - **eStatements**
 
-**What works**
+- **What works**
 
-- **Cash App & PayPal** count as debit transactions  
-- **ACH from any external bank** works as direct deposit
+    - **Cash App & PayPal** count as debit transactions  
+    - **ACH from any external bank** works as direct deposit
 
 
 --8<-- "snippets/back-to-list.md"
