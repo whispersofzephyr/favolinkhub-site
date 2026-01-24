@@ -128,7 +128,7 @@ Make sure you **register through ReferLive first** before opening the account â€
 
 ### âœ… How to Get the $300 Bonus (Step-by-step)
 
-1. **Start your application using the referral link**
+**Step 1: Start your application using the referral link**
 
      - [Apply here](https://secure.centralbank.net/refer-a-friend/RAF30045597113849)
      - The promo code should **auto-populate** during the application, if not, manually input it in the correct field
@@ -142,19 +142,19 @@ Make sure you **register through ReferLive first** before opening the account â€
    > Although some pages mention a â€œReferral Codeâ€ format, in practice the referral **works through the Promo Code field**.  
    > This method has been **tested for years and confirmed by Central Bank customer service**.
 
-2. **Open a new eligible checking account**
+**Step 2: Open a new eligible checking account**
 
      - Free Checking is **not eligible**
      - Deposit **$50 or more at account opening**
 
-3. Make **two or more qualifying direct deposits**
+**Step 3:** Make **two or more qualifying direct deposits**
 
     - **$800 cumulative total**
     - Must post within **90 days** of account opening
  
- 4. Keep at least **$50 balance** on day 90
+**Step 4:** Keep at least **$50 balance** on day 90
 
- 5. $300 Bonus is paid within **15 business days** after:
+**Step 5:** $300 Bonus is paid within **15 business days** after:
      
     - All requirements are met **and**
     - Account has been open for **90 days**
