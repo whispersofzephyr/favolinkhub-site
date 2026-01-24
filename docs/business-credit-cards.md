@@ -1,6 +1,6 @@
 # Business Credit Cards 
 
----
+--8<-- "snippets/back-to-list.md"
 
 ## 💸 Chase Ink Business Cards
 
