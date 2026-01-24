@@ -71,6 +71,10 @@ A CUR representative will call you **within 1 business day** to:
     - **5 debit card purchases/month** (Tip: **Cash App & PayPal** count as debit transactions) 
     - **$300+ monthly direct deposit** (Tip: **ACH from any external bank** works as direct deposit) 
 
+Referral Program Terms: [https://www.cu-rockies.org/Membership/Member-Referral-Program.aspx](https://www.cu-rockies.org/Membership/Member-Referral-Program.aspx)
+Giddy-Up Savings: [https://www.cu-rockies.org/Documents/Disclosures/Giddy-Up-Money-Market-Disclosures-(Revision-09-30.aspx](https://www.cu-rockies.org/Documents/Disclosures/Giddy-Up-Money-Market-Disclosures-(Revision-09-30.aspx)
+
+
 --8<-- "snippets/back-to-list.md"
 
 ---
