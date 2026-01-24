@@ -1,15 +1,15 @@
-## 🧭 How to Use This Site
-← [Back to Home](../index.md)
+# 🧭 How to Use This Site
 
----
+← [Back to Home](../index.md)
 
 ## ⭐ Start Here (Recommended)
 
-**Use the Offers Index as your main hub.**
+**Use the [Offers Index](docs/offers-index.md) as your main hub.**
 
-The **Offers Index** is the central directory for **all current offers on this site**, organized by category.
+The **[Offers Index](docs/offers-index.md)** is the central directory for **all current offers on this site**, organized by category.
 
-From the Offers Index, you can:
+From the [Offers Index](docs/offers-index.md), you can:
+
 - Browse all offers by category
 - Jump directly to a specific offer section
 - Move between categories without relying on side navigation
