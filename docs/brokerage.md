@@ -259,6 +259,29 @@ If you understand the order and holding rules, the total return can be substanti
 ---
 
 <a id="br-webull"></a>
-## 🔷 Webull — details to be added
+## 🔷 Webull Brokerage — 3% / 4% Deposit Match (Referral)
+**Nationwide** · **New customers only** · **No Chex Pull / no hard credit pull** ·  **Offer Valid: 01/01/2026 - 03/31/2026** 
+
+### 🔹 Offer Details
+
+- **4% match** on **cash deposits or transfer-in assets** of **$100,000+**
+- **3% match** on **net qualifying cash deposits** of **$2,000+**
+- Qualifying funding must be **settled within 7 days after 03/31/2026**
+- **$100 ACAT fee credit** for $2,000+ transfer-in  
+  *(may be granted even if no transfer fee is charged)*
+
+### ⏳ Payout & Holding Requirements
+
+- Match reward is **not paid upfront**
+- Paid in **6 equal yearly installments**
+- You must **maintain the Net Qualifying Funding Amount** through the final payout date  
+  (**March 31, 2031**)
+- If net withdrawals exceed deposits in any installment period,  
+  **remaining unpaid installments are forfeited**
+- Initial funding must be **maintained for at least 60 days**
+
+### 👉 Apply via Referral Link
+
+Apply here: [https://a.webull.com/3Dbte6werUmd7VZQd3](https://a.webull.com/3Dbte6werUmd7VZQd3)
 
 --8<-- "snippets/back-to-list.md"
