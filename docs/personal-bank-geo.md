@@ -21,7 +21,7 @@ If you are looking for accounts available nationwide, see:
 ### 🏔️ How to get $50/$100 bonus + ~$216 Interest/Year
 
 #### 🔁 Step 1 — Get Referred
-Send me your **name + phone number**.  
+Email me your **name + phone number** at [contact@favolinkhub.com](mailto:contact@favolinkhub.com).  
 I’ll submit your info through the **CUR referral form**.
 
 > ⚠️ This is **not** a referral link. The referral must be submitted manually.
