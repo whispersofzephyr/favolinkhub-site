@@ -22,6 +22,7 @@ From the [Offers Index](offers-index.md), you can:
 
 **Know the bank or keyword? → Use Search**  
 Tap the 🔍 icon in the upper right corner and search by:
+
 - Bank / platform: HSBC, Public, Varo, eToro, PSECU  
 - Bonus keywords: $300, APY, checking, referral  
 
