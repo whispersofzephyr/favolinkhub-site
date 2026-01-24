@@ -1,6 +1,6 @@
-# 🧭 Help & Guide
+# 🧭 How to Use This Site
 
-🧠 How to Use This Site: help.md
+← [Back to Home](index.md)
 
 ## Quick Tips (TL;DR)
 
