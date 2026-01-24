@@ -1,70 +1,83 @@
-# 🧭 How to Use This Site
-
-← [Back to Home](index.md)
-
-## Quick Tips (TL;DR)
-
-- 🔍 **Know the bank or keyword? Use Search**  
-  Click the **search icon 🔍** in the upper right corner and type the bank name or keyword  
-  (e.g. *Public Brokerage*, *HSBC*, *eToro*, *Varo*, *PSECU*, *$300*, *APY*).
-
-- 📂 **Browsing by category? Use the left menu**  
-  Personal Bank Accounts, Business Bank Accounts, Brokerage, Crypto, Credit Cards, Shopping Portals, etc.
-
-- 📑 **Looking for a specific offer on a page? Use the table of contents**  
-  On desktop: right side  
-  On mobile: open it from the navigation menu
-
-If you’re new or want more details, see the full guide below 👇
+## 🧭 How to Use This Site
+← [Back to Home](../index.md)
 
 ---
 
-## Full Guide
+## ⭐ Start Here (Recommended)
 
-### 🔍 Search (recommended)
-*Applies to both desktop and mobile devices*
+**Use the Offers Index as your main hub.**
 
-If you already know the **bank, platform, or a keyword**,  
-use the **search icon 🔍** in the upper right corner of any page to jump directly to relevant offers.
+The **Offers Index** is the central directory for **all current offers on this site**, organized by category.
 
-Examples of what you can search:
+From the Offers Index, you can:
+- Browse all offers by category
+- Jump directly to a specific offer section
+- Move between categories without relying on side navigation
 
-- Bank or platform name: *HSBC*, *Varo*, *PSECU*, *eToro*
-- Bonus-related keywords: *$300*, *APY*, *checking*, *referral*
+**Recommended for new visitors and mobile users.**
 
-Search works across all **active offer pages** and shows a preview of matched content to help you quickly identify the right offer.
+---
 
-### ☰ Navigation
+## 🔍 Quick Tips (TL;DR)
 
-#### On desktop browser
+**Know the bank or keyword? → Use Search**  
+Tap the 🔍 icon in the upper right corner and search by:
+- Bank / platform: HSBC, Public, Varo, eToro, PSECU  
+- Bonus keywords: $300, APY, checking, referral  
 
-- Use the **left navigation panel** to switch between bonus categories  
-  (Personal Bank Accounts, Business Bank Accounts, Brokerage, Crypto, Credit Cards, Shopping Portals, etc.)
+Search works across all active offer pages.
 
-- Each category page contains a **collection of offers** under that category
+---
 
-- Use the **right navigation panel (Table of contents)** to jump directly to a specific offer on the current page
-  
-    - As you scroll the page, the corresponding offer title will be highlighted
-    - You can also scroll inside the table of contents if the list is long
+**Want to browse by category? → Use the Offers Index**  
+Personal Bank Accounts, Business Bank Accounts, Brokerage, Crypto, Credit Cards, Fintech Apps, etc.
 
-- Scroll the **main content area** to read full offer details
+The Offers Index is designed to replace heavy navigation menus.
 
-#### On mobile device
+---
 
-- Tap the **☰ menu icon** in the upper left corner of any page to open the main navigation panel
+**Already on an offer page? → Use page navigation**
+- Desktop: Table of contents on the right
+- Mobile: Open it from the ☰ menu
 
-- From the main navigation panel:
-  
-    - Select a bonus category (Personal Bank Accounts, Business Bank Accounts, Brokerage, Crypto, Credit Cards, Shopping Portals, etc.)
-    - The currently selected category will be highlighted
+---
 
-- If the selected category page contains sub-navigation (offer list):
-  
-    - Tap the **☰ icon** next to the highlighted category to open the **offer list (table of contents)**
-    - Scroll to see the full list if it exceeds screen height
-    - Tap an offer name to jump directly to its details
+## 📖 Full Guide
 
-- Use the **back arrow (←)** at the top of the navigation panel to return to the previous level
+### 📑 Offers Index (Main Hub)
 
-- Scroll the page normally to read offer details
+The **Offers Index** acts as the homepage for all offers on this site.
+
+- Each category links to its corresponding section
+- Each offer title links directly to detailed terms
+- Most offer pages include a **Back to Index** link for easy navigation
+
+This structure is optimized for fast scanning and mobile use.
+
+---
+
+### 🔍 Search
+
+Applies to both desktop and mobile.
+
+Use search when you already know what you’re looking for:
+- Bank or platform name
+- Bonus size or related keywords
+
+Search results show content previews to help you quickly identify the right offer.
+
+---
+
+### ☰ Navigation (Optional)
+
+**Desktop**
+- Left panel: category navigation
+- Right panel: page-level offer list (table of contents)
+
+**Mobile**
+- Tap ☰ to open navigation
+- Use category list or page offer list if needed
+
+Navigation menus are optional — most users can rely on the Offers Index instead.
+
+
