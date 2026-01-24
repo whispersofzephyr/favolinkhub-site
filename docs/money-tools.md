@@ -1,5 +1,7 @@
 # Money Tools 
 
+--8<-- "snippets/back-to-list.md"
+
 ## 💰 Venmo
 
 [Apply here](https://get.venmo.com/VyXc6HTEpDb)
