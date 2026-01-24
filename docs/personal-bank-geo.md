@@ -75,8 +75,7 @@ A CUR representative will call you **within 1 business day** to:
 
 - **Referral Program**: [https://www.cu-rockies.org/Membership/Member-Referral-Program.aspx](https://www.cu-rockies.org/Membership/Member-Referral-Program.aspx)
 
-- **Giddy-Up Savings**: [https://www.cu-rockies.org/Documents/Disclosures/Giddy-Up-Money-Market-Disclosures-(Revision-09-30.aspx](https://www.cu-rockies.org/Documents/Disclosures/Giddy-Up-Money-Market-Disclosures-(Revision-09-30.aspx)
-
+- **Giddy-Up Savings**: [https://www.cu-rockies.org/Documents/Disclosures/Giddy-Up-Money-Market-Disclosures-(Revision-09-30.aspx)](https://www.cu-rockies.org/Documents/Disclosures/Giddy-Up-Money-Market-Disclosures-\(Revision-09-30.aspx\))
 
 --8<-- "snippets/back-to-list.md"
 
