@@ -282,6 +282,6 @@ If you understand the order and holding rules, the total return can be substanti
 
 ### 👉 Apply via Referral Link
 
-Apply here: [https://a.webull.com/3Dbte6werUmd7VZQd3](https://a.webull.com/3Dbte6werUmd7VZQd3)
+**Apply here:** [https://a.webull.com/3Dbte6werUmd7VZQd3](https://a.webull.com/3Dbte6werUmd7VZQd3)
 
 --8<-- "snippets/back-to-list.md"
