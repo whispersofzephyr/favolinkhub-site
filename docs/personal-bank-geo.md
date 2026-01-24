@@ -186,8 +186,7 @@ Make sure you **register through ReferLive first** before opening the account �
 - **Early account closure fee:** $25 if the account is closed within **90 days** (generally irrelevant since the bonus itself requires a 90-day hold).
 - **Advanced tip:** Some users keep a **savings account open ($50 minimum to avoid fees)** after closing checking to maintain an existing relationship and easier future approvals.
 
-### 📄 Terms and conditions
-[https://www.centralbank.net/personal/refer/](Terms: https://www.centralbank.net/personal/refer/)
+**📄 Terms and conditions**: [https://www.centralbank.net/personal/refer/](Terms: https://www.centralbank.net/personal/refer/)
 
 --8<-- "snippets/back-to-list.md"
 
