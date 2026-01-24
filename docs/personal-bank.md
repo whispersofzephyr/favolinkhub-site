@@ -1,5 +1,7 @@
 # Personal Bank Accounts
 
+--8<-- "snippets/back-to-list.md"
+
 Choose the category that applies to you:
 
 ## Nationwide Accounts
