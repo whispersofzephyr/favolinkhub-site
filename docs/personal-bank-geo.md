@@ -140,9 +140,9 @@ Make sure you **register through ReferLive first** before opening the account �
      - This code **must be entered in the _PROMO CODE_ field**
      - **Do NOT enter it in the “Referral Code” field**
 
-> ℹ️ **Important**  
-> Although some pages mention a “Referral Code” format, in practice the referral **works through the Promo Code field**.  
-> This method has been **tested for years and confirmed by Central Bank customer service**.
+     > ℹ️ **Important**  
+     > Although some pages mention a “Referral Code” format, in practice the referral **works through the Promo Code field**.  
+     > This method has been **tested for years and confirmed by Central Bank customer service**.
 
 3. **Open a new eligible checking account**
 
