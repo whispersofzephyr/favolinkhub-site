@@ -50,7 +50,7 @@ The **[Offers Index](docs/offers-index.md)** acts as the homepage for all offers
 
 - Each category links to its corresponding section
 - Each offer title links directly to detailed terms
-- Most offer pages include a **--8<-- "snippets/back-to-list.md"** link for easy navigation
+- Most offer pages include a --8<-- "snippets/back-to-list.md" link for easy navigation
 
 This structure is optimized for fast scanning and mobile use.
 
