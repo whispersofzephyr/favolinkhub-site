@@ -9,10 +9,9 @@ If you are looking for accounts available nationwide, see:
 <a id="cu-of-the-rockies"></a>
 ## ⭐ CU of the Rockies — $50 / $100 Referral (CO-only)
 
-Referral by email.  
-Includes Giddy-up Money Market (reported **52.8% APY** on $500).
 
 > **Quick Summary**
+> 
 > - **Bonus:** $50 (Checking *or* CD) · **$100 total** if you do both  
 > - **Location:** Colorado only (some counties auto-qualify; others via Consumers United / GoWest)  
 > - **How to apply:** Referral form → short phone call (~5 min) → rep submits application  
@@ -20,6 +19,7 @@ Includes Giddy-up Money Market (reported **52.8% APY** on $500).
 > - **Extra perk:** Optional **Giddy-Up Savings** — **52.8% APY** on up to **$500** (~$216/year)
 
 ### 🏔️ Credit Union of the Rockies — How the Referral Works (For New Members)
+**Colorado-only · No expiration date**
 
 #### 🔁 Step 1 — Get Referred
 Send me your **name + phone number**.  
