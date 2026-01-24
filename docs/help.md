@@ -28,16 +28,13 @@ Tap the 🔍 icon in the upper right corner and search by:
 
 Search works across all active offer pages.
 
----
-
 **Want to browse by category? → Use the Offers Index**  
 Personal Bank Accounts, Business Bank Accounts, Brokerage, Crypto, Credit Cards, Fintech Apps, etc.
 
 The Offers Index is designed to replace heavy navigation menus.
 
----
-
 **Already on an offer page? → Use page navigation**
+
 - Desktop: Table of contents on the right
 - Mobile: Open it from the ☰ menu
 
@@ -45,9 +42,9 @@ The Offers Index is designed to replace heavy navigation menus.
 
 ## 📖 Full Guide
 
-### 📑 [Offers Index](docs/offers-index.md) (Main Hub)
+### 📑 [**Offers Index**](docs/offers-index.md) (Main Hub)
 
-The **[Offers Index](docs/offers-index.md)** acts as the homepage for all offers on this site.
+The [**Offers Index**](docs/offers-index.md) acts as the homepage for all offers on this site.
 
 - Each category links to its corresponding section
 - Each offer title links directly to detailed terms
@@ -55,27 +52,26 @@ The **[Offers Index](docs/offers-index.md)** acts as the homepage for all offers
 
 This structure is optimized for fast scanning and mobile use.
 
----
-
 ### 🔍 Search
 
 Applies to both desktop and mobile.
 
 Use search when you already know what you’re looking for:
+
 - Bank or platform name
 - Bonus size or related keywords
 
 Search results show content previews to help you quickly identify the right offer.
 
----
-
 ### ☰ Navigation (Optional)
 
 **Desktop**
+
 - Left panel: category navigation
 - Right panel: page-level offer list (table of contents)
 
 **Mobile**
+
 - Tap ☰ to open navigation
 - Use category list or page offer list if needed
 
