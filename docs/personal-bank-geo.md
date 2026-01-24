@@ -27,7 +27,7 @@ I’ll submit your info through the **CUR referral form**.
 > ⚠️ This is **not** a referral link. The referral must be submitted manually.
 
 #### 📞 Step 2 — CUR Calls You
-    A CUR representative will call you **within 1 business day** to:
+A CUR representative will call you **within 1 business day** to:
 
  - Confirm eligibility  
  - Handle membership qualification (if needed)  
@@ -41,7 +41,7 @@ I’ll submit your info through the **CUR referral form**.
 
 **ChexSystems:** Pulled, but **not sensitive** (per data points)
 
-#### 💰 Step 3 — Choose How You Earn the Bonus
+#### 💰 Step 3 — Choose How You Earn the $50/$100 Bonus
 
 - **Option A — $50 Bonus (Checking Path)**  
 
@@ -58,25 +58,18 @@ I’ll submit your info through the **CUR referral form**.
 
 - ⭐ **Complete BOTH Option A + B → $100 total bonus**
 
-#### 🚜 Giddy-Up Savings (Why This Is Actually Good)
-Optional add-on when opening checking.
+#### 🚜 Step 4: Giddy-Up Savings (Highly Recommended) 
+  Optional add-on when opening checking. This is acutally the highlight of CU of the Rockie's promo.
 
 - **52.8% APY** on balances up to **$500**
 - About **$18/month** once fully funded  
   → **~$216/year** on $500
 - Still earns **52.8% APY** while accumulating toward $500
-
-- **Requirements**
-
-    - **5 debit card purchases/month**  
-    - **$300+ monthly direct deposit**  
-    - **eStatements**
-
-- **What works**
-
-    - **Cash App & PayPal** count as debit transactions  
-    - **ACH from any external bank** works as direct deposit
-
+- **Requirements** for getting the 52.8% APY
+   
+    - Enroll in **eStatements**
+    - **5 debit card purchases/month** (Tip: **Cash App & PayPal** count as debit transactions) 
+    - **$300+ monthly direct deposit** (Tip: **ACH from any external bank** works as direct deposit) 
 
 --8<-- "snippets/back-to-list.md"
 
