@@ -4,11 +4,11 @@
 
 ## ⭐ Start Here (Recommended)
 
-**Use the [**Offers Index**](docs/offers-index.md) as your main hub.**
+**Use the [**Offers Index**](offers-index.md) as your main hub.**
  
-The [**Offers Index**](docs/offers-index.md)** is the central directory for **all current offers on this site**, organized by category.
+The [**Offers Index**](/offers-index.md)** is the central directory for **all current offers on this site**, organized by category.
 
-From the [Offers Index](docs/offers-index.md), you can:
+From the [Offers Index](offers-index.md), you can:
 
 - Browse all offers by category
 - Jump directly to a specific offer section
