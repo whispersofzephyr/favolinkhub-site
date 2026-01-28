@@ -60,7 +60,7 @@ All current offers, organized by categories:
 <a id="crypto"></a>
 ## Crypto
 
-[🎁 OKX - $200 Referral](crypto.md#cr-okx) 🔥🔥🔥 
+[🎁 OKX – $200 Referral + 5% Deposit Match ($1,000–$50,000 Deposit, $50–$2,500 Reward) + 5% on USDG](crypto.md#cr-okx) 🔥🔥🔥 
 [🔔 eToro — Up to $500 Crypto Bonus + $30 Referral](crypto.md#cr-etoro) 🔥  
 [🪙 Kraken $75-$150 Referral + Capital One Shopping $250 or Rakuten $50–$150 or TopCashBack $202](crypto.md#cr-kraken)  
 [🟦 Gemini — $50 Referral](crypto.md#cr-gemini)  
