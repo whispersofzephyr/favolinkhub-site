@@ -18,7 +18,7 @@
 ### 🎯 How to get the **$200 referral rewards**
 
 - Sign up for **OKX US** using the referral link:   
-  [https://app.okx.com/en-us/join/78051150](https://app.okx.com/en-us/join/78051150)  
+  👉 [**https://app.okx.com/en-us/join/78051150**](https://app.okx.com/en-us/join/78051150)  
 - Complete **advanced identity verification (KYC)**.  
 - **Deposit $200 or more** in cash or crypto.  
 - **Buy $200 or more** worth of crypto within the required timeframe.  
