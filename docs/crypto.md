@@ -128,7 +128,7 @@ New users may earn **up to $530 total**:
 ---
 
 <a id="cr-kraken"></a>
-## 🪙 Kraken $75-$150 Referral + Capital One Shopping $250 or Rakuten $50–$150 or TopCashBack $202 
+## 🪙 Kraken - $75-$150 Referral + Capital One Shopping $250 or Rakuten $50–$150 or TopCashBack $202 
 
 **Referral availability: Nationwide (excluding ME, WA, NY) · No Expiration Date**    
 **Portal cashback: likely still works in excluded states (referral bonus may not)**  
