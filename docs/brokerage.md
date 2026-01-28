@@ -259,7 +259,7 @@ If you understand the order and holding rules, the total return can be substanti
 ---
 
 <a id="br-webull"></a>
-## 🔷 Webull Brokerage — 3% / 4% Deposit Match (Referral)
+## 🔷 Webull — 3% / 4% Deposit Match (Referral)
 **Nationwide** · **New customers only** · **No Chex Pull / no hard credit pull** ·  **Offer Valid: 01/01/2026 - 03/31/2026** 
 
 ### 🔹 Offer Details
