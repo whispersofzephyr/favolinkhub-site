@@ -2,6 +2,24 @@
 
 --8<-- "snippets/back-to-list.md"
 
+<a id="cr-okx"></a>
+## 🎁 OKX - $200 Referral
+**US users only, excluding NY, TX, AS, GU, MP, VI • Expires 02/03/2026 (9:00 PM local time)**
+
+**Referral link:**  
+[https://app.okx.com/en-us/join/78051150](https://app.okx.com/en-us/join/78051150)
+
+### How to get the $200 rewards
+- Sign up for **OKX US** using the referral link above.
+- Complete **advanced identity verification (KYC)**.
+- **Deposit $200 or more** in cash or crypto.
+- **Buy $200 or more** worth of crypto within the required timeframe.
+- To unlock $200 rewards, maintain a **daily average portfolio balance of $200 for any 30 days within a 90-day period**.
+
+--8<-- "snippets/back-to-list.md"
+
+---
+
 <a id="cr-etoro"></a>
 ## 🔔 eToro — Up to $500 Crypto Bonus + $30 Referral 🔥🔥🔥
 **Nationwide excluding NY, NV, and HI · One account per person/household · Expires 01/31/2026**
@@ -213,24 +231,6 @@ Some users will see a **Spin to Win** button in the app.
 
 ---
 
-<a id="cr-okx"></a>
-## 🎁 OKX - $200 Referral
-**US users only, excluding NY, TX, AS, GU, MP, VI • Expires 02/03/2026 (9:00 PM local time)**
-
-**Referral link:**  
-[https://app.okx.com/en-us/join/78051150](https://app.okx.com/en-us/join/78051150)
-
-### How to get the $200 rewards
-- Sign up for **OKX US** using the referral link above.
-- Complete **advanced identity verification (KYC)**.
-- **Deposit $200 or more** in cash or crypto.
-- **Buy $200 or more** worth of crypto within the required timeframe.
-- To unlock $200 rewards, maintain a **daily average portfolio balance of $200 for any 30 days within a 90-day period**.
-
---8<-- "snippets/back-to-list.md"
-
----
-
 <a id="cr-gemini"></a>
 ## 🟦 Gemini — $50 Referral
 
@@ -278,3 +278,4 @@ Gemini has updated the rules — **this is where many people mess up.**
 - Using **ActiveTrader mode** significantly lowers fees (recommended)
 
 --8<-- "snippets/back-to-list.md"
+
