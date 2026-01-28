@@ -53,7 +53,7 @@
 
 - The **5% Deposit Match** is a **public offer** available to **both new and existing users**
 - For **new users**, this can stack with the **$200 referral bonus**
-- If holding funds in **USDG** (currently advertised ~5% yield on OKX), the deposit match and USDG yield **can stack**, increasing effective return during the 24-week period (currently works out to ~15% annualized equivalent; rates subject to change)
+- If holding funds in **USDG** (currently advertised ~5% yield on OKX), the deposit match and USDG yield **can stack**, increasing effective return during the 24-week period (currently works out to **~15% annualized equivalent**; rates subject to change)
 
 --8<-- "snippets/back-to-list.md"
 
