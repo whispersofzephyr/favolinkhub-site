@@ -3,7 +3,7 @@
 --8<-- "snippets/back-to-list.md"
 
 <a id="cr-okx"></a>
-## 🎁 OKX – $200 Referral + 5% Deposit Match ($1,000–$50,000 Deposit, $50–$2,500 Reward) + 5% on USDG
+## 🎁 OKX – $200 Referral + 5% Deposit Match ($1,000–$50,000 Deposit, $50–$2,500 Reward) + 5% on USDG 🔥🔥🔥
 **US users only, excluding NY, TX, AS, GU, MP, VI • Expires 02/17/2026**
 
 > ### ⚡ Quick Summary
@@ -57,55 +57,10 @@
 
 --8<-- "snippets/back-to-list.md"
 
-
-<a id="cr-okx"></a>
-## 🎁 OKX – $200 Referral + 5% Deposit Match ($1,000–$50,000 Deposit, $50-$2,500 Reward) + 5% on USDG
-**US users only, excluding NY, TX, AS, GU, MP, VI • Expires 02/17/2026**
-
-### How to get the **$200 referral rewards**
-
-- Sign up for **OKX US** using the referral link [https://app.okx.com/en-us/join/78051150](https://app.okx.com/en-us/join/78051150)
-- Complete **advanced identity verification (KYC)**.
-- **Deposit $200 or more** in cash or crypto.
-- **Buy $200 or more** worth of crypto within the required timeframe.
-- To unlock the $200 rewards, maintain a **daily average portfolio balance of $200 for any 30 days within a 90-day period**.
-
-### 🆕 How to get the **5% Deposit Match** on $1,000–$50,000 Deposit
-- **Opt-in required** (available in-app under *My Rewards*)
-- **Eligible deposits:** net deposits after opt-in
-- **Match rate:** 5%
-
-      - Min deposit: **$1,000**
-      - Max deposit: **$50,000**
-      - Max reward: **$2,500**
-  
-- Rewards are **paid every 14 days over 24 weeks**
-- To continue receiving payouts, users must **maintain account balance ≥ eligible deposits**
-- **No lock-ups, no restrictions** (funds remain fully accessible)
-- **Early withdrawal stops future rewards**, but rewards already paid are generally not clawed back
-- **Deposit window ends: Feb 17, 2026**
-
-**Eligible deposits include:**
-
-- USD cash via ACH or debit card
-- On-chain crypto deposits
-- Direct crypto purchases on OKX
-
-**Official T&C:**  
-https://www.okx.com/en-us/help/deposit-match-rewards-session-terms-and-conditions
-
-### 🔄 Stackability
-
-- The **5% Deposit Match** is a **public offer** available to **both new and existing users**
-- For **new users**, this can stack with the **$200 referral bonus**
-- If holding funds in **USDG** (currently advertised ~5% yield on OKX), the deposit match and USDG yield **can stack**, increasing effective return during the 24-week period (currently works out to ~15% annualized equivalent; rates subject to change)
-
---8<-- "snippets/back-to-list.md"
-
 ---
 
 <a id="cr-etoro"></a>
-## 🔔 eToro — Up to $500 Crypto Bonus + $30 Referral 🔥🔥🔥
+## 🔔 eToro — Up to $500 Crypto Bonus + $30 Referral 🔥
 **Nationwide excluding NY, NV, and HI · One account per person/household · Expires 01/31/2026**
 
 **Referral link:** [https://etoro.tw/4bKaOxA](https://etoro.tw/4bKaOxA)
