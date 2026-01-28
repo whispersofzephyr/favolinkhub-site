@@ -9,7 +9,7 @@ Questions or clarifications:
 
 ## 🚀 Start Here (Recommended)
 
-👉 Looking for a specific offer (HSBC, Public, eToro)?
+👉 Looking for a specific offer (OKX, HSBC, Public, eToro)?
 
   → **🔍 Use Search**
   
