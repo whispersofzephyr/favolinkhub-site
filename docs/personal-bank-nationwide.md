@@ -462,23 +462,41 @@ You are **NOT eligible** if **any** of the following apply:
 ---
 
 <a id="current"></a>
-## 🔔 Current — $75 referral
+## 🔔 Current — $75 Welcome Bonus
 **Nationwide** • **New User Only** • **No stated expiration date (subject to change)**
 
-Open a **new Current account** and get **$75** when you receive a **$200+ qualifying direct deposit** within **45 days**.
+Open a **new Current account** and earn **$75** when you receive **one $200+ eligible payroll direct deposit** within **45 days** using promo code **PAYROLL75**.
 
 ### How to get the $75 bonus
 
-1. **Sign up for a current account:**  
-[Apply here](https://current.com/get-started/?creator_code=ZHISHANW863)
+1. **Open a new Current account**  
+   👉 [Apply here](https://current.com/get-started/?creator_code=ZHISHANW863)  
 
-or Sign up through a portal link if you want to stack with portal offer, then Apply code **ZHISHANW863** in the app. Home->Rewards->Add Code
+   You may also sign up through a **portal link** if you want to stack with a portal offer, then add the code **ZHISHANW863** in the app after account opening.
 
-2. Apply code **PAYROLL75** in the app. Home->Rewards->Add Code
+2. **Apply promo code `PAYROLL75` in the app**  
+   Path: **Home → Rewards → Add Code**
 
-3. Receive **$200+ qualifying direct deposits** within **45 days**
+   > Current allows adding referral and promo codes **after** account opening.  
+   > Once applied, refresh the app and the offer should appear under **“Active”** at the top of the Rewards page.  
+   > Click into the offer to confirm the requirements.  
+   > **Make sure the code is applied before meeting the deposit requirement.**
 
-4. $75 bonus is typically paid within **10 business days** after qualification  
+3. Within **45 days**, receive **one $200 or more Eligible Payroll Direct Deposit**  
+
+   - Must be payroll-style wages or compensation  
+   - Eligibility is determined by Current
+
+5. The **$75 bonus** is typically paid within **10 business days** after qualification
+
+### Notes
+
+- Only **one signup bonus** may be earned per account.
+- Current frequently runs promotions for **existing customers**.  
+  These promos may appear via email or directly in the app, and users can usually apply the promo code the same way:  
+  **Home → Rewards → Add Code**, then meet the requirements (often a direct deposit).
+- There have been **multiple rounds** of existing-customer promos in the past year.  
+  For this reason, it may be worth keeping the account open after completing the welcome bonus.
 
 --8<-- "snippets/back-to-list.md"
 
