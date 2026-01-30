@@ -462,36 +462,42 @@ You are **NOT eligible** if **any** of the following apply:
 ---
 
 <a id="current"></a>
-## 🔔 Current — $75 Welcome Bonus
+## 🔔 Current — $75 Welcome Bonus (Payroll / Referral)
 **Nationwide** • **New User Only** • **No stated expiration date (subject to change)**
 
-Open a **new Current account** and earn **$75** when you receive **one $200+ eligible payroll direct deposit** within **45 days** using promo code **PAYROLL75**.
+Open a **new Current account** and earn a **welcome bonus** when you receive **one $200+ eligible payroll direct deposit** within **45 days**.  
+The active bonus amount and requirements will be shown in the app after applying codes.
 
-### How to get the $75 bonus
+### How to get the bonus
 
 1. **Open a new Current account**  
-   👉 [Apply here](https://current.com/get-started/?creator_code=ZHISHANW863)  
+   👉 [Apply here](https://current.com/get-started/?creator_code=ZHISHANW863)
 
-   You may also sign up through a **portal link** if you want to stack with a portal offer, then add the code **ZHISHANW863** in the app after account opening.
+   You may also sign up through a **portal link** if you want to stack with a portal offer, then apply codes in the app after account opening.
 
-2. **Apply promo code `PAYROLL75` in the app**  
+2. **Apply codes in the app**  
    Path: **Home → Rewards → Add Code**
 
-   > Current allows adding referral and promo codes **after** account opening.  
-   > Once applied, refresh the app and the offer should appear under **“Active”** at the top of the Rewards page.  
-   > Click into the offer to confirm the requirements.  
-   > **Make sure the code is applied before meeting the deposit requirement.**
+   - Referral code: **ZHISHANW863**  
+   - Payroll promo code: **PAYROLL75**
 
-3. Within **45 days**, receive **one $200 or more Eligible Payroll Direct Deposit**  
+   > Current allows applying **multiple referral and promo codes** after account opening.  
+   > After applying the code(s), refresh the app.  
+   > The offer that is recognized by the system will appear under **“Active”** at the top of the Rewards page.  
+   > Click into the active offer to view the exact bonus amount and requirements.  
+   > **Make sure all codes are applied before meeting the deposit requirement.**
+
+3. Within **45 days**, receive **one $200 or more Eligible Payroll Direct Deposit**
 
    - Must be payroll-style wages or compensation  
    - Eligibility is determined by Current
 
-5. The **$75 bonus** is typically paid within **10 business days** after qualification
+4. The bonus is typically paid within **10 business days** after qualification
 
 ### Notes
 
-- Only **one signup bonus** may be earned per account.
+- Only **one signup bonus** may be earned per account.  
+  If multiple codes are applied, **only one offer will become active** and pay out.
 - Current frequently runs promotions for **existing customers**.  
   These promos may appear via email or directly in the app, and users can usually apply the promo code the same way:  
   **Home → Rewards → Add Code**, then meet the requirements (often a direct deposit).
