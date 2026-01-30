@@ -472,9 +472,13 @@ Open a **new Current account** and get **$75** when you receive a **$200+ qualif
 1. **Sign up for a current account:**  
 [Apply here](https://current.com/get-started/?creator_code=ZHISHANW863)
 
-2. Receive **$200+ qualifying direct deposits** within **45 days**
+or Sign up through a portal link if you want to stack with portal offer, then Apply code **ZHISHANW863** in the app. Home->Rewards->Add Code
 
-3. $75 bonus is typically paid within **10 business days** after qualification  
+2. Apply code **PAYROLL75** in the app. Home->Rewards->Add Code
+
+3. Receive **$200+ qualifying direct deposits** within **45 days**
+
+4. $75 bonus is typically paid within **10 business days** after qualification  
 
 --8<-- "snippets/back-to-list.md"
 
