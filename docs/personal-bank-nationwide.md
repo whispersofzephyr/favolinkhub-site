@@ -462,19 +462,19 @@ You are **NOT eligible** if **any** of the following apply:
 ---
 
 <a id="current"></a>
-## 🔔 Current — $100 referral
+## 🔔 Current — $75 referral
 **Nationwide** • **New User Only** • **No stated expiration date (subject to change)**
 
-Open a **new Current account** and get **$100** when you receive a **$200+ qualifying direct deposit** within **45 days**.
+Open a **new Current account** and get **$75** when you receive a **$200+ qualifying direct deposit** within **45 days**.
 
-### How to get the $100 bonus
+### How to get the $75 bonus
 
 1. **Sign up for a current account:**  
 [Apply here](https://current.com/get-started/?creator_code=ZHISHANW863)
 
 2. Receive **$200+ qualifying direct deposits** within **45 days**
 
-3. $100 bonus is typically paid within **10 business days** after qualification  
+3. $75 bonus is typically paid within **10 business days** after qualification  
 
 --8<-- "snippets/back-to-list.md"
 
