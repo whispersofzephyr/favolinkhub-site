@@ -471,7 +471,7 @@ The active bonus amount and requirements will be shown in the app after applying
 ### How to get the bonus
 
 1. **Open a new Current account**  
-   👉 [Apply here](https://current.com/get-started/?creator_code=ZHISHANW863)
+   👉 [Apply here](https://current.com/get-started/?creator_code=ZHISHANW863)  
 
    You may also sign up through a **portal link** if you want to stack with a portal offer, then apply codes in the app after account opening.
 
