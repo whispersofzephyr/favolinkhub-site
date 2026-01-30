@@ -19,6 +19,7 @@
 
 - Sign up for **OKX US** using the referral link:   
   👉 [**https://app.okx.com/en-us/join/78051150**](https://app.okx.com/en-us/join/78051150)  
+  or enter **referral code 78051150** at signup.  
 - Complete **advanced identity verification (KYC)**.  
 - **Deposit $200 or more** in cash or crypto.  
 - **Buy $200 or more** worth of crypto within the required timeframe.  
