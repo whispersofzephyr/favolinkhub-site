@@ -19,7 +19,7 @@ All current offers, organized by categories:
 [💵 **KeyPoint Credit Union** — $300 Checking Referral](personal-bank-nationwide.md#keypoint-cu) 🔥   
 [💰 **OnePay Cash** — $50 Cash Bonus](personal-bank-nationwide.md#onepay-cash)  
 [💎 **PSECU** — $300 Referral](personal-bank-nationwide.md#psecu) 🔥  
-[🔔 **Current** — $100 Referral](personal-bank-nationwide.md#current)  
+[🔔 **Current** — $75 Referral](personal-bank-nationwide.md#current)  
 [🎁 **Ally Bank** — $100 Referral](personal-bank-nationwide.md#ally-bank)  
 [💸 **Raisin** — Tiered Referral (Up to $1,500) + Optional $100–$200 Portal Cashback](personal-bank-nationwide.md#raisin) 🔥🔥🔥  
 [🌱 **FutureCard** — $15 Referral](personal-bank-nationwide.md#futurecard)  
