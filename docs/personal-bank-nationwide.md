@@ -462,7 +462,7 @@ You are **NOT eligible** if **any** of the following apply:
 ---
 
 <a id="patelco"></a>
-## Patelco Credit Union — $100 Referral
+## 🧧 Patelco Credit Union — $100 Referral
 **Nationwide** • **Expires 07/31/2026**
 
 > **Bonus Summary**
@@ -487,7 +487,6 @@ To receive the $50 checking bonus, you must:
 After completing the checking requirements above, you can earn an **additional $50** by:
 
 1. Opening a **Money Market Plus or Money Market Select** account
-
 
 📌 This $50 bonus will be credited **directly to the money market account**.
 
