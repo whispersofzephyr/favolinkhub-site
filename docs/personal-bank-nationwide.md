@@ -461,6 +461,42 @@ You are **NOT eligible** if **any** of the following apply:
 
 ---
 
+<a id="patelco"></a>
+## Patelco Credit Union — $100 Referral
+**Nationwide** • **Expires 07/31/2026**
+
+> **Bonus Summary**
+> 
+> - **$50 bonus** for opening a **checking account**
+> - **+ $50 bonus (optional)** for opening a **money market account**
+> - **Total possible bonus: $100**
+> - **Referral (offer) code:** `R8N4HTQL`
+
+### ✅ How to Earn the $50 Checking Bonus
+To receive the $50 checking bonus, you must:
+
+1. Be a **new Patelco member**
+2. Apply using the referral (offer) code **`R8N4HTQL`**
+3. Open a **Patelco checking account**
+4. Make an **initial deposit of at least $100**
+
+📌 The $50 bonus will be credited to your **Patelco savings account** within **5 business days** after the checking requirements are met.
+
+### ➕ Additional $50 Money Market Bonus (Optional)
+After completing the checking requirements above, you can earn an **additional $50** by:
+
+1. Opening a **Money Market Plus or Money Market Select** account
+
+
+📌 This $50 bonus will be credited **directly to the money market account**.
+
+### ⏰ Important Dates
+- Checking account must be opened and funded **by July 31, 2026**
+
+--8<-- "snippets/back-to-list.md"
+
+---
+
 <a id="current"></a>
 ## 🔔 Current — $75 Welcome Bonus (Payroll / Referral)
 **Nationwide** • **New User Only** • **No stated expiration date (subject to change)**
