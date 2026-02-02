@@ -476,9 +476,10 @@ You are **NOT eligible** if **any** of the following apply:
 To receive the $50 checking bonus, you must:
 
 1. Be a **new Patelco member**
-2. Apply using the referral (offer) code **`R8N4HTQL`**
-3. Open a **Patelco checking account**
-4. Make an **initial deposit of at least $100**
+2. Apply here at [https://www.patelco.org/campaign/refer](https://www.patelco.org/campaign/refer)
+3. Using the referral (offer) code **`R8N4HTQL`** in the application
+4. Open a **Patelco checking account**
+5. Make an **initial deposit of at least $100**
 
 📌 The $50 bonus will be credited to your **Patelco savings account** within **5 business days** after the checking requirements are met.
 
