@@ -501,40 +501,45 @@ After completing the checking requirements above, you can earn an **additional $
 ## 🔔 Current — $100 Referral
 **Nationwide** • **New User Only** • **No stated expiration date (subject to change)**
 
-Open a **new Current account** and earn a **welcome bonus** when you receive **one $200+ eligible payroll direct deposit** within **45 days**.  
-The active bonus amount and requirements will be shown in the app after applying codes.
+Open a **new Current account** and earn a **referral bonus (currently $100 for most users)** when you receive **one $200+ eligible payroll direct deposit** within **45 days**.
 
-### How to get the bonus
+> Note: The public landing page may display a $75 generic signup offer (PAYROLL75).  
+> However, when using a referral code instead of the PAYROLL75 code, the backend referral bonus is currently $100 for most users.  
+> The exact bonus amount will only appear in the app after applying the code.
+
+### How to get the referral bonus
 
 1. **Open a new Current account**  
-   👉 [Apply here](https://current.com/get-started/?creator_code=ZHISHANW863)  
+   👉 **Apply here**:[https://current.com/get-started/?creator_code=ZHISHANW863](https://current.com/get-started/?creator_code=ZHISHANW863)
 
-   You may also sign up through a **portal link** if you want to stack with a portal offer, then apply codes in the app after account opening.
+   You may also sign up through a **portal link** if you want to stack with a portal offer, then apply the referral code in the app after account opening.
 
-2. **Apply codes in the app**  
+2. **Apply referral code in the app**  
    Path: **Home → Rewards → Add Code**
 
-   - Referral code: **ZHISHANW863**  
-   
-   > Current allows applying referral code and promotion code after account opening.  
+   - Referral code: **ZHISHANW863**
+
+   > Current allows applying referral and promotion codes after account opening.  
    > After applying the code, refresh the app.  
-   > The offer that is recognized by the system will appear under **“Active”** at the top of the Rewards page.  
-   > Click into the active offer to view the exact bonus amount and requirements.  
-   > **Make sure the code is applied before meeting the deposit requirement.**
+   > The offer recognized by the system will appear under **“Active”** at the top of the Rewards page.  
+   > Click into the active offer to confirm the bonus amount and requirements.  
+   > **Make sure the referral code is applied before meeting the deposit requirement.**
 
 3. Within **45 days**, receive **one $200 or more Eligible Payroll Direct Deposit**
-   
-5. The bonus is typically paid within **10 business days** after qualification
+
+4. The bonus is typically paid within **10 business days** after qualification
 
 ### Notes
 
 - Only **one signup bonus** may be earned per account.  
-  If multiple codes are applied, **only one offer will become active** and pay out.
+  If multiple codes are applied (e.g. referral + PAYROLL75), **only one offer will become active** and pay out. Use the referral code instead of PAYROLL75 code for $100 bonus.
+- The landing page does not always display the actual referral bonus amount.  
+  The definitive amount is shown in the app under **Rewards → Active**.
 - Current frequently runs promotions for **existing customers**.  
-  These promos may appear via email or directly in the app, and users can usually apply the promo code the same way:  
+  These promos may appear via email or directly in the app. Users can apply promo codes the same way:  
   **Home → Rewards → Add Code**, then meet the requirements (often a direct deposit).
 - There have been **multiple rounds** of existing-customer promos in the past year.  
-  For this reason, it may be worth keeping the account open after completing the welcome bonus.
+  For this reason, it may be worth keeping the account open after completing the referral bonus.
 
 --8<-- "snippets/back-to-list.md"
 
