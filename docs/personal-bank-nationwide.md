@@ -524,9 +524,6 @@ The active bonus amount and requirements will be shown in the app after applying
 
 3. Within **45 days**, receive **one $200 or more Eligible Payroll Direct Deposit**
 
-   - Must be payroll-style wages or compensation  
-   - Eligibility is determined by Current
-
 4. The bonus is typically paid within **10 business days** after qualification
 
 ### Notes
