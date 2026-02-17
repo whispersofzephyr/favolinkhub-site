@@ -498,7 +498,7 @@ After completing the checking requirements above, you can earn an **additional $
 ---
 
 <a id="current"></a>
-## 🔔 Current — $75 Welcome Bonus (Payroll / Referral)
+## 🔔 Current — $100 Referral
 **Nationwide** • **New User Only** • **No stated expiration date (subject to change)**
 
 Open a **new Current account** and earn a **welcome bonus** when you receive **one $200+ eligible payroll direct deposit** within **45 days**.  
@@ -515,13 +515,12 @@ The active bonus amount and requirements will be shown in the app after applying
    Path: **Home → Rewards → Add Code**
 
    - Referral code: **ZHISHANW863**  
-   - Payroll promo code: **PAYROLL75**
-
-   > Current allows applying **multiple referral and promo codes** after account opening.  
-   > After applying the code(s), refresh the app.  
+   
+   > Current allows applying referral code and promotion code after account opening.  
+   > After applying the code, refresh the app.  
    > The offer that is recognized by the system will appear under **“Active”** at the top of the Rewards page.  
    > Click into the active offer to view the exact bonus amount and requirements.  
-   > **Make sure all codes are applied before meeting the deposit requirement.**
+   > **Make sure the code is applied before meeting the deposit requirement.**
 
 3. Within **45 days**, receive **one $200 or more Eligible Payroll Direct Deposit**
 
