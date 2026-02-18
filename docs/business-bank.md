@@ -27,6 +27,34 @@ Grasshopper Bank is offering an **easy $200 referral bonus** when you open a new
 
 ---
 
+<a id="mercury"></a>
+
+# 💰 Mercury — $250 Referral 
+**Nationwide** • **LLC Required** • **No stated expiration**
+
+Open a new **Mercury business checking account** and earn a **$250 bonus** when you meet the requirement below.
+
+👉 **Apply here:**  
+[https://mercury.com/r/horizonhomesolutions](https://mercury.com/r/horizonhomesolutions)
+
+### 💵 Bonus Requirements
+
+- Deposit **$10,000 total within 90 days** of account opening  
+- **No holding period stated**
+
+### ✅ Key Details
+
+- Bonus: **$250**
+- ChexSystems: **No pull**
+- EWS: **No pull**
+- Credit: **Soft pull only**
+- Entity required: **LLC**
+- Account type: **Online business checking**
+
+--8<-- "snippets/back-to-list.md"
+
+---
+
 <a id="biz-novo"></a>
 ## 🔷 Novo Business Checking — $40 Referral  
 **Nationwide** • **No Expiration Date**
