@@ -29,7 +29,7 @@ Grasshopper Bank is offering an **easy $200 referral bonus** when you open a new
 
 <a id="biz-mercury"></a>
 
-# 💰 Mercury — $250 Referral 
+## 💰 Mercury — $250 Referral 
 **Nationwide** • **LLC Required** • **No stated expiration**
 
 Open a new **Mercury business checking account** and earn a **$250 bonus** when you meet the requirement below.
