@@ -3,6 +3,87 @@ search:
   exclude: true
 ---
 
+<a id="br-public"></a>
+## 🎁 Public Brokerage — $100 Referral
+**Nationwide · Effective 01/20/2026** 
+
+> **Quick Summary**
+> 
+> - **Bonus:** $100 in stock or ETF of your choice (fractional share)  
+> - **Deposit Required:** $1,000 initial one-time deposit  
+> - **Claim Window:** 30 days after the reward appears in the **Rewards** tab  
+> - **Lock Period:** 12 months on the $100 reward    
+>   *(No lock period on your original $1,000 deposit)*  
+
+Public currently offers a **$100 referral bonus** in stocks or ETFs when signing up with a referral link and depositing $1,000.  
+
+Historically, the standard referral bonus has often been **$20**, and some parts of the app may still display that older amount. The **Rewards** tab and the **official Terms and Conditions** reflect the current $100 bonus.
+
+**Eligibility**: **New users** are eligible. Also DPs suggest **prior users** whose accounts were closed before could sign up via referral **with a different email** and be eligible for the referral bonus. 
+
+### 🔑 How to Earn the $100 Bonus
+
+**1. Sign up using a referral link**  
+👉 [https://public.com/user-referral?referrer=Zhishan98059](https://public.com/user-referral?referrer=Zhishan98059)
+
+(Some DPs suggest that if the referral link did not track during signup, or the account was not originally opened via a referral, the referral bonus may still be recoverable after approval. Enter the referral code into the **"Have a promo code? Enter it here"** box inside the **Rewards** Tab and click "**Submit**", which then prompts stock selection. This appears to be a fallback mechanism and may be YMMV.)
+
+**Referral code:** `Zhishan98059`
+
+**2. Make a single initial deposit of $1,000 or more**
+
+- The deposit can be made **during application or after approval**
+- It must be your **first one-time initial deposit**
+
+**3. Receive $100 in stock or ETF**
+
+- **Once the deposit posts successfully**, both you and your referrer receive **$100 worth of fractional stock or an ETF of your choice**
+- You’ll have **30 days** to claim the reward in the **Rewards** tab before it expires
+- The $100 appears as a **fractional share** of your chosen stock or ETF
+- Common available options include **TSLA, AAPL, MSFT, GOOG, AMZN, VOO, QQQ, NVDA, META**
+
+### ⚖️ Requirements & Rules
+
+**Hold Requirement** 
+
+  - The $100 reward (or its cash value) must remain in your Public account for **12 months**
+  - Early withdrawal may trigger an **early-withdrawal fee of up to $100**
+
+**Your Own $1,000 Deposit**  
+
+  - Your original $1,000 deposit can be **withdrawn or reinvested anytime** after the bonus is credited
+
+**Referral Cap**  
+  
+  - After signing up, you’ll receive your own referral link to invite others  
+  - Each user can earn up to **$500 total** in referral bonuses (five successful referrals)
+  - After reaching the cap, referrers no longer earn bonuses, but referees remain eligible
+
+### 📝 Application Notes
+
+- Signup is fast — typically **~5 minutes**
+- Requires **ID upload**, no selfie
+- During signup, the app may still show a banner saying  
+  *“Get $20 stock when you deposit $1,000”* — this appears to be **outdated**
+- The current $100 referral amount is confirmed in:
+
+     - the **Rewards** tab, and
+     - the official terms:  
+       [https://public.com/disclosures/referral-terms](https://public.com/disclosures/referral-terms)
+
+### 🪙 Extra Tip
+
+Public can also be useful for **draining prepaid cards** via deposits (lifetime cap ~$4,000, YMMV).
+
+- **Blackhawk-issued** prepaid cards usually do not work
+- Many other prepaid cards work until the cap is reached
+
+To keep activity clean, one option is to **buy Treasury bills**, hold them for ~3 months, then ACH the proceeds back — optional, not required.
+
+--8<-- "snippets/back-to-list.md"
+
+---
+
 # Brokerage – Expired Offers
 
 ## 💸 Moomoo — up to $1,000 in NVDA stock + 8.1% APY on $20,000 for 3 months + $25–$1,000 referral gift + 3% ACAT match on $20,000 (max $600)
