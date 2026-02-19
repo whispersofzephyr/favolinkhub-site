@@ -3,7 +3,7 @@
 --8<-- "snippets/back-to-list.md"
 
 <a id="cr-okx"></a>
-## 🎁 OKX – $200 Referral + 5% Deposit Match ($1,000–$100,000 Deposit, $50–$5,000 Reward)
+## 🎁 OKX – $200 Referral + 5% Deposit Match ($1,000–$100,000 Deposit, $50–$5,000 Reward) 🔥🔥🔥
 **US users only, excluding NY, TX, AS, GU, MP, VI • Opt-in & Deposit by 03/04/2026**
 
 > ### ⚡ Quick Summary
@@ -60,7 +60,7 @@
 ---
 
 <a id="cr-etoro"></a>
-## 🔔 eToro — Up to $500 Crypto Bonus + $30 Referral 🔥
+## 🔔 eToro — Up to $500 Crypto Bonus + $30 Referral 
 **Nationwide excluding NY, NV, and HI · One account per person/household · Expires 01/31/2026**
 
 **Referral link:** [https://etoro.tw/4bKaOxA](https://etoro.tw/4bKaOxA)
