@@ -52,8 +52,7 @@ All current offers, organized by categories:
 
 <a id="brokerage"></a>
 ## Brokerage
-
-[🎁 **Public Brokerage** — $100 Referral](brokerage.md#br-public) 🔥🔥🔥    
+ 
 [💸 **Moomoo** — up to $1,000 NVDA + 8.1% APY (60 days) + 3% ACAT match (max $600) + $25 Referral](brokerage.md#br-moomoo) 🔥🔥  
 [🔷 **Webull** — 3% / 4% Deposit Match (Referral)](brokerage.md#br-webull)      
 
