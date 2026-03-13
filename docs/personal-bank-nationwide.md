@@ -151,7 +151,7 @@ Balances may be combined across:
 ### **How to get the $100 bonus (Step-by-Step)**
 
 - Open a new **Varo Bank Account** using this referral link:  
-   👉 [Sign up here](https://varomoney.com/r1/?r=Zhishan)
+   👉 [Sign up here](https://varomoney.com/r1/?r=Susan3797/)
 
 - Receive **$500 in qualifying direct deposits** within **45 days**
 
