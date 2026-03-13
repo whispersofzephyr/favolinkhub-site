@@ -13,7 +13,7 @@ All current offers, organized by categories:
 ## Personal Bank Accounts - Nationwide
 
 [🔔 **HSBC Premier Checking** — $1,500 / $2,500 Referral](personal-bank-nationwide.md#hsbc-premier-checking) 🔥🔥🔥  
-[💵 **Varo Money** — $100 Referral](personal-bank-nationwide.md#varo-money)  
+[💵 **Varo Money** — $150 Referral (Usually $100)](personal-bank-nationwide.md#varo-money)  
 [🎉 **OnPath Federal Credit Union** — $150 Referral + 6% APY or $8/mo Cash Back](personal-bank-nationwide.md#onpath-fcu) 🔥   
 [⭐ **Christian Community Credit Union (CCCU)** — $200 Bonus + $50 Referral](personal-bank-nationwide.md#cccu)  
 [💵 **KeyPoint Credit Union** — $300 Checking Referral](personal-bank-nationwide.md#keypoint-cu) 🔥   
