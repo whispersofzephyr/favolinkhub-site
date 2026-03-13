@@ -145,10 +145,10 @@ Balances may be combined across:
 ---
 
 <a id="varo-money"></a>
-## 💵 Varo Money — $100 Referral 
-**Nationwide** • **No Expiration Date**
+## 💵 Varo Money — $150 Referral (Usually $100) 
+**Nationwide** • **Expires 03/31/2026**
 
-### **How to get the $100 bonus (Step-by-Step)**
+### **How to get the $150 bonus (Step-by-Step)**
 
 - Open a new **Varo Bank Account** using this referral link:  
    👉 [Sign up here](https://varomoney.com/r1/?r=Susan3797/)
@@ -159,7 +159,7 @@ Balances may be combined across:
    > ❌ Venmo, Zelle, P2P transfers do **not** qualify  
    > 💡 DP suggests **Chase Business Payment** works
 
-- **Get a $100 cash bonus**  
+- **Get a $150 cash bonus**  
    *(Usually deposited within ~2 days after the qualifying direct deposit is received)*
 
 --8<-- "snippets/back-to-list.md"
