@@ -379,7 +379,7 @@ To receive the $300 checking bonus, you must:
 ## 💰 Capital One 360 Checking — $300 Referral
 **Nationwide • No expiration date**
 
-> **Offer summary:**
+> **Quick summary:**
 >  
 > - 🎁 **$300 bonus** for opening a new 360 Checking account  
 > - Must be a **new Capital One checking customer** (no 360 / Simply / Total Control Checking since Jan 1, 2024)
@@ -388,7 +388,9 @@ To receive the $300 checking bonus, you must:
 ### 📌 How to earn the $300
 
 1. Open a new **Capital One 360 Checking** account using the referral link
-  👉 [https://i.capitalone.com/GJDsWhNE9](https://i.capitalone.com/GJDsWhNE9)  
+
+👉 [https://i.capitalone.com/GJDsWhNE9](https://i.capitalone.com/GJDsWhNE9)  
+
 3. Set up **2 direct deposits of $500+ each**  
 4. Complete within **75 days** of account opening  
 
