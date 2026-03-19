@@ -389,7 +389,7 @@ To receive the $300 checking bonus, you must:
 
 1. Open a new **Capital One 360 Checking** account using the referral link
 
-👉 [https://i.capitalone.com/GJDsWhNE9](https://i.capitalone.com/GJDsWhNE9)  
+  👉 [https://i.capitalone.com/GJDsWhNE9](https://i.capitalone.com/GJDsWhNE9)  
 
 3. Set up **2 direct deposits of $500+ each**  
 4. Complete within **75 days** of account opening  
