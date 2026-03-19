@@ -16,8 +16,8 @@ All current offers, organized by categories:
 [💵 **Varo Money** — $150 Referral (Usually $100)](personal-bank-nationwide.md#varo-money)  
 [🎉 **OnPath Federal Credit Union** — $150 Referral + 6% APY or $8/mo Cash Back](personal-bank-nationwide.md#onpath-fcu) 🔥   
 [⭐ **Christian Community Credit Union (CCCU)** — $200 Bonus + $50 Referral](personal-bank-nationwide.md#cccu)  
-[💵 **KeyPoint Credit Union** — $300 Checking Referral](personal-bank-nationwide.md#keypoint-cu) 🔥 
-[💰 **Capital One 360 Checking** — $300 Referral](personal-bank-nationwide.md#capital-one)
+[💵 **KeyPoint Credit Union** — $300 Checking Referral](personal-bank-nationwide.md#keypoint-cu) 🔥  
+[💰 **Capital One 360 Checking** — $300 Referral](personal-bank-nationwide.md#capital-one)  
 [💰 **OnePay Cash** — $50 Cash Bonus](personal-bank-nationwide.md#onepay-cash)  
 [💎 **PSECU** — $300 Referral](personal-bank-nationwide.md#psecu) 🔥  
 [🧧 **Patelco Credit Union** — $100 Referral](personal-bank-nationwide.md#patelco)  
