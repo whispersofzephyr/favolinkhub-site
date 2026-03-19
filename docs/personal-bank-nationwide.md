@@ -241,7 +241,7 @@ Nationwide membership is available via a **$5 donation** to the OnPath Foundatio
 
 <a id="cccu"></a>
 ## ⭐ Christian Community Credit Union (CCCU) — $200 Bonus + $50 Referral  
-**Nationwide** • **Expires: 02/28/2026**
+**Nationwide** • **Expires: 04/30/2026**
 
 > 🔺 **Quick Summary**
 >
@@ -375,9 +375,32 @@ To receive the $300 checking bonus, you must:
 
 ---
 
+<a id="capital-one"></a>
+## 💰 Capital One 360 Checking — $300 Referral
+**Nationwide • No expiration date**
+
+> **Offer summary:**
+>  
+> - 🎁 **$300 bonus** for opening a new 360 Checking account  
+> - Must be a **new Capital One checking customer** (no 360 / Simply / Total Control Checking since Jan 1, 2024)
+> - 💸 No monthly fees, no minimum balance  
+
+### 📌 How to earn the $300
+
+1. Open a new **Capital One 360 Checking** account using the referral link
+  👉 [https://i.capitalone.com/GJDsWhNE9](https://i.capitalone.com/GJDsWhNE9)  
+3. Set up **2 direct deposits of $500+ each**  
+4. Complete within **75 days** of account opening  
+
+💰 Bonus typically posts within ~135 days after account opening
+
+--8<-- "snippets/back-to-list.md"
+
+---
+
 <a id="onepay-cash"></a>
 ## 💰 OnePay Cash — $50 Cash Bonus 
-**Nationwide · Expires 02/15/2026**
+**Nationwide · No expiration date**
 
 Open a **OnePay Cash** account using the referral link below and **earn $50 cash back (paid as points)** after unlocking **Cash+** within **45 days**.
 
