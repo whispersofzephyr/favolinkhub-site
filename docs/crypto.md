@@ -133,20 +133,20 @@ New users may earn **up to $530 total**:
 **Referral availability: Nationwide (excluding ME, WA, NY) · No Expiration Date**    
 **Portal cashback: likely still works in excluded states (referral bonus may not)**  
 
-A very strong stack is available right now: combine **Kraken’s tiered referral bonus ($75–$150 BTC)** with either **Capital One Shopping’s targeted $250 offer** or **Rakuten’s $50–$150 offer**.
+A very strong stack is available right now: combine **Kraken’s referral bonus ($50 BTC)** with either **Capital One Shopping’s targeted $250 offer** or **Rakuten’s $50–$150 offer**.
 
-By signing up and completing **cumulative crypto trades totaling $500–$5,000**, you can earn **$125–$400** depending on which portal offer you use.
+By signing up and completing **$500 in cumulative crypto trades**, you can earn **$100-$300 total** depending on which portal offer you use.
 
 ### 💰 Stack Summary
 
 **Capital One Shopping:** $250 cashback (targeted, YMMV) **or** **Rakuten:** $50–$150 cashback (varies by promotion) **or** **TopCashBack:** $202 cashback
-**+ Kraken referral:** $75–$150 in BTC
+**+ Kraken referral:** $50 in BTC
 
-➡️ **Total: $125–$325** for the **$500 trade tier**, or **$200–$400** for the **$5,000 trade tier**
+➡️ **Total: $100-$300** 
 
 **Note:** Trade volume is **cumulative**, and a **buy + sell round trip counts double**.
 
-Example: A buy/sell round trip of $250 counts toward the $500 trade tier, and 5 round-trips of $500 counts as $5,000 toward the highest tier.
+Example: A $250 buy + $250 sell = **$500 trade volume**
 
 ### Step 1 – Choose Your Portal (Capital One or Rakuten)
 
@@ -204,8 +204,8 @@ If you start your application through a shopping portal (Rakuten or Capital One 
 Kraken’s terms state that the qualifying trade must be done **in the app**. Some DPs say website trades still triggered the bonus, but the safest approach is **the app**.
 
 1. Download the **Kraken mobile app**.
-2. Deposit at least **$100** (recommend **ACH**: no fee, funds available instantly).
-3. Trade **$100–$5,000** cumulative (depending on the tier) of a **non-stablecoin** (BTC, ETH, etc.).
+2. Deposit at least **$250** (recommend **ACH**: no fee, funds available instantly).
+3. Trade at least **$500** cumulative of a **non-stablecoin** (BTC, ETH, etc.).
    - Stablecoins (USDT/USDC) do not count
 
 ⚠️ **Important Tips to Avoid Trading Fee and Slippage**
@@ -213,7 +213,7 @@ Kraken’s terms state that the qualifying trade must be done **in the app**. So
 **1️⃣ Start the free Kraken+ trial (waives the 1% fee)**  
 - Waives the **1% trading fee**
 - Cancel immediately; free month remains active
-- Saves **$50 on a $5,000 trade** (or ~$100 for buy+sell)
+- Saves **$5 on a $500 trade** 
 
 **2️⃣ Use Limit Orders — NOT Instant Buy**  
 Instant Buy = market order → typically **1%–2% spread**.
@@ -228,13 +228,6 @@ Instant Buy = market order → typically **1%–2% spread**.
 - If it doesn’t fill, adjust slightly.
 - After the buy fills, immediately **Custom Sell** at or near the buy price.
 
-### Step 4 – Optional: “Spin to Win” in the App
-
-Some users will see a **Spin to Win** button in the app.
-- Activate the offer with one trade
-- 1 spin/day for 30 days (free crypto rewards)
-- Rollout is ongoing — not all users have access yet.
-
 ### ⏱ Bonus Timeline
 
 - **Capital One Shopping $250 cashback:** usually pending in ~3 days.
@@ -245,8 +238,8 @@ Some users will see a **Spin to Win** button in the app.
 
 1. Activate the **$250 Capital One Shopping** or **Rakuten $100–$150**  or **TopCashBack $202** Kraken offer.
 2. Sign up for Kraken with referral code **c5bwy59q** .
-3. Deposit at least **$100 via ACH** and trade **$100–$5,000 cumulative** non-stablecoin in the **Kraken app**.
-4. Earn **$125–$400 total** + optional Spin to Win rewards.
+3. Deposit at least **$250 via ACH** and trade **$500 cumulative** non-stablecoin in the **Kraken app**.
+4. Earn **$100-$300 total** 
 
 ### 🔥 Quick Links
 
