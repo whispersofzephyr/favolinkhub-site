@@ -183,6 +183,7 @@ During signup, expand the **“Invite code (optional)”** field, enter a referr
 If you start your application through a shopping portal (Rakuten or Capital One Shopping), **manually apply** the referral code during signup. The referral links below are provided for reference only — unless you’re applying directly without stacking with a portal offer.
 
 **Current Referral Offer:**
+
 - **$50 bonus for you + $50 for your friend**
 - Requires completing the steps below
 
@@ -190,11 +191,13 @@ If you start your application through a shopping portal (Rakuten or Capital One 
 **Referral link (FYI):** [https://invite.kraken.com/JDNW/w4pxqbij](https://invite.kraken.com/JDNW/w4pxqbij)  
 
 **Requirements:**
+
 - Create and verify account (KYC)
 - Deposit at least **$250**
 - Trade at least **$500 volume**
 
 **Trade volume is cumulative**, and buy/sell counts double:
+
 - A $250 buy + $250 sell = **$500 volume**
 
 🔗 **Referral terms FYI:** https://www.kraken.com/referrals
@@ -211,19 +214,23 @@ Kraken’s terms state that the qualifying trade must be done **in the app**. So
 ⚠️ **Important Tips to Avoid Trading Fee and Slippage**
 
 **1️⃣ Start the free Kraken+ trial (waives the 1% fee)**  
+
 - Waives the **1% trading fee**
 - Cancel immediately; free month remains active
 - Saves **$5 on a $500 trade** 
 
 **2️⃣ Use Limit Orders — NOT Instant Buy**  
+
 Instant Buy = market order → typically **1%–2% spread**.
 
 **How to place limit orders in the Kraken app:**
+
 - Tap **Custom** (top right)
 - Switch **Instant → Custom price**
 - Enter your desired price (limit order)
 
 **Tips:**
+
 - Pick a price near the lower end of the last 1–2 minutes of movement.
 - If it doesn’t fill, adjust slightly.
 - After the buy fills, immediately **Custom Sell** at or near the buy price.
