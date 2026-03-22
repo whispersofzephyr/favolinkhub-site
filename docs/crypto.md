@@ -128,7 +128,7 @@ New users may earn **up to $530 total**:
 ---
 
 <a id="cr-kraken"></a>
-## 🪙 Kraken - $75-$150 Referral + Capital One Shopping $250 or Rakuten $50–$150 or TopCashBack $202 
+## 🪙 Kraken - $50 Referral + Capital One Shopping $250 or Rakuten $50–$150 or TopCashBack $202 
 
 **Referral availability: Nationwide (excluding ME, WA, NY) · No Expiration Date**    
 **Portal cashback: likely still works in excluded states (referral bonus may not)**  
@@ -176,36 +176,28 @@ Capital One Shopping **$80 signup bonus requirements:**
 Rakuten **$50 signup bonus requirements:** Make a purchase of **at least $50** within **90 days**:  
 [Requirements section](https://sites.google.com/view/favo123/#h.6sthhun8gvay)
 
-### Step 2 – Kraken Referral Signup ($75 - $150 bonus in BTC)
+### Step 2 – Kraken Referral Signup ($50 bonus in BTC)
 
 During signup, expand the **“Invite code (optional)”** field, enter a referral code, and click **Apply**.
 
 If you start your application through a shopping portal (Rakuten or Capital One Shopping), **manually apply** the referral code during signup. The referral links below are provided for reference only — unless you’re applying directly without stacking with a portal offer.
 
-⚠️ **Important Note:** The crypto market is moving rapidly recently. Make sure to scroll down this post to see the tips on how to avoid the trading fee and avoid market slippage, especially for the **$5,000 → $150 tier**.
+**Current Referral Offer:**
+- **$50 bonus for you + $50 for your friend**
+- Requires completing the steps below
 
-**Option 1: 3-Tiered Referral Bonus (up to $75 total):**
-- **$75 Referral code:** **738j3gdg**  
-- **Referral link (FYI):** [https://invite.kraken.com/JDNW/tudnuh5s](https://invite.kraken.com/JDNW/tudnuh5s)  
-- **Bonus tiers:**  
-  - Trade $100 → get $15  
-  - Trade $300 → get $20 (=$35 total)  
-  - Trade $500 → get $40 (=$75 total)  
+**Referral code:** **c5bwy59q**  
+**Referral link (FYI):** [https://invite.kraken.com/JDNW/w4pxqbij](https://invite.kraken.com/JDNW/w4pxqbij)  
 
-**Option 2: 4-Tiered Referral Bonus (up to $150 total):**  
-- **$150 Referral code:** **tbpp3gdg**  
-- **Referral link (FYI):** [invite.kraken.com/JDNW/dpob653u](https://invite.kraken.com/JDNW/dpob653u)  
-- **Bonus tiers:**  
-  - Trade $100 → get $15  
-  - Trade $300 → get $20 (=$35 total)  
-  - Trade $500 → get $40 (=$75 total)  
-  - Trade $5,000 → get $75 (=$150 total)  
+**Requirements:**
+- Create and verify account (KYC)
+- Deposit at least **$250**
+- Trade at least **$500 volume**
 
 **Trade volume is cumulative**, and buy/sell counts double:
 - A $250 buy + $250 sell = **$500 volume**
-- Five $500 round-trips = **$5,000 volume**
 
-🔗 **Referral terms FYI:** [kraken.com/referrals](https://www.kraken.com/referrals)
+🔗 **Referral terms FYI:** https://www.kraken.com/referrals
 
 ### Step 3 – Deposit and Complete the Trade (⚠️ Should be in the app)
 
@@ -252,7 +244,7 @@ Some users will see a **Spin to Win** button in the app.
 ### 🧾 In Short
 
 1. Activate the **$250 Capital One Shopping** or **Rakuten $100–$150**  or **TopCashBack $202** Kraken offer.
-2. Sign up for Kraken with referral code **738j3gdg** (3-tiered up to $75) or **tbpp3gdg** (4-tiered up to $150).
+2. Sign up for Kraken with referral code **c5bwy59q** .
 3. Deposit at least **$100 via ACH** and trade **$100–$5,000 cumulative** non-stablecoin in the **Kraken app**.
 4. Earn **$125–$400 total** + optional Spin to Win rewards.
 
@@ -264,7 +256,7 @@ Some users will see a **Spin to Win** button in the app.
 ✅ **Rakuten Referral ($50 signup bonus if new):**  
 [rakuten.com/r/FAVONI8](http://www.rakuten.com/r/FAVONI8?eeid=28187)
 
-✅ **Kraken 3 tiered $75 referral code:** **738j3gdg** or **Kraken 4 tiered $150 referral code:** **tbpp3gdg**
+✅ **Kraken $50 referral code:** **c5bwy59q** 
 
 --8<-- "snippets/back-to-list.md"
 
