@@ -2,131 +2,6 @@
 
 --8<-- "snippets/back-to-list.md"
 
-<a id="cr-okx"></a>
-## 🎁 OKX – $200 Referral + 5% Deposit Match ($1,000–$100,000 Deposit, $50–$5,000 Reward) 🔥🔥🔥
-**US users only, excluding NY, TX, AS, GU, MP, VI • Opt-in & Deposit by 03/04/2026**
-
-> ### ⚡ Quick Summary
-> 
-> - **$200 referral bonus** for new users (requires deposit $200 + buy $200 crypto)
-> - **5% Deposit Match** on **$1,000–$100,000** (max **$5,000** reward), paid **every 14 days over 24 weeks**
-> - Funds remain accessible, but withdrawals reduce eligible net deposits
-> - **New & existing users eligible** for the deposit match
-> - Opt-in required before deposits count
-
-### 🎯 How to get the **$200 referral rewards**
-
-- Sign up for **OKX US** using the referral link:   
-  👉 [**https://app.okx.com/en-us/join/78051150**](https://app.okx.com/en-us/join/78051150)  
-  or enter **referral code 78051150** at signup.  
-- Complete **advanced identity verification (KYC)**.  
-- **Deposit $200 or more** in cash or crypto.  
-- **Buy $200 or more** worth of crypto within the required timeframe.  
-- To unlock the $200 rewards, maintain a **daily average portfolio balance of $200 for any 30 days within a 90-day period**.  
-
-### 🆕 How to get the **5% Deposit Match** on $1,000–$100,000 Deposit
-
-- **Opt-in required** (must click “Opt-in” and confirm it switches to “Deposit now”)
-- **Eligible deposits:** net deposits (total deposits minus total withdrawals) made after opt-in
-- **Match rate:** 5%
-  
-      - Min deposit: **$1,000**
-      - Max deposit: **$100,000**
-      - Max reward: **$5,000**
-  
-- Rewards are **paid every 14 days over 24 weeks**
-- To continue receiving payouts, users must **maintain account balance ≥ eligible deposits**
-- Withdrawals reduce eligible net deposits and may reduce future rewards
-- **Deposit window ends: Mar 4, 2026**
-
-**Eligible deposits include:**
-
-- USD cash via ACH, debit card, or wire
-- On-chain crypto deposits
-- Direct crypto purchases on OKX (ACH, debit card, wire, Apple Pay, Google Pay)
-
-**Official T&C:**  
-[https://www.okx.com/en-us/help/deposit-match-rewards-session-terms-and-conditions](https://www.okx.com/en-us/help/deposit-match-rewards-session-terms-and-conditions)
-
-### 🔄 Stackability
-
-- The **5% Deposit Match** is a **public offer** available to **both new and existing users**
-- For **new users**, this can stack with the **$200 referral bonus**
-- Only deposits made after opt-in count toward this round
-- If holding funds in **USDG** (currently advertised ~5% yield on OKX), the deposit match and USDG yield **can stack**, increasing effective return during the 24-week period (currently works out to **~15% annualized equivalent**; rates subject to change)
-
---8<-- "snippets/back-to-list.md"
-
----
-
-<a id="cr-etoro"></a>
-## 🔔 eToro — Up to $500 Crypto Bonus + $30 Referral 
-**Nationwide excluding NY, NV, and HI · One account per person/household · Expires 01/31/2026**
-
-**Referral link:** [https://etoro.tw/4bKaOxA](https://etoro.tw/4bKaOxA)
-
-### Bonus Overview (New Users)
-New users may earn **up to $530 total**:
-- **$500 crypto bonus** for depositing **$5,000+**
-- **$30 referral bonus** for making a **first-time deposit of at least $100 within 30 days** of account opening  
-  *(If you deposit $5,000 for the $500 crypto bonus, this **automatically satisfies** the referral requirement.)*
-
-**Important:** the **$5,000 deposit must be one single transaction**. Splitting deposits has produced **lower-tier payouts** in multiple user reports.
-
-### Deposit Tiers (Crypto Bonus)
-| Deposit Amount | Crypto Bonus |
-|---:|---:|
-| $200–$499 | $10 |
-| $500–$2,499 | $30 |
-| $2,500–$4,999 | $200 |
-| $5,000+ | $500 |
-
-- Deposit deadline: **January 31, 2026**
-- Deposit must remain in the account for **90 days**
-
-### $500 Crypto Bonus Details
-- You choose which crypto you want as the bonus when prompted.
-- Options reported by users include: **BTC, ETH, XRP, ADA, DOGE, XLM** (may vary).
-- You can typically **sell the bonus crypto immediately** once received and hold cash, as long as the original deposit stays for 90 days.
-- Some users park funds in low-risk ETFs (e.g., **BIL**, **SHV**) during the 90-day hold period.
-
-### Bonus Timing 
-**$500 Crypto Bonus**
-
- - Often credited **very quickly** after the qualifying deposit (many reports show **within minutes**).
- - Per T&C, eToro has **up to 7 days** to credit the bonus, so short delays can still be normal.
- - No manual claim required; the bonus is **auto-credited** once eligible.
-
-**$30 Referral Bonus**
-
- - **Not instant.**
- - Typically posts **within ~14 days** after the referred user completes the qualifying deposit.
- - Once credited, eToro sends an email like **“You just received $30!”**, and it appears in the **cash balance**.
-
-### How to Get the Full $500 Cypto + $30 Referral Bonus (Simple Steps)
-1. Sign up using referral link [https://etoro.tw/4qoJGcA](https://etoro.tw/4qoJGcA)
-2. Complete identity verification.
-3. Make **one single deposit of $5,000 or more** during the promo window.
-4. Select your crypto for the bonus when prompted.
-5. Keep the $5000 deposited funds in the account for **90 days**.
-
-### Notes / Gotchas
-- **First deposit only counts** for tier determination (multiple deposits are not combined).
-- Bank linking (Plaid) can be inconsistent for some banks.
-- PayPal, debit card, or ACH may work depending on the account.
-- No trading requirement for the $500 crypto bonus.
-
-### Existing Users
-- Existing eToro users may qualify for the **$500 deposit bonus only** if they received a **targeted email** (e.g., subject like *“Get up to $500 in crypto”*).
-- The **$30 referral bonus applies to new users only**, not existing accounts.
-
-### Referral Terms (Official PDF)
-- [https://marketing.etorostatic.com/lp/raf/Terms/etoro_USA_LLC_refer_a_friend_terms_and_conditions.pdf](https://marketing.etorostatic.com/lp/raf/Terms/etoro_USA_LLC_refer_a_friend_terms_and_conditions.pdf)
-
---8<-- "snippets/back-to-list.md"
-
----
-
 <a id="cr-kraken"></a>
 ## 🪙 Kraken - $50 Referral + Capital One Shopping $250 or Rakuten $50–$150 or TopCashBack $202 
 
@@ -257,6 +132,131 @@ Instant Buy = market order → typically **1%–2% spread**.
 [rakuten.com/r/FAVONI8](http://www.rakuten.com/r/FAVONI8?eeid=28187)
 
 ✅ **Kraken $50 referral code:** **c5bwy59q** 
+
+--8<-- "snippets/back-to-list.md"
+
+---
+
+<a id="cr-okx"></a>
+## 🎁 OKX – $200 Referral + 5% Deposit Match ($1,000–$100,000 Deposit, $50–$5,000 Reward) 🔥🔥🔥
+**US users only, excluding NY, TX, AS, GU, MP, VI • Opt-in & Deposit by 03/04/2026**
+
+> ### ⚡ Quick Summary
+> 
+> - **$200 referral bonus** for new users (requires deposit $200 + buy $200 crypto)
+> - **5% Deposit Match** on **$1,000–$100,000** (max **$5,000** reward), paid **every 14 days over 24 weeks**
+> - Funds remain accessible, but withdrawals reduce eligible net deposits
+> - **New & existing users eligible** for the deposit match
+> - Opt-in required before deposits count
+
+### 🎯 How to get the **$200 referral rewards**
+
+- Sign up for **OKX US** using the referral link:   
+  👉 [**https://app.okx.com/en-us/join/78051150**](https://app.okx.com/en-us/join/78051150)  
+  or enter **referral code 78051150** at signup.  
+- Complete **advanced identity verification (KYC)**.  
+- **Deposit $200 or more** in cash or crypto.  
+- **Buy $200 or more** worth of crypto within the required timeframe.  
+- To unlock the $200 rewards, maintain a **daily average portfolio balance of $200 for any 30 days within a 90-day period**.  
+
+### 🆕 How to get the **5% Deposit Match** on $1,000–$100,000 Deposit
+
+- **Opt-in required** (must click “Opt-in” and confirm it switches to “Deposit now”)
+- **Eligible deposits:** net deposits (total deposits minus total withdrawals) made after opt-in
+- **Match rate:** 5%
+  
+      - Min deposit: **$1,000**
+      - Max deposit: **$100,000**
+      - Max reward: **$5,000**
+  
+- Rewards are **paid every 14 days over 24 weeks**
+- To continue receiving payouts, users must **maintain account balance ≥ eligible deposits**
+- Withdrawals reduce eligible net deposits and may reduce future rewards
+- **Deposit window ends: Mar 4, 2026**
+
+**Eligible deposits include:**
+
+- USD cash via ACH, debit card, or wire
+- On-chain crypto deposits
+- Direct crypto purchases on OKX (ACH, debit card, wire, Apple Pay, Google Pay)
+
+**Official T&C:**  
+[https://www.okx.com/en-us/help/deposit-match-rewards-session-terms-and-conditions](https://www.okx.com/en-us/help/deposit-match-rewards-session-terms-and-conditions)
+
+### 🔄 Stackability
+
+- The **5% Deposit Match** is a **public offer** available to **both new and existing users**
+- For **new users**, this can stack with the **$200 referral bonus**
+- Only deposits made after opt-in count toward this round
+- If holding funds in **USDG** (currently advertised ~5% yield on OKX), the deposit match and USDG yield **can stack**, increasing effective return during the 24-week period (currently works out to **~15% annualized equivalent**; rates subject to change)
+
+--8<-- "snippets/back-to-list.md"
+
+---
+
+<a id="cr-etoro"></a>
+## 🔔 eToro — Up to $500 Crypto Bonus + $30 Referral 
+**Nationwide excluding NY, NV, and HI · One account per person/household · Expires 01/31/2026**
+
+**Referral link:** [https://etoro.tw/4bKaOxA](https://etoro.tw/4bKaOxA)
+
+### Bonus Overview (New Users)
+New users may earn **up to $530 total**:
+- **$500 crypto bonus** for depositing **$5,000+**
+- **$30 referral bonus** for making a **first-time deposit of at least $100 within 30 days** of account opening  
+  *(If you deposit $5,000 for the $500 crypto bonus, this **automatically satisfies** the referral requirement.)*
+
+**Important:** the **$5,000 deposit must be one single transaction**. Splitting deposits has produced **lower-tier payouts** in multiple user reports.
+
+### Deposit Tiers (Crypto Bonus)
+| Deposit Amount | Crypto Bonus |
+|---:|---:|
+| $200–$499 | $10 |
+| $500–$2,499 | $30 |
+| $2,500–$4,999 | $200 |
+| $5,000+ | $500 |
+
+- Deposit deadline: **January 31, 2026**
+- Deposit must remain in the account for **90 days**
+
+### $500 Crypto Bonus Details
+- You choose which crypto you want as the bonus when prompted.
+- Options reported by users include: **BTC, ETH, XRP, ADA, DOGE, XLM** (may vary).
+- You can typically **sell the bonus crypto immediately** once received and hold cash, as long as the original deposit stays for 90 days.
+- Some users park funds in low-risk ETFs (e.g., **BIL**, **SHV**) during the 90-day hold period.
+
+### Bonus Timing 
+**$500 Crypto Bonus**
+
+ - Often credited **very quickly** after the qualifying deposit (many reports show **within minutes**).
+ - Per T&C, eToro has **up to 7 days** to credit the bonus, so short delays can still be normal.
+ - No manual claim required; the bonus is **auto-credited** once eligible.
+
+**$30 Referral Bonus**
+
+ - **Not instant.**
+ - Typically posts **within ~14 days** after the referred user completes the qualifying deposit.
+ - Once credited, eToro sends an email like **“You just received $30!”**, and it appears in the **cash balance**.
+
+### How to Get the Full $500 Cypto + $30 Referral Bonus (Simple Steps)
+1. Sign up using referral link [https://etoro.tw/4qoJGcA](https://etoro.tw/4qoJGcA)
+2. Complete identity verification.
+3. Make **one single deposit of $5,000 or more** during the promo window.
+4. Select your crypto for the bonus when prompted.
+5. Keep the $5000 deposited funds in the account for **90 days**.
+
+### Notes / Gotchas
+- **First deposit only counts** for tier determination (multiple deposits are not combined).
+- Bank linking (Plaid) can be inconsistent for some banks.
+- PayPal, debit card, or ACH may work depending on the account.
+- No trading requirement for the $500 crypto bonus.
+
+### Existing Users
+- Existing eToro users may qualify for the **$500 deposit bonus only** if they received a **targeted email** (e.g., subject like *“Get up to $500 in crypto”*).
+- The **$30 referral bonus applies to new users only**, not existing accounts.
+
+### Referral Terms (Official PDF)
+- [https://marketing.etorostatic.com/lp/raf/Terms/etoro_USA_LLC_refer_a_friend_terms_and_conditions.pdf](https://marketing.etorostatic.com/lp/raf/Terms/etoro_USA_LLC_refer_a_friend_terms_and_conditions.pdf)
 
 --8<-- "snippets/back-to-list.md"
 
