@@ -3,7 +3,7 @@
 --8<-- "snippets/back-to-list.md"
 
 <a id="cr-kraken"></a>
-## 🪙 Kraken - $50 Referral + Capital One Shopping $250 or Rakuten $50–$150 or TopCashBack $202 
+## 🪙 Kraken - $50 Referral + Capital One Shopping $250 or Rakuten $50–$150 or TopCashBack $202 🔥🔥🔥   
 
 **Referral availability: Nationwide (excluding ME, WA, NY) · No Expiration Date**    
 **Portal cashback: likely still works in excluded states (referral bonus may not)**  
@@ -138,7 +138,7 @@ Instant Buy = market order → typically **1%–2% spread**.
 ---
 
 <a id="cr-okx"></a>
-## 🎁 OKX – $200 Referral + 5% Deposit Match ($1,000–$100,000 Deposit, $50–$5,000 Reward) 🔥🔥🔥
+## 🎁 OKX – $200 Referral + 5% Deposit Match ($1,000–$100,000 Deposit, $50–$5,000 Reward) 
 **US users only, excluding NY, TX, AS, GU, MP, VI • Opt-in & Deposit by 03/04/2026**
 
 > ### ⚡ Quick Summary
