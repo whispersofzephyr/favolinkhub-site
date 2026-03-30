@@ -6,6 +6,84 @@ These accounts are limited by state, county, or region.
 If you are looking for accounts available nationwide, see:
 → [Nationwide Personal Bank Accounts](../personal-bank-nationwide/)
 
+<a id="academy-bank-500-referral"></a>
+## 🎉 Academy Bank — $500 Checking Bonus + $50 Referral = $550 Total 💵  
+**AR, MO, KS, CO, AZ** • **Expires May 15, 2026**
+
+> **Quick Summary**
+> - **$500 checking bonus**
+> - **+$50 referral bonus via ReferLive**
+> - **$550 total possible**
+> - **$500 credit card funding available**
+> - **Can open online or in branch**
+> - **Chex + EWS inquiry likely**
+> - **Register referral first, then apply**
+
+### How to get the $550 total bonus
+**Important: complete referral registration *before* applying.**
+
+**Step 1 — Register referral first**  
+[https://io.referlive.com/VVUpCL](https://io.referlive.com/VVUpCL)
+
+**Step 2 — Open a new Elite Investment Checking account**  
+[https://www.academybank.com/open-a-new-checking-account-500digital-lp](https://www.academybank.com/open-a-new-checking-account-500digital-lp)
+
+Choose **Elite Investment Checking** during application.
+
+**Step 3 — Within 90 days, complete ALL requirements**
+
+- Make **at least 4 direct deposits**
+- Total direct deposits must be **$10,000+**
+- Enroll in **Online Banking**
+
+🎁 **$500 bonus** is paid within **60 days after direct deposit verification**
+
+🎁 **$50 referral bonus** is expected separately through ReferLive tracking
+
+### Credit card funding DP
+Current DPs strongly support:
+
+- **$500 credit card funding**
+- Codes as **purchase**
+- Recent DP: **Bank of America $500 pending as purchase**
+- Chase / Citi also reported working
+- **$500 appears to be the current cap**
+
+### Monthly fee / best strategy
+This account has a **$20 monthly fee**, waived by either:
+
+- Maintain **$5,000 daily balance**
+- OR **$10,000 average balance**
+
+**Best practical strategy for churners:**
+
+- Most people simply **eat the $20 fee for 4–5 months**
+- Faster and more capital-efficient than parking $5k
+
+### Important notes
+
+- **ChexSystems + EWS are both used**
+- In-state approvals in **Colorado / Missouri / Arizona** look strong
+- OOS also possible but less predictable
+- Several DPs confirm **branch openings can still receive the $500 bonus**
+- Banker may need to **manually attach SUB in branch**
+- No promo code required from the bonus landing page
+- Referral requires **same name / email / phone** as ReferLive registration
+
+### Why this one is attractive
+Even after paying a few monthly fees:
+
+- $500 SUB
+- +$50 referral
+- +$500 credit card spend
+- realistic net around **$450–$550**
+
+Excellent current regional bank churn option, especially for **Colorado churners**.
+
+--8<-- "snippets/back-to-list.md"
+
+---
+
 <a id="cu-of-the-rockies"></a>
 ## ⭐ Credit Union of the Rockies — $50 / $100 Referral + ~$216 Interest/Year (CO-only)
 **Colorado-only · No expiration date**
