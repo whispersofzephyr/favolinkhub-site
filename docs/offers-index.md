@@ -33,7 +33,7 @@ All current offers, organized by categories:
 <a id="personal-bank-geo"></a>
 ## Personal Bank Accounts - Geo-Restricted
 
-[🎉 **Academy Bank** — $500 Checking Bonus + $50 Referral]
+[🎉 **Academy Bank** — $500 Checking Bonus + $50 Referral (AR, MO, KS, CO, AZ)](personal-bank-geo.md#academy-bank)  
 [⭐ **Credit Union of the Rockies** — $50 / $100 Referral + ~$216 Interest/Year (CO-only)](personal-bank-geo.md#cu-of-the-rockies)    
 [💰 **Commerce Bank** — $200 Referral (MO, KS, IL, OK, CO)](personal-bank-geo.md#commerce-bank)  
 [🏆 **Central Bank** — $300 Referral (OK, IL, KS, MO, CO)](personal-bank-geo.md#central-bank)  
