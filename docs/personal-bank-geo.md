@@ -6,7 +6,7 @@ These accounts are limited by state, county, or region.
 If you are looking for accounts available nationwide, see:
 → [Nationwide Personal Bank Accounts](../personal-bank-nationwide/)
 
-<a id="academy-bank-500-referral"></a>
+<a id="academy-bank"></a>
 ## 🎉 Academy Bank — $500 Checking Bonus + $50 Referral 💵  
 **AR, MO, KS, CO, AZ** • **Expires May 15, 2026**
 
