@@ -7,17 +7,17 @@ If you are looking for accounts available nationwide, see:
 → [Nationwide Personal Bank Accounts](../personal-bank-nationwide/)
 
 <a id="academy-bank-500-referral"></a>
-## 🎉 Academy Bank — $500 Checking Bonus + $50 Referral = $550 Total 💵  
+## 🎉 Academy Bank — $500 Checking Bonus + $50 Referral 💵  
 **AR, MO, KS, CO, AZ** • **Expires May 15, 2026**
 
 > **Quick Summary**
-> - **$500 checking bonus**
-> - **+$50 referral bonus via ReferLive**
-> - **$550 total possible**
-> - **$500 credit card funding available**
-> - **Can open online or in branch**
-> - **Chex + EWS inquiry likely**
-> - **Register referral first, then apply**
+> - **$500 checking bonus**  
+> - **+$50 referral bonus via ReferLive**  
+> - **$550 total possible**  
+> - **$500 credit card funding available**  
+> - **Can open online or in branch**  
+> - **Chex + EWS inquiry likely**  
+> - **Register referral first, then apply**  
 
 ### How to get the $550 total bonus
 **Important: complete referral registration *before* applying.**
@@ -78,7 +78,7 @@ Even after paying a few monthly fees:
 - +$500 credit card spend
 - realistic net around **$450–$550**
 
-Excellent current regional bank churn option, especially for **Colorado churners**.
+Excellent current regional bank churn option, especially for **AR, MO, KS, CO, AZ churners**.
 
 --8<-- "snippets/back-to-list.md"
 
