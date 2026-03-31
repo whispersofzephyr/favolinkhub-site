@@ -209,3 +209,136 @@ Referral link: [etoro.tw/4qoJGcA](https://etoro.tw/4qoJGcA)
 **Terms:** [PDF – eToro USA LLC Refer-a-Friend T&Cs](https://marketing.etorostatic.com/lp/raf/Terms/etoro_USA_LLC_refer_a_friend_terms_and_conditions.pdf)
 
 ## 🪙 Gemini — TBD
+
+<a id="cr-kraken"></a>
+## 🪙 Kraken - $50 Referral + Capital One Shopping $250 or Rakuten $50–$150 or TopCashBack $202 🔥🔥🔥   
+
+**Referral availability: Nationwide (excluding ME, WA, NY) · No Expiration Date**    
+**Portal cashback: likely still works in excluded states (referral bonus may not)**  
+
+A very strong stack is available right now: combine **Kraken’s referral bonus ($50 BTC)** with either **Capital One Shopping’s targeted $250 offer** or **Rakuten’s $50–$150 offer**.
+
+By signing up and completing **$500 in cumulative crypto trades**, you can earn **$100-$300 total** depending on which portal offer you use.
+
+### 💰 Stack Summary
+
+**Capital One Shopping:** $250 cashback (targeted, YMMV) **or** **Rakuten:** $50–$150 cashback (varies by promotion) **or** **TopCashBack:** $202 cashback
+**+ Kraken referral:** $50 in BTC
+
+➡️ **Total: $100-$300** 
+
+**Note:** Trade volume is **cumulative**, and a **buy + sell round trip counts double**.
+
+Example: A $250 buy + $250 sell = **$500 trade volume**
+
+### Step 1 – Choose Your Portal (Capital One or Rakuten)
+
+Either portal works — pick one depending on which offer you can access. The rest of the process is the same.
+
+#### 🧩 Option A – Capital One Shopping ($250 targeted offer)
+
+1. Install the **Capital One Shopping** browser extension.
+2. Visit **Kraken.com** once with the extension enabled and signed in. You might first see a smaller offer ($25 or $75).
+3. Within a few days, Capital One Shopping should email you an elevated **$250 offer**.
+   - Open the email → click **“Unlock Your Offer”** → activate it in the extension before signing up for Kraken.
+4. If you’re new to Capital One Shopping, you can also get their **$80 signup bonus** here:  
+   🔗 **Capital One Shopping Referral Link:** [capitaloneshopping.com/r/9456ade4-5111-436e-bc35-a4643ace36d0](https://capitaloneshopping.com/r/9456ade4-5111-436e-bc35-a4643ace36d0)
+
+Capital One Shopping **$80 signup bonus requirements:**  
+[Requirements section](https://sites.google.com/view/favo123/#h.c8arrcbabviy)
+
+#### 🧩 Option B – Rakuten ($50–$150 offer)
+
+1. Log into **Rakuten** (or create an account).
+2. Search **“Kraken”** and click **Shop Now** to start tracking.
+3. This will open **Kraken.com** — begin your signup immediately to ensure tracking remains active.  
+   (Rakuten offers vary: standard $50, occasionally $100, $125 or $150.)
+4. If you’re new to Rakuten, you can also get their **$50 signup bonus** here:  
+   🔗 **Rakuten Referral Link:** [rakuten.com/r/FAVONI8](http://www.rakuten.com/r/FAVONI8?eeid=28187)
+
+Rakuten **$50 signup bonus requirements:** Make a purchase of **at least $50** within **90 days**:  
+[Requirements section](https://sites.google.com/view/favo123/#h.6sthhun8gvay)
+
+### Step 2 – Kraken Referral Signup ($50 bonus in BTC)
+
+During signup, expand the **“Invite code (optional)”** field, enter a referral code, and click **Apply**.
+
+If you start your application through a shopping portal (Rakuten or Capital One Shopping), **manually apply** the referral code during signup. The referral links below are provided for reference only — unless you’re applying directly without stacking with a portal offer.
+
+**Current Referral Offer:**
+
+- **$50 bonus for you + $50 for your friend**
+- Requires completing the steps below
+
+**Referral code:** **c5bwy59q**  
+**Referral link (FYI):** [https://invite.kraken.com/JDNW/w4pxqbij](https://invite.kraken.com/JDNW/w4pxqbij)  
+
+**Requirements:**
+
+- Create and verify account (KYC)
+- Deposit at least **$250**
+- Trade at least **$500 volume**
+
+**Trade volume is cumulative**, and buy/sell counts double:
+
+- A $250 buy + $250 sell = **$500 volume**
+
+🔗 **Referral terms FYI:** https://www.kraken.com/referrals
+
+### Step 3 – Deposit and Complete the Trade (⚠️ Should be in the app)
+
+Kraken’s terms state that the qualifying trade must be done **in the app**. Some DPs say website trades still triggered the bonus, but the safest approach is **the app**.
+
+1. Download the **Kraken mobile app**.
+2. Deposit at least **$250** (recommend **ACH**: no fee, funds available instantly).
+3. Trade at least **$500** cumulative of a **non-stablecoin** (BTC, ETH, etc.).
+   - Stablecoins (USDT/USDC) do not count
+
+⚠️ **Important Tips to Avoid Trading Fee and Slippage**
+
+**1️⃣ Start the free Kraken+ trial (waives the 1% fee)**  
+
+- Waives the **1% trading fee**
+- Cancel immediately; free month remains active
+- Saves **$5 on a $500 trade** 
+
+**2️⃣ Use Limit Orders — NOT Instant Buy**  
+
+Instant Buy = market order → typically **1%–2% spread**.
+
+**How to place limit orders in the Kraken app:**
+
+- Tap **Custom** (top right)
+- Switch **Instant → Custom price**
+- Enter your desired price (limit order)
+
+**Tips:**
+
+- Pick a price near the lower end of the last 1–2 minutes of movement.
+- If it doesn’t fill, adjust slightly.
+- After the buy fills, immediately **Custom Sell** at or near the buy price.
+
+### ⏱ Bonus Timeline
+
+- **Capital One Shopping $250 cashback:** usually pending in ~3 days.
+- **Rakuten $50–$150 cashback:** usually pending in ~3 days (sometimes longer).
+- **Kraken $75 - $150 BTC bonus:** tracker updates instantly after trade; officially posts within 21 days.
+
+### 🧾 In Short
+
+1. Activate the **$250 Capital One Shopping** or **Rakuten $100–$150**  or **TopCashBack $202** Kraken offer.
+2. Sign up for Kraken with referral code **c5bwy59q** .
+3. Deposit at least **$250 via ACH** and trade **$500 cumulative** non-stablecoin in the **Kraken app**.
+4. Earn **$100-$300 total** 
+
+### 🔥 Quick Links
+
+✅ **Capital One Shopping Referral ($80 bonus if new):**  
+[capitaloneshopping.com/r/9456ade4-5111-436e-bc35-a4643ace36d0](https://capitaloneshopping.com/r/9456ade4-5111-436e-bc35-a4643ace36d0)
+
+✅ **Rakuten Referral ($50 signup bonus if new):**  
+[rakuten.com/r/FAVONI8](http://www.rakuten.com/r/FAVONI8?eeid=28187)
+
+✅ **Kraken $50 referral code:** **c5bwy59q** 
+
+--8<-- "snippets/back-to-list.md"
