@@ -57,19 +57,23 @@ During signup, expand the **“Invite code (optional)”** field, enter a referr
 
 If you start your application through a shopping portal (Rakuten or Capital One Shopping), **manually apply** the referral code during signup. The referral links below are provided for reference only — unless you’re applying directly without stacking with a portal offer.
 
-**Current Referral Offer:**
+**Option 1: $50 Referral Bonus:**
+- **$50 Referral code:** **c5bwy59q**  
+- **Referral link (FYI):** [https://invite.kraken.com/JDNW/w4pxqbij](https://invite.kraken.com/JDNW/w4pxqbij)  
+- **Requirements:**
 
-- **$50 bonus for you + $50 for your friend**
-- Requires completing the steps below
+  - Create and verify account (KYC)
+  - Deposit at least **$250**
+  - Trade at least **$500 volume**
 
-**Referral code:** **c5bwy59q**  
-**Referral link (FYI):** [https://invite.kraken.com/JDNW/w4pxqbij](https://invite.kraken.com/JDNW/w4pxqbij)  
+**Option 2: 2-Tiered Referral Bonus (up to $75 total):**  
+- **$75 Referral code:** **53hgksrt**  
+- **Bonus tiers:**  
 
-**Requirements:**
-
-- Create and verify account (KYC)
-- Deposit at least **$250**
-- Trade at least **$500 volume**
+  - Create and verify account (KYC)
+  - Deposit at least **$500**
+  - Trade at least **$250**, earn $25
+  - Trade at least **$1,000**, earn $50 (=$75 total)
 
 **Trade volume is cumulative**, and buy/sell counts double:
 
@@ -119,7 +123,7 @@ Instant Buy = market order → typically **1%–2% spread**.
 ### 🧾 In Short
 
 1. Activate the **$250 Capital One Shopping** or **Rakuten $100–$150**  or **TopCashBack $202** Kraken offer.
-2. Sign up for Kraken with referral code **c5bwy59q** .
+2. Sign up for Kraken with $50 referral code **c5bwy59q** or $75 referral code **53hgksrt**.
 3. Deposit at least **$250 via ACH** and trade **$500 cumulative** non-stablecoin in the **Kraken app**.
 4. Earn **$100-$300 total** 
 
@@ -131,7 +135,7 @@ Instant Buy = market order → typically **1%–2% spread**.
 ✅ **Rakuten Referral ($50 signup bonus if new):**  
 [rakuten.com/r/FAVONI8](http://www.rakuten.com/r/FAVONI8?eeid=28187)
 
-✅ **Kraken $50 referral code:** **c5bwy59q** 
+✅ **Kraken $50 referral code:** **c5bwy59q** or **$75 Referral code:** **53hgksrt**  
 
 --8<-- "snippets/back-to-list.md"
 
