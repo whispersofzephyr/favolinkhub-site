@@ -63,19 +63,19 @@ If you start your application through a shopping portal (Rakuten or Capital One 
 - **Referral link (FYI):** [https://invite.kraken.com/JDNW/w4pxqbij](https://invite.kraken.com/JDNW/w4pxqbij)  
 - **Requirements:**
 
-  - Create and verify account (KYC)
-  - Deposit at least **$250**
-  - Trade at least **$500 volume**
+    - Create and verify account (KYC)
+    - Deposit at least **$250**
+    - Trade at least **$500 volume**
 
 **Option 2: 2-Tiered Referral Bonus (up to $75 total):**  
 
 - **$75 Referral code:** **53hgksrt**  
 - **Bonus tiers:**  
 
-  - Create and verify account (KYC)
-  - Deposit at least **$500**
-  - Trade at least **$250**, earn $25
-  - Trade at least **$1,000**, earn $50 (=$75 total)
+    - Create and verify account (KYC)
+    - Deposit at least **$500**
+    - Trade at least **$250**, earn $25
+    - Trade at least **$1,000**, earn $50 (=$75 total)
 
 **Trade volume is cumulative**, and buy/sell counts double:
 
@@ -88,8 +88,8 @@ If you start your application through a shopping portal (Rakuten or Capital One 
 Kraken’s terms state that the qualifying trade must be done **in the app**. Some DPs say website trades still triggered the bonus, but the safest approach is **the app**.
 
 1. Download the **Kraken mobile app**.
-2. Deposit at least **$250** (recommend **ACH**: no fee, funds available instantly).
-3. Trade at least **$500** cumulative of a **non-stablecoin** (BTC, ETH, etc.).
+2. Deposit the required amount as in the promo terms (recommend **ACH**: no fee, funds available instantly).
+3. Trade the required cumulative volume of a **non-stablecoin** (BTC, ETH, etc.).
    - Stablecoins (USDT/USDC) do not count
 
 ⚠️ **Important Tips to Avoid Trading Fee and Slippage**
@@ -120,14 +120,14 @@ Instant Buy = market order → typically **1%–2% spread**.
 
 - **Capital One Shopping $250 cashback:** usually pending in ~3 days.
 - **Rakuten $50–$150 cashback:** usually pending in ~3 days (sometimes longer).
-- **Kraken $75 - $150 BTC bonus:** tracker updates instantly after trade; officially posts within 21 days.
+- **Kraken $50- $75 BTC bonus:** tracker updates instantly after trade; officially posts within 21 days.
 
 ### 🧾 In Short
 
 1. Activate the **$250 Capital One Shopping** or **Rakuten $100–$150**  or **TopCashBack $202** Kraken offer.
 2. Sign up for Kraken with $50 referral code **c5bwy59q** or $75 referral code **53hgksrt**.
-3. Deposit at least **$250 via ACH** and trade **$500 cumulative** non-stablecoin in the **Kraken app**.
-4. Earn **$100-$300 total** 
+3. Deposit the required amount and trade **cumulative** required amount of non-stablecoin in the **Kraken app**.
+4. Earn **$100-$325 total** 
 
 ### 🔥 Quick Links
 
