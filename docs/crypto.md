@@ -58,6 +58,7 @@ During signup, expand the **“Invite code (optional)”** field, enter a referr
 If you start your application through a shopping portal (Rakuten or Capital One Shopping), **manually apply** the referral code during signup. The referral links below are provided for reference only — unless you’re applying directly without stacking with a portal offer.
 
 **Option 1: $50 Referral Bonus:**
+
 - **$50 Referral code:** **c5bwy59q**  
 - **Referral link (FYI):** [https://invite.kraken.com/JDNW/w4pxqbij](https://invite.kraken.com/JDNW/w4pxqbij)  
 - **Requirements:**
@@ -67,6 +68,7 @@ If you start your application through a shopping portal (Rakuten or Capital One 
   - Trade at least **$500 volume**
 
 **Option 2: 2-Tiered Referral Bonus (up to $75 total):**  
+
 - **$75 Referral code:** **53hgksrt**  
 - **Bonus tiers:**  
 
