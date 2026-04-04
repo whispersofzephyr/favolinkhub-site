@@ -432,28 +432,32 @@ To receive the $300 checking bonus, you must:
 ---
 
 <a id="onepay-cash"></a>
-## 💰 OnePay Cash — $50 Cash Bonus 
-**Nationwide · No expiration date**
+## 💰 OnePay Cash — $50 Referral
+**Nationwide · Ends May 31, 2026**
 
-Open a **OnePay Cash** account using the referral link below and **earn $50 cash back (paid as points)** after unlocking **Cash+** within **45 days**.
+Open a **new OnePay Cash** account using the **updated referral link below** and **earn $50 cash back (paid as points)** after unlocking **Cash+ within 45 days**.
 
 **Referral link:**  
-[https://web.onepay.com/wlink/refer-a-friend?product=one_banking&referral_code=SSorpAQYj](https://web.onepay.com/wlink/refer-a-friend?product=one_banking&referral_code=SSorpAQYj)
+[https://web.onepay.com/wlink/refer-a-friend?product=one_banking&referral_code=SSorpAQYj&referrer_campaign_id=campaign.db1edd0a-4a5b-4651-8c20-d0fb7e98fec5](https://web.onepay.com/wlink/refer-a-friend?product=one_banking&referral_code=SSorpAQYj&referrer_campaign_id=campaign.db1edd0a-4a5b-4651-8c20-d0fb7e98fec5)
 
 ### How to qualify
-1. Open a **new OnePay Cash** account using the referral link.
+
+1. Open a **new OnePay Cash** account using the **updated referral link above**.
 2. **Unlock Cash+ within 45 days** by meeting **one** of the following:
-   - Receive **$500+ in direct deposits** in a calendar month, **or**
+   - Receive **$500+ in qualifying direct deposits** in a calendar month, **or**
    - End a calendar month with **$5,000+ total balance**.
-3. Get **5,000 OnePay Points** (redeemable for **$50 cash back**).
+3. Receive **5,000 OnePay Points** (redeemable for **$50 cash back**).
 
 ### Important notes
+
+- **Use the updated referral link with campaign tracking.**  
+  The previous short referral link may still open, but it no longer displays the current promo terms.
 - Cash back is issued **as OnePay Points**.
-- Direct deposits must be **payroll / government / ACH or OCT**.  
-  *Venmo, PayPal, Cash App, transfers, cash deposits, mobile checks, and wires do **not** qualify.*
-- Must be a **new OnePay user**.
+- Qualifying direct deposits include **payroll, pension, government benefits, and other ACH/OCT deposits**.
+- **Venmo, PayPal, Cash App, person-to-person transfers, cash deposits, mobile checks, wires, One to One transfers, and ACH/debit card funding initiated inside OnePay do not qualify.**
+- Must be a **new OnePay user** who has never previously opened a OnePay Cash account.
 - Account must be **open and in good standing** when points are awarded.
-- Points typically post **within 5 days** after all requirements are met.
+- Points typically post **within 5 days** after all requirements are completed.
 
 --8<-- "snippets/back-to-list.md"
 
