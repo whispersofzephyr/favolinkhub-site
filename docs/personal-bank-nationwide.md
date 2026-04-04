@@ -7,7 +7,7 @@ For offers that are limited to specific states (e.g. Colorado), see:
 → [Geo-Restricted Personal Bank Accounts](../personal-bank-geo/)
 
 <a id="spruce"></a>
-## 💵 Spruce — $100 Referral 
+## 💵 Spruce — $100 Referral 🔥🔥🔥 
 **Nationwide Except WA · Ends Apr 15, 2026**
 
 Open a **new Spruce account** using the referral link below and **earn a $100 bonus** after meeting the direct deposit requirement.
