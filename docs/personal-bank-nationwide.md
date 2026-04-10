@@ -13,7 +13,7 @@ For offers that are limited to specific states (e.g. Colorado), see:
 Open a **new Spruce account** using the referral link below and **earn a $100 bonus** after meeting the direct deposit requirement.
 
 **Referral link:**  
-[https://k10iq.app.link/invite/BzTj76BuFe9xYH4I1UksNNKK](https://k10iq.app.link/invite/BzTj76BuFe9xYH4I1UksNNKK)
+[https://k10iq.app.link/invite/qX6h04E5Gv9RaqBln80cgvvj](https://k10iq.app.link/invite/qX6h04E5Gv9RaqBln80cgvvj)
 
 ### How to get the $100 bonus
 1. Open a **new Spruce account** using the referral link **by Apr 15, 2026**.
