@@ -6,6 +6,53 @@ These offers are available to most U.S. residents with no state-level restrictio
 For offers that are limited to specific states (e.g. Colorado), see:
 → [Geo-Restricted Personal Bank Accounts](../personal-bank-geo/)
 
+
+<a id="go2bank"></a>
+## 💵 GO2Bank — $50 Referral  
+**Nationwide · Ongoing**
+
+Open a **new GO2Bank account** using the referral link below and **earn a $50 bonus** after meeting the direct deposit requirement.
+
+**Referral link:**  
+👉 [https://share.go2bank.com/Zhishan6](https://share.go2bank.com/Zhishan6)
+
+### How to get the $50 bonus
+
+1. Open a **new GO2Bank account** using the referral link above.
+2. Receive at least **$200 in qualifying direct deposits within 45 days** of signup.
+3. Bonus is typically paid **within ~48 hours after requirements are met**
+
+### ⚠️ Application tips (important)
+
+- The application often **fails on desktop / Wi-Fi** with errors like:  
+  *“We were unable to process your request”*
+- If that happens, try:
+  - **Use your phone**
+  - Turn off Wi-Fi and use **mobile data**
+  - Apply via a **mobile browser (not required to use app)**
+
+### 💡 Strategy tip
+
+- You will need to receive and **activate your debit card** to unlock your own **referral link**
+
+### My data point
+
+- **Instant approval (mobile browser + cellular data)**
+- Desktop / Wi-Fi **failed repeatedly**
+- No ChexSystems / EWS / credit pull (DP)
+- A **$200+ DD qualified**
+- **Referral did NOT post immediately after DD**
+- The **$50 bonus posted shortly after activating the physical debit card**
+
+👉 This suggests:
+
+- Mobile data is **much more reliable for application**
+- Referral bonus may be **delayed until debit card activation**
+
+--8<-- "snippets/back-to-list.md"
+
+---
+
 <a id="hsbc-premier-checking"></a>
 ## 🔔 HSBC Premier Checking — $1,500 / $2,500 Referral 🔥🔥🔥  
 **Nationwide • New HSBC customers only • Expires: 06/30/2026**
