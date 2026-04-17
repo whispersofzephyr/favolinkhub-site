@@ -12,7 +12,7 @@ All current offers, organized by categories:
 <a id="personal-bank-nationwide"></a>
 ## Personal Bank Accounts - Nationwide
 
-[💵 **Spruce** — $100 Referral](personal-bank-nationwide.md#spruce) 🔥🔥🔥   
+[💵 **Go2Bank** — $50 Referral](personal-bank-nationwide.md#go2bank) 🔥🔥🔥   
 [🔔 **HSBC Premier Checking** — $1,500 / $2,500 Referral](personal-bank-nationwide.md#hsbc-premier-checking) 🔥🔥🔥  
 [💵 **Varo Money** — $150 Referral (Usually $100)](personal-bank-nationwide.md#varo-money)  
 [🎉 **OnPath Federal Credit Union** — $150 Referral + 6% APY or $8/mo Cash Back](personal-bank-nationwide.md#onpath-fcu) 🔥   
