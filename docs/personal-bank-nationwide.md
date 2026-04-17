@@ -8,7 +8,7 @@ For offers that are limited to specific states (e.g. Colorado), see:
 
 
 <a id="go2bank"></a>
-## 💵 GO2Bank — $50 Referral  
+## 💵 GO2Bank — $50 Referral 🔥🔥🔥  
 **Nationwide · Ongoing**
 
 Open a **new GO2Bank account** using the referral link below and **earn a $50 bonus** after meeting the direct deposit requirement.
