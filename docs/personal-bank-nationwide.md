@@ -26,7 +26,9 @@ Open a **new GO2Bank account** using the referral link below and **earn a $50 bo
 
 - The application often **fails on desktop / Wi-Fi** with errors like:  
   *“We were unable to process your request”*
+  
 - If that happens, try:
+  
   - **Use your phone**
   - Turn off Wi-Fi and use **mobile data**
   - Apply via a **mobile browser (not required to use app)**
