@@ -7,6 +7,38 @@ search:
 
 # Personal Bank Accounts – Nationwide - Expired or 备用文案版本
 
+
+<a id="spruce"></a>
+## 💵 Spruce — $100 Referral 🔥🔥🔥 
+**Nationwide Except WA · Ends Apr 15, 2026**
+
+Open a **new Spruce account** using the referral link below and **earn a $100 bonus** after meeting the direct deposit requirement.
+
+**Referral link:**  
+[https://k10iq.app.link/invite/qX6h04E5Gv9RaqBln80cgvvj](https://k10iq.app.link/invite/qX6h04E5Gv9RaqBln80cgvvj)
+
+### How to get the $100 bonus
+1. Open a **new Spruce account** using the referral link **by Apr 15, 2026**.
+2. **Activate the Spruce debit card**.
+3. Receive at least **$200 in qualifying direct deposits within 45 days** of signup.
+4. You and the referrer each receive **$100**.
+
+### My data point
+
+- **Instant approval**
+- **No ChexSystems**
+- **No EWS**
+- **No credit pull**
+- A **same-day $201 ACH from Chase Business worked**
+- I **added the debit card to my mobile wallet immediately**
+- The **$100 bonus posted before the physical card arrived**
+
+This suggests you may **not need to wait for the physical debit card**, as adding the virtual card to Apple Pay / Google Wallet may already satisfy the activation requirement.
+
+--8<-- "snippets/back-to-list.md"
+
+---
+
 ## 💵 Wings Credit Union — $300 Checking Bonus + $100 Referral (Stacks)
 **Promo window:** 10/27/2025–12/31/2025 • **Nationwide** (via $5 donation) • **Posts by:** 03/13/2026
 
