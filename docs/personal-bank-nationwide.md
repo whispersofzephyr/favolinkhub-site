@@ -29,9 +29,9 @@ Open a **new GO2Bank account** using the referral link below and **earn a $50 bo
   
 - If that happens, try:
   
-  - **Use your phone**
-  - Turn off Wi-Fi and use **mobile data**
-  - Apply via a **mobile browser (not required to use app)**
+    - **Use your phone**
+    - Turn off Wi-Fi and use **mobile data**
+    - Apply via a **mobile browser (not required to use app)**
 
 ### 💡 Strategy tip
 
