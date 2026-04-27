@@ -27,6 +27,21 @@ For offers that are limited to specific states (e.g. Colorado), see:
 - Complete direct deposits **within 75 days of account opening**  
 - Keep the account open and in good standing until the bonus posts  
 
+### 📌 Notes / Data Points
+
+- **Existing Capital One customers:**  
+  Some users report being prompted to **log in during application**, with prefilled information and **very fast approval** (in some cases ~2 minutes).
+
+- **ChexSystems:**  
+  When applying via login as an existing customer, there are reports of **no Chex pull**, though not guaranteed.
+
+- **Application experience (DP):**  
+  - Logged in when prompted → application prefilled  
+  - Click-through approval → instant account number issued  
+  - Able to fund immediately from linked external account  
+
+> ⚠️ Eligibility and approval process may vary. Data points are not guaranteed.
+
 --8<-- "snippets/back-to-list.md"
 
 ---
