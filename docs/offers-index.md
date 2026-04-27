@@ -12,6 +12,7 @@ All current offers, organized by categories:
 <a id="personal-bank-nationwide"></a>
 ## Personal Bank Accounts - Nationwide
 
+[⭐ Capital One 360 Checking — $300 Bonus + $50 Referral](personal-bank-nationwide.md#capitalone) 🔥🔥🔥  
 [💵 **Go2Bank** — $50 Referral](personal-bank-nationwide.md#go2bank) 🔥🔥🔥   
 [🔔 **HSBC Premier Checking** — $1,500 / $2,500 Referral](personal-bank-nationwide.md#hsbc-premier-checking) 🔥🔥🔥  
 [💵 **Varo Money** — $150 Referral (Usually $100)](personal-bank-nationwide.md#varo-money)  
