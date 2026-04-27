@@ -7,7 +7,7 @@ For offers that are limited to specific states (e.g. Colorado), see:
 → [Geo-Restricted Personal Bank Accounts](../personal-bank-geo/)
 
 <a id="capitalone"></a>
-## ⭐ Capital One 360 Checking — $300 Bonus + $50 Referral  
+## ⭐ Capital One 360 Checking — $300 Bonus + $50 Referral 🔥🔥🔥  
 **Nationwide** • **No expiration date**
 
 > 🔺 **Quick Summary**
