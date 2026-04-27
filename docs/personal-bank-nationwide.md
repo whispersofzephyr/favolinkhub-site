@@ -6,6 +6,30 @@ These offers are available to most U.S. residents with no state-level restrictio
 For offers that are limited to specific states (e.g. Colorado), see:
 → [Geo-Restricted Personal Bank Accounts](../personal-bank-geo/)
 
+<a id="capitalone"></a>
+## ⭐ Capital One 360 Checking — $300 Bonus + $50 Referral  
+**Nationwide** • **No expiration date**
+
+> 🔺 **Quick Summary**
+>
+> - **Total Bonus:** $350 ($300 signup + $50 referral)
+> - **Direct Deposit:** Required (2 × $500)
+> - **Monthly Fee:** $0
+> - **Credit Check:** ChexSystems / EWS, no hard pull DP
+
+**Referral link:**  
+👉 [https://i.capitalone.com/GJDsWhNE9](https://i.capitalone.com/GJDsWhNE9)
+
+### 💰 How to get the $300 bonus + $50 referral
+
+- Open a new **Capital One 360 Checking** account via referral link above 
+- Receive **at least 2 qualifying direct deposits**, each of **$500 or more**  
+- Complete direct deposits **within 75 days of account opening**  
+- Keep the account open and in good standing until the bonus posts  
+
+--8<-- "snippets/back-to-list.md"
+
+---
 
 <a id="go2bank"></a>
 ## 💵 GO2Bank — $50 Referral 🔥🔥🔥  
