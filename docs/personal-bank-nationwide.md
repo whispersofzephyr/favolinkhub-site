@@ -35,10 +35,11 @@ For offers that are limited to specific states (e.g. Colorado), see:
 - **ChexSystems:**  
   When applying via login as an existing customer, there are reports of **no Chex pull**, though not guaranteed.
 
-- **Application experience (DP):**  
-  - Logged in when prompted → application prefilled  
-  - Click-through approval → instant account number issued  
-  - Able to fund immediately from linked external account  
+- **Application experience (DP):**
+  
+    - Logged in when prompted → application prefilled  
+    - Click-through approval → instant account number issued  
+    - Able to fund immediately from linked external account  
 
 > ⚠️ Eligibility and approval process may vary. Data points are not guaranteed.
 
