@@ -61,7 +61,7 @@ For offers that are limited to specific states (e.g. Colorado), see:
 - **Hard Pull:** No  
 
 ### 🔗 Apply Here
-👉 [Referral link](https://banking.citi.com/cbol/OM/checking/choice/featured-offers/default.htm?flowID=MGM&venue=mgm&mgmrefid=1001360742)
+👉 [https://banking.citi.com/cbol/OM/checking/choice/featured-offers/default.htm?flowID=MGM&venue=mgm&mgmrefid=1001360742](https://banking.citi.com/cbol/OM/checking/choice/featured-offers/default.htm?flowID=MGM&venue=mgm&mgmrefid=1001360742)
 
 ### 🧾 Bonus Details
 
@@ -98,7 +98,14 @@ For offers that are limited to specific states (e.g. Colorado), see:
 
 - First 3 months: automatically waived  
 - Or:
-  - $250+ in direct deposits per month  
+  - $250+ in direct deposits per month
+ 
+### ⚠️ Eligibility (Important)
+
+- You must **NOT have owned a Citi checking account within the past 365 days**
+- The 365-day clock starts from when your previous Citi checking account was **closed**
+- This restriction applies to **checking accounts only**
+- Having a Citi **savings account or credit card does NOT affect eligibility**
 
 ### 🧠 Our Take
 
