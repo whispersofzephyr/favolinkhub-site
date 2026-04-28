@@ -47,6 +47,69 @@ For offers that are limited to specific states (e.g. Colorado), see:
 
 ---
 
+<a id="citi"></a>
+## 🏦 Citi Checking $325–$1,500 Referral
+**Nationwide | Soft Pull | ChexSystems | Expires 7/13/2026**
+
+### 💰 Offer Summary
+
+- **Bonus:** $325 / $500 / $1,500  
+- **Direct Deposit:** Required (for $325 tier)  
+- **Deposit Requirement:** Up to $200,000 (higher tiers)  
+- **Monthly Fee:** $12 (waivable)  
+- **ChexSystems:** Yes  
+- **Hard Pull:** No  
+
+### 🔗 Apply Here
+👉 [Referral link](https://banking.citi.com/cbol/OM/checking/choice/featured-offers/default.htm?flowID=MGM&venue=mgm&mgmrefid=1001360742)
+
+### 🧾 Bonus Details
+
+#### Option 1 — $325 (Easiest)
+
+- Complete **$3,000+ Enhanced Direct Deposits (EDD)** within 90 days  
+- No balance requirement  
+- Funds can be withdrawn after deposit hits  
+
+#### Option 2 — $500
+
+- Deposit **$30,000** within 45 days  
+- Maintain balance for ~45 more days  
+
+#### Option 3 — $1,500
+
+- Deposit **$200,000**  
+- Maintain balance ~90 days  
+
+### ⚙️ What Counts as “Enhanced Direct Deposit”
+
+✔ Payroll (standard DD)  
+✔ ACH transfers (many banks/brokers work)  
+✔ Zelle / PayPal / Venmo (ACH-based)
+
+❌ Does NOT count:
+
+- Internal transfers  
+- Wire transfers  
+- Debit card transfers  
+- Check deposits  
+
+### 💸 Avoid Monthly Fees
+
+- First 3 months: automatically waived  
+- Or:
+  - $250+ in direct deposits per month  
+
+### 🧠 Our Take
+
+- **$325 tier = best value (no money tied up)**  
+- Higher tiers require significant capital for modest returns  
+- Good for:
+  - Low-effort bonus  
+  - Beginners or quick churn  
+
+---
+
 <a id="go2bank"></a>
 ## 💵 GO2Bank — $50 Referral 🔥🔥🔥  
 **Nationwide · Ongoing**
