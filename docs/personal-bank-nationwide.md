@@ -48,7 +48,7 @@ For offers that are limited to specific states (e.g. Colorado), see:
 ---
 
 <a id="citi"></a>
-## 🏦 Citi Checking $325–$1,500 Referral
+## 🏦 Citi Checking - $325–$1,500 Referral
 **Nationwide | Soft Pull | ChexSystems | Expires 7/13/2026**
 
 ### 💰 Offer Summary
@@ -61,7 +61,7 @@ For offers that are limited to specific states (e.g. Colorado), see:
 - **Hard Pull:** No  
 
 ### 🔗 Apply Here
-👉 [https://banking.citi.com/cbol/OM/checking/choice/featured-offers/default.htm?flowID=MGM&venue=mgm&mgmrefid=1001360742](https://banking.citi.com/cbol/OM/checking/choice/featured-offers/default.htm?flowID=MGM&venue=mgm&mgmrefid=1001360742)
+👉Referral link: [https://banking.citi.com/cbol/OM/checking/choice/featured-offers/default.htm?flowID=MGM&venue=mgm&mgmrefid=1001360742](https://banking.citi.com/cbol/OM/checking/choice/featured-offers/default.htm?flowID=MGM&venue=mgm&mgmrefid=1001360742)
 
 ### 🧾 Bonus Details
 
@@ -111,9 +111,8 @@ For offers that are limited to specific states (e.g. Colorado), see:
 
 - **$325 tier = best value (no money tied up)**  
 - Higher tiers require significant capital for modest returns  
-- Good for:
-  - Low-effort bonus  
-  - Beginners or quick churn  
+
+--8<-- "snippets/back-to-list.md"
 
 ---
 
