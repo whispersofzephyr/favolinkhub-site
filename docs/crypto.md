@@ -144,57 +144,23 @@ Instant Buy = market order → typically **1%–2% spread**.
 ---
 
 <a id="cr-okx"></a>
-## 🎁 OKX – $200 Referral + 5% Deposit Match ($1,000–$100,000 Deposit, $50–$5,000 Reward) 
-**US users only, excluding NY, TX, AS, GU, MP, VI • Opt-in & Deposit by 03/04/2026**
+## 🎁 OKX – $400 in BTC Referral Bonus  
+**US users only, excluding NY, TX, AS, GU, MP, VI** · **Expires 05/04/2026**
 
 > ### ⚡ Quick Summary
 > 
-> - **$200 referral bonus** for new users (requires deposit $200 + buy $200 crypto)
-> - **5% Deposit Match** on **$1,000–$100,000** (max **$5,000** reward), paid **every 14 days over 24 weeks**
-> - Funds remain accessible, but withdrawals reduce eligible net deposits
-> - **New & existing users eligible** for the deposit match
-> - Opt-in required before deposits count
+> - **Earn $400 in BTC** in welcome rewards for new users  
+> - Requires **$3,000+ non-stablecoin crypto purchase**  
+> - Must complete within **30 days of signup**  
+> - Rewards unlock **30 days after claiming**  
 
-### 🎯 How to get the **$200 referral rewards**
+### 🎯 How to get the $400 referral rewards
 
 - Sign up for **OKX US** using the referral link:   
   👉 [**https://app.okx.com/en-us/join/78051150**](https://app.okx.com/en-us/join/78051150)  
-  or enter **referral code 78051150** at signup.  
-- Complete **advanced identity verification (KYC)**.  
-- **Deposit $200 or more** in cash or crypto.  
-- **Buy $200 or more** worth of crypto within the required timeframe.  
-- To unlock the $200 rewards, maintain a **daily average portfolio balance of $200 for any 30 days within a 90-day period**.  
-
-### 🆕 How to get the **5% Deposit Match** on $1,000–$100,000 Deposit
-
-- **Opt-in required** (must click “Opt-in” and confirm it switches to “Deposit now”)
-- **Eligible deposits:** net deposits (total deposits minus total withdrawals) made after opt-in
-- **Match rate:** 5%
-  
-      - Min deposit: **$1,000**
-      - Max deposit: **$100,000**
-      - Max reward: **$5,000**
-  
-- Rewards are **paid every 14 days over 24 weeks**
-- To continue receiving payouts, users must **maintain account balance ≥ eligible deposits**
-- Withdrawals reduce eligible net deposits and may reduce future rewards
-- **Deposit window ends: Mar 4, 2026**
-
-**Eligible deposits include:**
-
-- USD cash via ACH, debit card, or wire
-- On-chain crypto deposits
-- Direct crypto purchases on OKX (ACH, debit card, wire, Apple Pay, Google Pay)
-
-**Official T&C:**  
-[https://www.okx.com/en-us/help/deposit-match-rewards-session-terms-and-conditions](https://www.okx.com/en-us/help/deposit-match-rewards-session-terms-and-conditions)
-
-### 🔄 Stackability
-
-- The **5% Deposit Match** is a **public offer** available to **both new and existing users**
-- For **new users**, this can stack with the **$200 referral bonus**
-- Only deposits made after opt-in count toward this round
-- If holding funds in **USDG** (currently advertised ~5% yield on OKX), the deposit match and USDG yield **can stack**, increasing effective return during the 24-week period (currently works out to **~15% annualized equivalent**; rates subject to change)
+  or enter **referral code 78051150** at signup  
+- Complete **identity verification (KYC)**  
+- Within 30 days, **buy $3,000 or more worth of non-stablecoin crypto**  
 
 --8<-- "snippets/back-to-list.md"
 
