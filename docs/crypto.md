@@ -144,17 +144,17 @@ Instant Buy = market order → typically **1%–2% spread**.
 ---
 
 <a id="cr-okx"></a>
-## 🎁 OKX – $400 in BTC Referral Bonus  
+## 🎁 OKX – Up to $400 in BTC Referral Bonus  
 **US users only, excluding NY, TX, AS, GU, MP, VI** · **Expires 05/04/2026**
 
 > ### ⚡ Quick Summary
 > 
-> - **Earn $400 in BTC** in welcome rewards for new users  
+> - **Earn up to $400 in BTC** in welcome rewards for new users  
 > - Requires **$3,000+ non-stablecoin crypto purchase**  
 > - Must complete within **30 days of signup**  
 > - Rewards unlock **30 days after claiming**  
 
-### 🎯 How to get the $400 referral rewards
+### 🎯 How to get the referral rewards
 
 - Sign up for **OKX US** using the referral link:   
   👉 [**https://app.okx.com/en-us/join/78051150**](https://app.okx.com/en-us/join/78051150)  
