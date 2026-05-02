@@ -113,7 +113,7 @@ Join BeFrugal and earn $10 or more in Cash Back (not including bonuses and earni
 
 
 <a id="sp-shopback"></a>
-## 🧺 ShopBack - $15 Bonus
+## 🎁 ShopBack - $15 Bonus
 
 👉[Join here](https://app.shopback.com/cAXHHWoVXWb)
 
