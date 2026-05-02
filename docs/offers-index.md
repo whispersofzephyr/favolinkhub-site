@@ -95,6 +95,7 @@ All current offers, organized by categories:
 [📌 **MyPoints**](shopping-portals.md#sp-mypoints)  
 [💵 **InboxDollars** — $5 Bonus](shopping-portals.md#sp-inboxdollars)  
 [🧺 **BeFrugal** - $10 Bonus](shopping-portals.md#sp-befrugal)  
+[🎁 **ShopBack** - $15 Bonus](shopping-portals.md#sp-shopback)    
 
 [↑ Back to top](#top)
 
