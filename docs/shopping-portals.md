@@ -112,3 +112,11 @@ Join BeFrugal and earn $10 or more in Cash Back (not including bonuses and earni
 --8<-- "snippets/back-to-list.md"
 
 
+<a id="sp-shopback"></a>
+## 🧺 ShopBack - $15 Bonus
+
+👉[Join here](https://app.shopback.com/cAXHHWoVXWb)
+
+Join ShopBack and earn $15 bonus when making at least $5 in purchase within 180 days from signing up.
+
+--8<-- "snippets/back-to-list.md"
