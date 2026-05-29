@@ -4,64 +4,68 @@
 
 <a id="biz-rho-business"></a>
 
-## 💰 Rho Business Checking - $500 or $1,000 Referral 🔥🔥   
+## 💰 Rho Business Checking - $500 or $1,000 Referral 🔥🔥
 
 **Nationwide · No Expiration Date Currently Listed**
 
 > **Quick Summary**
 >
-> * **Bonus:** **$500** or **$1,000**
-> * **Account:** Rho Business Checking
-> * **Deposit Requirement:** $20,000+ or $100,000+ average checking balance
-> * **Holding Period:** 30 consecutive days
-> * **Transactions Required:** None
-> * **Monthly Fee:** None
-> * **Eligibility:** LLCs and corporations (sole proprietors do not appear to be eligible)
+> - **Bonus:** **$500** or **$1,000**
+> - **Account:** Rho Business Checking
+> - **Deposit Requirement:** $20,000+ or $100,000+ average checking balance
+> - **Holding Period:** 30 consecutive days
+> - **Transactions Required:** None
+> - **Monthly Fee:** None
+> - **Eligibility:** LLCs and corporations (sole proprietors do not appear to be eligible)
 
-### 🪜 How to Earn the $500 or $1,000 Bonus (step-by-step)
+### 🪜 How to Earn the $500 or $1,000 Bonus
 
-1. Request a referral invitation by emailing:
+- Request a referral invitation by emailing:
 
-   👉 **[favo.bankbonuses@gmail.com](mailto:favo.bankbonuses@gmail.com)**
+  👉 **[favo.bankbonuses@gmail.com](mailto:favo.bankbonuses@gmail.com)**
 
-     Include:
+- Please include:
 
-     * Name (first name required, last name optional)
-     * Business email address
+    - First name (required)
+    - Last name (optional)
+    - Business email address (required)
 
-2. Receive a referral invitation from Rho
+- Receive a referral invitation from Rho
 
-3. Open a new Rho Business Checking account through the referral invitation
+- Open a new Rho Business Checking account through the referral invitation
 
-4. Complete the application and provide any requested business documentation
+- Complete the application and provide any requested business documentation
 
-5. Maintain the required average checking balance for 30 consecutive days within the first 90 days after approval
+- Maintain the required average checking balance for 30 consecutive days within the first 90 days after approval
 
-     **🎁 Bonus Tiers**
+### 🎁 Bonus Tiers
 
-   | Bonus Amount | Average Checking Balance |
-   | ------------ | ------------------------ |
-   | **$500**     | **$20,000+**             |
-   | **$1,000**   | **$100,000+**            |
+- **$500 bonus** → Maintain **$20,000+** average checking balance
 
-6. Both the referrer and referred customer receive the applicable bonus after qualifying requirements are met
+- **$1,000 bonus** → Maintain **$100,000+** average checking balance
+
+- Both the referrer and referred customer receive the applicable bonus after qualifying requirements are met
 
 ### 📝 Notes
 
-* Referral invitations are sent manually through the Rho dashboard
-* The referral form requires the applicant's first name and business email address, applicant's last name is optional
-* Business domain email addresses are recommended
-* Additional documentation may be requested during review
-* No ChexSystems inquiry was reported in recent data points
+- Referral invitations are sent manually through the Rho dashboard
+- The referral form requires the applicant's first name and business email address (last name is optional)
+- Business domain email addresses are recommended
+- Additional documentation may be requested during review
+- No ChexSystems inquiry was reported in recent data points
 
 ### 📊 My Data Point
 
-* Applied: 05/29/2026
-* LLC
-* Business domain email used
-* Requested additional documentation (bank statement, SSN verification, business activity description)
-* Approved the same day
-* Referral function became available immediately after approval
+- Applied: 05/29/2026
+- LLC
+- Business domain email used
+- No ChexSystems inquiry
+- Requested additional documentation:
+    - Recent business bank statement
+    - SSN verification document
+    - Business activity description
+- Approved the same day
+- Referral function became available immediately after approval
 
 --8<-- "snippets/back-to-list.md"
 
