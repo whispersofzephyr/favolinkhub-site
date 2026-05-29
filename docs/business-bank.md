@@ -56,8 +56,7 @@
 
 ### 📊 My Data Point
 
-- Applied: 05/29/2026
-- LLC
+- Applied with LLC
 - Business domain email used
 - No ChexSystems inquiry
 - Requested additional documentation:
