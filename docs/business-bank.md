@@ -4,7 +4,7 @@
 
 <a id="biz-rho-business"></a>
 
-## 💰 Rho Business Checking - $500 or $1,000 Referral Bonus
+## 💰 Rho Business Checking - $500 or $1,000 Referral 🔥🔥🔥   
 
 **Nationwide · No Expiration Date Currently Listed**
 
