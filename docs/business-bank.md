@@ -37,7 +37,7 @@
 
 5. Maintain the required average checking balance for 30 consecutive days within the first 90 days after approval
 
-   **🎁 Bonus Tiers**
+     **🎁 Bonus Tiers**
 
    | Bonus Amount | Average Checking Balance |
    | ------------ | ------------------------ |
