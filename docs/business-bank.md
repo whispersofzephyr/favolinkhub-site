@@ -22,7 +22,7 @@
 
 - Request a referral invitation by emailing:
 
-  👉 **[favo.bankbonuses@gmail.com](mailto:favo.bankbonuses@gmail.com)**
+  👉 **[contact@favolinkhub.com](mailto:contact@favolinkhub.com)**
 
 - Please include:
 
@@ -40,9 +40,9 @@
 
 ### 🎁 Bonus Tiers
 
-- **$500 bonus** → Maintain **$20,000+** average checking balance
+- **$500 bonus** → Maintain **$20,000+** average checking balance for 30 consecutive days within the first 90 days after approval
 
-- **$1,000 bonus** → Maintain **$100,000+** average checking balance
+- **$1,000 bonus** → Maintain **$100,000+** average checking balance for 30 consecutive days within the first 90 days after approval
 
 - Both the referrer and referred customer receive the applicable bonus after qualifying requirements are met
 
