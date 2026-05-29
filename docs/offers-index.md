@@ -47,6 +47,8 @@ All current offers, organized by categories:
 <a id="business-bank"></a>
 ## Business Bank Accounts
 
+
+[💰 **Rho Business Checking** - $500 or $1,000 Referral](business-bank.md#biz-rho-business) 🔥🔥🔥    
 [💸 **Grasshopper Bank Business Checking** — $200 Referral](business-bank.md#biz-grasshopper) 🔥🔥  
 [⭐ **Mercury Business Checking** — $250 Referral](business-bank.md#biz-mercury")  
 [🔷 **Novo Business Checking** — $40 Referral](business-bank.md#biz-novo)  
