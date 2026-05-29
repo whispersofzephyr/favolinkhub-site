@@ -26,8 +26,8 @@
 
    Include:
 
-   * Name (first name required, last name optional)
-   * Business email address
+     * Name (first name required, last name optional)
+     * Business email address
 
 2. Receive a referral invitation from Rho
 
