@@ -4,7 +4,7 @@
 
 <a id="biz-rho-business"></a>
 
-## 💰 Rho Business Checking - $500 or $1,000 Referral 🔥🔥🔥   
+## 💰 Rho Business Checking - $500 or $1,000 Referral 🔥🔥   
 
 **Nationwide · No Expiration Date Currently Listed**
 
@@ -68,7 +68,7 @@
 ---
 
 <a id="biz-grasshopper"></a>
-## 💸 Grasshopper Bank Business Checking — $200 Referral   
+## 💸 Grasshopper Bank Business Checking — $200 Referral 🔥     
 **Nationwide · Excludes Sole Proprietors · No Expiration Date**
 
 Grasshopper Bank is offering an **easy $200 referral bonus** when you open a new business checking account using my referral code.
