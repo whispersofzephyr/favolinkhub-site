@@ -34,7 +34,7 @@ Register here: [https://io.referlive.com/Nt3E03](https://io.referlive.com/Nt3E03
 
 Use promo code **WINGS26**
 
-https://www.wingscu.com/wings26
+Apply here: [https://www.wingscu.com/wings26](https://www.wingscu.com/wings26)  
 
 ### Step 3 — Within 60 days complete ALL requirements
 
