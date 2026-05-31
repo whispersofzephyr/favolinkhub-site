@@ -28,13 +28,13 @@ If you are looking for accounts available nationwide, see:
 
 **Step 1 — Register referral**
 
-Register here: [https://io.referlive.com/Nt3E03](https://io.referlive.com/Nt3E03)
+👉Register here: [https://io.referlive.com/Nt3E03](https://io.referlive.com/Nt3E03)
 
 **Step 2 — Open Share Savings + Checking**
 
 Use promo code **WINGS26**
 
-Apply here: [https://www.wingscu.com/wings26](https://www.wingscu.com/wings26)  
+👉Apply here: [https://www.wingscu.com/wings26](https://www.wingscu.com/wings26)  
 
 ### Step 3 — Within 60 days complete ALL requirements
 
