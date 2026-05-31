@@ -6,6 +6,91 @@ These accounts are limited by state, county, or region.
 If you are looking for accounts available nationwide, see:
 → [Nationwide Personal Bank Accounts](../personal-bank-nationwide/)
 
+<a id="wings"></a>
+## 🎉 Wings Credit Union — Up to $500 Checking Bonus + $50 Referral
+
+**Eligible counties in MN, WI, MI, FL & GA** • **Expires June 30, 2026**
+
+> **Quick Summary**
+>
+> - **Up to $500 checking bonus**
+> - **+$50 referral bonus**
+> - **$550 total possible**
+> - **Soft pull reported**
+> - **ChexSystems used**
+> - **No monthly fee**
+> - **Referral should be completed before application**
+> - **Strict payroll direct deposit requirements**
+
+### How to get the full $550
+
+**Important: complete referral registration first.**
+
+**Step 1 — Register referral**
+
+Register here: [https://io.referlive.com/Nt3E03](https://io.referlive.com/Nt3E03)
+
+**Step 2 — Open Share Savings + Checking**
+
+Use promo code **WINGS26**
+
+https://www.wingscu.com/wings26
+
+### Step 3 — Within 60 days complete ALL requirements
+
+- Fund accounts within **21 business days**
+- Enroll in **Digital Banking**
+- Enroll in **eDocuments**
+- Complete **10 debit or credit card purchases of $5+**
+- Establish recurring qualified payroll direct deposits
+
+### Bonus tiers
+
+- **$3,000+ monthly direct deposits** → **$300 bonus**
+- **$4,000+ monthly direct deposits** → **$400 bonus**
+- **$5,000+ monthly direct deposits** → **$500 bonus**
+
+🎁 Bonus is scheduled to be paid during the week of **September 7, 2026**
+
+### Referral bonus
+
+Within 60 days of opening:
+
+- Enroll in eDocuments
+- Complete either:
+    - One direct deposit of **$1,000+**, or
+    - Five debit card purchases of **$25+**
+
+🎁 Both parties receive a **$50 Visa Reward Card**
+
+Historically the referral has stacked with the checking bonus.
+
+### Direct deposit warning
+
+Wings uses unusually strict direct deposit language.
+
+The terms specifically require ACH payroll deposits coded as **PPD** and state that the following do **not** qualify:
+
+- Self-employment income
+- Gig economy income
+- Person-to-person transfers
+- Other non-payroll electronic deposits
+
+Direct deposit must also remain active during the bonus payout period.
+
+### Important notes
+
+- Bonus is **not nationwide**
+- Must live in an eligible county in **Minnesota, Wisconsin, Michigan, Florida or Georgia**
+- New members only
+- Cannot have previously received a Wings new-account bonus
+- No monthly checking fee
+- No early termination fee found
+
+--8<-- "snippets/back-to-list.md"
+
+---
+  
 <a id="academy-bank"></a>
 ## 🎉 Academy Bank — $500 Checking Bonus + $50 Referral   
 **AR, MO, KS, CO, AZ** • **Expires May 15, 2026**
