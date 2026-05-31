@@ -7,7 +7,7 @@ If you are looking for accounts available nationwide, see:
 → [Nationwide Personal Bank Accounts](../personal-bank-nationwide/)
 
 <a id="wings"></a>
-## 🎉 Wings Credit Union — Up to $500 Checking Bonus + $50 Referral
+## 💰 Wings Credit Union — Up to $500 Checking Bonus + $50 Referral
 
 **Eligible counties in MN, WI, MI, FL & GA** • **Expires June 30, 2026**
 
