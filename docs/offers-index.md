@@ -12,6 +12,7 @@ All current offers, organized by categories:
 <a id="personal-bank-nationwide"></a>
 ## Personal Bank Accounts - Nationwide
 
+[💸 **Lake Michigan Credit Union Checking** — $250 Referral](personal-bank-nationwide.md#lmcu) 🔥🔥🔥     
 [⭐ **Capital One 360 Checking** — $300 Referral](personal-bank-nationwide.md#capitalone) 🔥🔥🔥  
 [🏦 **Citi Checking** - $325–$1,500 Referral](personal-bank-nationwide.md#citi)     
 [💵 **Go2Bank** — $50 Referral](personal-bank-nationwide.md#go2bank)    
