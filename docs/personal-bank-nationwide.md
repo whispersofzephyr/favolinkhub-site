@@ -6,6 +6,45 @@ These offers are available to most U.S. residents with no state-level restrictio
 For offers that are limited to specific states (e.g. Colorado), see:
 → [Geo-Restricted Personal Bank Accounts](../personal-bank-geo/)
 
+<a id="lmcu"></a>
+## 💸 Lake Michigan Credit Union Checking — $250 Referral 🔥🔥🔥  
+**Nationwide / OOS friendly** • **Expires July 31, 2026**
+
+> 🔺 **Quick Summary**
+>
+> - **Total Bonus:** $250 for new member + $250 for referrer
+> - **Direct Deposit:** Required (2+ recurring DDs totaling $500+)
+> - **Monthly Fee:** $0 with Free Checking or Max Checking
+> - **Credit Check:** No hard pull 
+> - **ChexSystems:** Chex frozen/No chex pull
+
+**Referral link:**  
+👉 [https://refer.lmcu.org/billssophiewang](https://refer.lmcu.org/billssophiewang)
+
+### 💰 How to get the $250 referral bonus
+
+- Open a new **LMCU checking account** via referral link above
+- Choose **Free Checking** or **Max Checking**
+- **Member Savings** is opened automatically for LMCU membership
+- Set up **2 or more recurring direct deposits totaling at least $500**
+- Keep the account open for **60 days**
+- Bonus should be deposited into the primary savings account within **14 business days** after qualification
+
+### 📌 Notes / Data Points
+
+- **My application DP:**
+
+    - OOS applicant with **Chex frozen**, **Instant approval**
+    - No ID upload，No selfie，No video call
+    - Very simple application, only a few pages
+    - Opened **Free Checking + Member Savings**
+    - Funded **$500 with a US Bank credit card** coded as **purchase**
+    
+- **Referral link availability:**  
+  Referral link was available right away after enrolling in online banking and accessing the **Refer a Friend** section.
+
+--8<-- "snippets/back-to-list.md"
+
 <a id="capitalone"></a>
 ## ⭐ Capital One 360 Checking — $300 Referral 🔥🔥🔥  
 **Nationwide** • **No expiration date**
