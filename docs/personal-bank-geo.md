@@ -93,7 +93,7 @@ Direct deposit must also remain active during the bonus payout period.
   
 <a id="academy-bank"></a>
 ## 🎉 Academy Bank — $500 Checking Bonus + $50 Referral   
-**AR, MO, KS, CO, AZ** • **Expires May 15, 2026**
+**AR, MO, KS, CO, AZ** • **Expires July 15, 2026**
 
 > **Quick Summary**
 > 
@@ -165,6 +165,74 @@ Even after paying a few monthly fees:
 - realistic net around **$450–$550**
 
 Excellent current regional bank churn option, especially for **AR, MO, KS, CO, AZ churners**.
+
+--8<-- "snippets/back-to-list.md"
+
+
+<a id="armed-forces-bank"></a>
+## 🎁 Armed Forces Bank — $500 Checking Bonus + $50 Referral
+**AR, MO, KS, CO, AZ** • **Expires July 15, 2026**
+
+> **Quick Summary**
+>
+> - **$500 checking bonus**
+> - **+$50 referral bonus via ReferLive**
+> - **$550 total possible**
+> - **$100 minimum opening deposit**
+> - **No credit card funding**
+> - **ChexSystems pulled**
+> - **Register referral first, then apply**
+
+### How to get the $550 total bonus
+
+**Important: complete referral registration *before* applying.**
+
+**Step 1 — Register referral first**
+
+**Referral link:**  
+👉 [https://io.referlive.com/ynoh6J](https://io.referlive.com/ynoh6J)
+
+**Step 2 — Open a new Access Investment Checking account**
+
+👉 [https://www.afbank.com/open-an-online-checking-account-500promo-lp](https://www.afbank.com/open-an-online-checking-account-500promo-lp)
+
+**Step 3 — Within 90 days, complete ALL requirements**
+
+- Make **at least 4 qualifying direct deposits**
+- Total direct deposits must be **$10,000+**
+- Enroll in **Online Banking**
+
+🎁 **$500 bonus** will be deposited within **60 days after direct deposit verification**
+
+🎁 **$50 referral bonus** is tracked separately through ReferLive.
+
+### Monthly Fee
+
+This account has a **$20 monthly fee**, waived by either:
+
+- Maintain a **$5,000 daily balance**, or
+- Maintain a **$10,000 average balance** per statement cycle.
+
+**Most churners simply pay a few monthly fees rather than parking $5,000.**
+
+### Important Notes
+
+- Register through the referal link before applying
+- **No promo code** is required when applying through the official landing page.
+- **$100 minimum opening deposit** is required.
+- **No credit card funding** option is currently available.
+- Qualifying direct deposits include payroll, pension, Social Security, and other government benefits.
+- Existing Academy Bank customers have reported successful Armed Forces approvals. Historically, both bonuses have been obtainable, but **YMMV**.
+- Academy Bank and Armed Forces Bank share the same online banking platform. If enrollment says **"The customer exists,"** use the enrollment link in the welcome email instead.
+
+### My DP
+
+- Existing Academy Bank customer.
+- First application: **Declined with Chex frozen.**
+- Second application: **Unfroze Chex, reapplied, Chex was pulled, instantly approved.**
+- No credit card funding.
+- $100 opening deposit via Plaid-linked external account.
+- Online banking enrollment worked through the welcome email after the initial "The customer exists" message.
 
 --8<-- "snippets/back-to-list.md"
 
