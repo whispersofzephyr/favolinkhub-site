@@ -3,7 +3,7 @@
 --8<-- "snippets/back-to-list.md"
 
 <a id="br-public"></a>
-## 🎁 Public Brokerage — $100 Referral
+## 🎁 Public Brokerage — $100 Referral 🔥🔥🔥   
 **Nationwide · Effective 08/31/2026** 
 
 > **Quick Summary**
